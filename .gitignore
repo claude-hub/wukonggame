@@ -1,9 +1,11 @@
 # 文件夹
 /RetroBat/bios
+/RetroBat/bios_
 /RetroBat/roms
 /RetroBat/roms_
 /RetroBat/emulators
-/RetroBat/saves
+/RetroBat/emulators_
+# /RetroBat/saves
 /RetroBat/emulationstation/.emulationstation/themes
 /RetroBat/emulationstation/.emulationstation/videos
 /RetroBat/emulationstation/.emulationstation/tmp
