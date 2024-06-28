@@ -3,8 +3,8 @@
 /RetroBat/bios_
 /RetroBat/roms
 /RetroBat/roms_
-/RetroBat/emulators
-/RetroBat/emulators_
+# /RetroBat/emulators
+# /RetroBat/emulators_
 # /RetroBat/saves
 /RetroBat/emulationstation/.emulationstation/themes
 /RetroBat/emulationstation/.emulationstation/videos
