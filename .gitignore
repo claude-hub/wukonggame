@@ -3,12 +3,15 @@
 /RetroBat/bios_
 /RetroBat/roms
 /RetroBat/roms_
-# /RetroBat/emulators
-# /RetroBat/emulators_
-# /RetroBat/saves
+/RetroBat/emulators
+/RetroBat/emulators_
+/RetroBat/saves
+
 /RetroBat/emulationstation/.emulationstation/themes
 /RetroBat/emulationstation/.emulationstation/videos
 /RetroBat/emulationstation/.emulationstation/tmp
+/RetroBat/emulationstation/.emulationstation/scrapers
+/RetroBat/emulators/retroarch/cores
 
 # 文件
 RetroBat/emulationstation/emulatorLauncher.log
