@@ -2,52 +2,51 @@
  * @Author: 314705487@qq.com
  * @Description: 
  * @Date: 2024-06-30 19:43:42
- * @LastEditTime: 2024-06-30 21:59:43
+ * @LastEditTime: 2024-06-30 23:58:35
  */
 const xml2js = require('xml2js');
 const fs = require('fs');
 const path = require('path');
-
+const ignores = require('./ignores');
 
 const baseDir = path.resolve(__dirname, "../RetroBat/roms_/mame");
 const newBaseDir = path.resolve(__dirname, "../RetroBat/roms/mame");
 
-
-const excludeZip = ['neogeo.zip', 'pgm.zip'];
-
 const analysisGameList = async () => {
-  const games = [];
   try {
     const gamelist = await fs.readFileSync(path.join(baseDir, './gamelist_old.xml'), 'utf8');
     const json = await xml2js.parseStringPromise(gamelist);
     const { game = [] } = json.gameList || {};
 
-    const filteredGames = game.filter(element => {
-      const { path: gamePaths } = element;
-
+    const filteredGames = game.map(item => {
+      const { path: gamePaths } = item;
       const [gamePath] = gamePaths;
       try {
         const filePath = path.join(baseDir, gamePath)
         const stats = fs.statSync(filePath);
         if (stats.isDirectory()) return false;
 
-        // 排除 bios 文件
-        if (excludeZip.includes(path.basename(filePath))) return false;
+        // 排除文件
+        if (ignores.includes(path.basename(filePath))) return false;
 
-        games.push({
-          ...element,
+        return {
+          ...item,
           absolutePath: filePath,
-        });
-        return true;
+        }
       } catch (error) {
         // console.error('游戏不存在: ', gamePath);
         return false;
       }
-    });
 
+    }).filter(item => item);
+
+    const sortGames = filteredGames.sort((objA, objB) => {
+      return (objA.name?.[0] || '')?.localeCompare(objB.name?.[0] || '', 'zh-CN');
+    })
+  
     const xmlJson = {
       gameList: {
-        game: filteredGames
+        game: sortGames
       }
     }
     const builder = new xml2js.Builder();
@@ -55,7 +54,7 @@ const analysisGameList = async () => {
 
     await fs.writeFileSync(path.join(baseDir, './gamelist.xml'), xml, 'utf8');
 
-    return games;
+    return sortGames;
 
   } catch (error) {
     console.log(error);
