@@ -42,3 +42,6 @@ RetroBat/emulators/hbmame/hbmame.exe
 
 RetroBat/emulators/mame/mame.exe
 RetroBat/emulators/mame/mame.sym
+
+node_modules
+yarn.lock
