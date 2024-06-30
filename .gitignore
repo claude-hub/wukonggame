@@ -1,17 +1,20 @@
 # 文件夹
-/RetroBat/bios
-/RetroBat/bios_
-/RetroBat/roms
-/RetroBat/roms_
-/RetroBat/emulators
-/RetroBat/emulators_
+RetroBat/bios/*
+!RetroBat/bios/hbmame
+
+# 游戏本体
+RetroBat/roms/*
+
+RetroBat/emulators/*
+!RetroBat/emulators/retroarch
+RetroBat/emulators/retroarch/cores/*
+
 /RetroBat/saves
 
 /RetroBat/emulationstation/.emulationstation/themes
 /RetroBat/emulationstation/.emulationstation/videos
 /RetroBat/emulationstation/.emulationstation/tmp
 /RetroBat/emulationstation/.emulationstation/scrapers
-/RetroBat/emulators/retroarch/cores
 
 # 文件
 RetroBat/emulationstation/emulatorLauncher.log
@@ -19,3 +22,8 @@ RetroBat/emulationstation/rb_infos.tmp
 RetroBat/emulationstation/.emulationstation/es_log.txt
 RetroBat/emulationstation/.emulationstation/imagecache.db
 RetroBat/emulationstation/.emulationstation/es_log.txt.bak
+
+
+# 单个文件大于了100M不能提交github。忽略
+RetroBat/emulators/hbmame/hbmameui.exe
+RetroBat/emulators/hbmame/hbmame.exe
