@@ -2,14 +2,24 @@
 RetroBat/bios/*
 !RetroBat/bios/hbmame
 !RetroBat/bios/mame
+RetroBat/bios/mame/artwork
+RetroBat/bios/mame/cfg
+RetroBat/bios/mame/console_history
 
 # 游戏本体
 RetroBat/roms/*
+RetroBat/roms_/*
 
 RetroBat/emulators/*
 !RetroBat/emulators/retroarch
 RetroBat/emulators/retroarch/cores/*
 !RetroBat/emulators/mame
+RetroBat/emulators/mame/cheat/*
+RetroBat/emulators/retroarch/info/*
+RetroBat/emulators/retroarch/playlists
+RetroBat/emulators/retroarch/*.lpl
+RetroBat/emulators/retroarch/*.cfg
+
 
 /RetroBat/saves
 
