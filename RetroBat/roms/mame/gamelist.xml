@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gameList>
+  <game>
+    <path>./svcsplus.zip</path>
+    <name>Q-拳皇对街霸 - 混沌超级加强版（盗版）</name>
+  </game>
+  <game>
+    <path>./1942.zip</path>
+    <name>1-1942 - 空中大战（修正版 B）</name>
+  </game>
+  <game>
+    <path>./1943.zip</path>
+    <name>1-1943 - 中途岛海战（欧版）</name>
+  </game>
+  <game>
+    <path>./deadang.zip</path>
+    <name>S-死亡天使</name>
+  </game>
+  <game>
+    <path>./deadconx.zip</path>
+    <name>S-死亡边缘（世界版）</name>
+  </game>
+  <game>
+    <path>./insectx.zip</path>
+    <name>S-杀虫战记（世界版）</name>
+  </game>
+  <game>
+    <path>./agallet.zip</path>
+    <name>S-石破天惊（欧版）</name>
+  </game>
+  <game>
+    <path>./crusherm.zip</path>
+    <name>F-粉碎者麻琴（日版）</name>
+  </game>
+  <game>
+    <path>./ddonpach.zip</path>
+    <name>N-怒首领蜂（国际版, 主版本 97/02/05）</name>
+  </game>
+  <game>
+    <path>./dfeveron.zip</path>
+    <name>D-弹铳飞翼（日版, 版本 98/09/17）</name>
+  </game>
+  <game>
+    <path>./donpachi.zip</path>
+    <name>S-首领蜂（美版, 版本 1.12, 95/05/2x）</name>
+  </game>
+  <game>
+    <path>./esprade.zip</path>
+    <name>C-长空超少年（国际版, 版本 98/04/22）</name>
+  </game>
+  <game>
+    <path>./feversos.zip</path>
+    <name>D-弹铳（国际版, 版本 98/09/25）</name>
+  </game>
+  <game>
+    <path>./gaia.zip</path>
+    <name>Z-征战者</name>
+  </game>
+  <game>
+    <path>./guwange.zip</path>
+    <name>Y-狱门山物语（日版, 主版本 99/06/24）</name>
+  </game>
+  <game>
+    <path>./hotdogst.zip</path>
+    <name>R-热狗风暴 - 超音速之翼（国际版）</name>
+  </game>
+  <game>
+    <path>./mazinger.zip</path>
+    <name>T-铁甲万能侠 Z（世界版, 版本 94/06/27）</name>
+  </game>
+  <game>
+    <path>./metmqstr.zip</path>
+    <name>Y-隐忍（国际版）</name>
+  </game>
+  <game>
+    <path>./plegends.zip</path>
+    <name>H-豪血寺外传 - 最强传说（美版, 版本 95/06/20）</name>
+  </game>
+  <game>
+    <path>./pwrinst2.zip</path>
+    <name>H-豪血寺一族 2（美版, 版本 94/04/08）</name>
+  </game>
+</gameList>
