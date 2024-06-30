@@ -9,6 +9,7 @@ RetroBat/roms/*
 RetroBat/emulators/*
 !RetroBat/emulators/retroarch
 RetroBat/emulators/retroarch/cores/*
+!RetroBat/emulators/mame
 
 /RetroBat/saves
 
@@ -28,3 +29,6 @@ RetroBat/emulationstation/.emulationstation/es_log.txt.bak
 # 单个文件大于了100M不能提交github。忽略
 RetroBat/emulators/hbmame/hbmameui.exe
 RetroBat/emulators/hbmame/hbmame.exe
+
+RetroBat/emulators/mame/mame.exe
+RetroBat/emulators/mame/mame.sym
