@@ -1,6 +1,7 @@
 # 文件夹
 RetroBat/bios/*
 !RetroBat/bios/hbmame
+!RetroBat/bios/mame
 
 # 游戏本体
 RetroBat/roms/*
