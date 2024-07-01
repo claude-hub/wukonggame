@@ -2,7 +2,7 @@
  * @Author: 314705487@qq.com
  * @Description: 
  * @Date: 2024-06-30 19:43:42
- * @LastEditTime: 2024-06-30 23:58:35
+ * @LastEditTime: 2024-07-01 09:46:18
  */
 const xml2js = require('xml2js');
 const fs = require('fs');
@@ -18,6 +18,8 @@ const analysisGameList = async () => {
     const json = await xml2js.parseStringPromise(gamelist);
     const { game = [] } = json.gameList || {};
 
+    const gameMap = {};
+
     const filteredGames = game.map(item => {
       const { path: gamePaths } = item;
       const [gamePath] = gamePaths;
@@ -26,8 +28,16 @@ const analysisGameList = async () => {
         const stats = fs.statSync(filePath);
         if (stats.isDirectory()) return false;
 
+        const filename = path.basename(filePath);
+
         // 排除文件
-        if (ignores.includes(path.basename(filePath))) return false;
+        if (ignores.includes(filename)) return false;
+
+        // 如果文件已经存在了。则跳过 （筛选的xml里面有重复定义）
+        if(gameMap[filename]) return false;
+
+        gameMap[filename] = true;
+        
 
         return {
           ...item,
@@ -84,12 +94,12 @@ const readFileOrCreateIfNotExists = async (filePath, contentIfNew) => {
 const gengrateGame = async (gameinfo) => {
   try {
     const { name, absolutePath } = gameinfo;
-
     const filename = path.basename(absolutePath);
     const newGamePath = path.join(newBaseDir, filename);
 
     if (!fs.existsSync(newGamePath)) {
-      await fs.copyFileSync(absolutePath, newGamePath);
+      // await fs.copyFileSync(absolutePath, newGamePath);
+      await fs.renameSync(absolutePath, newGamePath);
     }
 
     const gamelist = await readFileOrCreateIfNotExists(path.join(newBaseDir, './gamelist.xml'), '');
@@ -98,8 +108,6 @@ const gengrateGame = async (gameinfo) => {
     const { game = [] } = json?.gameList || {};
 
     if (game.find(element => element.path[0] === `./${filename}`)) return;
-
-    // console.log('当前游戏个数: ', game.length);
 
     const xmlJson = {
       gameList: {
@@ -113,6 +121,8 @@ const gengrateGame = async (gameinfo) => {
     const builder = new xml2js.Builder();
     const xml = builder.buildObject(xmlJson);
     await fs.writeFileSync(path.join(newBaseDir, './gamelist.xml'), xml, 'utf8');
+
+    console.log('当前游戏个数: ', xmlJson.gameList.game.length);
 
   } catch (error) {
     console.log(error)
@@ -135,7 +145,7 @@ const getNewGames = async (count) => {
 }
 
 const main = async () => {
-  await getNewGames(10)
+  await getNewGames(1000000)
 }
 
 main();
