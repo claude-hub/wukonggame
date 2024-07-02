@@ -1,0 +1,841 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./64street.zip</path>
+		<name>6_64 街 - 一个侦探的故事 (世界版)</name>
+	</game>
+	<game>
+		<path>./alexkidd.zip</path>
+		<name>T_天空魔城 (第 2 套, 未保护版)</name>
+	</game>
+	<game>
+		<path>./altbeast.zip</path>
+		<name>S_兽王记 (第 8 套) (8751 317-0078)</name>
+	</game>
+	<game>
+		<path>./aoh.zip</path>
+		<name>X_英雄年代 - 丝绸之路 2 (v0.63 - 2001/02/07)</name>
+	</game>
+	<game>
+		<path>./arabfgt.zip</path>
+		<name>L_阿拉丁传奇 (世界版)</name>
+	</game>
+	<game>
+		<path>./arabianm.zip</path>
+		<name>L_阿拉丁神灯 (版本 1.0O 1992/07/06)</name>
+	</game>
+	<game>
+		<path>./arabianmj.zip</path>
+		<name>L_阿拉丁神灯 (版本 1.0J 1992/07/06)</name>
+	</game>
+	<game>
+		<path>./armwar.zip</path>
+		<name>J_机甲战士 / 机甲装备: 攻关版 (欧版 941024)</name>
+	</game>
+	<game>
+		<path>./asterix.zip</path>
+		<name>M_美丽新世界 (版本 EAD)</name>
+	</game>
+	<game>
+		<path>./astorm.zip</path>
+		<name>X_异形风暴 (世界版, 2 人游戏) (FD1094 317-0154)</name>
+	</game>
+	<game>
+		<path>./astyanax.zip</path>
+		<name>Z_战王之王 </name>
+	</game>
+	<game>
+		<path>./athena.zip</path>
+		<name>D_雅典娜 </name>
+	</game>
+	<game>
+		<path>./avengers.zip</path>
+		<name>B_必杀无赖拳 (美版 第 1 套)</name>
+	</game>
+	<game>
+		<path>./avsp.zip</path>
+		<name>X_异形 对 铁血战士 (欧版 940520)</name>
+	</game>
+	<game>
+		<path>./avspu.zip</path>
+		<name>X_异形 对 铁血战士 (美版 940520)</name>
+	</game>
+	<game>
+		<path>./baddudes.zip</path>
+		<name>L_龙行忍者 (美版 修正版 1)</name>
+	</game>
+	<game>
+		<path>./batcir.zip</path>
+		<name>Z_战斗回路 (欧版 970319)</name>
+	</game>
+	<game>
+		<path>./batman.zip</path>
+		<name>B_蝙蝠侠 </name>
+	</game>
+	<game>
+		<path>./batmanfr.zip</path>
+		<name>D_永远的蝙蝠侠 (JUE 960507 V1.000)</name>
+	</game>
+	<game>
+		<path>./berabohm.zip</path>
+		<name>C_超绝伦人 (日版, 修正版 C)</name>
+	</game>
+	<game>
+		<path>./bigfight.zip</path>
+		<name>D_大决战 - 大西洋的动乱 </name>
+	</game>
+	<game>
+		<path>./bigkarnk.zip</path>
+		<name>G_古埃及卡纳克传说 </name>
+	</game>
+	<game>
+		<path>./bjourney.zip</path>
+		<name>L_蓝色之旅 / 拉吉少年 (ALM-001 ~ ALH-001)</name>
+	</game>
+	<game>
+		<path>./blktiger.zip</path>
+		<name>H_暗黑之虎 </name>
+	</game>
+	<game>
+		<path>./bmaster.zip</path>
+		<name>D_刀锋领主 (世界版)</name>
+	</game>
+	<game>
+		<path>./brutforc.zip</path>
+		<name>J_极之暴力 </name>
+	</game>
+	<game>
+		<path>./btoads.zip</path>
+		<name>R_忍者蛙 </name>
+	</game>
+	<game>
+		<path>./bucky.zip</path>
+		<name>Z_宇宙野兔 (版本 EAB)</name>
+	</game>
+	<game>
+		<path>./burningf.zip</path>
+		<name>R_热血快打 (NGM-018 ~ NGH-018)</name>
+	</game>
+	<game>
+		<path>./bygone.zip</path>
+		<name>S_往事 (原型版)</name>
+	</game>
+	<game>
+		<path>./cadash.zip</path>
+		<name>K_卡达叙传说 (世界版)</name>
+	</game>
+	<game>
+		<path>./captaven.zip</path>
+		<name>S_上尉密令 (亚版 修正版 1.4)</name>
+	</game>
+	<game>
+		<path>./captcomm.zip</path>
+		<name>M_名将 (世界版 911202)</name>
+	</game>
+	<game>
+		<path>./captcommr1.zip</path>
+		<name>M_名将 (世界版 911014)</name>
+	</game>
+	<game>
+		<path>./cbuster.zip</path>
+		<name>B_暴力克星 (世界版 FX 版本)</name>
+	</game>
+	<game>
+		<path>./chinagat.zip</path>
+		<name>X_西游降魔录 - 流棒妖技之章 (美版)</name>
+	</game>
+	<game>
+		<path>./crimfght.zip</path>
+		<name>Z_罪恶战士 (世界版 2 人游戏)</name>
+	</game>
+	<game>
+		<path>./crswd2bl.zip</path>
+		<name>S_圣十字剑 2 (盗版自 CD 版本)</name>
+	</game>
+	<game>
+		<path>./crsword.zip</path>
+		<name>S_圣十字剑 (ALM-002 ~ ALH-002)</name>
+	</game>
+	<game>
+		<path>./crysking.zip</path>
+		<name>Z_王者水晶 </name>
+	</game>
+	<game>
+		<path>./ctribe.zip</path>
+		<name>L_流氓大混战 (美版, 修正版 2, 第 1 套)</name>
+	</game>
+	<game>
+		<path>./darkseal.zip</path>
+		<name>H_暗黑封印 - 毁灭之门 (世界版 修正版 3)</name>
+	</game>
+	<game>
+		<path>./ddcrew.zip</path>
+		<name>C_除暴部队 (世界版, 3 人游戏) (FD1094 317-0190)</name>
+	</game>
+	<game>
+		<path>./ddragon.zip</path>
+		<name>S_双截龙 (日版)</name>
+	</game>
+	<game>
+		<path>./ddragon2.zip</path>
+		<name>S_双截龙 II - 复仇 (世界版)</name>
+	</game>
+	<game>
+		<path>./ddragon3.zip</path>
+		<name>S_双截龙 3 - 罗塞塔之石 (美版)</name>
+	</game>
+	<game>
+		<path>./ddsom.zip</path>
+		<name>L_龙与地下城 2 - 暗黑秘影 (欧版 960619)</name>
+	</game>
+	<game>
+		<path>./ddsomj.zip</path>
+		<name>L_龙与地下城 2 - 暗黑秘影 (日版 960619)</name>
+	</game>
+	<game>
+		<path>./ddsomud.zip</path>
+		<name>L_龙与地下城 2 - 暗黑秘影 (美版 960619 凤凰版) (盗版)</name>
+	</game>
+	<game>
+		<path>./ddtod.zip</path>
+		<name>L_龙与地下城 - 毁灭之塔 (欧版 940412)</name>
+	</game>
+	<game>
+		<path>./ddux.zip</path>
+		<name>G_怪鸭冒险记 (第 3 套, 世界版) (FD1094 317-0096)</name>
+	</game>
+	<game>
+		<path>./denjinmk.zip</path>
+		<name>D_电神魔傀 (第 1 套)</name>
+	</game>
+	<game>
+		<path>./denjinmka.zip</path>
+		<name>D_电神魔傀 (第 2 套)</name>
+	</game>
+	<game>
+		<path>./denseib.zip</path>
+		<name>D_电精 (SNES 盗版, 第 1 套)</name>
+	</game>
+	<game>
+		<path>./diehard.zip</path>
+		<name>Z_终极警探 (UET 960515 V1.000)</name>
+	</game>
+	<game>
+		<path>./dino.zip</path>
+		<name>K_恐龙新世纪 (世界版 930201)</name>
+	</game>
+	<game>
+		<path>./djboy.zip</path>
+		<name>D_DJ 男孩 (世界版)</name>
+	</game>
+	<game>
+		<path>./downtown.zip</path>
+		<name>C_城市快打 - 目击 (第 1 套)</name>
+	</game>
+	<game>
+		<path>./drgnunit.zip</path>
+		<name>M_魔城龙魂 </name>
+	</game>
+	<game>
+		<path>./dungeonm.zip</path>
+		<name>G_光明使者 (版本 2.1O 1994/02/18)</name>
+	</game>
+	<game>
+		<path>./dynagear.zip</path>
+		<name>K_恐龙时代 </name>
+	</game>
+	<game>
+		<path>./dynwarj.zip</path>
+		<name>T_吞食天地 (日版)</name>
+	</game>
+	<game>
+		<path>./edrandy.zip</path>
+		<name>D_爱德华 - 蓝迪 (世界版 版本 3)</name>
+	</game>
+	<game>
+		<path>./eightman.zip</path>
+		<name>8_8 号超人 (NGM-025 ~ NGH-025)</name>
+	</game>
+	<game>
+		<path>./ffight.zip</path>
+		<name>K_快打旋风 (世界版, 第 1 套)</name>
+	</game>
+	<game>
+		<path>./ga2j.zip</path>
+		<name>Z_战斧后传 (日版)</name>
+	</game>
+	<game>
+		<path>./gaia.zip</path>
+		<name>Z_征战者 </name>
+	</game>
+	<game>
+		<path>./gaiapols.zip</path>
+		<name>H_黄金鹰之剑 (版本 EAF)</name>
+	</game>
+	<game>
+		<path>./gangwars.zip</path>
+		<name>B_暴徒之战 </name>
+	</game>
+	<game>
+		<path>./ganryu.zip</path>
+		<name>C_武藏严流记 </name>
+	</game>
+	<game>
+		<path>./genpeitd.zip</path>
+		<name>P_源平讨魔传 </name>
+	</game>
+	<game>
+		<path>./ginganin.zip</path>
+		<name>H_银河任侠传 (第 1 套)</name>
+	</game>
+	<game>
+		<path>./goldnaxe.zip</path>
+		<name>Z_战斧 (第 6 套, 美版) (8751 317-123A)</name>
+	</game>
+	<game>
+		<path>./grdians.zip</path>
+		<name>D_电神魔傀 II (P-FG01-1 PCB)</name>
+	</game>
+	<game>
+		<path>./growl.zip</path>
+		<name>S_森林保护神 (世界版, 修正版 1)</name>
+	</game>
+	<game>
+		<path>./hachoo.zip</path>
+		<name>P_破兆 </name>
+	</game>
+	<game>
+		<path>./hangzo.zip</path>
+		<name>R_忍者除妖传 (日版, 原型版)</name>
+	</game>
+	<game>
+		<path>./hardhea2.zip</path>
+		<name>T_铁头小子 2 / 天安神童 2 (v2.0, 音乐编程 v2.4)</name>
+	</game>
+	<game>
+		<path>./hardhead.zip</path>
+		<name>T_铁头小子 / 天安神童 </name>
+	</game>
+	<game>
+		<path>./hcastle.zip</path>
+		<name>M_恶魔城 (版本 M)</name>
+	</game>
+	<game>
+		<path>./hharry.zip</path>
+		<name>D_大工之源先生 - 部乱目町骚动记 (世界版, M81 硬件)</name>
+	</game>
+	<game>
+		<path>./hook.zip</path>
+		<name>T_铁钩船长 (世界版)</name>
+	</game>
+	<game>
+		<path>./hookj.zip</path>
+		<name>T_铁钩船长 (日版)</name>
+	</game>
+	<game>
+		<path>./hooku.zip</path>
+		<name>T_铁钩船长 (美版)</name>
+	</game>
+	<game>
+		<path>./ikari3.zip</path>
+		<name>N_怒 III (世界版 版本 1, 8-Way 摇杆版)</name>
+	</game>
+	<game>
+		<path>./karatblz.zip</path>
+		<name>D_斗神光辉 (世界版, 第 1 套)</name>
+	</game>
+	<game>
+		<path>./karnov.zip</path>
+		<name>K_卡诺夫 (美版, 修正版 6)</name>
+	</game>
+	<game>
+		<path>./kbash.zip</path>
+		<name>M_猫王 </name>
+	</game>
+	<game>
+		<path>./kengo.zip</path>
+		<name>J_剑豪 (第 1 套)</name>
+	</game>
+	<game>
+		<path>./knights.zip</path>
+		<name>Z_圆桌骑士 (世界版 911127)</name>
+	</game>
+	<game>
+		<path>./kod.zip</path>
+		<name>L_龙王战士 (世界版 910805)</name>
+	</game>
+	<game>
+		<path>./kotm.zip</path>
+		<name>M_魔兽之王 (第 1 套)</name>
+	</game>
+	<game>
+		<path>./kotm2.zip</path>
+		<name>M_魔兽之王 2 (NGM-039 ~ NGH-039)</name>
+	</game>
+	<game>
+		<path>./kozure.zip</path>
+		<name>D_带子雄狼 (日版)</name>
+	</game>
+	<game>
+		<path>./kungfum.zip</path>
+		<name>C_成龙踢馆 (世界版)</name>
+	</game>
+	<game>
+		<path>./kurikint.zip</path>
+		<name>G_功里金团 (世界版)</name>
+	</game>
+	<game>
+		<path>./kurikintj.zip</path>
+		<name>G_功里金团 (日版)</name>
+	</game>
+	<game>
+		<path>./kyros.zip</path>
+		<name>K_柯罗斯传说 </name>
+	</game>
+	<game>
+		<path>./legendoh.zip</path>
+		<name>X_英雄传说 </name>
+	</game>
+	<game>
+		<path>./legionna.zip</path>
+		<name>G_格斗贵族 (世界版)</name>
+	</game>
+	<game>
+		<path>./lightbr.zip</path>
+		<name>G_光明使者 (版本 2.2O 1994/04/08)</name>
+	</game>
+	<game>
+		<path>./lightbrj.zip</path>
+		<name>G_光明使者 (版本 2.1J 1994/02/18)</name>
+	</game>
+	<game>
+		<path>./liquidk.zip</path>
+		<name>C_丑八怪大冒险 (世界版)</name>
+	</game>
+	<game>
+		<path>./madmotor.zip</path>
+		<name>F_疯狂摩托 (原型版)</name>
+	</game>
+	<game>
+		<path>./maglord.zip</path>
+		<name>H_幻魔大战 (NGM-005)</name>
+	</game>
+	<game>
+		<path>./mcatadv.zip</path>
+		<name>M_魔猫森林 </name>
+	</game>
+	<game>
+		<path>./metamrph.zip</path>
+		<name>B_变形战士 (版本 EAA)</name>
+	</game>
+	<game>
+		<path>./mia.zip</path>
+		<name>L_绿色兵团 2 (版本 T)</name>
+	</game>
+	<game>
+		<path>./mizubaku.zip</path>
+		<name>C_丑八怪大冒险 (日版)</name>
+	</game>
+	<game>
+		<path>./mmaulers.zip</path>
+		<name>J_究极战队 (版本 EAA)</name>
+	</game>
+	<game>
+		<path>./msword.zip</path>
+		<name>M_魔法剑 - 英雄的幻想 (世界版 900725)</name>
+	</game>
+	<game>
+		<path>./mtwins.zip</path>
+		<name>S_双麒儿 (世界版 900619)</name>
+	</game>
+	<game>
+		<path>./mugsmash.zip</path>
+		<name>H_火线追缉 </name>
+	</game>
+	<game>
+		<path>./mutnat.zip</path>
+		<name>X_外星游龙 (NGM-014 ~ NGH-014)</name>
+	</game>
+	<game>
+		<path>./mwalk.zip</path>
+		<name>X_外星战将 - 麦克杰克森月球漫步 (世界版) (FD1094/8751 317-0159)</name>
+	</game>
+	<game>
+		<path>./nastar.zip</path>
+		<name>Z_王者之剑 2 (世界版)</name>
+	</game>
+	<game>
+		<path>./nbbatman.zip</path>
+		<name>R_忍者棒球 (世界版)</name>
+	</game>
+	<game>
+		<path>./nbbatmanu.zip</path>
+		<name>R_忍者棒球 (美版)</name>
+	</game>
+	<game>
+		<path>./ncombat.zip</path>
+		<name>R_忍者大战 (NGM-009)</name>
+	</game>
+	<game>
+		<path>./nemo.zip</path>
+		<name>M_梦幻冒险 (世界版 901130)</name>
+	</game>
+	<game>
+		<path>./ninjak.zip</path>
+		<name>R_忍者小子 (世界版)</name>
+	</game>
+	<game>
+		<path>./ninjaw.zip</path>
+		<name>R_忍者武士 (世界版, later 版本)</name>
+	</game>
+	<game>
+		<path>./nslasher.zip</path>
+		<name>S_午夜杀生 (韩版 修正版 1.3, DE-0397-0 PCB)</name>
+	</game>
+	<game>
+		<path>./nspirit.zip</path>
+		<name>Z_最后忍道 (世界版)</name>
+	</game>
+	<game>
+		<path>./nzeroteama.zip</path>
+		<name>X_新零组特攻队 (V33 SYSTEM TYPE_B 硬件, 中国版?)</name>
+	</game>
+	<game>
+		<path>./olds.zip</path>
+		<name>X_西游释厄传 特别版 (版本. 101, 韩国基板)</name>
+	</game>
+	<game>
+		<path>./olds100a.zip</path>
+		<name>X_西游释厄传 特别版 (版本. 100, 第 2 套)</name>
+	</game>
+	<game>
+		<path>./olds103t.zip</path>
+		<name>X_西游释厄传 特别版 (版本. 103, 中国版, 腾讯游戏版) (未保护版)</name>
+	</game>
+	<game>
+		<path>./oldsplus.zip</path>
+		<name>X_西游释厄传 2 (韩版) / Xiyou Shi E Chuan Qunmoluanwu (世界版, 中国版, 日版, 港版, 台版) (版本. 205) [Oriental Ex]</name>
+	</game>
+	<game>
+		<path>./orleg2.zip</path>
+		<name>X_西游释厄传 2 (V104, 海外版)</name>
+	</game>
+	<game>
+		<path>./orleg2_104cn.zip</path>
+		<name>X_西游释厄传 2 (V104, 中国版)</name>
+	</game>
+	<game>
+		<path>./orlegend.zip</path>
+		<name>X_西游释厄传 (版本. 126)</name>
+	</game>
+	<game>
+		<path>./osman.zip</path>
+		<name>Q_麒麟 - OS 战警 (世界版)</name>
+	</game>
+	<game>
+		<path>./pow.zip</path>
+		<name>T_脱狱 - 战俘 (美版 版本 1)</name>
+	</game>
+	<game>
+		<path>./pulirulaj.zip</path>
+		<name>P_普利路拉传说 (日版)</name>
+	</game>
+	<game>
+		<path>./punisher.7z</path>
+		<name>C_惩罚者 (世界版 930422)</name>
+	</game>
+	<game>
+		<path>./punisher.zip</path>
+		<name>C_惩罚者 (世界版 930422)</name>
+	</game>
+	<game>
+		<path>./punisherj.zip</path>
+		<name>C_惩罚者 (日版 930422)</name>
+	</game>
+	<game>
+		<path>./rastan.zip</path>
+		<name>Z_王者之剑 (世界版 修正版 1)</name>
+	</game>
+	<game>
+		<path>./recalh.zip</path>
+		<name>M_魔笛物语 (版本 1.42J 1994/5/11, 原型版)</name>
+	</game>
+	<game>
+		<path>./renegade.zip</path>
+		<name>R_热血硬派 (美版)</name>
+	</game>
+	<game>
+		<path>./ridingf.zip</path>
+		<name>F_飞行铁骑 (版本 1.0O)</name>
+	</game>
+	<game>
+		<path>./riotcity.zip</path>
+		<name>B_暴乱之城 (日版)</name>
+	</game>
+	<game>
+		<path>./roboarmy.zip</path>
+		<name>J_机甲神兵 </name>
+	</game>
+	<game>
+		<path>./runark.zip</path>
+		<name>S_森林保护神 (日版)</name>
+	</game>
+	<game>
+		<path>./rygar.zip</path>
+		<name>G_阿古斯战士 (美版 第 1 套)</name>
+	</game>
+	<game>
+		<path>./rygarj.zip</path>
+		<name>B_阿尔卑斯古战士 (日版)</name>
+	</game>
+	<game>
+		<path>./sailormn.zip</path>
+		<name>M_美少女战士 - 水手月亮 (版本. 95/03/22B, 欧版)</name>
+	</game>
+	<game>
+		<path>./saiyugoub2.zip</path>
+		<name>X_西游降魔录 - 流棒妖技之章 (日版 盗版 2)</name>
+	</game>
+	<game>
+		<path>./sengoku.zip</path>
+		<name>Z_战国传承 (NGM-017 ~ NGH-017)</name>
+	</game>
+	<game>
+		<path>./sengoku2.zip</path>
+		<name>Z_战国传承 2 </name>
+	</game>
+	<game>
+		<path>./sengoku3.zip</path>
+		<name>Z_战国传承 3 / 战国传承 2001 (第 1 套)</name>
+	</game>
+	<game>
+		<path>./shadfrce.zip</path>
+		<name>B_变身忍者 (世界版, 版本 3)</name>
+	</game>
+	<game>
+		<path>./shinobi.zip</path>
+		<name>C_超级忍 (第 6 套, System 16A) (未保护版)</name>
+	</game>
+	<game>
+		<path>./silentd.zip</path>
+		<name>C_沉默之龙 (世界版)</name>
+	</game>
+	<game>
+		<path>./silkroad.zip</path>
+		<name>S_丝绸之路传说 </name>
+	</game>
+	<game>
+		<path>./simpsons.zip</path>
+		<name>X_辛普森家庭 (4 人游戏 世界版, 第 1 套)</name>
+	</game>
+	<game>
+		<path>./sonic.zip</path>
+		<name>S_索尼克 (日版, 修正版. C)</name>
+	</game>
+	<game>
+		<path>./spidman.zip</path>
+		<name>Z_蜘蛛侠 - 视频游戏 (世界版)</name>
+	</game>
+	<game>
+		<path>./spinmast.zip</path>
+		<name>H_滑轮大师 / 强尼大冒险 </name>
+	</game>
+	<game>
+		<path>./splatter.zip</path>
+		<name>G_鬼屋 (世界版, 新版 (SH3))</name>
+	</game>
+	<game>
+		<path>./strider.zip</path>
+		<name>C_出击飞龙 (美版, B-Board 89624B-2)</name>
+	</game>
+	<game>
+		<path>./strider2.zip</path>
+		<name>C_出击飞龙 2 (欧版 991213)</name>
+	</game>
+	<game>
+		<path>./superman.zip</path>
+		<name>C_超人 (世界版)</name>
+	</game>
+	<game>
+		<path>./suprtrio.zip</path>
+		<name>C_超级三重奏 </name>
+	</game>
+	<game>
+		<path>./syvalion.zip</path>
+		<name>H_黄金龙战记 (日版)</name>
+	</game>
+	<game>
+		<path>./theglad.zip</path>
+		<name>S_神剑伏魔录 / 神剑风云 (M68k 标签 V101) (ARM 标签 V107, ROM 06/06/03 SHEN JIAN V107)</name>
+	</game>
+	<game>
+		<path>./theroes.zip</path>
+		<name>P_霹雳英雄 </name>
+	</game>
+	<game>
+		<path>./thundfoxj.zip</path>
+		<name>L_雷狐行动 (日版)</name>
+	</game>
+	<game>
+		<path>./tigeroad.zip</path>
+		<name>H_虎之道 (美版)</name>
+	</game>
+	<game>
+		<path>./tmnt.zip</path>
+		<name>R_忍者神龟 (世界版 4 人游戏, 版本 X)</name>
+	</game>
+	<game>
+		<path>./tmnt2.zip</path>
+		<name>R_忍者神龟 2 (4 人游戏 版本 UAA)</name>
+	</game>
+	<game>
+		<path>./tnzs.zip</path>
+		<name>N_纽西兰童话 (世界版, 新版) (P0-043A PCB)</name>
+	</game>
+	<game>
+		<path>./toki.zip</path>
+		<name>J_JUJU 传说 (世界版, 第 1 套)</name>
+	</game>
+	<game>
+		<path>./tophuntr.zip</path>
+		<name>D_顶尖猎人 - 罗迪 &amp; 凯茜 (NGM-046)</name>
+	</game>
+	<game>
+		<path>./triothep.zip</path>
+		<name>Q_艳拳三强男 - 胜负拳 (世界版)</name>
+	</game>
+	<game>
+		<path>./trojan.zip</path>
+		<name>D_斗者挽歌 (美版 第 1 套)</name>
+	</game>
+	<game>
+		<path>./tshingen.zip</path>
+		<name>T_武田信玄 (日版, 英版)</name>
+	</game>
+	<game>
+		<path>./tturfu.zip</path>
+		<name>H_硬汉 (第 1 套, 美版) (8751 317-0099)</name>
+	</game>
+	<game>
+		<path>./uccops.zip</path>
+		<name>B_暴力刑警 (世界版)</name>
+	</game>
+	<game>
+		<path>./vamphalf.zip</path>
+		<name>L_狼拳 x1/2 (欧版, 版本 1.1.0908)</name>
+	</game>
+	<game>
+		<path>./vandyke.zip</path>
+		<name>S_神话战士 (日版)</name>
+	</game>
+	<game>
+		<path>./vendetta.zip</path>
+		<name>Z_罪恶战士 2 (世界版, 4 人游戏, 版本. T)</name>
+	</game>
+	<game>
+		<path>./vigilant.zip</path>
+		<name>C_成龙踢馆 - 功夫小子 (世界版, 修正版 E)</name>
+	</game>
+	<game>
+		<path>./viostorm.zip</path>
+		<name>B_暴力风暴 (版本 EAC)</name>
+	</game>
+	<game>
+		<path>./wardner.zip</path>
+		<name>D_瓦德纳森林 (世界版)</name>
+	</game>
+	<game>
+		<path>./warriorb.zip</path>
+		<name>Z_王者之剑 III (日版)</name>
+	</game>
+	<game>
+		<path>./wildfang.zip</path>
+		<name>X_邪城风云 / Tecmo 骑士 </name>
+	</game>
+	<game>
+		<path>./wizdfire.zip</path>
+		<name>H_暗黑封印 II - 巫师之火 (海外版 v2.1)</name>
+	</game>
+	<game>
+		<path>./wof.zip</path>
+		<name>S_三国志 II (世界版 921031)</name>
+	</game>
+	<game>
+		<path>./wofa.zip</path>
+		<name>S_三国志 II (亚版 921005)</name>
+	</game>
+	<game>
+		<path>./wofabl.7z</path>
+		<name>S_三国志 II (盗版)</name>
+	</game>
+	<game>
+		<path>./wofch.zip</path>
+		<name>T_吞食天地 II - 赤壁之战 (CPS 替换版, 日版 921031)</name>
+	</game>
+	<game>
+		<path>./wofhfh.7z</path>
+		<name>H_火凤凰 (中文盗版自 三国志 II)</name>
+	</game>
+	<game>
+		<path>./wofj.zip</path>
+		<name>T_吞食天地 II - 赤壁之战 (日版 921031)</name>
+	</game>
+	<game>
+		<path>./xmen.zip</path>
+		<name>X_X 战警 (4 人游戏 版本 EBA)</name>
+	</game>
+	<game>
+		<path>./zeroteam.zip</path>
+		<name>L_零组特攻队 美版 (美版)</name>
+	</game>
+	<game>
+		<path>./三国战纪/kov.zip</path>
+		<name>S_三国战纪 (版本. 117)</name>
+	</game>
+	<game>
+		<path>./三国战纪/kov2nl.zip</path>
+		<name>S_三国战纪 2 - 盖世英雄 (V302, 海外版)</name>
+	</game>
+	<game>
+		<path>./三国战纪/kov2nl_302cn.zip</path>
+		<name>S_三国战纪 2 - 盖世英雄 (V302, 中国版)</name>
+	</game>
+	<game>
+		<path>./三国战纪/kov2p.zip</path>
+		<name>S_三国战纪 2 - 群雄争霸 / 三国战纪 2 飞龙在天 (版本. M205XX, 200, 100中国版)</name>
+	</game>
+	<game>
+		<path>./三国战纪/kovplus.zip</path>
+		<name>S_三国战纪 - 正宗加强版 (版本. 119, 第 1 套)</name>
+	</game>
+	<game>
+		<path>./三国战纪/kovsh.zip</path>
+		<name>S_三国战纪 - 风云再起 (版本. 104, 中国版)</name>
+	</game>
+	<game>
+		<path>./三国战纪/kov2.zip</path>
+		<name>S_三国战纪 2 (版本. 107, 102, 100港版)</name>
+		<playcount>1</playcount>
+		<lastplayed>20240702T234412</lastplayed>
+	</game>
+	<game>
+		<path>./三国战纪/kov2dzxx.zip</path>
+		<name>Knights of Valour 2 (Dou Zhuan Xing Xuan, ver.110)</name>
+		<playcount>1</playcount>
+		<lastplayed>20240702T234316</lastplayed>
+		<gametime>27</gametime>
+	</game>
+	<game>
+		<path>./三国战纪/kov3.zip</path>
+		<name>S_三国战纪 3 (V104, 中国版, 港版, 台版)</name>
+		<playcount>1</playcount>
+		<lastplayed>20240702T234348</lastplayed>
+	</game>
+	<game>
+		<path>./三国战纪/kovshp.zip</path>
+		<name>S_三国战纪 - 乱世枭雄 (版本. 101)</name>
+		<playcount>1</playcount>
+		<lastplayed>20240702T234336</lastplayed>
+		<gametime>12</gametime>
+	</game>
+</gameList>

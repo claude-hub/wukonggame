@@ -9,7 +9,7 @@ RetroBat/bios/mame/timer/timer.db
 
 # 游戏本体
 RetroBat/roms/*
-!RetroBat/roms/mame/gamelist.xml
+!RetroBat/roms/*/gamelist.xml
 RetroBat/roms_/*
 RetroBat/roms__/*
 RetroBat/roms___/*
