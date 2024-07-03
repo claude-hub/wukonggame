@@ -2,7 +2,7 @@
  * @Author: 314705487@qq.com
  * @Description: 
  * @Date: 2024-07-02 22:19:53
- * @LastEditTime: 2024-07-03 22:39:52
+ * @LastEditTime: 2024-07-03 22:43:58
  */
 const fs = require('fs');
 const path = require('path');
@@ -72,6 +72,8 @@ const renameGames = async () => {
         path: [gamePath], 
         name: [`${getFirstPinyinInitial(newName)}_${newName}`] 
       })
+    } else {
+      console.log('没有中文名称: ', fileName);
     }
   });
 
