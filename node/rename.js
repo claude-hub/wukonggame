@@ -2,7 +2,7 @@
  * @Author: 314705487@qq.com
  * @Description: 
  * @Date: 2024-07-02 22:19:53
- * @LastEditTime: 2024-07-02 23:34:52
+ * @LastEditTime: 2024-07-03 22:39:52
  */
 const fs = require('fs');
 const path = require('path');
@@ -10,6 +10,9 @@ const xml2js = require('xml2js');
 const pinyin = require('pinyin');
 
 const dirPath = '../RetroBat/roms/fbneo';
+const lstFileName = 'mame_cn_utf8_bom.lst';
+
+
 async function getAllFilesAsync(dirPath) {
   let files = [];
   const entries = await fs.readdirSync(dirPath, { withFileTypes: true });
@@ -26,7 +29,7 @@ async function getAllFilesAsync(dirPath) {
 
 
 const getNamesMap = () => {
-  const namesArr = fs.readFileSync(path.resolve(__dirname, './mame_cn.txt'), 'utf-8').split('\n');
+  const namesArr = fs.readFileSync(path.resolve(__dirname, lstFileName), 'utf-8').split('\n');
   const namesMap = new Map();
 
   namesArr.forEach(name => {
