@@ -2,14 +2,14 @@
  * @Author: 314705487@qq.com
  * @Description: 
  * @Date: 2024-07-02 22:19:53
- * @LastEditTime: 2024-07-03 22:43:58
+ * @LastEditTime: 2024-07-03 23:06:40
  */
 const fs = require('fs');
 const path = require('path');
 const xml2js = require('xml2js');
 const pinyin = require('pinyin');
 
-const dirPath = '../RetroBat/roms/fbneo';
+const dirPath = '../RetroBat/roms/mame';
 const lstFileName = 'mame_cn_utf8_bom.lst';
 
 
@@ -21,7 +21,7 @@ async function getAllFilesAsync(dirPath) {
     if (entry.isDirectory()) {
       files = files.concat(await getAllFilesAsync(fullPath));
     } else {
-      files.push(fullPath);
+      !entry.name.endsWith('.xml') && files.push(fullPath);
     }
   }
   return files;
@@ -77,6 +77,7 @@ const renameGames = async () => {
     }
   });
 
+  console.log('文件个数：', files.length);
   return games;
 }
 
