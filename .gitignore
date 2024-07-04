@@ -1,6 +1,6 @@
 # 文件夹
 RetroBat/bios/*
-!RetroBat/bios/hbmame
+!RetroBat/bios/hbmame/*
 !RetroBat/bios/mame
 RetroBat/bios/mame/artwork
 RetroBat/bios/mame/cfg
