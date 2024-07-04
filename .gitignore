@@ -11,8 +11,7 @@ RetroBat/bios/mame/timer/timer.db
 RetroBat/roms/*
 !RetroBat/roms/*/gamelist.xml
 RetroBat/roms_/*
-RetroBat/roms__/*
-RetroBat/roms___/*
+RetroBat/roms_*/*
 
 RetroBat/emulators/*
 !RetroBat/emulators/retroarch

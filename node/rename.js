@@ -2,14 +2,14 @@
  * @Author: 314705487@qq.com
  * @Description: 
  * @Date: 2024-07-02 22:19:53
- * @LastEditTime: 2024-07-03 23:06:40
+ * @LastEditTime: 2024-07-04 08:50:34
  */
 const fs = require('fs');
 const path = require('path');
 const xml2js = require('xml2js');
 const pinyin = require('pinyin');
 
-const dirPath = '../RetroBat/roms/mame';
+const dirPath = '../RetroBat/roms/arcade';
 const lstFileName = 'mame_cn_utf8_bom.lst';
 
 
