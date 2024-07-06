@@ -2,15 +2,17 @@
  * @Author: 314705487@qq.com
  * @Description: 
  * @Date: 2024-07-02 22:19:53
- * @LastEditTime: 2024-07-04 08:50:34
+ * @LastEditTime: 2024-07-06 23:21:10
  */
 const fs = require('fs');
 const path = require('path');
 const xml2js = require('xml2js');
 const pinyin = require('pinyin');
 
-const dirPath = '../RetroBat/roms/arcade';
+const dirPath = '../RetroBat/roms/mame';
 const lstFileName = 'mame_cn_utf8_bom.lst';
+const noChineseNamesFloder = 'notMatch';
+const ignoreFloders = [noChineseNamesFloder];
 
 
 async function getAllFilesAsync(dirPath) {
@@ -18,6 +20,11 @@ async function getAllFilesAsync(dirPath) {
   const entries = await fs.readdirSync(dirPath, { withFileTypes: true });
   for (const entry of entries) {
     const fullPath = path.join(dirPath, entry.name);
+    // 过滤文件
+    if (ignoreFloders.some(item => item === entry.name)) {
+      continue;
+    }
+
     if (entry.isDirectory()) {
       files = files.concat(await getAllFilesAsync(fullPath));
     } else {
@@ -57,9 +64,9 @@ const renameGames = async () => {
   const files = await getAllFilesAsync(path.resolve(__dirname, dirPath));
   const games = [];
 
-  files.forEach(file => {
+  files.forEach(async (file) => {
     const filePathName = path.basename(file);
-    const fileName = path.parse(filePathName).name
+    const { name: fileName } = path.parse(filePathName);
 
     if (namesMap.has(fileName)) {
       const newName = namesMap.get(fileName);
@@ -74,6 +81,10 @@ const renameGames = async () => {
       })
     } else {
       console.log('没有中文名称: ', fileName);
+      const targetDir = path.join(path.dirname(file), noChineseNamesFloder);
+      await fs.mkdirSync(targetDir, { recursive: true });
+      const targetPath = path.join(targetDir, filePathName);
+      await fs.renameSync(file, targetPath);
     }
   });
 
