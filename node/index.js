@@ -2,11 +2,15 @@
  * @Author: 314705487@qq.com
  * @Description: 
  * @Date: 2024-06-30 19:43:42
- * @LastEditTime: 2024-07-02 23:53:40
+ * @LastEditTime: 2024-07-10 21:13:37
  */
 const { translate } = require('@vitalets/google-translate-api');
 const { renameXML } = require('./rename');
 const { convert } = require('./convert');
+const { xmlParser } = require('./the-twins-effect');
+
+
+// xmlParser();
 
 // convert();
 renameXML();
