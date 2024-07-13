@@ -2,12 +2,13 @@
  * @Author: 314705487@qq.com
  * @Description: 
  * @Date: 2024-06-30 19:43:42
- * @LastEditTime: 2024-07-02 22:57:40
+ * @LastEditTime: 2024-07-13 12:29:50
  */
 const xml2js = require('xml2js');
 const fs = require('fs');
 const path = require('path');
 const ignores = require('./ignores');
+const { readFileOrCreateIfNotExists } = require('./utils');
 
 const baseDir = path.resolve(__dirname, "../RetroBat/roms_/mame");
 const newBaseDir = path.resolve(__dirname, "../RetroBat/roms/mame");
@@ -69,25 +70,6 @@ const analysisGameList = async () => {
   } catch (error) {
     console.log(error);
     return [];
-  }
-}
-
-const readFileOrCreateIfNotExists = async (filePath, contentIfNew) => {
-  try {
-    // 尝试访问文件
-    await fs.accessSync(path.resolve(filePath));
-
-    // 文件存在，读取文件内容
-    const data = await fs.readFileSync(filePath, 'utf8');
-    return data;
-  } catch (error) {
-    if (error.code === 'ENOENT') {
-      await fs.writeFileSync(filePath, contentIfNew, 'utf8');
-      return contentIfNew;
-    } else {
-      // 其他错误处理
-      throw error;
-    }
   }
 }
 

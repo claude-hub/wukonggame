@@ -32,7 +32,7 @@
       <video>
       </video>
     </game>
-    <game name="1942" romof="" type="0" runtime="0" coindelay="" playtime="" emutype="">
+    <game name="1942" romof="" type="3" runtime="0" coindelay="" playtime="" emutype="">
       <enname>1942 (Revision B)</enname>
       <cnname>1942 - 空中大战 (修正版 B)</cnname>
       <launcher mainexe="" exitmode="">
