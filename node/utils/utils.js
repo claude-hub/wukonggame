@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const xml2js = require('xml2js');
 const pinyin = require('pinyin');
-const { lstFileAbsPath, ignoreFloders, gameDirAbsPath, companyGamesPath } = require('../config');
+const { lstFileAbsPath, ignoreFloders, gameDirAbsPath, companyGamesPath, allRomsDir } = require('../config');
 
 
 /**
@@ -97,15 +97,51 @@ const generateGamesByCop = async (companyName) => {
   const file = await readFileOrCreateIfNotExists(companyGamesPath, '{}');
   const existsGames = JSON.parse(file);
 
-  if(existsGames[companyName]) {
-    return;
-  }
-  const companyGames = {
-    ...existsGames,
-    [companyName]: groupBy(games, 'simpleName'),
+  // 如果对应的公司游戏不存在，则创建
+  if (!existsGames[companyName]) {
+    const companyGames = {
+      ...existsGames,
+      [companyName]: groupBy(games, 'simpleName'),
+    }
+  
+    fs.writeFileSync(companyGamesPath, JSON.stringify(companyGames, null, 2), 'utf8');  
   }
 
-  fs.writeFileSync(companyGamesPath, JSON.stringify(companyGames, null, 2), 'utf8');
+  // copy rom 到对应文件夹
+  // await genRomsByComp();
+}
+
+/**
+ * 根据 公司名称生成 roms
+ */
+const genRomsByComp = async () => {
+  const gamesFile = fs.readFileSync(companyGamesPath, 'utf8');
+  const allCompGames = JSON.parse(gamesFile);
+
+  for (const comp in allCompGames) {
+    // if (allCompGames.hasOwnProperty(comp)) {
+    const compDir = path.resolve(gameDirAbsPath, comp);
+    fs.mkdirSync(compDir, { recursive: true });
+
+    for (const gameName in allCompGames[comp]) {
+      const gameDir = path.resolve(compDir, gameName);
+      fs.mkdirSync(gameDir, { recursive: true });
+      const games = allCompGames[comp][gameName];
+      for (const game of games) {
+        const { romName } = game;
+        const originalPath = path.resolve(allRomsDir, `${romName}.zip`);
+        
+        if (fs.existsSync(originalPath)) {
+          const targetPath = path.resolve(gameDir, `${romName}.zip`);
+          if (fs.existsSync(targetPath)) continue;
+          
+          fs.copyFileSync(originalPath, targetPath);
+        } else {
+          console.log('文件不存在: ', originalPath);
+        }
+      }
+    }
+  }
 }
 
 /**
@@ -207,8 +243,6 @@ const parserGamelistXml = async (gamelistPath) => {
   return game;
 }
 
-
-
 module.exports = {
   readFileOrCreateIfNotExists,
   getAllFilesAsync,
@@ -218,5 +252,6 @@ module.exports = {
   generateGamelist,
   parserCNGames,
   parserGamelistXml,
-  generateGamesByCop
+  generateGamesByCop,
+  genRomsByComp
 }

@@ -1,22 +1,22 @@
-{
+module.exports = {
   "IGS": {
-    "五个小丑": [
-      {
-        "romName": "5clown",
-        "fullName": "五个小丑 (英文版, 第1套)",
-        "simpleName": "五个小丑"
-      },
-      {
-        "romName": "5clowna",
-        "fullName": "五个小丑 (英文版, 第2套)",
-        "simpleName": "五个小丑"
-      },
-      {
-        "romName": "5clownsp",
-        "fullName": "五个小丑 (西班牙版 修改版)",
-        "simpleName": "五个小丑"
-      }
-    ],
+    // "五个小丑": [
+    //   {
+    //     "romName": "5clown",
+    //     "fullName": "五个小丑 (英文版, 第1套)",
+    //     "simpleName": "五个小丑"
+    //   },
+    //   {
+    //     "romName": "5clowna",
+    //     "fullName": "五个小丑 (英文版, 第2套)",
+    //     "simpleName": "五个小丑"
+    //   },
+    //   {
+    //     "romName": "5clownsp",
+    //     "fullName": "五个小丑 (西班牙版 修改版)",
+    //     "simpleName": "五个小丑"
+    //   }
+    // ],
     "星宿会战": [
       {
         "romName": "aliencha",
@@ -29,155 +29,151 @@
         "simpleName": "星宿会战"
       }
     ],
-    "亚马逊之王II": [
-      {
-        "romName": "amazoni2",
-        "fullName": "亚马逊之王II 连连乐 (V202BR)",
-        "simpleName": "亚马逊之王II"
-      }
-    ],
-    "亚马逊之王": [
-      {
-        "romName": "amazonia",
-        "fullName": "亚马逊之王 连连乐 (V104BR)",
-        "simpleName": "亚马逊之王"
-      }
-    ],
-    "亚马逊之王加强版": [
-      {
-        "romName": "amazonkp",
-        "fullName": "亚马逊之王加强版 连连乐 (V204BR)",
-        "simpleName": "亚马逊之王加强版"
-      }
-    ],
-    "步步高汽车": [
-      {
-        "romName": "bubucar",
-        "fullName": "步步高汽车 (English)",
-        "simpleName": "步步高汽车"
-      }
-    ],
-    "象棋挑战赛2": [
-      {
-        "romName": "chessc2",
-        "fullName": "象棋挑战赛2 ",
-        "simpleName": "象棋挑战赛2"
-      }
-    ],
-    "联赛冠军": [
-      {
-        "romName": "chleague",
-        "fullName": "联赛冠军 (v220I, 扑克)",
-        "simpleName": "联赛冠军"
-      },
-      {
-        "romName": "chleagul",
-        "fullName": "联赛冠军 (v220I, Lattine)",
-        "simpleName": "联赛冠军"
-      }
-    ],
-    "超级斗地主": [
-      {
-        "romName": "cjddzsp",
-        "fullName": "超级斗地主 - 特别版 (V122中国版)",
-        "simpleName": "超级斗地主"
-      },
-      {
-        "romName": "sddz",
-        "fullName": "超级斗地主 ",
-        "simpleName": "超级斗地主"
-      }
-    ],
-    "超级大亨": [
-      {
-        "romName": "cjdh2",
-        "fullName": "超级大亨 2 (V311中国版)",
-        "simpleName": "超级大亨"
-      },
-      {
-        "romName": "cjdh2a",
-        "fullName": "超级大亨 2 (V311中国版A)",
-        "simpleName": "超级大亨"
-      },
-      {
-        "romName": "cjdh2b",
-        "fullName": "超级大亨 2 (V311中国版B)",
-        "simpleName": "超级大亨"
-      },
-      {
-        "romName": "cjdh2c",
-        "fullName": "超级大亨 2 (V215中国版)",
-        "simpleName": "超级大亨"
-      }
-    ],
-    "扑克冠军": [
-      {
-        "romName": "cpoker",
-        "fullName": "扑克冠军 (v220I)",
-        "simpleName": "扑克冠军"
-      },
-      {
-        "romName": "cpoker101",
-        "fullName": "扑克冠军 (v101)",
-        "simpleName": "扑克冠军"
-      },
-      {
-        "romName": "cpoker2",
-        "fullName": "扑克冠军 2 (V100A)",
-        "simpleName": "扑克冠军"
-      },
-      {
-        "romName": "cpoker201f",
-        "fullName": "扑克冠军 (v201F)",
-        "simpleName": "扑克冠军"
-      },
-      {
-        "romName": "cpoker210ks",
-        "fullName": "扑克冠军 (v210KS)",
-        "simpleName": "扑克冠军"
-      },
-      {
-        "romName": "cpoker300us",
-        "fullName": "扑克冠军 (v300US)",
-        "simpleName": "扑克冠军"
-      },
-      {
-        "romName": "cpokert",
-        "fullName": "扑克冠军 (v200G)",
-        "simpleName": "扑克冠军"
-      },
-      {
-        "romName": "cpokerx",
-        "fullName": "扑克冠军 (v100)",
-        "simpleName": "扑克冠军"
-      }
-    ],
-    "疯狂的虫子（V103JP）": [
-      {
-        "romName": "crzybugs",
-        "fullName": "疯狂的虫子（V103JP）",
-        "simpleName": "疯狂的虫子（V103JP）"
-      }
-    ],
-    "技能冠军": [
-      {
-        "romName": "csk227it",
-        "fullName": "技能冠军 (with Ability)",
-        "simpleName": "技能冠军"
-      },
-      {
-        "romName": "csk234it",
-        "fullName": "技能冠军 (Ability, Poker & Symbols)",
-        "simpleName": "技能冠军"
-      }
-    ],
-    "大阪城": [
-      {
-        "romName": "dbc",
-        "fullName": "大阪城 (中国香港版, V027H)",
-        "simpleName": "大阪城"
-      }
-    ],
+    // "亚马逊之王": [
+    //   {
+    //     "romName": "amazonia",
+    //     "fullName": "亚马逊之王 连连乐 (V104BR)",
+    //     "simpleName": "亚马逊之王"
+    //   },
+    //   {
+    //     "romName": "amazoni2",
+    //     "fullName": "亚马逊之王II 连连乐 (V202BR)",
+    //     "simpleName": "亚马逊之王II"
+    //   },
+    //   {
+    //     "romName": "amazonkp",
+    //     "fullName": "亚马逊之王加强版 连连乐 (V204BR)",
+    //     "simpleName": "亚马逊之王加强版"
+    //   }
+    // ],
+    // "步步高汽车": [
+    //   {
+    //     "romName": "bubucar",
+    //     "fullName": "步步高汽车 (English)",
+    //     "simpleName": "步步高汽车"
+    //   }
+    // ],
+    // "象棋挑战赛2": [
+    //   {
+    //     "romName": "chessc2",
+    //     "fullName": "象棋挑战赛2 ",
+    //     "simpleName": "象棋挑战赛2"
+    //   }
+    // ],
+    // "联赛冠军": [
+    //   {
+    //     "romName": "chleague",
+    //     "fullName": "联赛冠军 (v220I, 扑克)",
+    //     "simpleName": "联赛冠军"
+    //   },
+    //   {
+    //     "romName": "chleagul",
+    //     "fullName": "联赛冠军 (v220I, Lattine)",
+    //     "simpleName": "联赛冠军"
+    //   }
+    // ],
+    // "超级斗地主": [
+    //   {
+    //     "romName": "cjddzsp",
+    //     "fullName": "超级斗地主 - 特别版 (V122中国版)",
+    //     "simpleName": "超级斗地主"
+    //   },
+    //   {
+    //     "romName": "sddz",
+    //     "fullName": "超级斗地主 ",
+    //     "simpleName": "超级斗地主"
+    //   }
+    // ],
+    // "超级大亨": [
+    //   {
+    //     "romName": "cjdh2",
+    //     "fullName": "超级大亨 2 (V311中国版)",
+    //     "simpleName": "超级大亨"
+    //   },
+    //   {
+    //     "romName": "cjdh2a",
+    //     "fullName": "超级大亨 2 (V311中国版A)",
+    //     "simpleName": "超级大亨"
+    //   },
+    //   {
+    //     "romName": "cjdh2b",
+    //     "fullName": "超级大亨 2 (V311中国版B)",
+    //     "simpleName": "超级大亨"
+    //   },
+    //   {
+    //     "romName": "cjdh2c",
+    //     "fullName": "超级大亨 2 (V215中国版)",
+    //     "simpleName": "超级大亨"
+    //   }
+    // ],
+    // "扑克冠军": [
+    //   {
+    //     "romName": "cpoker",
+    //     "fullName": "扑克冠军 (v220I)",
+    //     "simpleName": "扑克冠军"
+    //   },
+    //   {
+    //     "romName": "cpoker101",
+    //     "fullName": "扑克冠军 (v101)",
+    //     "simpleName": "扑克冠军"
+    //   },
+    //   {
+    //     "romName": "cpoker2",
+    //     "fullName": "扑克冠军 2 (V100A)",
+    //     "simpleName": "扑克冠军"
+    //   },
+    //   {
+    //     "romName": "cpoker201f",
+    //     "fullName": "扑克冠军 (v201F)",
+    //     "simpleName": "扑克冠军"
+    //   },
+    //   {
+    //     "romName": "cpoker210ks",
+    //     "fullName": "扑克冠军 (v210KS)",
+    //     "simpleName": "扑克冠军"
+    //   },
+    //   {
+    //     "romName": "cpoker300us",
+    //     "fullName": "扑克冠军 (v300US)",
+    //     "simpleName": "扑克冠军"
+    //   },
+    //   {
+    //     "romName": "cpokert",
+    //     "fullName": "扑克冠军 (v200G)",
+    //     "simpleName": "扑克冠军"
+    //   },
+    //   {
+    //     "romName": "cpokerx",
+    //     "fullName": "扑克冠军 (v100)",
+    //     "simpleName": "扑克冠军"
+    //   }
+    // ],
+    // "疯狂的虫子": [
+    //   {
+    //     "romName": "crzybugs",
+    //     "fullName": "疯狂的虫子（V103JP）",
+    //     "simpleName": "疯狂的虫子（V103JP）"
+    //   }
+    // ],
+    // "技能冠军": [
+    //   {
+    //     "romName": "csk227it",
+    //     "fullName": "技能冠军 (with Ability)",
+    //     "simpleName": "技能冠军"
+    //   },
+    //   {
+    //     "romName": "csk234it",
+    //     "fullName": "技能冠军 (Ability, Poker & Symbols)",
+    //     "simpleName": "技能冠军"
+    //   }
+    // ],
+    // "大阪城": [
+    //   {
+    //     "romName": "dbc",
+    //     "fullName": "大阪城 (中国香港版, V027H)",
+    //     "simpleName": "大阪城"
+    //   }
+    // ],
     "怒首领蜂": [
       {
         "romName": "ddp2",
@@ -275,13 +271,13 @@
         "simpleName": "怒首领蜂"
       }
     ],
-    "斗地主": [
-      {
-        "romName": "ddz",
-        "fullName": "斗地主 ",
-        "simpleName": "斗地主"
-      }
-    ],
+    // "斗地主": [
+    //   {
+    //     "romName": "ddz",
+    //     "fullName": "斗地主 ",
+    //     "simpleName": "斗地主"
+    //   }
+    // ],
     "魔域战线": [
       {
         "romName": "dmnfrnt",
@@ -411,51 +407,51 @@
         "simpleName": "中国龙"
       }
     ],
-    "东方之珠": [
-      {
-        "romName": "drgnwrldv11h",
-        "fullName": "东方之珠 (中国香港版, V011H, 第1套)",
-        "simpleName": "东方之珠"
-      },
-      {
-        "romName": "drgnwrldv11ha",
-        "fullName": "东方之珠 (中国香港版, V011H, 第2套)",
-        "simpleName": "东方之珠"
-      },
-      {
-        "romName": "drgw2100hk",
-        "fullName": "东方之珠 II (版本 100H, 中国香港版)",
-        "simpleName": "东方之珠"
-      }
-    ],
-    "额外抽奖": [
-      {
-        "romName": "extradrw",
-        "fullName": "额外抽奖",
-        "simpleName": "额外抽奖"
-      }
-    ],
-    "EZ": [
-      {
-        "romName": "eztouch",
-        "fullName": "EZ Touch (v116 China)",
-        "simpleName": "EZ"
-      }
-    ],
-    "无畏的匹诺曹": [
-      {
-        "romName": "fearless",
-        "fullName": "无畏的匹诺曹 (V101美版)",
-        "simpleName": "无畏的匹诺曹"
-      }
-    ],
-    "水果天堂": [
-      {
-        "romName": "fruitpar",
-        "fullName": "水果天堂 (V214)",
-        "simpleName": "水果天堂"
-      }
-    ],
+    // "东方之珠": [
+    //   {
+    //     "romName": "drgnwrldv11h",
+    //     "fullName": "东方之珠 (中国香港版, V011H, 第1套)",
+    //     "simpleName": "东方之珠"
+    //   },
+    //   {
+    //     "romName": "drgnwrldv11ha",
+    //     "fullName": "东方之珠 (中国香港版, V011H, 第2套)",
+    //     "simpleName": "东方之珠"
+    //   },
+    //   {
+    //     "romName": "drgw2100hk",
+    //     "fullName": "东方之珠 II (版本 100H, 中国香港版)",
+    //     "simpleName": "东方之珠"
+    //   }
+    // ],
+    // "额外抽奖": [
+    //   {
+    //     "romName": "extradrw",
+    //     "fullName": "额外抽奖",
+    //     "simpleName": "额外抽奖"
+    //   }
+    // ],
+    // "EZ": [
+    //   {
+    //     "romName": "eztouch",
+    //     "fullName": "EZ Touch (v116 China)",
+    //     "simpleName": "EZ"
+    //   }
+    // ],
+    // "无畏的匹诺曹": [
+    //   {
+    //     "romName": "fearless",
+    //     "fullName": "无畏的匹诺曹 (V101美版)",
+    //     "simpleName": "无畏的匹诺曹"
+    //   }
+    // ],
+    // "水果天堂": [
+    //   {
+    //     "romName": "fruitpar",
+    //     "fullName": "水果天堂 (V214)",
+    //     "simpleName": "水果天堂"
+    //   }
+    // ],
     "天才捕手": [
       {
         "romName": "genius6",
@@ -473,32 +469,32 @@
         "simpleName": "天才捕手"
       }
     ],
-    "黄金星座": [
-      {
-        "romName": "goldstar",
-        "fullName": "黄金星座",
-        "simpleName": "黄金星座"
-      },
-      {
-        "romName": "goldstbl",
-        "fullName": "黄金星座 (蓝色版本)",
-        "simpleName": "黄金星座"
-      }
-    ],
-    "来去钓鱼2": [
-      {
-        "romName": "gonefsh2",
-        "fullName": "来去钓鱼2 ",
-        "simpleName": "来去钓鱼2"
-      }
-    ],
-    "盛大旅行": [
-      {
-        "romName": "grndtour",
-        "fullName": "盛大旅行 (V100U)",
-        "simpleName": "盛大旅行"
-      }
-    ],
+    // "黄金星座": [
+    //   {
+    //     "romName": "goldstar",
+    //     "fullName": "黄金星座",
+    //     "simpleName": "黄金星座"
+    //   },
+    //   {
+    //     "romName": "goldstbl",
+    //     "fullName": "黄金星座 (蓝色版本)",
+    //     "simpleName": "黄金星座"
+    //   }
+    // ],
+    // "来去钓鱼2": [
+    //   {
+    //     "romName": "gonefsh2",
+    //     "fullName": "来去钓鱼2 ",
+    //     "simpleName": "来去钓鱼2"
+    //   }
+    // ],
+    // "盛大旅行": [
+    //   {
+    //     "romName": "grndtour",
+    //     "fullName": "盛大旅行 (V100U)",
+    //     "simpleName": "盛大旅行"
+    //   }
+    // ],
     "欢乐六合一": [
       {
         "romName": "happy6",
@@ -521,104 +517,104 @@
         "simpleName": "欢乐六合一"
       }
     ],
-    "快乐技能": [
-      {
-        "romName": "happyskl",
-        "fullName": "快乐技能 - 连连乐 (意大利版, V611IT)",
-        "simpleName": "快乐技能"
-      }
-    ],
-    "鬼屋": [
-      {
-        "romName": "haunthig",
-        "fullName": "鬼屋 (IGS)",
-        "simpleName": "鬼屋"
-      }
-    ],
-    "新技能冠军": [
-      {
-        "romName": "igs_ncs",
-        "fullName": "新技能冠军 (v100n)",
-        "simpleName": "新技能冠军"
-      },
-      {
-        "romName": "igs_ncs2",
-        "fullName": "新技能冠军 (v100n 2000)",
-        "simpleName": "新技能冠军"
-      }
-    ],
-    "不知名的": [
-      {
-        "romName": "igsm312",
-        "fullName": "不知名的 \"IGS 6POKER2 \"游戏（V312CN）",
-        "simpleName": "不知名的"
-      }
-    ],
-    "俄罗斯方块": [
-      {
-        "romName": "igstet341",
-        "fullName": "俄罗斯方块 (v341R)",
-        "simpleName": "俄罗斯方块"
-      },
-      {
-        "romName": "igstet342",
-        "fullName": "俄罗斯方块 (v342R)",
-        "simpleName": "俄罗斯方块"
-      }
-    ],
-    "数字方块": [
-      {
-        "romName": "iqblock",
-        "fullName": "数字方块 (V100U)",
-        "simpleName": "数字方块"
-      }
-    ],
-    "数字乐园": [
-      {
-        "romName": "iqblocka",
-        "fullName": "数字乐园 (中国版, V127M, 赌博版)",
-        "simpleName": "数字乐园"
-      },
-      {
-        "romName": "iqblockf",
-        "fullName": "数字乐园 (V113FR, 赌博版)",
-        "simpleName": "数字乐园"
-      }
-    ],
-    "快乐杰基": [
-      {
-        "romName": "jackie",
-        "fullName": "快乐杰基 (v110U)",
-        "simpleName": "快乐杰基"
-      }
-    ],
-    "铃儿响叮铛": [
-      {
-        "romName": "jingbell",
-        "fullName": "铃儿响叮铛 (美版, V157US)",
-        "simpleName": "铃儿响叮铛"
-      },
-      {
-        "romName": "jingbella",
-        "fullName": "铃儿响叮铛 (欧洲版, V155UE)",
-        "simpleName": "铃儿响叮铛"
-      },
-      {
-        "romName": "jingbellb",
-        "fullName": "铃儿响叮铛 (欧洲版, V153UE)",
-        "simpleName": "铃儿响叮铛"
-      },
-      {
-        "romName": "jingbellc",
-        "fullName": "铃儿响叮铛 (欧洲版, V141UE)",
-        "simpleName": "铃儿响叮铛"
-      },
-      {
-        "romName": "jingbelli",
-        "fullName": "铃儿响叮铛 (意大利版, V133I)",
-        "simpleName": "铃儿响叮铛"
-      }
-    ],
+    // "快乐技能": [
+    //   {
+    //     "romName": "happyskl",
+    //     "fullName": "快乐技能 - 连连乐 (意大利版, V611IT)",
+    //     "simpleName": "快乐技能"
+    //   }
+    // ],
+    // "鬼屋": [
+    //   {
+    //     "romName": "haunthig",
+    //     "fullName": "鬼屋 (IGS)",
+    //     "simpleName": "鬼屋"
+    //   }
+    // ],
+    // "新技能冠军": [
+    //   {
+    //     "romName": "igs_ncs",
+    //     "fullName": "新技能冠军 (v100n)",
+    //     "simpleName": "新技能冠军"
+    //   },
+    //   {
+    //     "romName": "igs_ncs2",
+    //     "fullName": "新技能冠军 (v100n 2000)",
+    //     "simpleName": "新技能冠军"
+    //   }
+    // ],
+    // "不知名的": [
+    //   {
+    //     "romName": "igsm312",
+    //     "fullName": "不知名的 \"IGS 6POKER2 \"游戏（V312CN）",
+    //     "simpleName": "不知名的"
+    //   }
+    // ],
+    // "俄罗斯方块": [
+    //   {
+    //     "romName": "igstet341",
+    //     "fullName": "俄罗斯方块 (v341R)",
+    //     "simpleName": "俄罗斯方块"
+    //   },
+    //   {
+    //     "romName": "igstet342",
+    //     "fullName": "俄罗斯方块 (v342R)",
+    //     "simpleName": "俄罗斯方块"
+    //   }
+    // ],
+    // "数字方块": [
+    //   {
+    //     "romName": "iqblock",
+    //     "fullName": "数字方块 (V100U)",
+    //     "simpleName": "数字方块"
+    //   }
+    // ],
+    // "数字乐园": [
+    //   {
+    //     "romName": "iqblocka",
+    //     "fullName": "数字乐园 (中国版, V127M, 赌博版)",
+    //     "simpleName": "数字乐园"
+    //   },
+    //   {
+    //     "romName": "iqblockf",
+    //     "fullName": "数字乐园 (V113FR, 赌博版)",
+    //     "simpleName": "数字乐园"
+    //   }
+    // ],
+    // "快乐杰基": [
+    //   {
+    //     "romName": "jackie",
+    //     "fullName": "快乐杰基 (v110U)",
+    //     "simpleName": "快乐杰基"
+    //   }
+    // ],
+    // "铃儿响叮铛": [
+    //   {
+    //     "romName": "jingbell",
+    //     "fullName": "铃儿响叮铛 (美版, V157US)",
+    //     "simpleName": "铃儿响叮铛"
+    //   },
+    //   {
+    //     "romName": "jingbella",
+    //     "fullName": "铃儿响叮铛 (欧洲版, V155UE)",
+    //     "simpleName": "铃儿响叮铛"
+    //   },
+    //   {
+    //     "romName": "jingbellb",
+    //     "fullName": "铃儿响叮铛 (欧洲版, V153UE)",
+    //     "simpleName": "铃儿响叮铛"
+    //   },
+    //   {
+    //     "romName": "jingbellc",
+    //     "fullName": "铃儿响叮铛 (欧洲版, V141UE)",
+    //     "simpleName": "铃儿响叮铛"
+    //   },
+    //   {
+    //     "romName": "jingbelli",
+    //     "fullName": "铃儿响叮铛 (意大利版, V133I)",
+    //     "simpleName": "铃儿响叮铛"
+    //   }
+    // ],
     "傲剑狂刀": [
       {
         "romName": "killbld",
@@ -870,9 +866,7 @@
         "romName": "kovytzy",
         "fullName": "三国战纪 - 风云再起 (SANGO EX+) (版本 201 '一统中原', 中国版)",
         "simpleName": "三国战纪"
-      }
-    ],
-    "新·三国战纪": [
+      },
       {
         "romName": "kov7sprt",
         "fullName": "新·三国战纪 - 七星转生",
@@ -906,16 +900,12 @@
         "romName": "lhbv33c",
         "fullName": "龙虎榜 (中国版, V033C)",
         "simpleName": "龙虎榜"
-      }
-    ],
-    "龙虎特别版": [
+      },
       {
         "romName": "lhtb",
         "fullName": "龙虎特别版 (V101中国版)",
         "simpleName": "龙虎特别版"
-      }
-    ],
-    "龙虎争霸": [
+      },
       {
         "romName": "lhzb2",
         "fullName": "龙虎争霸 2 (中国版, 第1套)",
@@ -935,27 +925,25 @@
         "romName": "lhzb4",
         "fullName": "龙虎争霸 4 ",
         "simpleName": "龙虎争霸"
-      }
-    ],
-    "龙虎争霸三合一": [
+      },
       {
         "romName": "lhzb3in1",
         "fullName": "龙虎争霸三合一 (V100中国版)",
         "simpleName": "龙虎争霸三合一"
       }
     ],
-    "枪火贵族": [
-      {
-        "romName": "lordgun",
-        "fullName": "枪火贵族 (美版)",
-        "simpleName": "枪火贵族"
-      },
-      {
-        "romName": "lordgunu",
-        "fullName": "枪火贵族 (美版)",
-        "simpleName": "枪火贵族"
-      }
-    ],
+    // "枪火贵族": [
+    //   {
+    //     "romName": "lordgun",
+    //     "fullName": "枪火贵族 (美版)",
+    //     "simpleName": "枪火贵族"
+    //   },
+    //   {
+    //     "romName": "lordgunu",
+    //     "fullName": "枪火贵族 (美版)",
+    //     "simpleName": "枪火贵族"
+    //   }
+    // ],
     "形意拳": [
       {
         "romName": "martmast",
@@ -983,9 +971,7 @@
         "romName": "mgcs",
         "fullName": "满贯财神 (中国版, V103CS)",
         "simpleName": "满贯财神"
-      }
-    ],
-    "满贯大亨": [
+      },
       {
         "romName": "mgdh",
         "fullName": "满贯大亨 (中国台湾版, V125T1)",
@@ -995,34 +981,32 @@
         "romName": "mgdha",
         "fullName": "满贯大亨 (中国台湾版, V123T1)",
         "simpleName": "满贯大亨"
-      }
-    ],
-    "满贯福星": [
+      },
       {
         "romName": "mgfx",
         "fullName": "满贯福星 ",
         "simpleName": "满贯福星"
       }
     ],
-    "Medal": [
-      {
-        "romName": "mghammer",
-        "fullName": "Medal Get Hammer (V100JP)",
-        "simpleName": "Medal"
-      }
-    ],
-    "麻雀": [
-      {
-        "romName": "nkishusp",
-        "fullName": "麻雀 - 念力手 SP (日版, V250J)",
-        "simpleName": "麻雀"
-      },
-      {
-        "romName": "ryukobou",
-        "fullName": "麻雀 - 龙虎榜 (日版, V030J)",
-        "simpleName": "麻雀"
-      }
-    ],
+    // "Medal": [
+    //   {
+    //     "romName": "mghammer",
+    //     "fullName": "Medal Get Hammer (V100JP)",
+    //     "simpleName": "Medal"
+    //   }
+    // ],
+    // "麻雀": [
+    //   {
+    //     "romName": "nkishusp",
+    //     "fullName": "麻雀 - 念力手 SP (日版, V250J)",
+    //     "simpleName": "麻雀"
+    //   },
+    //   {
+    //     "romName": "ryukobou",
+    //     "fullName": "麻雀 - 龙虎榜 (日版, V030J)",
+    //     "simpleName": "麻雀"
+    //   }
+    // ],
     "西游释厄传": [
       {
         "romName": "olds",
@@ -1140,13 +1124,13 @@
         "simpleName": "西游释厄传"
       }
     ],
-    "PGM": [
-      {
-        "romName": "pgm",
-        "fullName": "PGM (Polygame Master) System BIOS",
-        "simpleName": "PGM"
-      }
-    ],
+    // "PGM": [
+    //   {
+    //     "romName": "pgm",
+    //     "fullName": "PGM (Polygame Master) System BIOS",
+    //     "simpleName": "PGM"
+    //   }
+    // ],
     "闪亮三合一": [
       {
         "romName": "pgm3in1",
@@ -1191,13 +1175,13 @@
         "simpleName": "大家来找碴"
       }
     ],
-    "对战俄罗斯方块": [
-      {
-        "romName": "pktet346",
-        "fullName": "对战俄罗斯方块 (v346I)",
-        "simpleName": "对战俄罗斯方块"
-      }
-    ],
+    // "对战俄罗斯方块": [
+    //   {
+    //     "romName": "pktet346",
+    //     "fullName": "对战俄罗斯方块 (v346I)",
+    //     "simpleName": "对战俄罗斯方块"
+    //   }
+    // ],
     "魔幻星座": [
       {
         "romName": "puzlstar",
@@ -1222,41 +1206,41 @@
         "simpleName": "泡泡鱼"
       }
     ],
-    "雀龙高手": [
-      {
-        "romName": "qlgs",
-        "fullName": "雀龙高手 ",
-        "simpleName": "雀龙高手"
-      }
-    ],
-    "超级大满贯": [
-      {
-        "romName": "sdmg2",
-        "fullName": "超级大满贯 II (中国版, V754C)",
-        "simpleName": "超级大满贯"
-      }
-    ],
-    "玛克-旺乔": [
-      {
-        "romName": "sdmg2p",
-        "fullName": "玛克-旺乔 /超级大满贯 II  - 潘家强 (中国版, V100C)",
-        "simpleName": "玛克-旺乔"
-      }
-    ],
-    "圣诞五线": [
-      {
-        "romName": "sdwx",
-        "fullName": "圣诞五线 ",
-        "simpleName": "圣诞五线"
-      }
-    ],
-    "双龙抢珠": [
-      {
-        "romName": "slqz2",
-        "fullName": "双龙抢珠 2 VS (中国版, VS203J)",
-        "simpleName": "双龙抢珠"
-      }
-    ],
+    // "雀龙高手": [
+    //   {
+    //     "romName": "qlgs",
+    //     "fullName": "雀龙高手 ",
+    //     "simpleName": "雀龙高手"
+    //   }
+    // ],
+    // "超级大满贯": [
+    //   {
+    //     "romName": "sdmg2",
+    //     "fullName": "超级大满贯 II (中国版, V754C)",
+    //     "simpleName": "超级大满贯"
+    //   }
+    // ],
+    // "玛克-旺乔": [
+    //   {
+    //     "romName": "sdmg2p",
+    //     "fullName": "玛克-旺乔 /超级大满贯 II  - 潘家强 (中国版, V100C)",
+    //     "simpleName": "玛克-旺乔"
+    //   }
+    // ],
+    // "圣诞五线": [
+    //   {
+    //     "romName": "sdwx",
+    //     "fullName": "圣诞五线 ",
+    //     "simpleName": "圣诞五线"
+    //   }
+    // ],
+    // "双龙抢珠": [
+    //   {
+    //     "romName": "slqz2",
+    //     "fullName": "双龙抢珠 2 VS (中国版, VS203J)",
+    //     "simpleName": "双龙抢珠"
+    //   }
+    // ],
     "麻将": [
       {
         "romName": "slqz3",
@@ -1264,13 +1248,13 @@
         "simpleName": "麻将"
       }
     ],
-    "极速": [
-      {
-        "romName": "speeddrv",
-        "fullName": "极速 ",
-        "simpleName": "极速"
-      }
-    ],
+    // "极速": [
+    //   {
+    //     "romName": "speeddrv",
+    //     "fullName": "极速 ",
+    //     "simpleName": "极速"
+    //   }
+    // ],
     "超级扑克": [
       {
         "romName": "spk100",
@@ -1306,9 +1290,7 @@
         "romName": "spkrform",
         "fullName": "超级扑克 (V100xD03) / 中国台湾",
         "simpleName": "超级扑克"
-      }
-    ],
-    "超级扑克游戏": [
+      },
       {
         "romName": "spk102ua",
         "fullName": "超级扑克游戏 (v102UA)",
@@ -1335,13 +1317,13 @@
         "simpleName": "超级扑克游戏"
       }
     ],
-    "超级泰山": [
-      {
-        "romName": "starzan",
-        "fullName": "超级泰山 (意大利版, V100I)",
-        "simpleName": "超级泰山"
-      }
-    ],
+    // "超级泰山": [
+    //   {
+    //     "romName": "starzan",
+    //     "fullName": "超级泰山 (意大利版, V100I)",
+    //     "simpleName": "超级泰山"
+    //   }
+    // ],
     "圣魔世纪": [
       {
         "romName": "svg",
@@ -1364,25 +1346,25 @@
         "simpleName": "圣魔世纪"
       }
     ],
-    "泰山闯天关": [
-      {
-        "romName": "tarzan",
-        "fullName": "泰山闯天关 (中国版, V109C, 第 2 套)",
-        "simpleName": "泰山闯天关"
-      },
-      {
-        "romName": "tarzanc",
-        "fullName": "泰山闯天关 (中国版, V109C, 第1套)",
-        "simpleName": "泰山闯天关"
-      }
-    ],
-    "泰山": [
-      {
-        "romName": "tarzana",
-        "fullName": "泰山 (V107)",
-        "simpleName": "泰山"
-      }
-    ],
+    // "泰山闯天关": [
+    //   {
+    //     "romName": "tarzan",
+    //     "fullName": "泰山闯天关 (中国版, V109C, 第 2 套)",
+    //     "simpleName": "泰山闯天关"
+    //   },
+    //   {
+    //     "romName": "tarzanc",
+    //     "fullName": "泰山闯天关 (中国版, V109C, 第1套)",
+    //     "simpleName": "泰山闯天关"
+    //   }
+    // ],
+    // "泰山": [
+    //   {
+    //     "romName": "tarzana",
+    //     "fullName": "泰山 (V107)",
+    //     "simpleName": "泰山"
+    //   }
+    // ],
     "神剑伏魔录": [
       {
         "romName": "theglad",
@@ -1415,13 +1397,13 @@
         "simpleName": "神剑伏魔录"
       }
     ],
-    "天降神兵": [
-      {
-        "romName": "tjsb",
-        "fullName": "天降神兵 (中国版, V137C)",
-        "simpleName": "天降神兵"
-      }
-    ],
+    // "天降神兵": [
+    //   {
+    //     "romName": "tjsb",
+    //     "fullName": "天降神兵 (中国版, V137C)",
+    //     "simpleName": "天降神兵"
+    //   }
+    // ],
     "虚拟保龄球": [
       {
         "romName": "vbowl",
@@ -1446,20 +1428,20 @@
         "simpleName": "万里长城"
       }
     ],
-    "幸运满贯": [
-      {
-        "romName": "xymg",
-        "fullName": "幸运满贯 (中国版, V651C)",
-        "simpleName": "幸运满贯"
-      }
-    ],
-    "中国锄大地": [
-      {
-        "romName": "zhongguo",
-        "fullName": "中国锄大地 ",
-        "simpleName": "中国锄大地"
-      }
-    ]
+    // "幸运满贯": [
+    //   {
+    //     "romName": "xymg",
+    //     "fullName": "幸运满贯 (中国版, V651C)",
+    //     "simpleName": "幸运满贯"
+    //   }
+    // ],
+    // "中国锄大地": [
+    //   {
+    //     "romName": "zhongguo",
+    //     "fullName": "中国锄大地 ",
+    //     "simpleName": "中国锄大地"
+    //   }
+    // ]
   },
   "SNK": {
     "8": [
