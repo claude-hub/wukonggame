@@ -3993,5 +3993,3406 @@
         "simpleName": "洛克人"
       }
     ]
+  },
+  "Sega - 世嘉": {
+    "01 - 麦克杰克森月球漫步": [
+      {
+        "romName": "mt_mwalk",
+        "fullName": "外星战将 - 麦克杰克森月球漫步 (Mega-Tech)",
+        "simpleName": "外星战将"
+      },
+      {
+        "romName": "mwalk",
+        "fullName": "外星战将 - 麦克杰克森月球漫步 (世界版) (FD1094/8751 317-0159)",
+        "simpleName": "外星战将"
+      },
+      {
+        "romName": "mwalkj",
+        "fullName": "外星战将 - 麦克杰克森月球漫步 (日版) (FD1094/8751 317-0157)",
+        "simpleName": "外星战将"
+      },
+      {
+        "romName": "mwalku",
+        "fullName": "外星战将 - 麦克杰克森月球漫步 (美版) (FD1094/8751 317-0158)",
+        "simpleName": "外星战将"
+      },
+      {
+        "romName": "mwalkbl",
+        "fullName": "外星战将 - 迈克尔·杰克逊月球漫步 (盗版)",
+        "simpleName": "外星战将"
+      },
+      {
+        "romName": "mwalkd",
+        "fullName": "外星战将 - 麦克杰克森月球漫步 (世界版) (盗版 FD1094/8751 317-0159 set)",
+        "simpleName": "外星战将"
+      },
+      {
+        "romName": "mwalkjd",
+        "fullName": "外星战将 - 麦克杰克森月球漫步 (日版) (盗版 FD1094/8751 317-0157 set)",
+        "simpleName": "外星战将"
+      },
+      {
+        "romName": "mwalkud",
+        "fullName": "外星战将 - 麦克杰克森月球漫步 (美版) (盗版 FD1094/8751 317-0158 set)",
+        "simpleName": "外星战将"
+      }
+    ],
+
+    "02 - 战斧": [
+      {
+        "romName": "ga2",
+        "fullName": "战斧 - 迪斯亚达的复仇 (世界版, 修订版 B)",
+        "simpleName": "战斧"
+      },
+      {
+        "romName": "ga2j",
+        "fullName": "战斧 - 迪斯亚达的复仇 (日版)",
+        "simpleName": "战斧"
+      },
+      {
+        "romName": "ga2u",
+        "fullName": "战斧 - 迪斯亚达的复仇 (美版, 修订版 A)",
+        "simpleName": "战斧"
+      },
+      {
+        "romName": "goldnaxe",
+        "fullName": "战斧 (第6套, 美版) (8751 317-123A)",
+        "simpleName": "战斧"
+      },
+      {
+        "romName": "goldnaxe1",
+        "fullName": "战斧 (第1套, 世界版) (FD1094 317-0110)",
+        "simpleName": "战斧"
+      },
+      {
+        "romName": "goldnaxe2",
+        "fullName": "战斧 (第2套, 美版) (8751 317-0112)",
+        "simpleName": "战斧"
+      },
+      {
+        "romName": "goldnaxe3",
+        "fullName": "战斧 (第3套, 世界版) (FD1094 317-0120)",
+        "simpleName": "战斧"
+      },
+      {
+        "romName": "goldnaxej",
+        "fullName": "战斧 (第4套, 日版) (FD1094 317-0121)",
+        "simpleName": "战斧"
+      },
+      {
+        "romName": "goldnaxeu",
+        "fullName": "战斧 (第5套, 美版) (FD1094 317-0122)",
+        "simpleName": "战斧"
+      },
+      {
+        "romName": "mp_gaxe2",
+        "fullName": "战斧 II (Mega Play) (修订版 B)",
+        "simpleName": "战斧"
+      },
+      {
+        "romName": "mp_gaxe2a",
+        "fullName": "战斧 II (Mega Play)",
+        "simpleName": "战斧"
+      },
+      {
+        "romName": "mt_gaxe",
+        "fullName": "战斧 (Mega-Tech)",
+        "simpleName": "战斧"
+      },
+      {
+        "romName": "mt_gaxe2",
+        "fullName": "战斧 II (Mega-Tech)",
+        "simpleName": "战斧"
+      },
+
+      {
+        "romName": "goldnaxe1d",
+        "fullName": "战斧 (第1套, 世界版) (盗版 FD1094 317-0110 set)",
+        "simpleName": "战斧"
+      },
+      {
+        "romName": "goldnaxe3d",
+        "fullName": "战斧 (第3套, 世界版) (盗版 FD1094 317-0120 set)",
+        "simpleName": "战斧"
+      },
+      {
+        "romName": "goldnaxeb1",
+        "fullName": "战斧 (加密版 盗版)",
+        "simpleName": "战斧"
+      },
+      {
+        "romName": "goldnaxeb2",
+        "fullName": "战斧 (盗版)",
+        "simpleName": "战斧"
+      },
+      {
+        "romName": "goldnaxejd",
+        "fullName": "战斧 (第4套, 日版) (盗版 FD1094 317-0121 set)",
+        "simpleName": "战斧"
+      },
+      {
+        "romName": "goldnaxeud",
+        "fullName": "战斧 (第5套, 美版) (盗版 FD1094 317-0122 set)",
+        "simpleName": "战斧"
+      },
+      {
+        "romName": "gaxeduel",
+        "fullName": "战斧格斗篇 (JUETL 950117 V1.000)",
+        "simpleName": "战斧格斗篇"
+      }
+    ],
+
+    "03 - 霹雳特警": [
+      {
+        "romName": "eswat",
+        "fullName": "霹雳特警 - 机械警察 (第4套, 世界版) (FD1094 317-0130)",
+        "simpleName": "霹雳特警"
+      },
+      {
+        "romName": "eswatj",
+        "fullName": "霹雳特警 - 机械警察 (第2套, 日版) (FD1094 317-0128)",
+        "simpleName": "霹雳特警"
+      },
+      {
+        "romName": "eswatj1",
+        "fullName": "霹雳特警 - 机械警察 (第1套, 日版) (FD1094 317-0131)",
+        "simpleName": "霹雳特警"
+      },
+      {
+        "romName": "eswatu",
+        "fullName": "霹雳特警 - 机械警察 (第3套, 美版) (FD1094 317-0129)",
+        "simpleName": "霹雳特警"
+      },
+      {
+        "romName": "eswatbl",
+        "fullName": "霹雳特警 - 机械警察 (盗版, 第1套)",
+        "simpleName": "霹雳特警"
+      },
+      {
+        "romName": "eswatbl2",
+        "fullName": "霹雳特警 - 机械警察 (盗版, 第2套)",
+        "simpleName": "霹雳特警"
+      },
+      {
+        "romName": "eswatd",
+        "fullName": "霹雳特警 - 机械警察 (第4套, 世界版) (盗版 FD1094 317-0130 set)",
+        "simpleName": "霹雳特警"
+      },
+      {
+        "romName": "eswatj1d",
+        "fullName": "霹雳特警 - 机械警察 (第1套, 日版) (盗版 FD1094 317-0131 set)",
+        "simpleName": "霹雳特警"
+      }
+    ],
+    "04 - 怒之铁拳": [
+      {
+        "romName": "barek2mb",
+        "fullName": "怒之铁拳 II (盗版 世嘉五代 版本)",
+        "simpleName": "怒之铁拳"
+      },
+      {
+        "romName": "barek3mb",
+        "fullName": "怒之铁拳 III (盗版 世嘉五代 版本)",
+        "simpleName": "怒之铁拳"
+      },
+      {
+        "romName": "barek3mba",
+        "fullName": "怒之铁拳 III (盗版 世嘉五代 版本, 受保护)",
+        "simpleName": "怒之铁拳"
+      },
+      {
+        "romName": "bk3ssrmb",
+        "fullName": "怒之铁拳 III / 日落骑士 (盗版 世嘉五代 版本)",
+        "simpleName": "怒之铁拳"
+      },
+      {
+        "romName": "mp_sor2",
+        "fullName": "怒之铁拳 II (Mega Play)",
+        "simpleName": "怒之铁拳"
+      },
+      {
+        "romName": "mt_srage",
+        "fullName": "怒之铁拳 (Mega-Tech)",
+        "simpleName": "怒之铁拳"
+      },
+      {
+        "romName": "barek2ch",
+        "fullName": "怒之铁拳 II (中国版 盗版 世嘉五代 版本)",
+        "simpleName": "怒之铁拳"
+      },
+      {
+        "romName": "barek2mb",
+        "fullName": "怒之铁拳 II (盗版 世嘉五代 版本)",
+        "simpleName": "怒之铁拳"
+      },
+      {
+        "romName": "barek3mb",
+        "fullName": "怒之铁拳 III (盗版 世嘉五代 版本)",
+        "simpleName": "怒之铁拳"
+      },
+      {
+        "romName": "barek3mba",
+        "fullName": "怒之铁拳 III (盗版 世嘉五代 版本, 受保护)",
+        "simpleName": "怒之铁拳"
+      },
+      {
+        "romName": "barekch",
+        "fullName": "怒之铁拳 (中国版 盗版 世嘉五代 版本)",
+        "simpleName": "怒之铁拳"
+      },
+      {
+        "romName": "bk3ssrmb",
+        "fullName": "怒之铁拳 III / 日落骑士 (盗版 世嘉五代 版本)",
+        "simpleName": "怒之铁拳"
+      }
+    ],
+
+    "05 - 快打刑事": [
+      {
+        "romName": "asndynmt",
+        "fullName": "快打刑事 EX",
+        "simpleName": "快打刑事"
+      },
+      {
+        "romName": "asndynmto",
+        "fullName": "快打刑事 EX (旧版)",
+        "simpleName": "快打刑事"
+      },
+      {
+        "romName": "diehard",
+        "fullName": "快打刑事 (UET 960515 V1.000)",
+        "simpleName": "快打刑事"
+      },
+      {
+        "romName": "dnmtdeka",
+        "fullName": "快打刑事 (J 960515 V1.000)",
+        "simpleName": "快打刑事"
+      },
+      {
+        "romName": "dynamcop",
+        "fullName": "快打刑事 (海外版, Model 2A)",
+        "simpleName": "快打刑事"
+      },
+      {
+        "romName": "dynamcopb",
+        "fullName": "快打刑事 (海外版, Model 2B)",
+        "simpleName": "快打刑事"
+      },
+      {
+        "romName": "dyndeka2",
+        "fullName": "快打刑事 2 (日版, Model 2A)",
+        "simpleName": "快打刑事"
+      },
+      {
+        "romName": "dyndeka2b",
+        "fullName": "快打刑事 2 (日版, Model 2B)",
+        "simpleName": "快打刑事"
+      },
+      {
+        "romName": "rushbets",
+        "fullName": "快打刑事 - 修罗 (SNES 盗版)",
+        "simpleName": "快打刑事"
+      }
+    ],
+
+    "06 - 兽王记": [
+      {
+        "romName": "altbeast5d",
+        "fullName": "兽王记 (第5套) (盗版 FD1094 317-0069 set)",
+        "simpleName": "兽王记"
+      },
+      {
+        "romName": "altbeastbl",
+        "fullName": "兽王记 (数据版 盗版)",
+        "simpleName": "兽王记"
+      },
+      {
+        "romName": "altbeastbl2",
+        "fullName": "兽王记 (盗版)",
+        "simpleName": "兽王记"
+      },
+      {
+        "romName": "altbeastj3d",
+        "fullName": "兽王记 (第3套, 日版) (盗版 FD1094 317-0068 set)",
+        "simpleName": "兽王记"
+      },
+      {
+        "romName": "mutantwarr",
+        "fullName": "变异战士 (兽王记 - 数据版 盗版)",
+        "simpleName": "变异战士"
+      },
+
+      {
+        "romName": "altbeast",
+        "fullName": "兽王记 (第8套) (8751 317-0078)",
+        "simpleName": "兽王记"
+      },
+      {
+        "romName": "altbeast2",
+        "fullName": "兽王记 (第2套) (MC-8123B 317-0066)",
+        "simpleName": "兽王记"
+      },
+      {
+        "romName": "altbeast4",
+        "fullName": "兽王记 (第4套) (MC-8123B 317-0066)",
+        "simpleName": "兽王记"
+      },
+      {
+        "romName": "altbeast5",
+        "fullName": "兽王记 (第5套) (FD1094 317-0069)",
+        "simpleName": "兽王记"
+      },
+      {
+        "romName": "altbeast6",
+        "fullName": "兽王记 (第6套) (8751 317-0076)",
+        "simpleName": "兽王记"
+      },
+      {
+        "romName": "altbeastj",
+        "fullName": "兽王记 (第7套, 日版) (8751 317-0077)",
+        "simpleName": "兽王记"
+      },
+      {
+        "romName": "altbeastj1",
+        "fullName": "兽王记 (第1套, 日版) (FD1094 317-0065)",
+        "simpleName": "兽王记"
+      },
+      {
+        "romName": "altbeastj3",
+        "fullName": "兽王记 (第3套, 日版) (FD1094 317-0068)",
+        "simpleName": "兽王记"
+      },
+      {
+        "romName": "mt_beast",
+        "fullName": "兽王记 (Mega-Tech)",
+        "simpleName": "兽王记"
+      }
+    ],
+
+    "07 - 蜘蛛侠": [
+      {
+        "romName": "mt_spman",
+        "fullName": "蜘蛛侠 对 金并 (Mega-Tech)",
+        "simpleName": "蜘蛛侠"
+      },
+      {
+        "romName": "spidman",
+        "fullName": "蜘蛛侠 - 视频游戏 (世界版)",
+        "simpleName": "蜘蛛侠"
+      },
+      {
+        "romName": "spidmanj",
+        "fullName": "蜘蛛侠 - 视频游戏 (日版)",
+        "simpleName": "蜘蛛侠"
+      },
+      {
+        "romName": "spidmanu",
+        "fullName": "蜘蛛侠 - 视频游戏 (美版, 修订版 A)",
+        "simpleName": "蜘蛛侠"
+      }
+    ],
+
+    "08 - VR": [
+      {
+        "romName": "dygolf",
+        "fullName": "VR 高尔夫球 (修订版 A) (GDS-0009A)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "dygolfp",
+        "fullName": "VR 高尔夫球 (工程版)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vcop",
+        "fullName": "VR 战警 (修订版 B)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vcop2",
+        "fullName": "VR 战警 2",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vcop3",
+        "fullName": "VR 战警 3 (修订版 B) (GDX-0003B)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vcop3a",
+        "fullName": "VR 战警 3 (修订版 A) (GDX-0003A)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vcopa",
+        "fullName": "VR 战警 (修订版 A)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vf",
+        "fullName": "VR 战士",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vf2",
+        "fullName": "VR 战士 2 (版本 2.1)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vf2a",
+        "fullName": "VR 战士 2 (修订版 A)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vf2b",
+        "fullName": "VR 战士 2 (修订版 B)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vf2o",
+        "fullName": "VR 战士 2",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vf3",
+        "fullName": "VR 战士 3 (修订版 D)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vf3a",
+        "fullName": "VR 战士 3 (修订版 A)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vf3c",
+        "fullName": "VR 战士 3 (修订版 C)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vf3tb",
+        "fullName": "VR 战士 3 组队战 ",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vf4",
+        "fullName": "VR 战士 4 版本 C (GDS-0012C)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vf4b",
+        "fullName": "VR 战士 4 (修订版 B) (GDS-0012B)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vf4cart",
+        "fullName": "VR 战士 4 (世界版)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vf4evo",
+        "fullName": "VR 战士 4 - 进化版 (版本 B) (日版) (GDS-0024C)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vf4evoa",
+        "fullName": "VR 战士 4 - 进化版 (日版) (GDS-0024A)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vf4evob",
+        "fullName": "VR 战士 4 - 进化版 (版本 B) (日版) (GDS-0024B)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vf4evoct",
+        "fullName": "VR 战士 4 - 进化版 (世界版)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vf4o",
+        "fullName": "VR 战士 4 (GDS-0012)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vf4tuned",
+        "fullName": "VR 战士 4 - 最终调整版 (版本. B) (GDS-0036F)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vf4tuneda",
+        "fullName": "VR 战士 4 - 最终调整版 (修订版 A) (GDS-0036A)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vf4tunedd",
+        "fullName": "VR 战士 4 - 最终调整版 (版本. A) (GDS-0036D)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vf5",
+        "fullName": "VR 战士 5 (海外版)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vfkids",
+        "fullName": "VR 战士 口袋版 (JUET 960319 V0.000)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vformula",
+        "fullName": "VR 方程式赛车",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vfremix",
+        "fullName": "VR 战士 Remix (JUETBKAL 950428 V1.000)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "virnba",
+        "fullName": "VR 篮球 NBA (美版)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "virnbao",
+        "fullName": "VR 篮球 NBA ",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "virnbap",
+        "fullName": "VR 篮球 NBA (原型版)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "virnbapa",
+        "fullName": "VR 篮球 NBA (工程版, 15.11)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vr",
+        "fullName": "VR 赛车",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vs2",
+        "fullName": "VR 射手 2 (Step 2.0, 海外版, 美版)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vs2002ex",
+        "fullName": "VR 射手 2002 (海外版) (GDT-0002)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vs2002j",
+        "fullName": "VR 射手 2002 (日版) (GDT-0001)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vs2002t3",
+        "fullName": "VR 射手 2002 (Type 3) (GDT-0012)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vs215",
+        "fullName": "VR 射手 2 (Step 1.5, 海外版, 美版)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vs215o",
+        "fullName": "VR 射手 2 (Step 1.5, 日版)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vs298",
+        "fullName": "VR 射手 2 '98 (Step 2.0)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vs29815",
+        "fullName": "VR 射手 2 '98 (Step 1.5)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vs299",
+        "fullName": "VR 射手 2 '99 (海外版, 美版)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vs29915",
+        "fullName": "VR 射手 2 '99.1 (Step 1.5, 海外版, 美版, 修订版 B)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vs29915a",
+        "fullName": "VR 射手 2 '99 (Step 1.5, 海外版, 美版)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vs29915j",
+        "fullName": "VR 射手 2 '99.1 (Step 1.5, 日版, 修订版 B)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vs299a",
+        "fullName": "VR 射手 2 '99 (海外版, 美版, 修订版 A)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vs299j",
+        "fullName": "VR 射手 2 '99.1 (日版, 修订版 B)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vs2_2k",
+        "fullName": "VR 射手 2 Ver. 2000 (修订版 C)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vs2_2ko",
+        "fullName": "VR 射手 2 Ver. 2000",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vs2v991",
+        "fullName": "VR 射手 2 '99.1 (海外版, 美版, 修订版 B)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vs4",
+        "fullName": "VR 射手 4 (海外版, 修订版 A) (GDT-0015A)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vs42006",
+        "fullName": "VR 射手 4 版本 2006 (日版, 修订版 D) (GDT-0020D)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vs42006b",
+        "fullName": "VR 射手 4 版本 2006 (日版, 修订版 B) (GDT-0020B)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vs42k6ex",
+        "fullName": "VR 射手 4 版本 2006 (海外版) (GDT-0021)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vs4e",
+        "fullName": "VR 射手 4 (亚版, 修订版 B) (GDT-0014B)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vs4eo",
+        "fullName": "VR 射手 4 (亚版) (GDT-0014)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vs4j",
+        "fullName": "VR 射手 4 (日版, 修订版 E) (GDT-0013E)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vs4jc",
+        "fullName": "VR 射手 4 (日版, 修订版 C) (GDT-0013C)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vs4o",
+        "fullName": "VR 射手 4 (海外版) (GDT-0015)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vstrik3",
+        "fullName": "VR 射手 3 (GDS-0006)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vstrik3c",
+        "fullName": "VR 射手 3 (世界版, 修订版 B)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vstrik3co",
+        "fullName": "VR 射手 3 (世界版)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vstriker",
+        "fullName": "VR 射手 (修订版 A)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vstrikero",
+        "fullName": "VR 射手",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vtenis2c",
+        "fullName": "VR 网球 2 / 网球运动 2 (修订版 A)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vtennis",
+        "fullName": "VR 网球 ",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vtennis2",
+        "fullName": "VR 网球 2 / 网球运动 2 (修订版 A) (GDS-0015A)",
+        "simpleName": "VR"
+      },
+      {
+        "romName": "vtennisg",
+        "fullName": "VR 网球 (GDS-0011)",
+        "simpleName": "VR"
+      }
+    ],
+
+    "09 - 18 轮大卡车": [
+      {
+        "romName": "18wheelr",
+        "fullName": "18 轮大卡车 - 美国职业卡车司机 (豪华版, 修订版 A)",
+        "simpleName": "18"
+      },
+      {
+        "romName": "18wheelro",
+        "fullName": "18 轮: 美国重卡 (豪华版)",
+        "simpleName": "18"
+      },
+      {
+        "romName": "18wheelrt",
+        "fullName": "18 轮: 美国重卡 (豪华版, 修订版 T)",
+        "simpleName": "18"
+      },
+      {
+        "romName": "18wheels",
+        "fullName": "18 轮大卡车 - 美国职业卡车司机 (标准版)",
+        "simpleName": "18"
+      },
+      {
+        "romName": "18wheelu",
+        "fullName": "18 轮大卡车 - 美国职业卡车司机 (竖立机台)",
+        "simpleName": "18"
+      }
+    ],
+
+    "10 - 冲破火网": [
+      {
+        "romName": "abclimax",
+        "fullName": "冲破火网 高潮 (海外版)",
+        "simpleName": "冲破火网"
+      },
+      {
+        "romName": "aburner",
+        "fullName": "冲破火网",
+        "simpleName": "冲破火网"
+      },
+      {
+        "romName": "aburner2",
+        "fullName": "冲破火网 II",
+        "simpleName": "冲破火网"
+      },
+      {
+        "romName": "aburner2g",
+        "fullName": "冲破火网 II (德国版)",
+        "simpleName": "冲破火网"
+      },
+      {
+        "romName": "mt_aftrb",
+        "fullName": "冲破火网 (Mega-Tech, SMS based)",
+        "simpleName": "冲破火网"
+      }
+    ],
+
+    "11 - 战斗任务": [
+      {
+        "romName": "afighter",
+        "fullName": "战斗任务 (FD1089A 317-0018)",
+        "simpleName": "战斗任务"
+      },
+      {
+        "romName": "afightera",
+        "fullName": "战斗任务 (未保护版)",
+        "simpleName": "战斗任务"
+      },
+      {
+        "romName": "afighterb",
+        "fullName": "战斗任务 (未保护版, 模拟控制)",
+        "simpleName": "战斗任务"
+      },
+      {
+        "romName": "afighterc",
+        "fullName": "战斗任务 (FD1089B 317-未知)",
+        "simpleName": "战斗任务"
+      },
+      {
+        "romName": "afighterd",
+        "fullName": "战斗任务 (FD1089B 317-未知, 模拟控制)",
+        "simpleName": "战斗任务"
+      },
+      {
+        "romName": "afightere",
+        "fullName": "战斗任务 (系统 16B, 未保护版, 模拟控制)",
+        "simpleName": "战斗任务"
+      },
+      {
+        "romName": "afighterf",
+        "fullName": "战斗任务 (系统 16B, FD1089B 317-未知, 模拟控制)",
+        "simpleName": "战斗任务"
+      },
+      {
+        "romName": "afighterg",
+        "fullName": "战斗任务 (系统 16B, FD1089B 317-未知)",
+        "simpleName": "战斗任务"
+      },
+      {
+        "romName": "afighterh",
+        "fullName": "战斗任务 (系统 16B, FD1089A 317-0018)",
+        "simpleName": "战斗任务"
+      }
+    ],
+
+    "12 - 天空魔城": [
+      {
+        "romName": "alexkidd",
+        "fullName": "天空魔城 (第2套, 未保护版)",
+        "simpleName": "天空魔城"
+      },
+      {
+        "romName": "alexkidd1",
+        "fullName": "天空魔城 (第1套, FD1089A 317-0021)",
+        "simpleName": "天空魔城"
+      }
+    ],
+
+    "13 - 异形": [
+      {
+        "romName": "alien3",
+        "fullName": "异形 3 - 射击版 (世界版)",
+        "simpleName": "异形"
+      },
+      {
+        "romName": "alien3j",
+        "fullName": "异形 3 - 射击版 (日版)",
+        "simpleName": "异形"
+      },
+      {
+        "romName": "alien3u",
+        "fullName": "异形 3 - 射击版 (美版, 修订版 A)",
+        "simpleName": "异形"
+      },
+      {
+        "romName": "alienfnt",
+        "fullName": "异形前线 (修订版 T)",
+        "simpleName": "异形前线"
+      },
+      {
+        "romName": "alienfnta",
+        "fullName": "异形前线 (修订版 A)",
+        "simpleName": "异形前线"
+      },
+      {
+        "romName": "aliensyn",
+        "fullName": "异形入侵 (第4套, 系统 16B, 未保护版)",
+        "simpleName": "异形入侵"
+      },
+      {
+        "romName": "aliensyn2",
+        "fullName": "异形入侵 (第2套, 系统 16A, FD1089A 317-0033)",
+        "simpleName": "异形入侵"
+      },
+      {
+        "romName": "aliensyn3",
+        "fullName": "异形入侵 (第3套, 系统 16B, FD1089A 317-0033)",
+        "simpleName": "异形入侵"
+      },
+      {
+        "romName": "aliensyn5",
+        "fullName": "异形入侵 (第5套, 系统 16A, FD1089B 317-0037)",
+        "simpleName": "异形入侵"
+      },
+      {
+        "romName": "aliensyn7",
+        "fullName": "异形入侵 (第7套, 系统 16B, MC-8123B 317-00xx)",
+        "simpleName": "异形入侵"
+      },
+      {
+        "romName": "aliensynj",
+        "fullName": "异形入侵 (第6套, 日版, 新版, 系统 16B, FD1089A 317-0033)",
+        "simpleName": "异形入侵"
+      },
+      {
+        "romName": "aliensynjo",
+        "fullName": "异形入侵 (第1套, 日版, 旧版, 系统 16A, FD1089A 317-0033)",
+        "simpleName": "异形入侵"
+      },
+      {
+        "romName": "mt_asyn",
+        "fullName": "异形入侵 (Mega-Tech, SMS based)",
+        "simpleName": "异形入侵"
+      },
+      {
+        "romName": "astorm",
+        "fullName": "异形风暴 (世界版, 2 Players) (FD1094 317-0154)",
+        "simpleName": "异形风暴"
+      },
+      {
+        "romName": "astorm3",
+        "fullName": "异形风暴 (世界版, 3 Players) (FD1094 317-0148)",
+        "simpleName": "异形风暴"
+      },
+      {
+        "romName": "astormj",
+        "fullName": "异形风暴 (日版, 2 Players) (FD1094 317-0146)",
+        "simpleName": "异形风暴"
+      },
+      {
+        "romName": "astormu",
+        "fullName": "异形风暴 (美版, 3 Players) (FD1094 317-0147)",
+        "simpleName": "异形风暴"
+      },
+      {
+        "romName": "mt_astrm",
+        "fullName": "异形风暴 (Mega-Tech)",
+        "simpleName": "异形风暴"
+      },
+      {
+        "romName": "astorm3d",
+        "fullName": "异形风暴 (世界版, 3 Players) (盗版 FD1094 317-0148 set)",
+        "simpleName": "异形风暴"
+      },
+      {
+        "romName": "astormb2",
+        "fullName": "异形风暴 (盗版, 第2套)",
+        "simpleName": "异形风暴"
+      },
+      {
+        "romName": "astormbl",
+        "fullName": "异形风暴 (盗版, 第1套)",
+        "simpleName": "异形风暴"
+      },
+      {
+        "romName": "astormjd",
+        "fullName": "异形风暴 (日版, 2 Players) (盗版 FD1094 317-0146 set)",
+        "simpleName": "异形风暴"
+      },
+      {
+        "romName": "astormud",
+        "fullName": "异形风暴 (美版, 3 Players) (盗版 FD1094 317-0147 set)",
+        "simpleName": "异形风暴"
+      }
+    ],
+
+    "14 - 阿波罗": [
+      {
+        "romName": "apollo13",
+        "fullName": "阿波罗 13 号 (CPU 5.01, display A5.00)",
+        "simpleName": "阿波罗"
+      },
+      {
+        "romName": "apollo13_10",
+        "fullName": "阿波罗 13 号 (CPU 1.00, display A1.00)",
+        "simpleName": "阿波罗"
+      },
+      {
+        "romName": "apollo13_20",
+        "fullName": "阿波罗 13 号 (CPU 2.03, display A2.01)",
+        "simpleName": "阿波罗"
+      },
+      {
+        "romName": "apollo13_d4",
+        "fullName": "阿波罗 13 号 (CPU 5.01, display A4.01)",
+        "simpleName": "阿波罗"
+      }
+    ],
+
+    "15 - 银河号太空船": [
+      {
+        "romName": "astrob",
+        "fullName": "银河号太空船 (版本 3)",
+        "simpleName": "银河号太空船"
+      },
+      {
+        "romName": "astrob1",
+        "fullName": "银河号太空船 (版本 1)",
+        "simpleName": "银河号太空船"
+      },
+      {
+        "romName": "astrob2",
+        "fullName": "银河号太空船 (版本 2)",
+        "simpleName": "银河号太空船"
+      },
+      {
+        "romName": "astrob2a",
+        "fullName": "银河号太空船 (版本 2a)",
+        "simpleName": "银河号太空船"
+      },
+      {
+        "romName": "astrob2b",
+        "fullName": "银河号太空船 (版本 2b)",
+        "simpleName": "银河号太空船"
+      },
+      {
+        "romName": "astrobg",
+        "fullName": "银河号太空船 (德国版)",
+        "simpleName": "银河号太空船"
+      }
+    ],
+
+    "16 - 阿瓦隆之匙": [
+      {
+        "romName": "avalnc12",
+        "fullName": "阿瓦隆之匙 1.2 - 召唤新怪物 (client, 修订版 A) (GDT-0010A)",
+        "simpleName": "阿瓦隆之匙"
+      },
+      {
+        "romName": "avalnc13",
+        "fullName": "阿瓦隆之匙 1.3 - 混沌血宴 (client, 修订版 C) (GDT-0010C)",
+        "simpleName": "阿瓦隆之匙"
+      },
+      {
+        "romName": "avalnc25",
+        "fullName": "阿瓦隆之匙 2.5 - 关键之战 (client, 修订版 B) (GDT-0019B)",
+        "simpleName": "阿瓦隆之匙"
+      },
+      {
+        "romName": "avalnc25a",
+        "fullName": "阿瓦隆之匙 2.5 - 关键之战 (client, 修订版 A) (GDT-0019A)",
+        "simpleName": "阿瓦隆之匙"
+      },
+      {
+        "romName": "avalns12",
+        "fullName": "阿瓦隆之匙 1.2 - 召唤新怪物 (ser版本, 修订版 A) (GDT-0009A)",
+        "simpleName": "阿瓦隆之匙"
+      },
+      {
+        "romName": "avalns13",
+        "fullName": "阿瓦隆之匙 1.3 - 混沌血宴 (ser版本, 修订版 C) (GDT-0009C)",
+        "simpleName": "阿瓦隆之匙"
+      },
+      {
+        "romName": "avalns25",
+        "fullName": "阿瓦隆之匙 2.5 - 关键之战 (ser版本, 修订版 B) (GDT-0018B)",
+        "simpleName": "阿瓦隆之匙"
+      },
+      {
+        "romName": "avalns25a",
+        "fullName": "阿瓦隆之匙 2.5 - 关键之战 (ser版本, 修订版 A) (GDT-0018A)",
+        "simpleName": "阿瓦隆之匙"
+      },
+      {
+        "romName": "avalon20",
+        "fullName": "阿瓦隆之匙 2.0 - 秩序与戒条 (client, 修订版 B) (GDT-0017B)",
+        "simpleName": "阿瓦隆之匙"
+      },
+      {
+        "romName": "avalonc",
+        "fullName": "阿瓦隆之匙 - 大巫师 (client, 修订版 G) (GDT-0006G)",
+        "simpleName": "阿瓦隆之匙"
+      },
+      {
+        "romName": "avalonca",
+        "fullName": "阿瓦隆之匙 - 大巫师 (client, 修订版 A) (GDT-0006A)",
+        "simpleName": "阿瓦隆之匙"
+      },
+      {
+        "romName": "avaloncc",
+        "fullName": "阿瓦隆之匙 - 大巫师 (client, 修订版 C) (GDT-0006C)",
+        "simpleName": "阿瓦隆之匙"
+      },
+      {
+        "romName": "avalonce",
+        "fullName": "阿瓦隆之匙 - 大巫师 (client, 修订版 E) (GDT-0006E)",
+        "simpleName": "阿瓦隆之匙"
+      },
+      {
+        "romName": "avaloncf",
+        "fullName": "阿瓦隆之匙 - 大巫师 (client, 修订版 F) (GDT-0006F)",
+        "simpleName": "阿瓦隆之匙"
+      },
+      {
+        "romName": "avalons",
+        "fullName": "阿瓦隆之匙 - 大巫师 (ser版本, 修订版 G) (GDT-0005G)",
+        "simpleName": "阿瓦隆之匙"
+      },
+      {
+        "romName": "avalonsa",
+        "fullName": "阿瓦隆之匙 - 大巫师 (ser版本, 修订版 A) (GDT-0005A)",
+        "simpleName": "阿瓦隆之匙"
+      },
+      {
+        "romName": "avalonsc",
+        "fullName": "阿瓦隆之匙 - 大巫师 (ser版本, 修订版 C) (GDT-0005C)",
+        "simpleName": "阿瓦隆之匙"
+      },
+      {
+        "romName": "avalonse",
+        "fullName": "阿瓦隆之匙 - 大巫师 (ser版本, 修订版 E) (GDT-0005E)",
+        "simpleName": "阿瓦隆之匙"
+      },
+      {
+        "romName": "avalonsf",
+        "fullName": "阿瓦隆之匙 - 大巫师 (ser版本, 修订版 F) (GDT-0005F)",
+        "simpleName": "阿瓦隆之匙"
+      }
+    ],
+
+    "17 - 永远的蝙蝠侠": [
+      {
+        "romName": "batmanf",
+        "fullName": "永远的蝙蝠侠 (4.0)",
+        "simpleName": "永远的蝙蝠侠"
+      },
+      {
+        "romName": "batmanf1",
+        "fullName": "永远的蝙蝠侠 (1.02)",
+        "simpleName": "永远的蝙蝠侠"
+      },
+      {
+        "romName": "batmanf2",
+        "fullName": "永远的蝙蝠侠 (2.02)",
+        "simpleName": "永远的蝙蝠侠"
+      },
+      {
+        "romName": "batmanf3",
+        "fullName": "永远的蝙蝠侠 (3.0)",
+        "simpleName": "永远的蝙蝠侠"
+      },
+      {
+        "romName": "bmf_at",
+        "fullName": "永远的蝙蝠侠 (奥地利版)",
+        "simpleName": "永远的蝙蝠侠"
+      },
+      {
+        "romName": "bmf_be",
+        "fullName": "永远的蝙蝠侠 (Belgian)",
+        "simpleName": "永远的蝙蝠侠"
+      },
+      {
+        "romName": "bmf_ch",
+        "fullName": "永远的蝙蝠侠 (Swiss)",
+        "simpleName": "永远的蝙蝠侠"
+      },
+      {
+        "romName": "bmf_cn",
+        "fullName": "永远的蝙蝠侠 (Canadian)",
+        "simpleName": "永远的蝙蝠侠"
+      },
+      {
+        "romName": "bmf_de",
+        "fullName": "永远的蝙蝠侠 (德版)",
+        "simpleName": "永远的蝙蝠侠"
+      },
+      {
+        "romName": "bmf_fr",
+        "fullName": "永远的蝙蝠侠 (法版)",
+        "simpleName": "永远的蝙蝠侠"
+      },
+      {
+        "romName": "bmf_it",
+        "fullName": "永远的蝙蝠侠 (意大利版)",
+        "simpleName": "永远的蝙蝠侠"
+      },
+      {
+        "romName": "bmf_jp",
+        "fullName": "永远的蝙蝠侠 (日版)",
+        "simpleName": "永远的蝙蝠侠"
+      },
+      {
+        "romName": "bmf_nl",
+        "fullName": "永远的蝙蝠侠 (Dutch)",
+        "simpleName": "永远的蝙蝠侠"
+      },
+      {
+        "romName": "bmf_no",
+        "fullName": "永远的蝙蝠侠 (Norwegian)",
+        "simpleName": "永远的蝙蝠侠"
+      },
+      {
+        "romName": "bmf_sp",
+        "fullName": "永远的蝙蝠侠 (西班牙版)",
+        "simpleName": "永远的蝙蝠侠"
+      },
+      {
+        "romName": "bmf_sv",
+        "fullName": "永远的蝙蝠侠 (Swedish)",
+        "simpleName": "永远的蝙蝠侠"
+      },
+      {
+        "romName": "bmf_time",
+        "fullName": "永远的蝙蝠侠 (Timed Play)",
+        "simpleName": "永远的蝙蝠侠"
+      },
+      {
+        "romName": "bmf_uk",
+        "fullName": "永远的蝙蝠侠 (英版)",
+        "simpleName": "永远的蝙蝠侠"
+      }
+    ],
+    "18 - 海滩救护队": [
+      {
+        "romName": "bay_d300",
+        "fullName": "海滩救护队 弹珠台 (3.00 Dutch)",
+        "simpleName": "海滩救护队"
+      },
+      {
+        "romName": "bay_d400",
+        "fullName": "海滩救护队 弹珠台 (4.00 英版)",
+        "simpleName": "海滩救护队"
+      },
+      {
+        "romName": "bay_e400",
+        "fullName": "海滩救护队 弹珠台 (4.00 Dutch)",
+        "simpleName": "海滩救护队"
+      },
+      {
+        "romName": "bay_f201",
+        "fullName": "海滩救护队 弹珠台 (2.01 法版)",
+        "simpleName": "海滩救护队"
+      },
+      {
+        "romName": "bay_g300",
+        "fullName": "海滩救护队 (3.00 German)",
+        "simpleName": "海滩救护队"
+      },
+      {
+        "romName": "baywatch",
+        "fullName": "海滩救护队 弹珠台 ",
+        "simpleName": "海滩救护队"
+      }
+    ],
+
+    "19 - 龙凤神偷": [
+      {
+        "romName": "bnzabros",
+        "fullName": "龙凤神偷 (美版, 磁盘版 DS3-5000-07d?)",
+        "simpleName": "龙凤神偷"
+      },
+      {
+        "romName": "bnzabrosj",
+        "fullName": "龙凤神偷 (日版, 磁盘版 DS3-5000-07b)",
+        "simpleName": "龙凤神偷"
+      },
+      {
+        "romName": "ichir",
+        "fullName": "龙凤神偷 - 哥俩好 2 (世界版)",
+        "simpleName": "龙凤神偷"
+      },
+      {
+        "romName": "ichirj",
+        "fullName": "龙凤神偷 - 哥俩好 2 (日版)",
+        "simpleName": "龙凤神偷"
+      },
+      {
+        "romName": "ichirk",
+        "fullName": "龙凤神偷 - 哥俩好 2 (韩国版)",
+        "simpleName": "龙凤神偷"
+      },
+      {
+        "romName": "mt_bbros",
+        "fullName": "龙凤神偷 (Mega-Tech)",
+        "simpleName": "龙凤神偷"
+      },
+      {
+        "romName": "tantr",
+        "fullName": "龙凤神偷 - 哥俩好 (日版)",
+        "simpleName": "龙凤神偷"
+      },
+      {
+        "romName": "tantrkor",
+        "fullName": "龙凤神偷 - 哥俩好 (韩国版)",
+        "simpleName": "龙凤神偷"
+      }
+    ],
+
+    "20 - 嘉年华": [
+      {
+        "romName": "carnival",
+        "fullName": "嘉年华 (直立型, AY8912 music)",
+        "simpleName": "嘉年华"
+      },
+      {
+        "romName": "carnivalb",
+        "fullName": "嘉年华 (直立型, PIT8253 music)",
+        "simpleName": "嘉年华"
+      },
+      {
+        "romName": "carnivalc",
+        "fullName": "嘉年华 (平躺型)",
+        "simpleName": "嘉年华"
+      },
+      {
+        "romName": "carnivalca",
+        "fullName": "嘉年华 (平躺型, 早期版)",
+        "simpleName": "嘉年华"
+      },
+      {
+        "romName": "carnivalh",
+        "fullName": "嘉年华 (赛车精灵 硬件, 第1套)",
+        "simpleName": "嘉年华"
+      },
+      {
+        "romName": "carnivalha",
+        "fullName": "嘉年华 (赛车精灵 硬件, 第2套)",
+        "simpleName": "嘉年华"
+      }
+    ],
+
+    "21 - 网球绝招": [
+      {
+        "romName": "cencourt",
+        "fullName": "网球绝招 - 近身攻击 (世界版, 4 Players, 工程版) (MC-8123B)",
+        "simpleName": "网球绝招"
+      },
+      {
+        "romName": "passsht",
+        "fullName": "网球绝招 - 近身攻击 (世界版, 2 Players) (FD1094 317-0080)",
+        "simpleName": "网球绝招"
+      },
+      {
+        "romName": "passsht16a",
+        "fullName": "网球绝招 - 近身攻击 (日版, 4 Players, 系统 16A) (FD1094 317-0071)",
+        "simpleName": "网球绝招"
+      },
+      {
+        "romName": "passshta",
+        "fullName": "网球绝招 - 近身攻击 (世界版, 4 Players) (FD1094 317-0074)",
+        "simpleName": "网球绝招"
+      },
+      {
+        "romName": "passshtj",
+        "fullName": "网球绝招 - 近身攻击 (日版, 4 Players) (FD1094 317-0070)",
+        "simpleName": "网球绝招"
+      }
+    ],
+
+    "22 - 赛车俱乐部": [
+      {
+        "romName": "clubk2k3",
+        "fullName": "赛车俱乐部 - 欧洲站 (2003, 修订版 A)",
+        "simpleName": "赛车俱乐部"
+      },
+      {
+        "romName": "clubk2kp",
+        "fullName": "赛车俱乐部 - 欧洲站 (2003, 原型版, 第 1 套)",
+        "simpleName": "赛车俱乐部"
+      },
+      {
+        "romName": "clubk2kpa",
+        "fullName": "赛车俱乐部 - 欧洲站 (2003, 原型版, 第 2 套)",
+        "simpleName": "赛车俱乐部"
+      },
+      {
+        "romName": "clubkrt",
+        "fullName": "赛车俱乐部 - 欧洲站 (修订版 D)",
+        "simpleName": "赛车俱乐部"
+      },
+      {
+        "romName": "clubkrta",
+        "fullName": "赛车俱乐部 - 欧洲站 (修订版 A)",
+        "simpleName": "赛车俱乐部"
+      },
+      {
+        "romName": "clubkrtc",
+        "fullName": "赛车俱乐部 - 欧洲站 (修订版 C)",
+        "simpleName": "赛车俱乐部"
+      },
+      {
+        "romName": "clubkrto",
+        "fullName": "赛车俱乐部 - 欧洲站 ",
+        "simpleName": "赛车俱乐部"
+      }
+    ],
+
+    "23 - 宝石方块": [
+      {
+        "romName": "column2j",
+        "fullName": "宝石方块 II - 穿越时间的旅程 (日版)",
+        "simpleName": "宝石方块"
+      },
+      {
+        "romName": "columns",
+        "fullName": "宝石方块 (世界版)",
+        "simpleName": "宝石方块"
+      },
+      {
+        "romName": "columns2",
+        "fullName": "宝石方块 II - 穿越时间的旅程 (世界版)",
+        "simpleName": "宝石方块"
+      },
+      {
+        "romName": "columnsj",
+        "fullName": "宝石方块 (日版)",
+        "simpleName": "宝石方块"
+      },
+      {
+        "romName": "columnsu",
+        "fullName": "宝石方块 (美版, 分屏, 修订版 A)",
+        "simpleName": "宝石方块"
+      }
+    ],
+
+    "24 - 棉花小魔女": [
+      {
+        "romName": "cotton",
+        "fullName": "棉花小魔女 (第4套, 世界版) (FD1094 317-0181a)",
+        "simpleName": "棉花小魔女"
+      },
+      {
+        "romName": "cottonj",
+        "fullName": "棉花小魔女 (第2套, 日版, 修订版 B) (FD1094 317-0179b)",
+        "simpleName": "棉花小魔女"
+      },
+      {
+        "romName": "cottonja",
+        "fullName": "棉花小魔女 (第1套, 日版, 修订版 A) (FD1094 317-0179a)",
+        "simpleName": "棉花小魔女"
+      },
+      {
+        "romName": "cottonu",
+        "fullName": "棉花小魔女 (第3套, 美版) (FD1094 317-0180)",
+        "simpleName": "棉花小魔女"
+      },
+
+      {
+        "romName": "cottond",
+        "fullName": "棉花小魔女 (第4套, 世界版) (盗版 FD1094 317-0181a set)",
+        "simpleName": "棉花小魔女"
+      },
+      {
+        "romName": "cottonjad",
+        "fullName": "棉花小魔女 (第1套, 日版, 修订版 A) (盗版 FD1094 317-0179a set)",
+        "simpleName": "棉花小魔女"
+      },
+      {
+        "romName": "cottonjd",
+        "fullName": "棉花小魔女 (第2套, 日版, 修订版 B) (盗版 FD1094 317-0179b set)",
+        "simpleName": "棉花小魔女"
+      },
+      {
+        "romName": "cottonud",
+        "fullName": "棉花小魔女 (第3套, 美版) (盗版 FD1094 317-0180 set)",
+        "simpleName": "棉花小魔女"
+      }
+    ],
+
+    "25 - 紧急任务": [
+      {
+        "romName": "crkdown",
+        "fullName": "紧急任务 (世界版, 磁盘版, FD1094 317-0058-04c)",
+        "simpleName": "紧急任务"
+      },
+      {
+        "romName": "crkdownj",
+        "fullName": "紧急任务 (日版, 磁盘版, FD1094 317-0058-04b 修订版 A)",
+        "simpleName": "紧急任务"
+      },
+      {
+        "romName": "crkdownu",
+        "fullName": "紧急任务 (美版, 磁盘版, FD1094 317-0058-04d)",
+        "simpleName": "紧急任务"
+      },
+      {
+        "romName": "mt_crack",
+        "fullName": "紧急任务 (Mega-Tech)",
+        "simpleName": "紧急任务"
+      },
+      {
+        "romName": "spcmission",
+        "fullName": "紧急任务 (SegaSA / Sonic, 西班牙版 盗版 紧急起飞)",
+        "simpleName": "紧急任务"
+      }
+    ],
+
+    "26 - 梦游美国": [
+      {
+        "romName": "dayto2pe",
+        "fullName": "梦游美国 2 动力版 (日版)",
+        "simpleName": "梦游美国"
+      },
+      {
+        "romName": "daytona",
+        "fullName": "梦游美国 (修订版 A)",
+        "simpleName": "梦游美国"
+      },
+      {
+        "romName": "daytona2",
+        "fullName": "梦游美国 2 (日版, 修订版 A)",
+        "simpleName": "梦游美国"
+      },
+      {
+        "romName": "daytona93",
+        "fullName": "梦游美国",
+        "simpleName": "梦游美国"
+      },
+      {
+        "romName": "daytonas",
+        "fullName": "梦游美国 (土星广告版)",
+        "simpleName": "梦游美国"
+      },
+      {
+        "romName": "daytonase",
+        "fullName": "梦游美国 特别版 (修订版 A)",
+        "simpleName": "梦游美国"
+      },
+      {
+        "romName": "magzun",
+        "fullName": "梦游美国 - 能量 (J 961031 V1.000)",
+        "simpleName": "梦游美国"
+      }
+    ],
+    "27 - 龙珠": [
+      {
+        "romName": "dbzvrvs",
+        "fullName": "龙珠 Z V.R.V.S. (日版, 修订版 A)",
+        "simpleName": "龙珠"
+      },
+      {
+        "romName": "dbz2bl",
+        "fullName": "龙珠 Z 2 - 超武斗大会 (盗版)",
+        "simpleName": "龙珠"
+      }
+    ],
+
+    "28 - 除暴部队": [
+      {
+        "romName": "ddcrew",
+        "fullName": "除暴部队 (世界版, 3 Players) (FD1094 317-0190)",
+        "simpleName": "除暴部队"
+      },
+      {
+        "romName": "ddcrew1",
+        "fullName": "除暴部队 (世界版, 4 Players) (FD1094 317-0187)",
+        "simpleName": "除暴部队"
+      },
+      {
+        "romName": "ddcrew2",
+        "fullName": "除暴部队 (世界版, 2 Players) (FD1094 317-0184)",
+        "simpleName": "除暴部队"
+      },
+      {
+        "romName": "ddcrewj",
+        "fullName": "除暴部队 (日版, 4 Players) (FD1094 317-0185)",
+        "simpleName": "除暴部队"
+      },
+      {
+        "romName": "ddcrewj2",
+        "fullName": "除暴部队 (日版, 2 Players) (FD1094 317-0182)",
+        "simpleName": "除暴部队"
+      },
+      {
+        "romName": "ddcrewu",
+        "fullName": "除暴部队 (美版, 4 Players) (FD1094 317-0186)",
+        "simpleName": "除暴部队"
+      },
+      {
+        "romName": "ddcrew1d",
+        "fullName": "除暴部队 (世界版, 4 Players) (盗版 FD1094 317-0187 set)",
+        "simpleName": "除暴部队"
+      },
+      {
+        "romName": "ddcrew2d",
+        "fullName": "除暴部队 (世界版, 2 Players) (盗版 FD1094 317-0184 set)",
+        "simpleName": "除暴部队"
+      },
+      {
+        "romName": "ddcrewbl",
+        "fullName": "除暴部队 (盗版)",
+        "simpleName": "除暴部队"
+      },
+      {
+        "romName": "ddcrewd",
+        "fullName": "除暴部队 (世界版, 3 Players) (盗版 FD1094 317-0190 set)",
+        "simpleName": "除暴部队"
+      },
+      {
+        "romName": "ddcrewj2d",
+        "fullName": "除暴部队 (日版, 2 Players) (盗版 FD1094 317-0182 set)",
+        "simpleName": "除暴部队"
+      },
+      {
+        "romName": "ddcrewjd",
+        "fullName": "除暴部队 (日版, 4 Players) (盗版 FD1094 317-0185 set)",
+        "simpleName": "除暴部队"
+      },
+      {
+        "romName": "ddcrewud",
+        "fullName": "除暴部队 (美版, 4 Players) (盗版 FD1094 317-0186 set)",
+        "simpleName": "除暴部队"
+      }
+    ],
+
+    "29 - 养马俱乐部": [
+      {
+        "romName": "derbyoc",
+        "fullName": "养马俱乐部 Club (日版, 修订版 B)",
+        "simpleName": "养马俱乐部"
+      },
+      {
+        "romName": "derbyocw",
+        "fullName": "养马俱乐部 全球版EX (修订版 D)",
+        "simpleName": "养马俱乐部"
+      },
+      {
+        "romName": "derbyo2k",
+        "fullName": "养马俱乐部2000 版本.2 (日版, 修订版 A)",
+        "simpleName": "养马俱乐部2000"
+      },
+      {
+        "romName": "derbyoc2",
+        "fullName": "养马俱乐部II 2.1版 (日版, 修订版 B)",
+        "simpleName": "养马俱乐部II"
+      },
+      {
+        "romName": "drbyocwa",
+        "fullName": "赛马俱乐部 世界版 (修订版 A)",
+        "simpleName": "赛马俱乐部"
+      },
+      {
+        "romName": "drbyocwb",
+        "fullName": "赛马俱乐部 世界版 (修订版 B)",
+        "simpleName": "赛马俱乐部"
+      },
+      {
+        "romName": "drbyocwc",
+        "fullName": "赛马俱乐部 世界版 (修订版 C)",
+        "simpleName": "赛马俱乐部"
+      },
+      {
+        "romName": "drbyocwt",
+        "fullName": "赛马俱乐部 世界版 (修订版 T)",
+        "simpleName": "赛马俱乐部"
+      },
+      {
+        "romName": "jclub2bl",
+        "fullName": "赛马俱乐部 II (美版 v4.00, 盗版)",
+        "simpleName": "赛马俱乐部"
+      }
+    ],
+
+    "30 - 古代王者": [
+      {
+        "romName": "dinoki25",
+        "fullName": "古代王者 恐龙王-D队VS阿尔法要塞 (海外版, 版本 2.500) (MDA-C0047)",
+        "simpleName": "古代王者"
+      },
+      {
+        "romName": "dinoki4",
+        "fullName": "古代王者 恐龙王-醒觉吧!新的力量!! (日版, 版本 4.000) (MDA-C0061)",
+        "simpleName": "古代王者"
+      },
+      {
+        "romName": "dinokich",
+        "fullName": "古代王者 恐龙王-D队VS阿尔法要塞 (中国版, 版本 2.501) (MDA-C0081)",
+        "simpleName": "古代王者"
+      },
+      {
+        "romName": "dinoking",
+        "fullName": "古代王者 恐龙王 (美版)",
+        "simpleName": "古代王者"
+      },
+      {
+        "romName": "dinokior",
+        "fullName": "古代王者 恐龙王-行动 - 恐龙救援 (美版, 海外版) (MDA-C0021)",
+        "simpleName": "古代王者"
+      }
+    ],
+
+    "31 - 越野障碍赛": [
+      {
+        "romName": "dirtdvls",
+        "fullName": "越野障碍赛 (海外版, 修订版 A)",
+        "simpleName": "越野障碍赛"
+      },
+      {
+        "romName": "dirtdvlsau",
+        "fullName": "越野障碍赛 (澳大利亚版, 修订版 A)",
+        "simpleName": "越野障碍赛"
+      },
+      {
+        "romName": "dirtdvlsg",
+        "fullName": "越野障碍赛 (海外版, 版本. G?)",
+        "simpleName": "越野障碍赛"
+      },
+      {
+        "romName": "dirtdvlsj",
+        "fullName": "越野障碍赛 (日版, 修订版 A)",
+        "simpleName": "越野障碍赛"
+      },
+      {
+        "romName": "dirtdvlsu",
+        "fullName": "越野障碍赛 (美版, 修订版 A)",
+        "simpleName": "越野障碍赛"
+      }
+    ],
+
+    "32 - 龙之秘宝": [
+      {
+        "romName": "dragntr",
+        "fullName": "龙之秘宝 (修订版 B) (GDS-0030B)",
+        "simpleName": "龙之秘宝"
+      },
+      {
+        "romName": "dragntra",
+        "fullName": "龙之秘宝 (修订版 A) (GDS-0030A)",
+        "simpleName": "龙之秘宝"
+      },
+      {
+        "romName": "dragntr3",
+        "fullName": "龙之秘宝3 (修订版 A) (GDS-0041A)",
+        "simpleName": "龙之秘宝3"
+      },
+      {
+        "romName": "dragntr2",
+        "fullName": "龙之秘宝2 (修订版 A) (GDS-0037A)",
+        "simpleName": "龙之秘宝2"
+      }
+    ],
+    "33 - 法拉利": [
+      {
+        "romName": "f355",
+        "fullName": "法拉利 F355 挑战赛 (豪华版, 无联网)",
+        "simpleName": "法拉利"
+      },
+      {
+        "romName": "f355p",
+        "fullName": "法拉利 F355 挑战赛 (private show 版本)",
+        "simpleName": "法拉利"
+      },
+      {
+        "romName": "f355twin",
+        "fullName": "法拉利 F355 挑战赛 (双打/豪华版)",
+        "simpleName": "法拉利"
+      },
+      {
+        "romName": "f355twinp",
+        "fullName": "法拉利 F355 挑战赛 (双打/豪华版, 预览版)",
+        "simpleName": "法拉利"
+      },
+      {
+        "romName": "f355twn2",
+        "fullName": "法拉利 F355 挑战赛2 - 国际课程版 (双打/豪华版)",
+        "simpleName": "法拉利"
+      }
+    ],
+
+    "34 - 神奇地带": [
+      {
+        "romName": "fantzn2",
+        "fullName": "神奇地带 II - 奥帕的眼泪 (MC-8123, 317-0057)",
+        "simpleName": "神奇地带"
+      },
+      {
+        "romName": "fantzn2x",
+        "fullName": "神奇地带 II - 奥帕的眼泪 (系统 16C 版本)",
+        "simpleName": "神奇地带"
+      },
+      {
+        "romName": "fantzn2xp",
+        "fullName": "神奇地带 II - 奥帕的眼泪 (系统 16C 版本, 工程版)",
+        "simpleName": "神奇地带"
+      },
+      {
+        "romName": "fantzone",
+        "fullName": "神奇地带 (修订版 A, 未保护版)",
+        "simpleName": "神奇地带"
+      },
+      {
+        "romName": "fantzone1",
+        "fullName": "神奇地带 (未保护版)",
+        "simpleName": "神奇地带"
+      },
+      {
+        "romName": "fantzonee",
+        "fullName": "神奇地带 (FD1089B 317-0016)",
+        "simpleName": "神奇地带"
+      },
+      {
+        "romName": "fantzonep",
+        "fullName": "神奇地带 (317-5000)",
+        "simpleName": "神奇地带"
+      },
+      {
+        "romName": "fantzonepr",
+        "fullName": "神奇地带 (工程版)",
+        "simpleName": "神奇地带"
+      },
+      {
+        "romName": "fanzonem",
+        "fullName": "神奇地带 (medal game, 修订版.A) (J 990202 V1.000)",
+        "simpleName": "神奇地带"
+      },
+      {
+        "romName": "mt_fz",
+        "fullName": "神奇地带 (Mega-Tech, SMS based)",
+        "simpleName": "神奇地带"
+      },
+      {
+        "romName": "opaopa",
+        "fullName": "神奇地带 (MC-8123, 317-0042)",
+        "simpleName": "神奇地带"
+      },
+      {
+        "romName": "opaopan",
+        "fullName": "神奇地带 (修订版 A, 未保护)",
+        "simpleName": "神奇地带"
+      },
+      {
+        "romName": "fantzoneta",
+        "fullName": "神奇地带 (Time Attack, 盗版)",
+        "simpleName": "神奇地带"
+      }
+    ],
+
+    "35 - 小鸟妃奇": [
+      {
+        "romName": "flicky",
+        "fullName": "小鸟妃奇 (128k 版本, 315-5051)",
+        "simpleName": "小鸟妃奇"
+      },
+      {
+        "romName": "flickya",
+        "fullName": "小鸟妃奇 (128k 版本, 315-5051, 大数据)",
+        "simpleName": "小鸟妃奇"
+      },
+      {
+        "romName": "flickyo",
+        "fullName": "小鸟妃奇 (64k 版本, 315-5051, 第1套)",
+        "simpleName": "小鸟妃奇"
+      },
+      {
+        "romName": "flickys1",
+        "fullName": "小鸟妃奇 (64k 版本, 315-5051, 第2套)",
+        "simpleName": "小鸟妃奇"
+      },
+      {
+        "romName": "flickys2",
+        "fullName": "小鸟妃奇 (128k 版本, 未加密版)",
+        "simpleName": "小鸟妃奇"
+      },
+      {
+        "romName": "flickyup",
+        "fullName": "小鸟妃奇 (64k 版本, on Up'n Down boardset)",
+        "simpleName": "小鸟妃奇"
+      },
+      {
+        "romName": "flickyb",
+        "fullName": "小鸟妃奇（128k 版本，315-5051，更大的 ROM，更新）",
+        "simpleName": "小鸟妃奇（128k）"
+      },
+      {
+        "romName": "flickyupa",
+        "fullName": "小鸟妃奇 (64k 版本, on Up'n Down boardset, set 2)",
+        "simpleName": "小鸟妃奇"
+      }
+    ],
+
+    "36 - 青蛙过河": [
+      {
+        "romName": "froggermc",
+        "fullName": "青蛙过河 (月冠登陆艇 硬件)",
+        "simpleName": "青蛙过河"
+      },
+      {
+        "romName": "froggers1",
+        "fullName": "青蛙过河 (世嘉 第1套)",
+        "simpleName": "青蛙过河"
+      },
+      {
+        "romName": "froggers2",
+        "fullName": "青蛙过河 (世嘉 第2套)",
+        "simpleName": "青蛙过河"
+      },
+      {
+        "romName": "froggers3",
+        "fullName": "青蛙过河 (世嘉 第3套)",
+        "simpleName": "青蛙过河"
+      },
+      {
+        "romName": "froggert",
+        "fullName": "青蛙过河 (Turtles 硬件)",
+        "simpleName": "青蛙过河"
+      },
+      {
+        "romName": "froggeram",
+        "fullName": "青蛙过河 (盗版 阿米戈? 硬件)",
+        "simpleName": "青蛙过河"
+      },
+      {
+        "romName": "froggereb",
+        "fullName": "青蛙过河 - 新系列 92 (盗版)",
+        "simpleName": "青蛙过河"
+      },
+      {
+        "romName": "froggerv",
+        "fullName": "青蛙过河 (Videotron 盗版)",
+        "simpleName": "青蛙过河"
+      },
+      {
+        "romName": "froggervd",
+        "fullName": "青蛙过河 (Hermatic, 盗版 紧急起飞 硬件 视频仓库)",
+        "simpleName": "青蛙过河"
+      },
+      {
+        "romName": "froggrs",
+        "fullName": "青蛙过河 (Coin Music, 盗版 紧急起飞 硬件)",
+        "simpleName": "青蛙过河"
+      }
+    ],
+
+    "37 - 格斗之蛇": [
+      {
+        "romName": "fvipers",
+        "fullName": "格斗之蛇 (修订版 D)",
+        "simpleName": "格斗之蛇"
+      },
+      {
+        "romName": "fvipers2",
+        "fullName": "格斗之蛇 2 (日版, 修订版 A)",
+        "simpleName": "格斗之蛇"
+      },
+      {
+        "romName": "fvipers2o",
+        "fullName": "格斗之蛇 2 (日版)",
+        "simpleName": "格斗之蛇"
+      },
+      {
+        "romName": "fvipersb",
+        "fullName": "格斗之蛇 (修订版 B)",
+        "simpleName": "格斗之蛇"
+      }
+    ],
+
+    "38 - 世嘉五代": [
+      {
+        "romName": "genesis",
+        "fullName": "世嘉五代 (美版, NTSC)",
+        "simpleName": "世嘉五代"
+      },
+      {
+        "romName": "genesis_tmss",
+        "fullName": "世嘉五代 (美版, NTSC, with TMSS chip)",
+        "simpleName": "世嘉五代"
+      },
+      {
+        "romName": "megadrij",
+        "fullName": "世嘉五代 (日版, NTSC)",
+        "simpleName": "世嘉五代"
+      },
+      {
+        "romName": "megadriv",
+        "fullName": "世嘉五代 (欧版, PAL)",
+        "simpleName": "世嘉五代"
+      }
+    ],
+
+    "39 - 星际大争霸": [
+      {
+        "romName": "gforce2",
+        "fullName": "星际大争霸 2",
+        "simpleName": "星际大争霸"
+      },
+      {
+        "romName": "gforce2j",
+        "fullName": "星际大争霸 2 (日版)",
+        "simpleName": "星际大争霸"
+      },
+      {
+        "romName": "gforce2ja",
+        "fullName": "星际大争霸 2 (日版, 修订版 A)",
+        "simpleName": "星际大争霸"
+      },
+      {
+        "romName": "gforce2sd",
+        "fullName": "星际大争霸 2 (超豪华单元)",
+        "simpleName": "星际大争霸"
+      }
+    ],
+
+    "40 - 空战神兵": [
+      {
+        "romName": "gloc",
+        "fullName": "空战神兵 (世界版)",
+        "simpleName": "空战神兵"
+      },
+      {
+        "romName": "glocr360",
+        "fullName": "空战神兵 R360 (世界版)",
+        "simpleName": "空战神兵"
+      },
+      {
+        "romName": "glocr360j",
+        "fullName": "空战神兵 R360 (日版)",
+        "simpleName": "空战神兵"
+      },
+      {
+        "romName": "glocu",
+        "fullName": "空战神兵 (美版)",
+        "simpleName": "空战神兵"
+      }
+    ],
+    "41 - 摩托车": [
+      {
+        "romName": "gprider",
+        "fullName": "超真实 GP 摩托车 (世界版, FD1094 317-0163) (双打设置)",
+        "simpleName": "超真实"
+      },
+      {
+        "romName": "gpriderj",
+        "fullName": "超真实 GP 摩托车 (日版, FD1094 317-0161) (双打设置)",
+        "simpleName": "超真实"
+      },
+      {
+        "romName": "gpriderjs",
+        "fullName": "超真实 GP 摩托车 (日版, FD1094 317-0161)",
+        "simpleName": "超真实"
+      },
+      {
+        "romName": "gpriders",
+        "fullName": "超真实 GP 摩托车 (世界版, FD1094 317-0163)",
+        "simpleName": "超真实"
+      },
+      {
+        "romName": "gprideru",
+        "fullName": "超真实 GP 摩托车 (美版, FD1094 317-0162) (双打设置)",
+        "simpleName": "超真实"
+      },
+      {
+        "romName": "gpriderus",
+        "fullName": "超真实 GP 摩托车 (美版, FD1094 317-0162)",
+        "simpleName": "超真实"
+      },
+      {
+        "romName": "hangon",
+        "fullName": "世嘉摩托车大赛 (修订版 A)",
+        "simpleName": "世嘉摩托车大赛"
+      },
+      {
+        "romName": "hangon1",
+        "fullName": "世嘉摩托车大赛",
+        "simpleName": "世嘉摩托车大赛"
+      },
+      {
+        "romName": "hangon2",
+        "fullName": "世嘉摩托车大赛 (修订版 A, ride-on)",
+        "simpleName": "世嘉摩托车大赛"
+      },
+      {
+        "romName": "hangonjr",
+        "fullName": "世嘉摩托车大赛 85 JR (修订版 B)",
+        "simpleName": "世嘉摩托车大赛"
+      },
+      {
+        "romName": "shangonrb",
+        "fullName": "超级世嘉摩托车大赛 (世嘉摩托车大赛 转换版, 盗版)",
+        "simpleName": "超级世嘉摩托车大赛"
+      },
+      {
+        "romName": "shangonrb2",
+        "fullName": "超级世嘉摩托车大赛 转换版 (世嘉摩托车大赛 转换版, 测试版 盗版)",
+        "simpleName": "超级世嘉摩托车大赛"
+      },
+      {
+        "romName": "mt_shang",
+        "fullName": "超级摩托车 (Mega-Tech)",
+        "simpleName": "超级摩托车"
+      },
+      {
+        "romName": "shangon",
+        "fullName": "超级摩托车 (sitdown/直立型) (未保护)",
+        "simpleName": "超级摩托车"
+      },
+      {
+        "romName": "shangon1",
+        "fullName": "超级摩托车 (mini ride-on) (FD1089B 317-0034)",
+        "simpleName": "超级摩托车"
+      },
+      {
+        "romName": "shangon2",
+        "fullName": "超级摩托车 (mini ride-on, 修订版 A) (FD1089B 317-0034)",
+        "simpleName": "超级摩托车"
+      },
+      {
+        "romName": "shangon3",
+        "fullName": "超级摩托车 (sitdown/直立型) (FD1089B 317-0034)",
+        "simpleName": "超级摩托车"
+      },
+      {
+        "romName": "shangonle",
+        "fullName": "超级摩托车 限量版",
+        "simpleName": "超级摩托车"
+      },
+      {
+        "romName": "motoraid",
+        "fullName": "摩托竞赛 - 双人版",
+        "simpleName": "摩托竞赛"
+      },
+      {
+        "romName": "motoraiddx",
+        "fullName": "摩托竞赛 - 双人版/DX",
+        "simpleName": "摩托竞赛"
+      },
+      {
+        "romName": "shangonho",
+        "fullName": "超级世嘉摩托车大赛 (世嘉摩托车大赛 转换版, 日版, FD1094 317-0039)",
+        "simpleName": "超级世嘉摩托车大赛"
+      },
+      {
+        "romName": "shangonro",
+        "fullName": "超级世嘉摩托车大赛 (世嘉摩托车大赛 转换版, ride-on, 日版, FD1094 317-0038)",
+        "simpleName": "超级世嘉摩托车大赛"
+      },
+      {
+        "romName": "wrungp",
+        "fullName": "水上摩托 GP 大奖赛",
+        "simpleName": "水上摩托"
+      },
+      {
+        "romName": "wrungpo",
+        "fullName": "水上摩托 GP 大奖赛 (美版, 修订版 A)",
+        "simpleName": "水上摩托"
+      }
+    ],
+
+    "42 - 哈雷机车": [
+      {
+        "romName": "harl_a10",
+        "fullName": "哈雷机车 (Sega, CPU 1.03, display A1.00)",
+        "simpleName": "哈雷机车"
+      },
+      {
+        "romName": "harl_a13",
+        "fullName": "哈雷机车 (Sega, CPU 1.03, display A1.04)",
+        "simpleName": "哈雷机车"
+      },
+      {
+        "romName": "harl_f13",
+        "fullName": "哈雷机车 (Sega, CPU 1.03, display F1.04, France)",
+        "simpleName": "哈雷机车"
+      },
+      {
+        "romName": "harl_g13",
+        "fullName": "哈雷机车 (Sega, CPU 1.03, display G1.04, 德版)",
+        "simpleName": "哈雷机车"
+      },
+      {
+        "romName": "harl_i13",
+        "fullName": "哈雷机车 (Sega, CPU 1.03, display I1.04, 意大利版)",
+        "simpleName": "哈雷机车"
+      },
+      {
+        "romName": "harl_l13",
+        "fullName": "哈雷机车 (Sega, CPU 1.03, display L1.04, Spain)",
+        "simpleName": "哈雷机车"
+      },
+      {
+        "romName": "harl_u13",
+        "fullName": "哈雷机车 (Sega, CPU 1.03, display A1.04, UK)",
+        "simpleName": "哈雷机车"
+      },
+      {
+        "romName": "harley",
+        "fullName": "哈雷机车 (修订版 B)",
+        "simpleName": "哈雷机车"
+      },
+      {
+        "romName": "harleya",
+        "fullName": "哈雷机车 (修订版 A)",
+        "simpleName": "哈雷机车"
+      }
+    ],
+
+    "43 - 死亡之屋": [
+      {
+        "romName": "hotd",
+        "fullName": "死亡之屋 (修订版 A)",
+        "simpleName": "死亡之屋"
+      },
+      {
+        "romName": "hotd2",
+        "fullName": "死亡之屋 2 (美版)",
+        "simpleName": "死亡之屋"
+      },
+      {
+        "romName": "hotd2e",
+        "fullName": "死亡之屋 2 (海外版)",
+        "simpleName": "死亡之屋"
+      },
+      {
+        "romName": "hotd2o",
+        "fullName": "死亡之屋 2",
+        "simpleName": "死亡之屋"
+      },
+      {
+        "romName": "hotd2p",
+        "fullName": "死亡之屋 2 (工程版)",
+        "simpleName": "死亡之屋"
+      },
+      {
+        "romName": "hotd3",
+        "fullName": "死亡之屋 III (GDX-0001)",
+        "simpleName": "死亡之屋"
+      },
+      {
+        "romName": "hotd4",
+        "fullName": "死亡之屋 4 (海外版) (修订版 B)",
+        "simpleName": "死亡之屋"
+      },
+      {
+        "romName": "hotd4a",
+        "fullName": "死亡之屋 4 (海外版) (修订版 A)",
+        "simpleName": "死亡之屋"
+      },
+      {
+        "romName": "hotdex",
+        "fullName": "死亡之屋 特别版 (日版)",
+        "simpleName": "死亡之屋"
+      },
+      {
+        "romName": "hotdo",
+        "fullName": "死亡之屋 ",
+        "simpleName": "死亡之屋"
+      },
+      {
+        "romName": "hotdp",
+        "fullName": "死亡之屋 (原型版)",
+        "simpleName": "死亡之屋"
+      }
+    ],
+
+    "44 - 头文字 D - 街机版": [
+      {
+        "romName": "inidv3ca",
+        "fullName": "头文字 D - 街机版 3 - Cycraft 机台 (海外版, 修订版 A) (GDS-0039A)",
+        "simpleName": "头文字"
+      },
+      {
+        "romName": "inidv3cy",
+        "fullName": "头文字 D - 街机版 3 - Cycraft 机台 (海外版, 修订版 B) (GDS-0039B)",
+        "simpleName": "头文字"
+      },
+      {
+        "romName": "initd",
+        "fullName": "头文字 D - 街机版 (日版, 修订版 B) (GDS-0020B)",
+        "simpleName": "头文字"
+      },
+      {
+        "romName": "initdexp",
+        "fullName": "头文字 D - 街机版 (海外版, 修订版 A) (GDS-0025A)",
+        "simpleName": "头文字"
+      },
+      {
+        "romName": "initdexpo",
+        "fullName": "头文字 D - 街机版 (海外版) (GDS-0025)",
+        "simpleName": "头文字"
+      },
+      {
+        "romName": "initdo",
+        "fullName": "头文字 D - 街机版 (日版) (GDS-0020)",
+        "simpleName": "头文字"
+      },
+      {
+        "romName": "initdv2e",
+        "fullName": "头文字 D - 街机版 2 (海外版) (GDS-0027)",
+        "simpleName": "头文字"
+      },
+      {
+        "romName": "initdv2j",
+        "fullName": "头文字 D - 街机版 2 (日版, 修订版 B) (GDS-0026B)",
+        "simpleName": "头文字"
+      },
+      {
+        "romName": "initdv2ja",
+        "fullName": "头文字 D - 街机版 2 (日版, 修订版 A) (GDS-0026A)",
+        "simpleName": "头文字"
+      },
+      {
+        "romName": "initdv2jo",
+        "fullName": "头文字 D - 街机版 2 (日版) (GDS-0026)",
+        "simpleName": "头文字"
+      },
+      {
+        "romName": "initdv3e",
+        "fullName": "头文字 D - 街机版 3 (海外版) (GDS-0033)",
+        "simpleName": "头文字"
+      },
+      {
+        "romName": "initdv3j",
+        "fullName": "头文字 D - 街机版 3 (日版, 修订版 C) (GDS-0032C)",
+        "simpleName": "头文字"
+      },
+      {
+        "romName": "initdv3jb",
+        "fullName": "头文字 D - 街机版 3 (日版, 修订版 B) (GDS-0032B)",
+        "simpleName": "头文字"
+      },
+      {
+        "romName": "initiad4",
+        "fullName": "头文字D 4 (修订版 D)",
+        "simpleName": "头文字D"
+      },
+      {
+        "romName": "initiad4c",
+        "fullName": "头文字D 4 (修订版 C)",
+        "simpleName": "头文字D"
+      }
+    ],
+
+    "45 - 侏罗纪公园": [
+      {
+        "romName": "jpark",
+        "fullName": "侏罗纪公园 (世界版, 修订版 A)",
+        "simpleName": "侏罗纪公园"
+      },
+      {
+        "romName": "jparkj",
+        "fullName": "侏罗纪公园 (日版, 修订版 A, 豪华版)",
+        "simpleName": "侏罗纪公园"
+      },
+      {
+        "romName": "jparkja",
+        "fullName": "侏罗纪公园 (日版, 豪华版)",
+        "simpleName": "侏罗纪公园"
+      },
+      {
+        "romName": "jparkjc",
+        "fullName": "侏罗纪公园 (日版, 修订版 A, 转换版)",
+        "simpleName": "侏罗纪公园"
+      },
+      {
+        "romName": "jparkmb",
+        "fullName": "侏罗纪公园 (盗版自 Mega Drive 版本)",
+        "simpleName": "侏罗纪公园"
+      },
+      {
+        "romName": "jparkmb",
+        "fullName": "侏罗纪公园 (盗版自 Mega Drive 版本)",
+        "simpleName": "侏罗纪公园"
+      },
+      {
+        "romName": "jplstw20",
+        "fullName": "失落的世界 - 侏罗纪公园 (pinball, CPU 2.00, display A2.01)",
+        "simpleName": "失落的世界"
+      },
+      {
+        "romName": "jplstw22",
+        "fullName": "失落的世界 - 侏罗纪公园 (pinball, CPU 2.02, display A2.01)",
+        "simpleName": "失落的世界"
+      },
+      {
+        "romName": "lostwsga",
+        "fullName": "失落的世界 - 侏罗纪公园 (日版, 修订版 A)",
+        "simpleName": "失落的世界"
+      },
+      {
+        "romName": "lostwsgp",
+        "fullName": "失落的世界 - 侏罗纪公园 (定点测试)",
+        "simpleName": "失落的世界"
+      },
+      {
+        "romName": "mt_fwrld",
+        "fullName": "失落的世界 (Mega-Tech)",
+        "simpleName": "失落的世界"
+      }
+    ],
+
+    "46 - 超级摩纳哥 GP 赛车": [
+      {
+        "romName": "mt_smgp",
+        "fullName": "超级摩纳哥 GP 赛车 (Mega-Tech)",
+        "simpleName": "超级摩纳哥"
+      },
+      {
+        "romName": "smgp",
+        "fullName": "超级摩纳哥 GP 赛车 (世界版, 修订版 B) (FD1094 317-0126a)",
+        "simpleName": "超级摩纳哥"
+      },
+      {
+        "romName": "smgp5",
+        "fullName": "超级摩纳哥 GP 赛车 (世界版) (FD1094 317-0126)",
+        "simpleName": "超级摩纳哥"
+      },
+      {
+        "romName": "smgp6",
+        "fullName": "超级摩纳哥 GP 赛车 (世界版, 修订版 A) (FD1094 317-0126a)",
+        "simpleName": "超级摩纳哥"
+      },
+      {
+        "romName": "smgpj",
+        "fullName": "超级摩纳哥 GP 赛车 (日版, 修订版 B) (FD1094 317-0124a)",
+        "simpleName": "超级摩纳哥"
+      },
+      {
+        "romName": "smgpja",
+        "fullName": "超级摩纳哥 GP 赛车 (日版, 修订版 A) (FD1094 317-0124a)",
+        "simpleName": "超级摩纳哥"
+      },
+      {
+        "romName": "smgpu",
+        "fullName": "超级摩纳哥 GP 赛车 (美版, 修订版 C) (FD1094 317-0125a)",
+        "simpleName": "超级摩纳哥"
+      },
+      {
+        "romName": "smgpu1",
+        "fullName": "超级摩纳哥 GP 赛车 (美版, 修订版 B) (FD1094 317-0125a)",
+        "simpleName": "超级摩纳哥"
+      },
+      {
+        "romName": "smgpu2",
+        "fullName": "超级摩纳哥 GP 赛车 (美版, 修订版 A) (FD1094 317-0125a)",
+        "simpleName": "超级摩纳哥"
+      }
+    ],
+
+    "47 - 俄罗斯方块": [
+      {
+        "romName": "mt_tetri",
+        "fullName": "俄罗斯方块 (Mega-Tech)",
+        "simpleName": "俄罗斯方块"
+      },
+      {
+        "romName": "tetris",
+        "fullName": "俄罗斯方块 (第4套, 日版, 系统 16A) (FD1094 317-0093)",
+        "simpleName": "俄罗斯方块"
+      },
+      {
+        "romName": "tetris1",
+        "fullName": "俄罗斯方块 (第1套, 日版, 系统 16B) (FD1094 317-0091)",
+        "simpleName": "俄罗斯方块"
+      },
+      {
+        "romName": "tetris2",
+        "fullName": "俄罗斯方块 (第2套, 日版, 系统 16B) (FD1094 317-0092)",
+        "simpleName": "俄罗斯方块"
+      },
+      {
+        "romName": "tetris3",
+        "fullName": "俄罗斯方块 (第3套, 日版, 系统 16A) (FD1094 317-0093a)",
+        "simpleName": "俄罗斯方块"
+      },
+      {
+        "romName": "tetrisse",
+        "fullName": "俄罗斯方块 (日版, 系统 E)",
+        "simpleName": "俄罗斯方块"
+      },
+      {
+        "romName": "tetrist",
+        "fullName": "俄罗斯方块 (日版, Taito B-System, 王者之剑 2 转换套件)",
+        "simpleName": "俄罗斯方块"
+      },
+      {
+        "romName": "tetrista",
+        "fullName": "俄罗斯方块 (日版, Taito B-System, 魔幻兵器 转换套件)",
+        "simpleName": "俄罗斯方块"
+      },
+      {
+        "romName": "tetristh",
+        "fullName": "俄罗斯方块 (日版, Taito H-System)",
+        "simpleName": "俄罗斯方块"
+      },
+      {
+        "romName": "atetb3482",
+        "fullName": "俄罗斯方块 (盗版 第6套, with UM3482)",
+        "simpleName": "俄罗斯方块"
+      },
+      {
+        "romName": "atetrisb",
+        "fullName": "俄罗斯方块 (盗版 第1套)",
+        "simpleName": "俄罗斯方块"
+      },
+      {
+        "romName": "atetrisb2",
+        "fullName": "俄罗斯方块 (盗版 第2套)",
+        "simpleName": "俄罗斯方块"
+      },
+      {
+        "romName": "atetrisb3",
+        "fullName": "俄罗斯方块 (盗版 第3套)",
+        "simpleName": "俄罗斯方块"
+      },
+      {
+        "romName": "atetrisb4",
+        "fullName": "俄罗斯方块 (盗版 第4套)",
+        "simpleName": "俄罗斯方块"
+      },
+      {
+        "romName": "atetrisb5",
+        "fullName": "俄罗斯方块 (盗版 第 5 套)",
+        "simpleName": "俄罗斯方块"
+      },
+      {
+        "romName": "cmtetrisd",
+        "fullName": "俄罗斯方块 + 樱桃水果盘 (Aidonis Games 盗版)",
+        "simpleName": "俄罗斯方块"
+      },
+      {
+        "romName": "tetrbx",
+        "fullName": "俄罗斯方块 (韩国版 系统 16 盗版) (ISG Selection Master Type 2006)",
+        "simpleName": "俄罗斯方块"
+      },
+      {
+        "romName": "tetris1d",
+        "fullName": "俄罗斯方块 (第1套, 日版, 系统 16B) (盗版 FD1094 317-0091 set)",
+        "simpleName": "俄罗斯方块"
+      },
+      {
+        "romName": "tetris2d",
+        "fullName": "俄罗斯方块 (第2套, 日版, 系统 16B) (盗版 FD1094 317-0092 set)",
+        "simpleName": "俄罗斯方块"
+      },
+      {
+        "romName": "tetris3d",
+        "fullName": "俄罗斯方块 (第3套, 日版, 系统 16A) (盗版 FD1094 317-0093a set)",
+        "simpleName": "俄罗斯方块"
+      },
+      {
+        "romName": "tetrisbl",
+        "fullName": "俄罗斯方块 (盗版)",
+        "simpleName": "俄罗斯方块"
+      },
+      {
+        "romName": "tetrisd",
+        "fullName": "俄罗斯方块 (第4套, 日版, 系统 16A) (盗版 FD1094 317-0093 set)",
+        "simpleName": "俄罗斯方块"
+      },
+      {
+        "romName": "tetriskr",
+        "fullName": "俄罗斯方块 (韩国版 盗版 Mirrorsoft PC-XT 俄罗斯方块)",
+        "simpleName": "俄罗斯方块"
+      }
+    ],
+
+    "48 - 甲虫王者": [
+      {
+        "romName": "mushi2eo",
+        "fullName": "甲虫王者 II / III / III+ (版本. 1.001) (世界版)",
+        "simpleName": "甲虫王者"
+      },
+      {
+        "romName": "mushi2k4",
+        "fullName": "甲虫王者 2004 第二版 (日版)",
+        "simpleName": "甲虫王者"
+      },
+      {
+        "romName": "mushi2k61",
+        "fullName": "甲虫王者 2006 第一版 (日版)",
+        "simpleName": "甲虫王者"
+      },
+      {
+        "romName": "mushik2e",
+        "fullName": "甲虫王者 II / III / III+ (版本. 2.001) (世界版)",
+        "simpleName": "甲虫王者"
+      },
+      {
+        "romName": "mushik2k",
+        "fullName": "甲虫王者 II / III / III+ (版本. 1.000-) (韩版)",
+        "simpleName": "甲虫王者"
+      },
+      {
+        "romName": "mushik4e",
+        "fullName": "甲虫王者 IV / V / VI+ (世界版)",
+        "simpleName": "甲虫王者"
+      },
+      {
+        "romName": "mushikc",
+        "fullName": "甲虫王者 (2K3 2ND 版本. 1.000-, 中国版)",
+        "simpleName": "甲虫王者"
+      },
+      {
+        "romName": "mushike",
+        "fullName": "甲虫王者 (2K3 2ND 版本 1.003-, 世界版)",
+        "simpleName": "甲虫王者"
+      },
+      {
+        "romName": "mushikeo",
+        "fullName": "甲虫王者 (2K3 2ND 版本. 1.002-, 世界版)",
+        "simpleName": "甲虫王者"
+      },
+      {
+        "romName": "mushikep",
+        "fullName": "甲虫王者 (MUSHIUSA '04 1ST, 工程版)",
+        "simpleName": "甲虫王者"
+      },
+      {
+        "romName": "mushikk",
+        "fullName": "甲虫王者 (2K3 2ND 版本. 1.000-, 韩版)",
+        "simpleName": "甲虫王者"
+      },
+      {
+        "romName": "mushi2k5",
+        "fullName": "甲虫王者2005 首版 (日版)",
+        "simpleName": "甲虫王者2005"
+      },
+      {
+        "romName": "mushi2k62",
+        "fullName": "甲虫王者2006二版 (日版)",
+        "simpleName": "甲虫王者2006二版"
+      }
+    ],
+
+    "49 - 环游世界大赛车": [
+      {
+        "romName": "outr2",
+        "fullName": "环游世界大赛车2 (修订版 A) (GDX-0004A)",
+        "simpleName": "环游世界大赛车2"
+      },
+      {
+        "romName": "outr2sdx",
+        "fullName": "环游世界大赛车2 加强改良版 SDX ",
+        "simpleName": "环游世界大赛车2"
+      },
+      {
+        "romName": "outr2st",
+        "fullName": "环游世界大赛车2 加强改良版 (修订版 A) (GDX-0014A)",
+        "simpleName": "环游世界大赛车2"
+      },
+      {
+        "romName": "outr2stj",
+        "fullName": "环游世界大赛车2 加强改良版 (日版, 修订版 A) (GDX-0011A)",
+        "simpleName": "环游世界大赛车2"
+      },
+      {
+        "romName": "outr2stjo",
+        "fullName": "环游世界大赛车2 加强改良版 (日版) (GDX-0011)",
+        "simpleName": "环游世界大赛车2"
+      },
+      {
+        "romName": "outr2sto",
+        "fullName": "环游世界大赛车2 加强改良版 (GDX-0014)",
+        "simpleName": "环游世界大赛车2"
+      },
+      {
+        "romName": "outrun",
+        "fullName": "环游世界大赛车 (sitdown/直立型, 修订版 B)",
+        "simpleName": "环游世界大赛车"
+      },
+      {
+        "romName": "outrundx",
+        "fullName": "环游世界大赛车 (豪华版 sitdown)",
+        "simpleName": "环游世界大赛车"
+      },
+      {
+        "romName": "outrundxa",
+        "fullName": "环游世界大赛车 (豪华版 sitdown 早期版本)",
+        "simpleName": "环游世界大赛车"
+      },
+      {
+        "romName": "outrundxj",
+        "fullName": "环游世界大赛车 (日版, 豪华版 sitdown) (FD1089A 317-0019)",
+        "simpleName": "环游世界大赛车"
+      },
+      {
+        "romName": "outrunra",
+        "fullName": "环游世界大赛车 (sitdown/直立型, 修订版 A)",
+        "simpleName": "环游世界大赛车"
+      },
+      {
+        "romName": "toutrun",
+        "fullName": "环游世界大赛车 加速版 (环游世界大赛车 升级版) (FD1094 317-0118)",
+        "simpleName": "环游世界大赛车"
+      },
+      {
+        "romName": "toutrun1",
+        "fullName": "环游世界大赛车 加速版 (豪华版 驾驶舱) (FD1094 317-0109)",
+        "simpleName": "环游世界大赛车"
+      },
+      {
+        "romName": "toutrun2",
+        "fullName": "环游世界大赛车 加速版 (驾驶舱) (FD1094 317-0106)",
+        "simpleName": "环游世界大赛车"
+      },
+      {
+        "romName": "toutrun3",
+        "fullName": "环游世界大赛车 加速版 (驾驶舱) (FD1094 317-0107)",
+        "simpleName": "环游世界大赛车"
+      },
+      {
+        "romName": "toutrunj",
+        "fullName": "环游世界大赛车 加速版 (日版, 环游世界大赛车 升级版) (FD1094 317-0117)",
+        "simpleName": "环游世界大赛车"
+      },
+      {
+        "romName": "toutrunj1",
+        "fullName": "环游世界大赛车 加速版 (日版, 驾驶舱) (FD1094 317-0101)",
+        "simpleName": "环游世界大赛车"
+      },
+      {
+        "romName": "outrunb",
+        "fullName": "环游世界大赛车 (盗版)",
+        "simpleName": "环游世界大赛车"
+      },
+      {
+        "romName": "toutrun2d",
+        "fullName": "环游世界大赛车 加速版 (驾驶舱) (盗版 FD1094 317-0106 set)",
+        "simpleName": "环游世界大赛车"
+      },
+      {
+        "romName": "toutrun3d",
+        "fullName": "环游世界大赛车 加速版 (驾驶舱) (盗版 FD1094 317-0107 set)",
+        "simpleName": "环游世界大赛车"
+      },
+      {
+        "romName": "toutrund",
+        "fullName": "环游世界大赛车 加速版 (环游世界大赛车 升级版) (盗版 FD1094 317-0118 set)",
+        "simpleName": "环游世界大赛车"
+      },
+      {
+        "romName": "toutrunj1d",
+        "fullName": "环游世界大赛车 加速版 (日版, 驾驶舱) (盗版 FD1094 317-0101 set)",
+        "simpleName": "环游世界大赛车"
+      },
+      {
+        "romName": "toutrunjd",
+        "fullName": "环游世界大赛车 加速版 (日版, 环游世界大赛车 升级版) (盗版 FD1094 317-0117 set)",
+        "simpleName": "环游世界大赛车"
+      }
+    ],
+
+    "50 - 动力甩尾": [
+      {
+        "romName": "pdrift",
+        "fullName": "动力甩尾 (世界版, 修订版 A)",
+        "simpleName": "动力甩尾"
+      },
+      {
+        "romName": "pdrifta",
+        "fullName": "动力甩尾 (世界版)",
+        "simpleName": "动力甩尾"
+      },
+      {
+        "romName": "pdrifte",
+        "fullName": "动力甩尾 (世界版, 早期版)",
+        "simpleName": "动力甩尾"
+      },
+      {
+        "romName": "pdriftj",
+        "fullName": "动力甩尾 (日版)",
+        "simpleName": "动力甩尾"
+      },
+      {
+        "romName": "pdriftl",
+        "fullName": "动力甩尾 - 链接版 (日版, 修订版 A)",
+        "simpleName": "动力甩尾"
+      }
+    ],
+    "51 - 企鹅推冰": [
+      {
+        "romName": "pengo",
+        "fullName": "企鹅推冰 (世界版, 未加密版, 修订版 A)",
+        "simpleName": "企鹅推冰"
+      },
+      {
+        "romName": "pengoa",
+        "fullName": "企鹅推冰 (世界版, 315-5010 type, 第1套)",
+        "simpleName": "企鹅推冰"
+      },
+      {
+        "romName": "pengob",
+        "fullName": "企鹅推冰 (世界版, 315-5010 type, 第2套)",
+        "simpleName": "企鹅推冰"
+      },
+      {
+        "romName": "pengoc",
+        "fullName": "企鹅推冰 (世界版, 315-5010 type, 第3套)",
+        "simpleName": "企鹅推冰"
+      },
+      {
+        "romName": "pengoj",
+        "fullName": "企鹅推冰 (日版, 未加密版)",
+        "simpleName": "企鹅推冰"
+      },
+      {
+        "romName": "pengoja",
+        "fullName": "企鹅推冰 (日版, 315-5010 type, 修订版 C)",
+        "simpleName": "企鹅推冰"
+      },
+      {
+        "romName": "pengojb",
+        "fullName": "企鹅推冰 (日版, 315-5007 type, 修订版 A)",
+        "simpleName": "企鹅推冰"
+      }
+    ]
+  },
+  "Namco - 南梦宫": {
+    "01 - 吃豆人": [
+      {
+        "romName": "25pacman",
+        "fullName": "吃豆人 - 25周年纪念版 (修订版 3.00)",
+        "simpleName": "吃豆人"
+      },
+      {
+        "romName": "25pacmano",
+        "fullName": "吃豆人 - 25周年纪念版 (修订版 2.00)",
+        "simpleName": "吃豆人"
+      },
+      {
+        "romName": "pacplus",
+        "fullName": "吃豆人 Plus",
+        "simpleName": "吃豆人"
+      },
+      {
+        "romName": "20pacgal",
+        "fullName": "吃豆小姐/大蜜蜂 - 20周年纪念版 1981 合集 (V1.08)",
+        "simpleName": "吃豆小姐/大蜜蜂"
+      },
+      {
+        "romName": "20pacgalr0",
+        "fullName": "吃豆小姐/大蜜蜂 - 20周年纪念版 1981 合集 (V1.00)",
+        "simpleName": "吃豆小姐/大蜜蜂"
+      },
+      {
+        "romName": "20pacgalr1",
+        "fullName": "吃豆小姐/大蜜蜂 - 20周年纪念版 1981 合集 (V1.01)",
+        "simpleName": "吃豆小姐/大蜜蜂"
+      },
+      {
+        "romName": "20pacgalr2",
+        "fullName": "吃豆小姐/大蜜蜂 - 20周年纪念版 1981 合集 (V1.02)",
+        "simpleName": "吃豆小姐/大蜜蜂"
+      },
+      {
+        "romName": "20pacgalr3",
+        "fullName": "吃豆小姐/大蜜蜂 - 20周年纪念版 1981 合集 (V1.03)",
+        "simpleName": "吃豆小姐/大蜜蜂"
+      },
+      {
+        "romName": "20pacgalr4",
+        "fullName": "吃豆小姐/大蜜蜂 - 20周年纪念版 1981 合集 (V1.04)",
+        "simpleName": "吃豆小姐/大蜜蜂"
+      },
+      {
+        "romName": "jak_mpac",
+        "fullName": "吃豆人小姐 5合1 (Ms. 吃豆人, Pole Position, Galaga, Xevio美版, Mappy) (JAKKS Pacific TV Game, Game-Key Ready) (07 FEB 2005 A SKU F)",
+        "simpleName": "吃豆人小姐"
+      },
+      {
+        "romName": "jak_mpacw",
+        "fullName": "吃豆人小姐 7合1 (Wireless) (Ms. 吃豆人, Pole Position, Galaga, Xevio美版, Mappy, 新版 Rally X, Bosconian) (18 AUG 2004 A)",
+        "simpleName": "吃豆人小姐"
+      },
+      {
+        "romName": "msimpac",
+        "fullName": "吃豆人小姐 (MSI Plug & Play)",
+        "simpleName": "吃豆人小姐"
+      },
+      {
+        "romName": "paccarn",
+        "fullName": "吃豆人嘉年华",
+        "simpleName": "吃豆人嘉年华"
+      },
+      {
+        "romName": "paceight",
+        "fullName": "吃豆人水果机",
+        "simpleName": "吃豆人水果机"
+      },
+      {
+        "romName": "pacslot",
+        "fullName": "吃豆人老虎机",
+        "simpleName": "吃豆人老虎机"
+      },
+      {
+        "romName": "mspacii",
+        "fullName": "吃豆小姐 II (Orca 盗版 第1套)",
+        "simpleName": "吃豆小姐"
+      },
+      {
+        "romName": "mspacii2",
+        "fullName": "吃豆小姐 II (Orca 盗版 第2套)",
+        "simpleName": "吃豆小姐"
+      },
+      {
+        "romName": "mspacmab",
+        "fullName": "吃豆小姐 (盗版, 第1套)",
+        "simpleName": "吃豆小姐"
+      },
+      {
+        "romName": "mspacmab2",
+        "fullName": "吃豆小姐 (盗版, 第2套)",
+        "simpleName": "吃豆小姐"
+      },
+      {
+        "romName": "mspacmab3",
+        "fullName": "吃豆小姐 (盗版, 第3套)",
+        "simpleName": "吃豆小姐"
+      },
+      {
+        "romName": "mspacmab4",
+        "fullName": "吃豆小姐 (盗版, 第4套)",
+        "simpleName": "吃豆小姐"
+      },
+      {
+        "romName": "mspacmanbg",
+        "fullName": "吃豆小姐 ('希腊制造' 盗版, 第1套)",
+        "simpleName": "吃豆小姐"
+      },
+      {
+        "romName": "mspacmanbg2",
+        "fullName": "吃豆小姐 ('希腊制造' 盗版, 第2套)",
+        "simpleName": "吃豆小姐"
+      },
+      {
+        "romName": "mspacmanbgc",
+        "fullName": "吃豆小姐 ('希腊制造' Enavi 盗版)",
+        "simpleName": "吃豆小姐"
+      },
+      {
+        "romName": "mspacmanbi",
+        "fullName": "吃豆小姐 (Impeuropex 盗版)",
+        "simpleName": "吃豆小姐"
+      },
+      {
+        "romName": "mspacmancr",
+        "fullName": "吃豆小姐 (盗版 顽皮鬼 硬件)",
+        "simpleName": "吃豆小姐"
+      },
+      {
+        "romName": "mspacmanlai",
+        "fullName": "吃豆小姐 (Leisure and Allied 盗版)",
+        "simpleName": "吃豆小姐"
+      },
+      {
+        "romName": "mspacmbe",
+        "fullName": "吃豆小姐 (盗版, 加密版)",
+        "simpleName": "吃豆小姐"
+      },
+      {
+        "romName": "mspacmbmc",
+        "fullName": "吃豆小姐 (Marti Colls 盗版)",
+        "simpleName": "吃豆小姐"
+      },
+      {
+        "romName": "mspacmbn",
+        "fullName": "吃豆小姐 (Novatronic 盗版)",
+        "simpleName": "吃豆小姐"
+      },
+      {
+        "romName": "pacgal2",
+        "fullName": "吃豆人 Pac-Gal (第2套)",
+        "simpleName": "吃豆人"
+      },
+      {
+        "romName": "pacmanfm",
+        "fullName": "吃豆人 (FAMARE S.A. 盗版 小精灵)",
+        "simpleName": "吃豆人"
+      },
+      {
+        "romName": "pacmanug",
+        "fullName": "吃豆人 (U.Games 盗版 小精灵)",
+        "simpleName": "吃豆人"
+      },
+      {
+        "romName": "pacuman",
+        "fullName": "吃豆人 (西班牙版 盗版 小精灵)",
+        "simpleName": "吃豆人"
+      },
+      {
+        "romName": "pacmanbl",
+        "fullName": "吃豆小精灵 (盗版 小蜜蜂 硬件, 第1套)",
+        "simpleName": "吃豆小精灵"
+      },
+      {
+        "romName": "pacmanbla",
+        "fullName": "吃豆小精灵 (盗版 小蜜蜂 硬件, 第2套)",
+        "simpleName": "吃豆小精灵"
+      },
+      {
+        "romName": "pacmanblb",
+        "fullName": "吃豆小精灵 (盗版 月球异形 'AL-10A1' 硬件)",
+        "simpleName": "吃豆小精灵"
+      },
+      {
+        "romName": "pacmanblc",
+        "fullName": "吃豆小精灵 (Calfesa, 西班牙版 盗版 小蜜蜂 硬件)",
+        "simpleName": "吃豆小精灵"
+      },
+      {
+        "romName": "pacmanblci",
+        "fullName": "吃豆小精灵 (Cirsa, 西班牙版 盗版 小蜜蜂 硬件)",
+        "simpleName": "吃豆小精灵"
+      },
+      {
+        "romName": "pacmanblv",
+        "fullName": "吃豆小精灵 (Video Dens, 西班牙版 盗版 小蜜蜂 硬件)",
+        "simpleName": "吃豆小精灵"
+      }
+    ],
+    "02 - 皇牌空战": [
+      {
+        "romName": "airco22b",
+        "fullName": "皇牌空战 22 (修订版 ACS1 版本 B, 日版)",
+        "simpleName": "皇牌空战"
+      },
+      {
+        "romName": "aircomb",
+        "fullName": "皇牌空战 (AC2, 美版)",
+        "simpleName": "皇牌空战"
+      },
+      {
+        "romName": "aircombj",
+        "fullName": "皇牌空战 (AC1, 日版)",
+        "simpleName": "皇牌空战"
+      }
+    ],
+    "03 - 太空驱逐舰": [
+      {
+        "romName": "bosco",
+        "fullName": "太空驱逐舰 (版本 5)",
+        "simpleName": "太空驱逐舰"
+      },
+      {
+        "romName": "bosco1",
+        "fullName": "太空驱逐舰 (版本 1, 新版)",
+        "simpleName": "太空驱逐舰"
+      },
+      {
+        "romName": "bosco1o",
+        "fullName": "太空驱逐舰 (版本 1, 旧版)",
+        "simpleName": "太空驱逐舰"
+      },
+      {
+        "romName": "bosco3",
+        "fullName": "太空驱逐舰 (版本 3)",
+        "simpleName": "太空驱逐舰"
+      },
+      {
+        "romName": "boscomd",
+        "fullName": "太空驱逐舰 (Midway, 新版)",
+        "simpleName": "太空驱逐舰"
+      },
+      {
+        "romName": "boscomdo",
+        "fullName": "太空驱逐舰 (Midway, 旧版)",
+        "simpleName": "太空驱逐舰"
+      }
+    ],
+    "04 - 危机地带": [
+      {
+        "romName": "crszone",
+        "fullName": "危机地带 (世界版, CSZO4 版本. B)",
+        "simpleName": "危机地带"
+      },
+      {
+        "romName": "crszonev2a",
+        "fullName": "危机地带 (世界版, CSZO2 版本. A)",
+        "simpleName": "危机地带"
+      },
+      {
+        "romName": "crszonev3a",
+        "fullName": "危机地带 (美版, CSZO3 版本. A)",
+        "simpleName": "危机地带"
+      },
+      {
+        "romName": "crszonev3b",
+        "fullName": "危机地带 (美版, CSZO3 版本. B, 第 1 套)",
+        "simpleName": "危机地带"
+      },
+      {
+        "romName": "crszonev3b2",
+        "fullName": "危机地带 (美版, CSZO3 版本. B, 第 2 套)",
+        "simpleName": "危机地带"
+      },
+      {
+        "romName": "crszonev4a",
+        "fullName": "危机地带 (世界版, CSZO4 版本. A)",
+        "simpleName": "危机地带"
+      }
+    ],
+    "05 - 挖金子": [
+      {
+        "romName": "digdug",
+        "fullName": "挖金子 (修订版 2)",
+        "simpleName": "挖金子"
+      },
+      {
+        "romName": "digdug1",
+        "fullName": "挖金子 (修订版 1)",
+        "simpleName": "挖金子"
+      },
+      {
+        "romName": "digdug2",
+        "fullName": "挖金子 II (新版)",
+        "simpleName": "挖金子"
+      },
+      {
+        "romName": "digdug2o",
+        "fullName": "挖金子 II (旧版)",
+        "simpleName": "挖金子"
+      },
+      {
+        "romName": "digdugat",
+        "fullName": "挖金子 (Atari, 修订版 2)",
+        "simpleName": "挖金子"
+      },
+      {
+        "romName": "digdugat1",
+        "fullName": "挖金子 (Atari, 修订版 1)",
+        "simpleName": "挖金子"
+      },
+      {
+        "romName": "digsid",
+        "fullName": "挖金子 (Sidam 制作)",
+        "simpleName": "挖金子"
+      }
+    ],
+
+    "06 - 龙魂": [
+      {
+        "romName": "dsaber",
+        "fullName": "龙魂 2 (世界版, DO2)",
+        "simpleName": "龙魂"
+      },
+      {
+        "romName": "dsabera",
+        "fullName": "龙魂 2 (世界版, 旧版?)",
+        "simpleName": "龙魂"
+      },
+      {
+        "romName": "dsaberj",
+        "fullName": "龙魂 2 (日版, 修订版 B)",
+        "simpleName": "龙魂"
+      },
+      {
+        "romName": "dspirit",
+        "fullName": "龙魂 (新版 (DS3))",
+        "simpleName": "龙魂"
+      },
+      {
+        "romName": "dspirit1",
+        "fullName": "龙魂 (旧版 (DS1))",
+        "simpleName": "龙魂"
+      },
+      {
+        "romName": "dspirit2",
+        "fullName": "龙魂 (DS2)",
+        "simpleName": "龙魂"
+      }
+    ],
+    "07 - 最后冲剌": [
+      {
+        "romName": "finalap2",
+        "fullName": "最后冲剌 2",
+        "simpleName": "最后冲剌"
+      },
+      {
+        "romName": "finalap2j",
+        "fullName": "最后冲剌 2 (日版)",
+        "simpleName": "最后冲剌"
+      },
+      {
+        "romName": "finalap3",
+        "fullName": "最后冲剌 3 (世界版, 修订版 C)",
+        "simpleName": "最后冲剌"
+      },
+      {
+        "romName": "finalap3a",
+        "fullName": "最后冲剌 3 (世界版, 第2套)",
+        "simpleName": "最后冲剌"
+      },
+      {
+        "romName": "finalap3bl",
+        "fullName": "最后冲剌 3 (盗版)",
+        "simpleName": "最后冲剌"
+      },
+      {
+        "romName": "finalap3j",
+        "fullName": "最后冲剌 3 (日版)",
+        "simpleName": "最后冲剌"
+      },
+      {
+        "romName": "finalap3jc",
+        "fullName": "最后冲剌 3 (日版, 修订版 C)",
+        "simpleName": "最后冲剌"
+      },
+      {
+        "romName": "finalapr",
+        "fullName": "最后冲剌 R (修订版 B)",
+        "simpleName": "最后冲剌"
+      },
+      {
+        "romName": "finalapr1",
+        "fullName": "最后冲剌 R",
+        "simpleName": "最后冲剌"
+      },
+      {
+        "romName": "finalaprj",
+        "fullName": "最后冲剌 R (日版 修订版 C)",
+        "simpleName": "最后冲剌"
+      },
+      {
+        "romName": "finalaprj1",
+        "fullName": "最后冲剌 R (日版 修订版 B)",
+        "simpleName": "最后冲剌"
+      },
+      {
+        "romName": "finallap",
+        "fullName": "最后冲剌 (修订版 E)",
+        "simpleName": "最后冲剌"
+      },
+      {
+        "romName": "finallapc",
+        "fullName": "最后冲剌 (修订版 C)",
+        "simpleName": "最后冲剌"
+      },
+      {
+        "romName": "finallapd",
+        "fullName": "最后冲剌 (修订版 D)",
+        "simpleName": "最后冲剌"
+      },
+      {
+        "romName": "finallapjb",
+        "fullName": "最后冲剌 (日版, 修订版 B)",
+        "simpleName": "最后冲剌"
+      },
+      {
+        "romName": "finallapjc",
+        "fullName": "最后冲剌 (日版, 修订版 C)",
+        "simpleName": "最后冲剌"
+      }
+    ],
+
+    "08 - 蜜蜂": [
+      {
+        "romName": "gal3",
+        "fullName": "小蜜蜂 3 ",
+        "simpleName": "小蜜蜂"
+      },
+      {
+        "romName": "galaxian",
+        "fullName": "小蜜蜂 (Namco 第1套)",
+        "simpleName": "小蜜蜂"
+      },
+      {
+        "romName": "galaxiana",
+        "fullName": "小蜜蜂 (Namco 第2套)",
+        "simpleName": "小蜜蜂"
+      },
+      {
+        "romName": "galaxiani",
+        "fullName": "小蜜蜂 (Irem)",
+        "simpleName": "小蜜蜂"
+      },
+      {
+        "romName": "galaxianm",
+        "fullName": "小蜜蜂 (Midway 第1套)",
+        "simpleName": "小蜜蜂"
+      },
+      {
+        "romName": "galaxianmo",
+        "fullName": "小蜜蜂 (Midway 第2套)",
+        "simpleName": "小蜜蜂"
+      },
+      {
+        "romName": "galaxiant",
+        "fullName": "小蜜蜂 (Taito)",
+        "simpleName": "小蜜蜂"
+      },
+      {
+        "romName": "supergx",
+        "fullName": "小蜜蜂 2 - 超级 GX ",
+        "simpleName": "小蜜蜂"
+      },
+      {
+        "romName": "galaga",
+        "fullName": "大蜜蜂 (Namco 修订版 B)",
+        "simpleName": "大蜜蜂"
+      },
+      {
+        "romName": "galaga3",
+        "fullName": "大蜜蜂 3 (GP3 修订版 D)",
+        "simpleName": "大蜜蜂"
+      },
+      {
+        "romName": "galaga3a",
+        "fullName": "大蜜蜂 3 (GP3 修订版 C)",
+        "simpleName": "大蜜蜂"
+      },
+      {
+        "romName": "galaga3b",
+        "fullName": "大蜜蜂 3 (GP3)",
+        "simpleName": "大蜜蜂"
+      },
+      {
+        "romName": "galaga3c",
+        "fullName": "大蜜蜂 3 (第4套)",
+        "simpleName": "大蜜蜂"
+      },
+      {
+        "romName": "galaga3m",
+        "fullName": "大蜜蜂 3 (第5套)",
+        "simpleName": "大蜜蜂"
+      },
+      {
+        "romName": "galaga88",
+        "fullName": "大蜜蜂 '88",
+        "simpleName": "大蜜蜂"
+      },
+      {
+        "romName": "galaga88a",
+        "fullName": "大蜜蜂 '88 (02-03-88)",
+        "simpleName": "大蜜蜂"
+      },
+      {
+        "romName": "galaga88j",
+        "fullName": "大蜜蜂 '88 (日版)",
+        "simpleName": "大蜜蜂"
+      },
+      {
+        "romName": "galagamf",
+        "fullName": "大蜜蜂 (Midway 第1套 快速射击修改版)",
+        "simpleName": "大蜜蜂"
+      },
+      {
+        "romName": "galagamk",
+        "fullName": "大蜜蜂 (Midway 第2套)",
+        "simpleName": "大蜜蜂"
+      },
+      {
+        "romName": "galagamw",
+        "fullName": "大蜜蜂 (Midway 第1套)",
+        "simpleName": "大蜜蜂"
+      },
+      {
+        "romName": "galagao",
+        "fullName": "大蜜蜂 (Namco)",
+        "simpleName": "大蜜蜂"
+      },
+      {
+        "romName": "gaplus",
+        "fullName": "大蜜蜂加强版 (GP2 修订版 B)",
+        "simpleName": "大蜜蜂加强版"
+      },
+      {
+        "romName": "gaplusa",
+        "fullName": "大蜜蜂加强版 (GP2)",
+        "simpleName": "大蜜蜂加强版"
+      },
+      {
+        "romName": "gaplusd",
+        "fullName": "大蜜蜂加强版 (GP2 修订版 D, 替换版 硬件)",
+        "simpleName": "大蜜蜂加强版"
+      },
+      {
+        "romName": "gapluse",
+        "fullName": "大蜜蜂加强版 (GP7)",
+        "simpleName": "大蜜蜂加强版"
+      },
+      {
+        "romName": "galaxrcgg",
+        "fullName": "无限小蜜蜂 (Recreativos Covadonga 西班牙版 盗版)",
+        "simpleName": "无限小蜜蜂"
+      },
+      {
+        "romName": "galaxrfgg",
+        "fullName": "无限小蜜蜂 (Recreativos Franco S.A. 西班牙版 盗版)",
+        "simpleName": "无限小蜜蜂"
+      },
+      {
+        "romName": "superg",
+        "fullName": "超级小蜜蜂 ('小蜜蜂 (Namco 第2套)' 修改版)",
+        "simpleName": "超级小蜜蜂"
+      }
+    ]
   }
 }
