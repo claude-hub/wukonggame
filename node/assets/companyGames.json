@@ -1675,5 +1675,2323 @@
         "simpleName": "风云默示录"
       }
     ]
+  },
+  "Capcom - 卡普空": {
+    "01 - 快打旋风": [
+      {
+        "romName": "ffight",
+        "fullName": "快打旋风 (世界版, 第1套)",
+        "simpleName": "快打旋风"
+      },
+      {
+        "romName": "ffighta",
+        "fullName": "快打旋风 (世界版, 第2套)",
+        "simpleName": "快打旋风"
+      },
+      {
+        "romName": "ffightj",
+        "fullName": "快打旋风 (日版)",
+        "simpleName": "快打旋风"
+      },
+      {
+        "romName": "ffightj1",
+        "fullName": "快打旋风 (日版 900112)",
+        "simpleName": "快打旋风"
+      },
+      {
+        "romName": "ffightj2",
+        "fullName": "快打旋风 (日版 900305)",
+        "simpleName": "快打旋风"
+      },
+      {
+        "romName": "ffightj3",
+        "fullName": "快打旋风 (日版 900405)",
+        "simpleName": "快打旋风"
+      },
+      {
+        "romName": "ffightj4",
+        "fullName": "快打旋风 (日版 900613)",
+        "simpleName": "快打旋风"
+      },
+      {
+        "romName": "ffightu",
+        "fullName": "快打旋风 (美版, 第1套)",
+        "simpleName": "快打旋风"
+      },
+      {
+        "romName": "ffightu1",
+        "fullName": "快打旋风 (美版, 第2套)",
+        "simpleName": "快打旋风"
+      },
+      {
+        "romName": "ffightua",
+        "fullName": "快打旋风 (美版 900112)",
+        "simpleName": "快打旋风"
+      },
+      {
+        "romName": "ffightub",
+        "fullName": "快打旋风 (美版 900424)",
+        "simpleName": "快打旋风"
+      },
+      {
+        "romName": "ffightuc",
+        "fullName": "快打旋风 (美版 900613)",
+        "simpleName": "快打旋风"
+      },
+      {
+        "romName": "ffreveng",
+        "fullName": "快打旋风 - 复仇 (JUET 990930 V1.100)",
+        "simpleName": "快打旋风"
+      },
+      {
+        "romName": "ffrevng10",
+        "fullName": "快打旋风 - 复仇 (JUET 990714 V1.000)",
+        "simpleName": "快打旋风"
+      },
+
+      {
+        "romName": "ffight2b",
+        "fullName": "快打旋风 2 (SNES 盗版)",
+        "simpleName": "快打旋风"
+      },
+      {
+        "romName": "ffight3b",
+        "fullName": "快打旋风 3 (SNES 盗版)",
+        "simpleName": "快打旋风"
+      },
+      {
+        "romName": "ffight3b2",
+        "fullName": "快打旋风 3 (SNES bootleg, set 2)",
+        "simpleName": "快打旋风"
+      },
+      {
+        "romName": "ffightbl",
+        "fullName": "快打旋风 (盗版)",
+        "simpleName": "快打旋风"
+      },
+      {
+        "romName": "ffightbla",
+        "fullName": "快打旋风 (盗版 爆裂旋风 PCB)",
+        "simpleName": "快打旋风"
+      },
+      {
+        "romName": "ffightblb",
+        "fullName": "快打旋风 (盗版 single OKI)",
+        "simpleName": "快打旋风"
+      },
+      {
+        "romName": "ffightjh",
+        "fullName": "快打旋风 (日版, 修改版)",
+        "simpleName": "快打旋风"
+      },
+
+      {
+        "romName": "fcrash",
+        "fullName": "爆裂旋风 (盗版 快打旋风)",
+        "simpleName": "爆裂旋风"
+      }
+    ],
+    "02 - 恐龙快打(恐龙新世纪)": [
+      {
+        "romName": "dino",
+        "fullName": "恐龙新世纪 (世界版 930201)",
+        "simpleName": "恐龙新世纪"
+      },
+      {
+        "romName": "dinoa",
+        "fullName": "恐龙新世纪 (亚洲版 TW 930223)",
+        "simpleName": "恐龙新世纪"
+      },
+      {
+        "romName": "dinoj",
+        "fullName": "恐龙新世纪 (日版 930201)",
+        "simpleName": "恐龙新世纪"
+      },
+      {
+        "romName": "dinou",
+        "fullName": "恐龙新世纪 (美版 930201)",
+        "simpleName": "恐龙新世纪"
+      },
+      {
+        "romName": "dinopic",
+        "fullName": "恐龙新世纪 (盗版 PIC16C57, 第1套)",
+        "simpleName": "恐龙新世纪"
+      },
+      {
+        "romName": "dinopic2",
+        "fullName": "恐龙新世纪 (盗版 PIC16C57, 第2套)",
+        "simpleName": "恐龙新世纪"
+      },
+      {
+        "romName": "dinopic3",
+        "fullName": "恐龙新世纪 (盗版 PIC16C57, 第3套)",
+        "simpleName": "恐龙新世纪"
+      }
+    ],
+    "03 - 吞食天地": [
+      {
+        "romName": "dynwar",
+        "fullName": "吞食天地 (美版, B-Board 89624B-?)",
+        "simpleName": "吞食天地"
+      },
+      {
+        "romName": "dynwara",
+        "fullName": "吞食天地 (美版, B-Board 88622B-3)",
+        "simpleName": "吞食天地"
+      },
+      {
+        "romName": "dynwarj",
+        "fullName": "吞食天地 (日版)",
+        "simpleName": "吞食天地"
+      },
+      {
+        "romName": "dynwarjr",
+        "fullName": "吞食天地 (日版 重售版)",
+        "simpleName": "吞食天地"
+      },
+      {
+        "romName": "wofj",
+        "fullName": "吞食天地 II - 赤壁之战 (日版 921031)",
+        "simpleName": "吞食天地"
+      }
+    ],
+    "04 - 街头霸王": [
+      {
+        "romName": "msi_sf2",
+        "fullName": "街头霸王 II' - 四大天王 特别版 (MSI Plug & Play) (欧版)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "rad_sf2",
+        "fullName": "街头霸王 II: 街头霸王特别版 [大魔界村] (Radica, Arcade Legends) (美版)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "rad_sf2uk",
+        "fullName": "街头霸王 II: 街头霸王特别版 [大魔界村] (Radica, Arcade Legends) (UK)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf",
+        "fullName": "街头霸王 (美版, 第1套)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2",
+        "fullName": "街头霸王 II - 天下斗士 (世界版 910522)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2ce",
+        "fullName": "街头霸王 II' - 四大天王 (世界版 920513)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2ceea",
+        "fullName": "街头霸王 II' - 四大天王 (世界版 920313)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2ceec",
+        "fullName": "街头霸王 II' - 四大天王 (世界版 920803)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2ceja",
+        "fullName": "街头霸王 II' - 四大天王 (日版 920322)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2cejb",
+        "fullName": "街头霸王 II' - 四大天王 (日版 920513)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2cejc",
+        "fullName": "街头霸王 II' - 四大天王 (日版 920803)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2cet",
+        "fullName": "街头霸王 II' - 四大天王 (台版 920313)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2ceua",
+        "fullName": "街头霸王 II' - 四大天王 (美版 920313)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2ceub",
+        "fullName": "街头霸王 II' - 四大天王 (美版 920513)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2ceuc",
+        "fullName": "街头霸王 II' - 四大天王 (美版 920803)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2ea",
+        "fullName": "街头霸王 II - 天下斗士 (世界版 910204)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2eb",
+        "fullName": "街头霸王 II - 天下斗士 (世界版 910214)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2ed",
+        "fullName": "街头霸王 II - 天下斗士 (世界版 910318)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2ee",
+        "fullName": "街头霸王 II - 天下斗士 (世界版 910228)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2ef",
+        "fullName": "街头霸王 II - 天下斗士 (世界版 910411)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2em",
+        "fullName": "街头霸王 II - 天下斗士 (世界版 910129)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2en",
+        "fullName": "街头霸王 II - 天下斗士 (世界版 910204, 转换版)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2hf",
+        "fullName": "街头霸王 II' - 战斗宣言 (世界版 921209)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2hfj",
+        "fullName": "街头霸王 II' 加速版 - 战斗宣言 (日版 921209)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2hfu",
+        "fullName": "街头霸王 II' - 战斗宣言 (美版 921209)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2j",
+        "fullName": "街头霸王 II - 天下斗士 (日版 911210, CPS-B-13)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2j17",
+        "fullName": "街头霸王 II - 天下斗士 (日版 911210, CPS-B-17)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2ja",
+        "fullName": "街头霸王 II - 天下斗士 (日版 910214)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2jc",
+        "fullName": "街头霸王 II - 天下斗士 (日版 910306)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2jf",
+        "fullName": "街头霸王 II - 天下斗士 (日版 910411)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2jh",
+        "fullName": "街头霸王 II - 天下斗士 (日版 910522)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2jl",
+        "fullName": "街头霸王 II - 天下斗士 (日版 920312)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2ua",
+        "fullName": "街头霸王 II - 天下斗士 (美版 910206)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2ub",
+        "fullName": "街头霸王 II - 天下斗士 (美版 910214)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2uc",
+        "fullName": "街头霸王 II - 天下斗士 (美版 910306)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2ud",
+        "fullName": "街头霸王 II - 天下斗士 (美版 910318)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2ue",
+        "fullName": "街头霸王 II - 天下斗士 (美版 910228)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2uf",
+        "fullName": "街头霸王 II - 天下斗士 (美版 910411)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2ug",
+        "fullName": "街头霸王 II - 天下斗士 (美版 910522, 修订版 G)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2uh",
+        "fullName": "街头霸王 II - 天下斗士 (美版 910522, 修订版 H)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2ui",
+        "fullName": "街头霸王 II - 天下斗士 (美版 910522, 修订版 I)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2uk",
+        "fullName": "街头霸王 II - 天下斗士 (美版 911101)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2um",
+        "fullName": "街头霸王 II - 天下斗士 (美版 920312)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sfan",
+        "fullName": "街头霸王 (世界版, 气动按钮)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sfex",
+        "fullName": "街头霸王 EX (欧洲版 961219)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sfex2",
+        "fullName": "街头霸王 EX2 (欧洲版 980312)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sfex2a",
+        "fullName": "街头霸王 EX2 (亚洲版 980312)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sfex2h",
+        "fullName": "街头霸王 EX2 (西班牙版 980312)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sfex2j",
+        "fullName": "街头霸王 EX2 (日版 980312)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sfex2p",
+        "fullName": "街头霸王 EX2 Plus (欧洲版 990611)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sfex2pa",
+        "fullName": "街头霸王 EX2 Plus (亚洲版 990611)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sfex2ph",
+        "fullName": "街头霸王 EX2 Plus (西班牙版 990611)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sfex2pj",
+        "fullName": "街头霸王 EX2 Plus (日版 990611)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sfex2pu",
+        "fullName": "街头霸王 EX2 Plus (美版 990611)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sfex2u",
+        "fullName": "街头霸王 EX2 (美版 980526)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sfex2u1",
+        "fullName": "街头霸王 EX2 (美版 980312)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sfexa",
+        "fullName": "街头霸王 EX (亚洲版 961219)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sfexj",
+        "fullName": "街头霸王 EX (日版 961130)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sfexp",
+        "fullName": "街头霸王 EX Plus (美版 970407)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sfexpj",
+        "fullName": "街头霸王 EX Plus (日版 970407)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sfexpj1",
+        "fullName": "街头霸王 EX Plus (日版 970311)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sfexpu1",
+        "fullName": "街头霸王 EX Plus (美版 970311)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sfexu",
+        "fullName": "街头霸王 EX (美版 961219)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sfiii",
+        "fullName": "街头霸王 III - 新世代 (欧洲版 970204)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sfiii2",
+        "fullName": "街头霸王 III - 二度冲击 巨型攻击 (美版 970930)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sfiii2h",
+        "fullName": "街头霸王 III - 二度冲击 巨型攻击 (西班牙版 970930)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sfiii2j",
+        "fullName": "街头霸王 III - 二度冲击 巨型攻击 (日版 970930)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sfiii2n",
+        "fullName": "街头霸王 III - 二度冲击 巨型攻击 (亚洲版 970930, NO CD)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sfiii3",
+        "fullName": "街头霸王 III - 三度冲击 未来战斗 (欧洲版 990608)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sfiii3j",
+        "fullName": "街头霸王 III - 三度冲击 未来战斗 (日版 990608)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sfiii3jr1",
+        "fullName": "街头霸王 III - 三度冲击 未来战斗 (日版 990512)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sfiii3n",
+        "fullName": "街头霸王 III - 三度冲击 未来战斗 (日版 990608, NO CD)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sfiii3nr1",
+        "fullName": "街头霸王 III - 三度冲击 未来战斗 (日版 990512, NO CD)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sfiii3r1",
+        "fullName": "街头霸王 III - 三度冲击 未来战斗 (欧洲版 990512)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sfiii3u",
+        "fullName": "街头霸王 III - 三度冲击 未来战斗 (美版 990608)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sfiii3ur1",
+        "fullName": "街头霸王 III - 三度冲击 未来战斗 (美版 990512)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sfiiia",
+        "fullName": "街头霸王 III - 新世代 (亚洲版 970204)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sfiiih",
+        "fullName": "街头霸王 III - 新世代 (西班牙版 970204)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sfiiij",
+        "fullName": "街头霸王 III - 新世代 (日版 970204)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sfiiin",
+        "fullName": "街头霸王 III - 新世代 (亚洲版 970204, NO CD, bios 第1套)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sfiiina",
+        "fullName": "街头霸王 III - 新世代 (亚洲版 970204, NO CD, bios 第2套)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sfiiiu",
+        "fullName": "街头霸王 III - 新世代 (美版 970204)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sfj",
+        "fullName": "街头霸王 (日版) (工程版)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sfjan",
+        "fullName": "街头霸王 (日版, 气动按钮)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sfp",
+        "fullName": "街头霸王 (工程版)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sftm",
+        "fullName": "街头霸王 - 电影版 (v1.12)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sftm110",
+        "fullName": "街头霸王 - 电影版 (v1.10)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sftm111",
+        "fullName": "街头霸王 - 电影版 (v1.11)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sftmj112",
+        "fullName": "街头霸王 - 电影版 (v1.12N, 日版)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sftmj114",
+        "fullName": "街头霸王 - 电影版 (v1.14N, 日版)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sftmk112",
+        "fullName": "街头霸王 - 电影版 (v1.12K, 韩版)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sfua",
+        "fullName": "街头霸王 (美版, 第2套) (工程版)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sfw",
+        "fullName": "街头霸王 (世界版) (工程版)",
+        "simpleName": "街头霸王"
+      },
+
+      {
+        "romName": "cps3bs32",
+        "fullName": "街头霸王 III - 二度冲击 巨型攻击 (美版 970930, 盗版 HD6417095 type SH2, V3)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "cps3bs32a",
+        "fullName": "街头霸王 III - 二度冲击 巨型攻击 (美版 970930, 盗版 HD6417095 type SH2, 旧版)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2acc",
+        "fullName": "街头霸王 II' - 四大天王 (加速版!, 盗版 第1套)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2acca",
+        "fullName": "街头霸王 II' - 四大天王 (加速版!, 盗版 第2套)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2accp2",
+        "fullName": "街头霸王 II' - 四大天王 (加速版 Pt.II, 盗版)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2amf",
+        "fullName": "街头霸王 II' - 四大天王 (Alpha Magic-F, 盗版)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2amf2",
+        "fullName": "街头霸王 II' - 四大天王 (L735 Test Rom, 盗版, 第1套)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2amf3",
+        "fullName": "街头霸王 II' - 四大天王 (L735 Test Rom, 盗版, 第2套)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2b",
+        "fullName": "街头霸王 II - 天下斗士 (盗版, 第1套)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2b2",
+        "fullName": "街头霸王 II - 天下斗士 (盗版, 第2套)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2bhh",
+        "fullName": "街头霸王 II' - 四大天王 (Hung Hsi, 盗版)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2ceb",
+        "fullName": "街头霸王 II' - 四大天王 (Playmark 盗版, 第1套)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2ceb2",
+        "fullName": "街头霸王 II' - 四大天王 (盗版, 第1套)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2ceb3",
+        "fullName": "街头霸王 II' - 四大天王 (盗版, 第2套)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2ceb4",
+        "fullName": "街头霸王 II' - 四大天王 (Playmark 盗版, 第2套)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2ceb5",
+        "fullName": "街头霸王 II' - 四大天王 (Playmark 盗版, 第3套)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2ceblp",
+        "fullName": "街头霸王 II' - 四大天王 (保护版 盗版 non-dash board)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2cebltw",
+        "fullName": "街头霸王 II' - 四大天王 (台版 盗版 with PAL)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2ceds6",
+        "fullName": "街头霸王 II' - 四大天王 (Dstreet-6, 盗版)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2cems6a",
+        "fullName": "街头霸王 II' - 四大天王 (Mstreet-6, 盗版, 第1套)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2cems6b",
+        "fullName": "街头霸王 II' - 四大天王 (Mstreet-6, 盗版, 第2套)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2cems6c",
+        "fullName": "街头霸王 II' - 四大天王 (Mstreet-6, 盗版, 第3套)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2ceupl",
+        "fullName": "街头霸王 II' - 四大天王 (UPL 盗版)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2dkot2",
+        "fullName": "街头霸王 II' - 四大天王 (同归于尽 加速版, 盗版)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2dongb",
+        "fullName": "街头霸王 II' - 四大天王 (东方不败, 保护版 盗版)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2ebbl",
+        "fullName": "街头霸王 II - 天下斗士 (TAB 奥地利版, 盗版, 第1套)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2ebbl2",
+        "fullName": "街头霸王 II - 天下斗士 (TAB 奥地利版, 盗版, 第3套)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2ebbl3",
+        "fullName": "街头霸王 II - 天下斗士 (TAB 奥地利版, 盗版, 第4套)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2koryu",
+        "fullName": "街头霸王 II' - 四大天王 (降龙, 中国 盗版)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2level",
+        "fullName": "街头霸王 II' - 四大天王 (盗版 with level selection)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2m1",
+        "fullName": "街头霸王 II' - 四大天王 (M1, 盗版)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2m10",
+        "fullName": "街头霸王 II' - 四大天王 (M10, 盗版)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2m2",
+        "fullName": "街头霸王 II' - 四大天王 (M2, 盗版)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2m3",
+        "fullName": "街头霸王 II' - 四大天王 (M3, 盗版)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2m4",
+        "fullName": "街头霸王 II' - 四大天王 (M4, 盗版)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2m5",
+        "fullName": "街头霸王 II' - 四大天王 (M5, 盗版)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2m6",
+        "fullName": "街头霸王 II' - 四大天王 (M6, 盗版)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2m7",
+        "fullName": "街头霸王 II' - 四大天王 (M7, 盗版)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2m8",
+        "fullName": "街头霸王 II' - 四大天王 (M8, 盗版)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2m9",
+        "fullName": "街头霸王 II' - 四大天王 (M9, 盗版)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2mdt",
+        "fullName": "街头霸王 II' - 四大天王 (盗版, 第1套)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2mdta",
+        "fullName": "街头霸王 II' - 四大天王 (盗版, 第2套)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2mdtb",
+        "fullName": "街头霸王 II' - 四大天王 (盗版, 第3套)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2mkot",
+        "fullName": "街头霸王 II' - 魔法 KO 加速版!! - 噩梦裂缝",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2qp1",
+        "fullName": "街头霸王 II - 天下斗士 (Quicken Pt-I, 盗版)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2qp2",
+        "fullName": "街头霸王 II - 天下斗士 (Quicken, 盗版)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2rb",
+        "fullName": "街头霸王 II' - 四大天王 (彩虹版, 盗版, 第1套)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2rb2",
+        "fullName": "街头霸王 II' - 四大天王 (彩虹版, 盗版, 第2套)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2rb3",
+        "fullName": "街头霸王 II' - 四大天王 (彩虹版, 盗版, 第3套)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2re",
+        "fullName": "街头霸王 II' - 四大天王 (RE, 盗版)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2red",
+        "fullName": "街头霸王 II' - 四大天王 (赤色波动, 盗版, 第1套)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2reda",
+        "fullName": "街头霸王 II' - 四大天王 (赤色波动, 盗版, 第2套)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2redp2",
+        "fullName": "街头霸王 II' - 四大天王 (赤色波动 Pt.II, 盗版)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2rk",
+        "fullName": "街头霸王 II - 天下斗士 (RK, 盗版)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2rules",
+        "fullName": "街头霸王 II - 天下斗士 (盗版 含规则画面)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2stt",
+        "fullName": "街头霸王 II - 天下斗士 (TAB 奥地利版, 盗版, 第 2 套)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2thndr",
+        "fullName": "街头霸王 II - 天下斗士 (雷霆版, 盗版, 第1套)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2thndr2",
+        "fullName": "街头霸王 II - 天下斗士 (雷霆版, 盗版, 第2套)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2v004",
+        "fullName": "街头霸王 II' - 四大天王 (V004, 盗版)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sf2yyc",
+        "fullName": "街头霸王 II' - 四大天王 (YYC, 盗版)",
+        "simpleName": "街头霸王"
+      },
+      {
+        "romName": "sfjbl",
+        "fullName": "街头霸王 (日版, 盗版)",
+        "simpleName": "街头霸王"
+      },
+
+      {
+        "romName": "ssf2",
+        "fullName": "超级街头霸王 II - 新挑战者 (世界版 931005)",
+        "simpleName": "超级街头霸王"
+      },
+      {
+        "romName": "ssf2a",
+        "fullName": "超级街头霸王 II - 新挑战者 (亚洲版 931005)",
+        "simpleName": "超级街头霸王"
+      },
+      {
+        "romName": "ssf2ar1",
+        "fullName": "超级街头霸王 II - 新挑战者 (亚洲版 930914)",
+        "simpleName": "超级街头霸王"
+      },
+      {
+        "romName": "ssf2h",
+        "fullName": "超级街头霸王 II - 新挑战者 (西班牙版 930911)",
+        "simpleName": "超级街头霸王"
+      },
+      {
+        "romName": "ssf2j",
+        "fullName": "超级街头霸王 II - 新挑战者 (日版 931005)",
+        "simpleName": "超级街头霸王"
+      },
+      {
+        "romName": "ssf2jr1",
+        "fullName": "超级街头霸王 II - 新挑战者 (日版 930911)",
+        "simpleName": "超级街头霸王"
+      },
+      {
+        "romName": "ssf2jr2",
+        "fullName": "超级街头霸王 II - 新挑战者 (日版 930910)",
+        "simpleName": "超级街头霸王"
+      },
+      {
+        "romName": "ssf2mdb",
+        "fullName": "超级街头霸王 II - 新的来者 (盗版 日版 世嘉五代 版本)",
+        "simpleName": "超级街头霸王"
+      },
+      {
+        "romName": "ssf2r1",
+        "fullName": "超级街头霸王 II - 新挑战者 (世界版 930911)",
+        "simpleName": "超级街头霸王"
+      },
+      {
+        "romName": "ssf2t",
+        "fullName": "超级街头霸王 II 加速版 (世界版 940223)",
+        "simpleName": "超级街头霸王"
+      },
+      {
+        "romName": "ssf2ta",
+        "fullName": "超级街头霸王 II 加速版 (亚洲版 940223)",
+        "simpleName": "超级街头霸王"
+      },
+      {
+        "romName": "ssf2tb",
+        "fullName": "超级街头霸王 II - 战斗联赛 (世界版 931119)",
+        "simpleName": "超级街头霸王"
+      },
+      {
+        "romName": "ssf2tba",
+        "fullName": "超级街头霸王 II - 战斗联赛 (亚洲版 931005)",
+        "simpleName": "超级街头霸王"
+      },
+      {
+        "romName": "ssf2tbh",
+        "fullName": "超级街头霸王 II - 战斗联赛 (西班牙版 931005)",
+        "simpleName": "超级街头霸王"
+      },
+      {
+        "romName": "ssf2tbj",
+        "fullName": "超级街头霸王 II - 战斗联赛 (日版 931005)",
+        "simpleName": "超级街头霸王"
+      },
+      {
+        "romName": "ssf2tbj1",
+        "fullName": "超级街头霸王 II - 战斗联赛 (日版 930911)",
+        "simpleName": "超级街头霸王"
+      },
+      {
+        "romName": "ssf2tbr1",
+        "fullName": "超级街头霸王 II - 战斗联赛 (世界版 930911)",
+        "simpleName": "超级街头霸王"
+      },
+      {
+        "romName": "ssf2tbu",
+        "fullName": "超级街头霸王 II - 战斗联赛 (美版 930911)",
+        "simpleName": "超级街头霸王"
+      },
+      {
+        "romName": "ssf2th",
+        "fullName": "超级街头霸王 II 加速版 (西班牙版 940223)",
+        "simpleName": "超级街头霸王"
+      },
+      {
+        "romName": "ssf2tu",
+        "fullName": "超级街头霸王 II 加速版 (美版 940323)",
+        "simpleName": "超级街头霸王"
+      },
+      {
+        "romName": "ssf2tur1",
+        "fullName": "超级街头霸王 II 加速版 (美版 940223)",
+        "simpleName": "超级街头霸王"
+      },
+      {
+        "romName": "ssf2u",
+        "fullName": "超级街头霸王 II - 新挑战者 (美版 930911)",
+        "simpleName": "超级街头霸王"
+      },
+      {
+        "romName": "ssf2xj",
+        "fullName": "超级街头霸王 II X - 向最强挑战 (日版 940311)",
+        "simpleName": "超级街头霸王"
+      },
+      {
+        "romName": "ssf2xjr1",
+        "fullName": "超级街头霸王 II X - 向最强挑战 (日版 940223)",
+        "simpleName": "超级街头霸王"
+      },
+      {
+        "romName": "ssf2xjr1r",
+        "fullName": "超级街头霸王 II X - 向最强挑战 (日版 940223 租借版)",
+        "simpleName": "超级街头霸王"
+      },
+
+      {
+        "romName": "hsf2",
+        "fullName": "终极街头霸王 II: 十五周年纪念版 (美版 040202)",
+        "simpleName": "终极街头霸王"
+      },
+      {
+        "romName": "hsf2a",
+        "fullName": "终极街头霸王 II: 十五周年纪念版 (亚洲版 040202)",
+        "simpleName": "终极街头霸王"
+      },
+      {
+        "romName": "hsf2j",
+        "fullName": "终极街头霸王 II: 十五周年纪念版 (日版 040202)",
+        "simpleName": "终极街头霸王"
+      },
+      {
+        "romName": "hsf2j1",
+        "fullName": "终极街头霸王 II: 十五周年纪念版 (日版 031222)",
+        "simpleName": "终极街头霸王"
+      },
+
+      {
+        "romName": "ssf2mdb",
+        "fullName": "超级街头霸王 II - 新的来者 (盗版 日版 世嘉五代 版本)",
+        "simpleName": "超级街头霸王"
+      },
+      {
+        "romName": "ssf2tad",
+        "fullName": "超级街头霸王 II 加速版 (亚洲版 940223 凤凰版) (盗版)",
+        "simpleName": "超级街头霸王"
+      },
+      {
+        "romName": "ssf2tbd",
+        "fullName": "超级街头霸王 II - 战斗联赛 (世界版 931119 凤凰版) (盗版)",
+        "simpleName": "超级街头霸王"
+      },
+      {
+        "romName": "ssf2ud",
+        "fullName": "超级街头霸王 II - 新挑战者 (美版 930911 凤凰版) (盗版)",
+        "simpleName": "超级街头霸王"
+      },
+      {
+        "romName": "ssf2us2",
+        "fullName": "超级街头霸王 II - 新挑战者 超级 II (美版 930911)",
+        "simpleName": "超级街头霸王"
+      },
+      {
+        "romName": "ssf2xjr1d",
+        "fullName": "超级街头霸王 II X - 向最强挑战 (日版 940223 凤凰版) (盗版)",
+        "simpleName": "超级街头霸王"
+      },
+      {
+        "romName": "hsf2d",
+        "fullName": "终极街头霸王 II: 十五周年纪念版 (亚洲版 040202 凤凰版) (盗版)",
+        "simpleName": "终极街头霸王"
+      }
+    ],
+    "05 - 名将": [
+      {
+        "romName": "captcomm",
+        "fullName": "名将 (世界版 911202)",
+        "simpleName": "名将"
+      },
+      {
+        "romName": "captcommj",
+        "fullName": "名将 (日版 911202)",
+        "simpleName": "名将"
+      },
+      {
+        "romName": "captcommjr1",
+        "fullName": "名将 (日版 910928)",
+        "simpleName": "名将"
+      },
+      {
+        "romName": "captcommr1",
+        "fullName": "名将 (世界版 911014)",
+        "simpleName": "名将"
+      },
+      {
+        "romName": "captcommu",
+        "fullName": "名将 (美版 910928)",
+        "simpleName": "名将"
+      },
+      {
+        "romName": "captcommb",
+        "fullName": "名将 (盗版)",
+        "simpleName": "名将"
+      },
+      {
+        "romName": "captcommb2",
+        "fullName": "名将 (盗版 2xMSM5205)",
+        "simpleName": "名将"
+      }
+    ],
+    "06 - 龙与地下城": [
+      {
+        "romName": "ddsom",
+        "fullName": "龙与地下城 2 - 暗黑秘影 (欧洲版 960619)",
+        "simpleName": "龙与地下城"
+      },
+      {
+        "romName": "ddsoma",
+        "fullName": "龙与地下城 2 - 暗黑秘影 (亚洲版 960619)",
+        "simpleName": "龙与地下城"
+      },
+      {
+        "romName": "ddsomar1",
+        "fullName": "龙与地下城 2 - 暗黑秘影 (亚洲版 960208)",
+        "simpleName": "龙与地下城"
+      },
+      {
+        "romName": "ddsomb",
+        "fullName": "龙与地下城 2 - 暗黑秘影 (巴西版 960223)",
+        "simpleName": "龙与地下城"
+      },
+      {
+        "romName": "ddsomh",
+        "fullName": "龙与地下城 2 - 暗黑秘影 (西班牙版 960223)",
+        "simpleName": "龙与地下城"
+      },
+      {
+        "romName": "ddsomj",
+        "fullName": "龙与地下城 2 - 暗黑秘影 (日版 960619)",
+        "simpleName": "龙与地下城"
+      },
+      {
+        "romName": "ddsomjr1",
+        "fullName": "龙与地下城 2 - 暗黑秘影 (日版 960206)",
+        "simpleName": "龙与地下城"
+      },
+      {
+        "romName": "ddsomjr2",
+        "fullName": "龙与地下城 2 - 暗黑秘影 (日版 960223)",
+        "simpleName": "龙与地下城"
+      },
+      {
+        "romName": "ddsomr1",
+        "fullName": "龙与地下城 2 - 暗黑秘影 (欧洲版 960223)",
+        "simpleName": "龙与地下城"
+      },
+      {
+        "romName": "ddsomr2",
+        "fullName": "龙与地下城 2 - 暗黑秘影 (欧洲版 960209)",
+        "simpleName": "龙与地下城"
+      },
+      {
+        "romName": "ddsomr3",
+        "fullName": "龙与地下城 2 - 暗黑秘影 (欧洲版 960208)",
+        "simpleName": "龙与地下城"
+      },
+      {
+        "romName": "ddsomu",
+        "fullName": "龙与地下城 2 - 暗黑秘影 (美版 960619)",
+        "simpleName": "龙与地下城"
+      },
+      {
+        "romName": "ddsomur1",
+        "fullName": "龙与地下城 2 - 暗黑秘影 (美版 960209)",
+        "simpleName": "龙与地下城"
+      },
+      {
+        "romName": "ddtod",
+        "fullName": "龙与地下城 - 毁灭之塔 (欧洲版 940412)",
+        "simpleName": "龙与地下城"
+      },
+      {
+        "romName": "ddtoda",
+        "fullName": "龙与地下城 - 毁灭之塔 (亚洲版 940412)",
+        "simpleName": "龙与地下城"
+      },
+      {
+        "romName": "ddtodar1",
+        "fullName": "龙与地下城 - 毁灭之塔 (亚洲版 940113)",
+        "simpleName": "龙与地下城"
+      },
+      {
+        "romName": "ddtodh",
+        "fullName": "龙与地下城 - 毁灭之塔 (西班牙版 940412)",
+        "simpleName": "龙与地下城"
+      },
+      {
+        "romName": "ddtodhr1",
+        "fullName": "龙与地下城 - 毁灭之塔 (西班牙版 940125)",
+        "simpleName": "龙与地下城"
+      },
+      {
+        "romName": "ddtodhr2",
+        "fullName": "龙与地下城 - 毁灭之塔 (西班牙版 940113)",
+        "simpleName": "龙与地下城"
+      },
+      {
+        "romName": "ddtodj",
+        "fullName": "龙与地下城 - 毁灭之塔 (日版 940412)",
+        "simpleName": "龙与地下城"
+      },
+      {
+        "romName": "ddtodjr1",
+        "fullName": "龙与地下城 - 毁灭之塔 (日版 940125)",
+        "simpleName": "龙与地下城"
+      },
+      {
+        "romName": "ddtodjr2",
+        "fullName": "龙与地下城 - 毁灭之塔 (日版 940113)",
+        "simpleName": "龙与地下城"
+      },
+      {
+        "romName": "ddtodr1",
+        "fullName": "龙与地下城 - 毁灭之塔 (欧洲版 940113)",
+        "simpleName": "龙与地下城"
+      },
+      {
+        "romName": "ddtodu",
+        "fullName": "龙与地下城 - 毁灭之塔 (美版 940125)",
+        "simpleName": "龙与地下城"
+      },
+      {
+        "romName": "ddtodur1",
+        "fullName": "龙与地下城 - 毁灭之塔 (美版 940113)",
+        "simpleName": "龙与地下城"
+      },
+
+      {
+        "romName": "ddsomud",
+        "fullName": "龙与地下城 2 - 暗黑秘影 (美版 960619 凤凰版) (盗版)",
+        "simpleName": "龙与地下城"
+      },
+      {
+        "romName": "ddtodd",
+        "fullName": "龙与地下城 - 毁灭之塔 (欧洲版 940412 凤凰版) (盗版)",
+        "simpleName": "龙与地下城"
+      }
+    ],
+    "07 - 荒野大镖客": [
+      {
+        "romName": "gunsmoke",
+        "fullName": "荒野大镖客 (世界版, 1985-11-15)",
+        "simpleName": "荒野大镖客"
+      },
+      {
+        "romName": "gunsmokeg",
+        "fullName": "荒野大镖客 (德国版, 1985-11-15, 已审查)",
+        "simpleName": "荒野大镖客"
+      },
+      {
+        "romName": "gunsmokej",
+        "fullName": "荒野大镖客 (日版, 1985-11-15)",
+        "simpleName": "荒野大镖客"
+      },
+      {
+        "romName": "gunsmokeu",
+        "fullName": "荒野大镖客 (美版与加拿大版, 1986-04-08)",
+        "simpleName": "荒野大镖客"
+      },
+      {
+        "romName": "gunsmokeua",
+        "fullName": "荒野大镖客 (美版与加拿大版, 1986-01-20)",
+        "simpleName": "荒野大镖客"
+      },
+      {
+        "romName": "gunsmokeub",
+        "fullName": "荒野大镖客 (美版与加拿大版, 1985-11-15, 第1套)",
+        "simpleName": "荒野大镖客"
+      },
+      {
+        "romName": "gunsmokeuc",
+        "fullName": "荒野大镖客 (美版与加拿大版, 1985-11-15, 第2套)",
+        "simpleName": "荒野大镖客"
+      },
+
+      {
+        "romName": "gunsmokeb",
+        "fullName": "荒野大镖客 (世界版, 1985-11-15) (盗版)",
+        "simpleName": "荒野大镖客"
+      }
+    ],
+    "08 - 威虎战机": [
+      {
+        "romName": "varth",
+        "fullName": "威虎战机 - 雷暴行动 (世界版 920714)",
+        "simpleName": "威虎战机"
+      },
+      {
+        "romName": "varthj",
+        "fullName": "威虎战机 - 雷暴行动 (日版 920714)",
+        "simpleName": "威虎战机"
+      },
+      {
+        "romName": "varthjr",
+        "fullName": "威虎战机 - 雷暴行动 (日版 转售 版本 920714)",
+        "simpleName": "威虎战机"
+      },
+      {
+        "romName": "varthr1",
+        "fullName": "威虎战机 - 雷暴行动 (世界版 920612)",
+        "simpleName": "威虎战机"
+      },
+      {
+        "romName": "varthu",
+        "fullName": "威虎战机 - 雷暴行动 (美版 920612)",
+        "simpleName": "威虎战机"
+      },
+      {
+        "romName": "varthb",
+        "fullName": "威虎战机 - 雷暴行动 (盗版, 第1套)",
+        "simpleName": "威虎战机"
+      },
+      {
+        "romName": "varthb2",
+        "fullName": "威虎战机 - 雷暴行动 (盗版, 第2套)",
+        "simpleName": "威虎战机"
+      },
+      {
+        "romName": "varthb3",
+        "fullName": "威虎战机 - 雷暴行动 (盗版, 第 3 套)",
+        "simpleName": "威虎战机"
+      }
+    ],
+    "09 - 虎之道": [
+      {
+        "romName": "tigeroad",
+        "fullName": "虎之道 (美版)",
+        "simpleName": "虎之道"
+      },
+      {
+        "romName": "tigeroadu",
+        "fullName": "虎之道 (美版, Romstar 授权)",
+        "simpleName": "虎之道"
+      },
+      {
+        "romName": "toramich",
+        "fullName": "虎之道 (日版)",
+        "simpleName": "虎之道"
+      },
+      {
+        "romName": "tigeroadb",
+        "fullName": "虎之道 (美版 盗版)",
+        "simpleName": "虎之道"
+      }
+    ],
+    "10 - 圆桌骑士": [
+      {
+        "romName": "knights",
+        "fullName": "圆桌骑士 (世界版 911127)",
+        "simpleName": "圆桌骑士"
+      },
+      {
+        "romName": "knightsb2",
+        "fullName": "圆桌骑士 (盗版, 世界版 911127)",
+        "simpleName": "圆桌骑士"
+      },
+      {
+        "romName": "knightsj",
+        "fullName": "圆桌骑士 (日版 911127, B-Board 91634B-2)",
+        "simpleName": "圆桌骑士"
+      },
+      {
+        "romName": "knightsja",
+        "fullName": "圆桌骑士 (日版 911127, B-Board 89625B-1)",
+        "simpleName": "圆桌骑士"
+      },
+      {
+        "romName": "knightsu",
+        "fullName": "圆桌骑士 (美版 911127)",
+        "simpleName": "圆桌骑士"
+      },
+      {
+        "romName": "knightsb",
+        "fullName": "圆桌骑士 (盗版 2xMSM5205, 第1套)",
+        "simpleName": "圆桌骑士"
+      },
+      {
+        "romName": "knightsb3",
+        "fullName": "圆桌骑士 (盗版 2xMSM5205, 第2套)",
+        "simpleName": "圆桌骑士"
+      }
+    ],
+    "11 - 惩罚者": [
+      {
+        "romName": "punisher",
+        "fullName": "惩罚者 (世界版 930422)",
+        "simpleName": "惩罚者"
+      },
+      {
+        "romName": "punisherh",
+        "fullName": "惩罚者 (西班牙版 930422)",
+        "simpleName": "惩罚者"
+      },
+      {
+        "romName": "punisherj",
+        "fullName": "惩罚者 (日版 930422)",
+        "simpleName": "惩罚者"
+      },
+      {
+        "romName": "punisheru",
+        "fullName": "惩罚者 (美版 930422)",
+        "simpleName": "惩罚者"
+      },
+      {
+        "romName": "punipic",
+        "fullName": "惩罚者 (盗版 PIC16C57, 第1套)",
+        "simpleName": "惩罚者"
+      },
+      {
+        "romName": "punipic2",
+        "fullName": "惩罚者 (盗版 PIC16C57, 第2套)",
+        "simpleName": "惩罚者"
+      },
+      {
+        "romName": "punipic3",
+        "fullName": "惩罚者 (盗版 PIC16C57, 第3套)",
+        "simpleName": "惩罚者"
+      }
+    ],
+    "12 - 机甲战士": [
+      {
+        "romName": "armwar",
+        "fullName": "机甲战士 / 机甲装备: 攻关版 (欧洲版 941024)",
+        "simpleName": "机甲战士"
+      },
+      {
+        "romName": "armwara",
+        "fullName": "机甲战士 / 机甲装备: 攻关版 (亚洲版 941024)",
+        "simpleName": "机甲战士"
+      },
+      {
+        "romName": "armwarar1",
+        "fullName": "机甲战士 / 机甲装备: 攻关版 (亚洲版 940920)",
+        "simpleName": "机甲战士"
+      },
+      {
+        "romName": "armwarb",
+        "fullName": "机甲战士 / 机甲装备: 攻关版 (巴西版 941024)",
+        "simpleName": "机甲战士"
+      },
+      {
+        "romName": "armwarr1",
+        "fullName": "机甲战士 / 机甲装备: 攻关版 (欧洲版 941011)",
+        "simpleName": "机甲战士"
+      },
+      {
+        "romName": "armwaru",
+        "fullName": "机甲战士 / 机甲装备: 攻关版 (美版 941024)",
+        "simpleName": "机甲战士"
+      },
+      {
+        "romName": "armwaru1",
+        "fullName": "机甲战士 / 机甲装备: 攻关版 (美版 940920)",
+        "simpleName": "机甲战士"
+      },
+      {
+        "romName": "cybots",
+        "fullName": "机甲战士 - 全金属狂潮 (欧洲版 950424)",
+        "simpleName": "机甲战士"
+      },
+      {
+        "romName": "cybotsj",
+        "fullName": "机甲战士 - 全金属狂潮 (日版 950420)",
+        "simpleName": "机甲战士"
+      },
+      {
+        "romName": "cybotsu",
+        "fullName": "机甲战士 - 全金属狂潮 (美版 950424)",
+        "simpleName": "机甲战士"
+      },
+      {
+        "romName": "pgear",
+        "fullName": "机甲战士 / 机甲装备: 攻关版 (日版 941024)",
+        "simpleName": "机甲战士"
+      },
+      {
+        "romName": "pgearr1",
+        "fullName": "机甲战士 / 机甲装备: 攻关版 (日版 940916)",
+        "simpleName": "机甲战士"
+      },
+
+      {
+        "romName": "armwar1d",
+        "fullName": "机甲战士 / 机甲装备: 攻关版 (欧洲版 941011 凤凰版) (盗版)",
+        "simpleName": "机甲战士"
+      },
+      {
+        "romName": "cybotsjd",
+        "fullName": "机甲战士 - 全金属狂潮 (日版 950424) (解密 盗版)",
+        "simpleName": "机甲战士"
+      },
+      {
+        "romName": "cybotsud",
+        "fullName": "机甲战士 - 全金属狂潮 (美版 950424 凤凰版) (盗版)",
+        "simpleName": "机甲战士"
+      }
+    ],
+    "13 - 异形": [
+      {
+        "romName": "alien",
+        "fullName": "异形 - 街机纪念版 ",
+        "simpleName": "异形"
+      },
+      {
+        "romName": "avsp",
+        "fullName": "异形 对 铁血战士 (欧洲版 940520)",
+        "simpleName": "异形"
+      },
+      {
+        "romName": "avspa",
+        "fullName": "异形 对 铁血战士 (亚洲版 940520)",
+        "simpleName": "异形"
+      },
+      {
+        "romName": "avsph",
+        "fullName": "异形 对 铁血战士 (西班牙版 940520)",
+        "simpleName": "异形"
+      },
+      {
+        "romName": "avspj",
+        "fullName": "异形 对 铁血战士 (日版 940520)",
+        "simpleName": "异形"
+      },
+      {
+        "romName": "avspu",
+        "fullName": "异形 对 铁血战士 (美版 940520)",
+        "simpleName": "异形"
+      },
+
+      {
+        "romName": "avspd",
+        "fullName": "异形 对 铁血战士 (欧洲版 940520 凤凰版) (盗版)",
+        "simpleName": "异形"
+      }
+    ],
+    "14 - 龙王战士": [
+      {
+        "romName": "kod",
+        "fullName": "龙王战士 (世界版 910805)",
+        "simpleName": "龙王战士"
+      },
+      {
+        "romName": "kodj",
+        "fullName": "龙王战士 (日版 910805, B-Board 90629B-3)",
+        "simpleName": "龙王战士"
+      },
+      {
+        "romName": "kodja",
+        "fullName": "龙王战士 (日版 910805, B-Board 89625B-1)",
+        "simpleName": "龙王战士"
+      },
+      {
+        "romName": "kodr1",
+        "fullName": "龙王战士 (世界版 910711)",
+        "simpleName": "龙王战士"
+      },
+      {
+        "romName": "kodr2",
+        "fullName": "龙王战士 (世界版 910731)",
+        "simpleName": "龙王战士"
+      },
+      {
+        "romName": "kodu",
+        "fullName": "龙王战士 (美版 910910)",
+        "simpleName": "龙王战士"
+      },
+
+      {
+        "romName": "kodb",
+        "fullName": "龙王战士 (盗版)",
+        "simpleName": "龙王战士"
+      }
+    ],
+    "15 - 奇迹三合一": [
+      {
+        "romName": "3wonders",
+        "fullName": "奇迹三合一 (世界版 910520)",
+        "simpleName": "奇迹三合一"
+      },
+      {
+        "romName": "3wondersr1",
+        "fullName": "奇迹三合一 (世界版 910513)",
+        "simpleName": "奇迹三合一"
+      },
+      {
+        "romName": "3wondersu",
+        "fullName": "奇迹三合一 (美版 910520)",
+        "simpleName": "奇迹三合一"
+      },
+      {
+        "romName": "wonder3",
+        "fullName": "奇迹三合一 (日版 910520)",
+        "simpleName": "奇迹三合一"
+      },
+      {
+        "romName": "3wondersb",
+        "fullName": "奇迹三合一 (盗版)",
+        "simpleName": "奇迹三合一"
+      },
+      {
+        "romName": "3wondersh",
+        "fullName": "奇迹三合一 (修改版)",
+        "simpleName": "奇迹三合一"
+      }
+    ],
+    "16 - X 战警": [
+      {
+        "romName": "xmcota",
+        "fullName": "X - 战警: 磁场原子人 (欧洲版 950331)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmcotaa",
+        "fullName": "X - 战警: 磁场原子人 (亚洲版 950105)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmcotaar1",
+        "fullName": "X - 战警: 磁场原子人 (亚洲版 941219)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmcotaar2",
+        "fullName": "X - 战警: 磁场原子人 (亚洲版 941217)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmcotab",
+        "fullName": "X - 战警: 磁场原子人 (巴西版 950331)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmcotah",
+        "fullName": "X - 战警: 磁场原子人 (西班牙版 950331)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmcotahr1",
+        "fullName": "X - 战警: 磁场原子人 (西班牙版 950105)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmcotaj",
+        "fullName": "X - 战警: 磁场原子人 (日版 950105)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmcotaj1",
+        "fullName": "X - 战警: 磁场原子人 (日版 941222)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmcotaj2",
+        "fullName": "X - 战警: 磁场原子人 (日版 941219)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmcotaj3",
+        "fullName": "X - 战警: 磁场原子人 (日版 941217)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmcotajr",
+        "fullName": "X - 战警: 磁场原子人 (日版 941208 租借版)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmcotar1",
+        "fullName": "X - 战警: 磁场原子人 (欧洲版 950105)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmcotau",
+        "fullName": "X - 战警: 磁场原子人 (美版 950105)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmvsf",
+        "fullName": "X 战警 对 街头霸王 (欧洲版 961004)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmvsfa",
+        "fullName": "X 战警 对 街头霸王 (亚洲版 961023)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmvsfar1",
+        "fullName": "X 战警 对 街头霸王 (亚洲版 961004)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmvsfar2",
+        "fullName": "X 战警 对 街头霸王 (亚洲版 960919)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmvsfar3",
+        "fullName": "X 战警 对 街头霸王 (亚洲版 960910)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmvsfb",
+        "fullName": "X 战警 对 街头霸王 (巴西版 961023)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmvsfh",
+        "fullName": "X 战警 对 街头霸王 (西班牙版 961004)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmvsfj",
+        "fullName": "X 战警 对 街头霸王 (日版 961023)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmvsfjr1",
+        "fullName": "X 战警 对 街头霸王 (日版 961004)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmvsfjr2",
+        "fullName": "X 战警 对 街头霸王 (日版 960910)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmvsfjr3",
+        "fullName": "X 战警 对 街头霸王 (日版 960909)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmvsfr1",
+        "fullName": "X 战警 对 街头霸王 (欧洲版 960910)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmvsfu",
+        "fullName": "X 战警 对 街头霸王 (美版 961023)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmvsfur1",
+        "fullName": "X 战警 对 街头霸王 (美版 961004)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmvsfur2",
+        "fullName": "X 战警 对 街头霸王 (美版 960910)",
+        "simpleName": "X"
+      },
+
+      {
+        "romName": "xmcotar1d",
+        "fullName": "X - 战警: 磁场原子人 (欧洲版 950105 凤凰版) (盗版)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmenabl",
+        "fullName": "X 战警 (4 人游戏 版本 AEA, 盗版)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmvsfu1d",
+        "fullName": "X 战警 对 街头霸王 (美版 961004 凤凰版) (盗版)",
+        "simpleName": "X"
+      }
+    ],
+    "17 - 超级口袋战士": [
+      {
+        "romName": "pfghtj",
+        "fullName": "超级口袋战士 (日版 970904)",
+        "simpleName": "超级口袋战士"
+      },
+      {
+        "romName": "sgemf",
+        "fullName": "超级口袋战士 (美版 970904)",
+        "simpleName": "超级口袋战士"
+      },
+      {
+        "romName": "sgemfa",
+        "fullName": "超级口袋战士 (亚洲版 970904)",
+        "simpleName": "超级口袋战士"
+      },
+      {
+        "romName": "sgemfh",
+        "fullName": "超级口袋战士 (西班牙版 970904)",
+        "simpleName": "超级口袋战士"
+      },
+
+      {
+        "romName": "sgemfd",
+        "fullName": "超级口袋战士 (美版 970904 凤凰版) (盗版)",
+        "simpleName": "超级口袋战士"
+      }
+    ],
+    "18 - 19XX": [
+      {
+        "romName": "1941",
+        "fullName": "1941 - 反击战 (世界版 900227)",
+        "simpleName": "1941"
+      },
+      {
+        "romName": "1941j",
+        "fullName": "1941 - 反击战 (日版)",
+        "simpleName": "1941"
+      },
+      {
+        "romName": "1941r1",
+        "fullName": "1941 - 反击战 (世界版)",
+        "simpleName": "1941"
+      },
+      {
+        "romName": "1941u",
+        "fullName": "1941 - 反击战 (美版 900227)",
+        "simpleName": "1941"
+      },
+
+      {
+        "romName": "1942",
+        "fullName": "1942 - 空中大战 (修订版 B)",
+        "simpleName": "1942"
+      },
+      {
+        "romName": "1942a",
+        "fullName": "1942 - 空中大战 (修订版 A)",
+        "simpleName": "1942"
+      },
+      {
+        "romName": "1942b",
+        "fullName": "1942 - 空中大战 (初版)",
+        "simpleName": "1942"
+      },
+      {
+        "romName": "1942w",
+        "fullName": "1942 - 空中大战 (威廉斯电子 授权)",
+        "simpleName": "1942"
+      },
+      {
+        "romName": "pc_1942",
+        "fullName": "1942 (游戏选择-10)",
+        "simpleName": "1942"
+      },
+
+      {
+        "romName": "1943",
+        "fullName": "1943 - 中途岛海战 (欧洲版)",
+        "simpleName": "1943"
+      },
+      {
+        "romName": "1943j",
+        "fullName": "1943 - 中途岛海战 (日版, 修订版 B)",
+        "simpleName": "1943"
+      },
+      {
+        "romName": "1943ja",
+        "fullName": "1943 - 中途岛海战 (日版)",
+        "simpleName": "1943"
+      },
+      {
+        "romName": "1943jah",
+        "fullName": "1943 - 中途岛海战 (日版, 未保护 修改版)",
+        "simpleName": "1943"
+      },
+      {
+        "romName": "1943kai",
+        "fullName": "1943 改 - 中途岛海战 (日版)",
+        "simpleName": "1943"
+      },
+      {
+        "romName": "1943mii",
+        "fullName": "1943 - 中途岛海战 MARK II (美版)",
+        "simpleName": "1943"
+      },
+      {
+        "romName": "1943u",
+        "fullName": "1943 - 中途岛海战 (美版, 修订版 C)",
+        "simpleName": "1943"
+      },
+      {
+        "romName": "1943ua",
+        "fullName": "1943 - 中途岛海战 (美版)",
+        "simpleName": "1943"
+      },
+
+      {
+        "romName": "1944",
+        "fullName": "1944 - 征服世界 (欧洲版 000620)",
+        "simpleName": "1944"
+      },
+      {
+        "romName": "1944j",
+        "fullName": "1944 - 征服世界 (日版 000620)",
+        "simpleName": "1944"
+      },
+      {
+        "romName": "1944u",
+        "fullName": "1944 - 征服世界 (美版 000620)",
+        "simpleName": "1944"
+      },
+
+      {
+        "romName": "19xx",
+        "fullName": "19XX - 命运否决战 (欧洲版 960104)",
+        "simpleName": "19XX"
+      },
+      {
+        "romName": "19xxa",
+        "fullName": "19XX - 命运否决战 (亚洲版 960104)",
+        "simpleName": "19XX"
+      },
+      {
+        "romName": "19xxar1",
+        "fullName": "19XX - 命运否决战 (亚洲版 951207)",
+        "simpleName": "19XX"
+      },
+      {
+        "romName": "19xxb",
+        "fullName": "19XX - 命运否决战 (巴西版 951218)",
+        "simpleName": "19XX"
+      },
+      {
+        "romName": "19xxh",
+        "fullName": "19XX - 命运否决战 (西班牙版 951218)",
+        "simpleName": "19XX"
+      },
+      {
+        "romName": "19xxj",
+        "fullName": "19XX - 命运否决战 (日版 960104, 黄色外壳)",
+        "simpleName": "19XX"
+      },
+      {
+        "romName": "19xxjr1",
+        "fullName": "19XX - 命运否决战 (日版 951225)",
+        "simpleName": "19XX"
+      },
+      {
+        "romName": "19xxjr2",
+        "fullName": "19XX - 命运否决战 (日版 951207)",
+        "simpleName": "19XX"
+      },
+      {
+        "romName": "19xxu",
+        "fullName": "19XX - 命运否决战 (美版 951207)",
+        "simpleName": "19XX"
+      },
+
+      {
+        "romName": "1942abl",
+        "fullName": "1942 - 空中大战 (修订版 A, 盗版)",
+        "simpleName": "1942"
+      },
+      {
+        "romName": "1942iti",
+        "fullName": "1942 (Itisa bootleg)",
+        "simpleName": "1942"
+      },
+      {
+        "romName": "1942p",
+        "fullName": "1942 - 空中大战 (Tecfri PCB, 盗版?)",
+        "simpleName": "1942"
+      },
+
+      {
+        "romName": "1943b",
+        "fullName": "1943 - 中途岛海战 (盗版, 修改版 日版)",
+        "simpleName": "1943"
+      },
+      {
+        "romName": "1943bj",
+        "fullName": "1943 - 中途岛海战 (盗版)",
+        "simpleName": "1943"
+      },
+
+      {
+        "romName": "1944d",
+        "fullName": "1944 - 征服世界 (美版 000620 凤凰版) (盗版)",
+        "simpleName": "1944"
+      },
+      {
+        "romName": "bgareggabl",
+        "fullName": "1945 二代 (中国版 修改版 空战之路)",
+        "simpleName": "1945"
+      },
+      {
+        "romName": "19xxd",
+        "fullName": "19XX - 命运否决战 (美版 951207 凤凰版) (盗版)",
+        "simpleName": "19XX"
+      }
+    ],
+    "19 - 西游记": [
+      {
+        "romName": "sonson",
+        "fullName": "西游记",
+        "simpleName": "西游记"
+      },
+      {
+        "romName": "sonsonj",
+        "fullName": "西游记 (日版)",
+        "simpleName": "西游记"
+      }
+    ],
+    "20 - 恶魔战士": [
+      {
+        "romName": "dstlk",
+        "fullName": "恶魔战士 - 午夜斗士 (欧洲版 940705)",
+        "simpleName": "恶魔战士"
+      },
+      {
+        "romName": "dstlka",
+        "fullName": "恶魔战士 - 午夜斗士 (亚洲版 940705)",
+        "simpleName": "恶魔战士"
+      },
+      {
+        "romName": "dstlkh",
+        "fullName": "恶魔战士 - 午夜斗士 (西班牙版 940818)",
+        "simpleName": "恶魔战士"
+      },
+      {
+        "romName": "dstlku",
+        "fullName": "恶魔战士 - 午夜斗士 (美版 940818)",
+        "simpleName": "恶魔战士"
+      },
+      {
+        "romName": "dstlkur1",
+        "fullName": "恶魔战士 - 午夜斗士 (美版 940705)",
+        "simpleName": "恶魔战士"
+      },
+      {
+        "romName": "vampj",
+        "fullName": "恶魔战士 - 午夜斗士 (日版 940705)",
+        "simpleName": "恶魔战士"
+      },
+      {
+        "romName": "vampja",
+        "fullName": "恶魔战士 - 午夜斗士 (日版 940705 替换版)",
+        "simpleName": "恶魔战士"
+      },
+      {
+        "romName": "vampjr1",
+        "fullName": "恶魔战士 - 午夜斗士 (日版 940630)",
+        "simpleName": "恶魔战士"
+      },
+      {
+        "romName": "dstlku1d",
+        "fullName": "恶魔战士 - 午夜斗士 (美版 940705 凤凰版) (盗版)",
+        "simpleName": "恶魔战士"
+      }
+    ],
+    "22 - 失落的世界": [
+      {
+        "romName": "forgottn",
+        "fullName": "失落的世界 (世界版, 新版)",
+        "simpleName": "失落的世界"
+      },
+      {
+        "romName": "forgottna",
+        "fullName": "失落的世界 (世界版)",
+        "simpleName": "失落的世界"
+      },
+      {
+        "romName": "forgottnj",
+        "fullName": "失落的世界 (日版) (英文版 工程版)",
+        "simpleName": "失落的世界"
+      },
+      {
+        "romName": "forgottnu",
+        "fullName": "失落的世界 (美版, B-Board 88621B-2, 修订版 C)",
+        "simpleName": "失落的世界"
+      },
+      {
+        "romName": "forgottnua",
+        "fullName": "失落的世界 (美版, B-Board 88618B-2, 修订版 A)",
+        "simpleName": "失落的世界"
+      },
+      {
+        "romName": "forgottnuaa",
+        "fullName": "失落的世界 (美版, B-Board 88618B-2, 修订版 AA)",
+        "simpleName": "失落的世界"
+      },
+      {
+        "romName": "forgottnuc",
+        "fullName": "失落的世界 (美版, B-Board 88618B-2, 修订版 C)",
+        "simpleName": "失落的世界"
+      },
+      {
+        "romName": "forgottnue",
+        "fullName": "失落的世界 (美版, B-Board 88618B-2, 修订版 E)",
+        "simpleName": "失落的世界"
+      },
+      {
+        "romName": "lostwrld",
+        "fullName": "失落的世界 (日版)",
+        "simpleName": "失落的世界"
+      },
+      {
+        "romName": "lostwrldo",
+        "fullName": "失落的世界 (日版 旧版)",
+        "simpleName": "失落的世界"
+      }
+    ],
+    "23 - 恶魔猎人": [
+      {
+        "romName": "nwarr",
+        "fullName": "恶魔猎人 - 恶魔的复仇 (欧洲版 950316)",
+        "simpleName": "恶魔猎人"
+      },
+      {
+        "romName": "nwarra",
+        "fullName": "恶魔猎人 - 恶魔的复仇 (亚洲版 950302)",
+        "simpleName": "恶魔猎人"
+      },
+      {
+        "romName": "nwarrb",
+        "fullName": "恶魔猎人 - 恶魔的复仇 (巴西版 950403)",
+        "simpleName": "恶魔猎人"
+      },
+      {
+        "romName": "nwarrh",
+        "fullName": "恶魔猎人 - 恶魔的复仇 (西班牙版 950403)",
+        "simpleName": "恶魔猎人"
+      },
+      {
+        "romName": "nwarru",
+        "fullName": "恶魔猎人 - 恶魔的复仇 (美版 950406)",
+        "simpleName": "恶魔猎人"
+      },
+      {
+        "romName": "vhunt2",
+        "fullName": "恶魔猎人 2 - 恶魔的复仇 (日版 970929)",
+        "simpleName": "恶魔猎人"
+      },
+      {
+        "romName": "vhunt2r1",
+        "fullName": "恶魔猎人 2 - 恶魔的复仇 (日版 970913)",
+        "simpleName": "恶魔猎人"
+      },
+      {
+        "romName": "vhuntj",
+        "fullName": "恶魔猎人 - 恶魔的复仇 (日版 950316)",
+        "simpleName": "恶魔猎人"
+      },
+      {
+        "romName": "vhuntjr1",
+        "fullName": "恶魔猎人 - 恶魔的复仇 (日版 950307)",
+        "simpleName": "恶魔猎人"
+      },
+      {
+        "romName": "vhuntjr1s",
+        "fullName": "恶魔猎人 - 恶魔的复仇 (日版 950307 停售版)",
+        "simpleName": "恶魔猎人"
+      },
+      {
+        "romName": "vhuntjr2",
+        "fullName": "恶魔猎人 - 恶魔的复仇 (日版 950302)",
+        "simpleName": "恶魔猎人"
+      },
+      {
+        "romName": "nwarrud",
+        "fullName": "恶魔猎人 - 恶魔的复仇 (美版 950406 凤凰版) (盗版)",
+        "simpleName": "恶魔猎人"
+      },
+      {
+        "romName": "vhunt2d",
+        "fullName": "恶魔猎人 2 - 恶魔的复仇 (日版 970913 凤凰版) (盗版)",
+        "simpleName": "恶魔猎人"
+      }
+    ],
+    "24 - 洛克人": [
+      {
+        "romName": "megaman",
+        "fullName": "洛克人 - 力量对决 (CPS1, 美版 951006)",
+        "simpleName": "洛克人"
+      },
+      {
+        "romName": "megaman2",
+        "fullName": "洛克人 2 - 力量对决 (美版 960708)",
+        "simpleName": "洛克人"
+      },
+      {
+        "romName": "megaman2a",
+        "fullName": "洛克人 2 - 力量对决 (亚洲版 960708)",
+        "simpleName": "洛克人"
+      },
+      {
+        "romName": "megaman2h",
+        "fullName": "洛克人 2 - 力量对决 (西班牙版 960712)",
+        "simpleName": "洛克人"
+      },
+      {
+        "romName": "megamana",
+        "fullName": "洛克人 - 力量对决 (CPS1, 亚洲版 951006)",
+        "simpleName": "洛克人"
+      },
+      {
+        "romName": "mmancp2u",
+        "fullName": "洛克人 - 力量对决 (CPS2, 美版 951006, 采样版)",
+        "simpleName": "洛克人"
+      },
+      {
+        "romName": "mmancp2ur1",
+        "fullName": "洛克人 - 力量对决 (CPS2, 美版 950926, 采样版)",
+        "simpleName": "洛克人"
+      },
+      {
+        "romName": "mmancp2ur2",
+        "fullName": "洛克人 - 力量对决 (CPS2, 美版 950925, 采样版)",
+        "simpleName": "洛克人"
+      },
+      {
+        "romName": "msimm2",
+        "fullName": "洛克人 2 (MSI Plug & Play)",
+        "simpleName": "洛克人"
+      },
+      {
+        "romName": "pc_mman3",
+        "fullName": "洛克人 III (PlayChoice-10)",
+        "simpleName": "洛克人"
+      },
+      {
+        "romName": "rmancp2j",
+        "fullName": "洛克人 - 力量对决 (CPS2, 日版 950922)",
+        "simpleName": "洛克人"
+      },
+      {
+        "romName": "rockman2j",
+        "fullName": "洛克人 2 - 力量对决 (日版 960708)",
+        "simpleName": "洛克人"
+      },
+      {
+        "romName": "rockmanj",
+        "fullName": "洛克人 - 力量对决 (CPS1, 日版 950922)",
+        "simpleName": "洛克人"
+      },
+      {
+        "romName": "gigaman2",
+        "fullName": "洛克人 2 - 力量对决 (盗版 洛克人 2 - 力量对决)",
+        "simpleName": "洛克人"
+      },
+      {
+        "romName": "megamn2d",
+        "fullName": "洛克人 2 - 力量对决 (美版 960708 凤凰版) (盗版)",
+        "simpleName": "洛克人"
+      }
+    ]
   }
 }

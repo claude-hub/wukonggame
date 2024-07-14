@@ -1,4 +1,4 @@
-module.exports = {
+const a = {
   "4": [
     {
       "romName": "4in1a",
@@ -2546,23 +2546,6 @@ module.exports = {
       "simpleName": "卡普空运动俱乐部"
     }
   ],
-  "卧虎藏龙": [
-    {
-      "romName": "ct2k3sa",
-      "fullName": "卧虎藏龙 2003 Super Plus 替换版 (拳皇 2001 盗版)",
-      "simpleName": "卧虎藏龙"
-    },
-    {
-      "romName": "ct2k3sp",
-      "fullName": "卧虎藏龙 2003 风云 Super Plus (拳皇 2001 盗版)",
-      "simpleName": "卧虎藏龙"
-    },
-    {
-      "romName": "cthd2003",
-      "fullName": "卧虎藏龙 2003 (拳皇 2001 盗版)",
-      "simpleName": "卧虎藏龙"
-    }
-  ],
   "流氓大混战": [
     {
       "romName": "ctribeb",
@@ -3376,11 +3359,7 @@ module.exports = {
     }
   ],
   "饿狼传说": [
-    {
-      "romName": "fatfurspb",
-      "fullName": "饿狼传说 特别版 (SNES 盗版)",
-      "simpleName": "饿狼传说"
-    }
+
   ],
   "水果鸡尾酒": [
     {
@@ -3651,11 +3630,7 @@ module.exports = {
     }
   ],
   "龙虎之拳": [
-    {
-      "romName": "fitfight",
-      "fullName": "龙虎之拳",
-      "simpleName": "龙虎之拳"
-    }
+ 
   ],
   "蛋小子": [
     {
@@ -4525,11 +4500,7 @@ module.exports = {
     }
   ],
   "古巴战士": [
-    {
-      "romName": "gwarb",
-      "fullName": "古巴战士 (操纵杆 修改版 盗版)",
-      "simpleName": "古巴战士"
-    }
+ 
   ],
   "太空射击战": [
     {
@@ -5306,103 +5277,6 @@ module.exports = {
       "simpleName": "决意"
     }
   ],
-  "拳皇": [
-    {
-      "romName": "kf10thep",
-      "fullName": "拳皇 十周年纪念 - 所有队伍的战斗 Extra Plus (拳皇 2002 盗版)",
-      "simpleName": "拳皇"
-    },
-    {
-      "romName": "kf2k2mp",
-      "fullName": "拳皇 2002 - 终极挑战 Magic Plus (盗版)",
-      "simpleName": "拳皇"
-    },
-    {
-      "romName": "kf2k2mp2",
-      "fullName": "拳皇 2002 - 终极挑战 Magic Plus II (盗版)",
-      "simpleName": "拳皇"
-    },
-    {
-      "romName": "kf2k2pla",
-      "fullName": "拳皇 2002 - 终极挑战 风云再起 Plus (盗版, 第2套)",
-      "simpleName": "拳皇"
-    },
-    {
-      "romName": "kf2k2pls",
-      "fullName": "拳皇 2002 - 终极挑战 风云再起 (盗版, 第1套)",
-      "simpleName": "拳皇"
-    },
-    {
-      "romName": "kf2k3bl",
-      "fullName": "拳皇 2003 (盗版 第1套)",
-      "simpleName": "拳皇"
-    },
-    {
-      "romName": "kf2k3bla",
-      "fullName": "拳皇 2003 (盗版 第2套)",
-      "simpleName": "拳皇"
-    },
-    {
-      "romName": "kf2k3pl",
-      "fullName": "拳皇 2004 EX Hero (拳皇 2003 盗版)",
-      "simpleName": "拳皇"
-    },
-    {
-      "romName": "kf2k3upl",
-      "fullName": "拳皇 2004 EX 风云 Plus (拳皇 2003 盗版)",
-      "simpleName": "拳皇"
-    },
-    {
-      "romName": "kf2k5uni",
-      "fullName": "拳皇 十周年纪念 - 所有队伍的战斗 2005 Unique (拳皇 2002 盗版)",
-      "simpleName": "拳皇"
-    },
-    {
-      "romName": "kof10th",
-      "fullName": "拳皇 十周年纪念 - 所有队伍的战斗 (拳皇 2002 盗版)",
-      "simpleName": "拳皇"
-    },
-    {
-      "romName": "kof2002b",
-      "fullName": "拳皇 2002 - 终极挑战 (盗版)",
-      "simpleName": "拳皇"
-    },
-    {
-      "romName": "kof2k4se",
-      "fullName": "拳皇 特别版 2004 (拳皇 2002 盗版)",
-      "simpleName": "拳皇"
-    },
-    {
-      "romName": "kof97oro",
-      "fullName": "拳皇 '97 重出江湖 Plus 2003 (盗版)",
-      "simpleName": "拳皇"
-    },
-    {
-      "romName": "kof97pls",
-      "fullName": "拳皇 '97 风云再起 Plus (盗版)",
-      "simpleName": "拳皇"
-    },
-    {
-      "romName": "svcboot",
-      "fullName": "拳皇 对 街霸 - SVC 混沌 (盗版)",
-      "simpleName": "拳皇"
-    },
-    {
-      "romName": "svcplus",
-      "fullName": "拳皇 对 街霸 - SVC 混沌 Plus (盗版, 第1套)",
-      "simpleName": "拳皇"
-    },
-    {
-      "romName": "svcplusa",
-      "fullName": "拳皇 对 街霸 - SVC 混沌 Plus (盗版, 第2套)",
-      "simpleName": "拳皇"
-    },
-    {
-      "romName": "svcsplus",
-      "fullName": "拳皇 对 街霸 - SVC 混沌 Super Plus (盗版)",
-      "simpleName": "拳皇"
-    }
-  ],
   "足球开幕赛": [
     {
       "romName": "kickoffb",
@@ -5522,13 +5396,6 @@ module.exports = {
       "simpleName": "龙王战士"
     }
   ],
-  "格斗之王": [
-    {
-      "romName": "kog",
-      "fullName": "格斗之王 (拳皇 '97 盗版)",
-      "simpleName": "格斗之王"
-    }
-  ],
   "天才厨师": [
     {
       "romName": "kok",
@@ -5572,25 +5439,6 @@ module.exports = {
       "romName": "kovlsjba",
       "fullName": "乱世街霸 (盗版自 三国战纪 - 风云再起  加强版, 版本. 200中国版, 第 2 套)",
       "simpleName": "乱世街霸"
-    }
-  ],
-  "乱世拳皇": [
-    {
-      "romName": "kovlsqh",
-      "fullName": "乱世拳皇 (盗版自 三国战纪 - 风云再起  加强版, 版本. 200中国版)",
-      "simpleName": "乱世拳皇"
-    },
-    {
-      "romName": "kovlsqh2",
-      "fullName": "乱世拳皇 2 (盗版自 三国战纪 - 风云再起  加强版, 版本. 200中国版)",
-      "simpleName": "乱世拳皇"
-    }
-  ],
-  "三国战纪": [
-    {
-      "romName": "kovqhsgs",
-      "fullName": "三国战纪 - 拳皇三国 特别版 (盗版 三国战纪 - 风云再起, V303CN, Nov 21 2008 19:03:49)",
-      "simpleName": "三国战纪"
     }
   ],
   "三国群英传": [
@@ -6706,26 +6554,7 @@ module.exports = {
     }
   ],
   "合金弹头": [
-    {
-      "romName": "ms4plus",
-      "fullName": "合金弹头 4 Plus (盗版)",
-      "simpleName": "合金弹头"
-    },
-    {
-      "romName": "ms5plus",
-      "fullName": "合金弹头 5 Plus (盗版)",
-      "simpleName": "合金弹头"
-    },
-    {
-      "romName": "mslug3b6",
-      "fullName": "合金弹头 6 (合金弹头 3 盗版)",
-      "simpleName": "合金弹头"
-    },
-    {
-      "romName": "mslug5b",
-      "fullName": "合金弹头 5 (盗版)",
-      "simpleName": "合金弹头"
-    }
+
   ],
   "机动战士高达": [
     {
@@ -7908,11 +7737,7 @@ module.exports = {
     }
   ],
   "脱狱": [
-    {
-      "romName": "powb",
-      "fullName": "脱狱 - 战俘 (盗版  美版 版本 1)",
-      "simpleName": "脱狱"
-    }
+  
   ],
   "豪血寺一族": [
     {
@@ -7946,11 +7771,7 @@ module.exports = {
     }
   ],
   "原始岛": [
-    {
-      "romName": "prehisleb",
-      "fullName": "原始岛 1930 (世界版, 盗版)",
-      "simpleName": "原始岛"
-    }
+
   ],
   "能源之岚": [
     {
@@ -8488,11 +8309,7 @@ module.exports = {
     }
   ],
   "侍魂": [
-    {
-      "romName": "samsho5b",
-      "fullName": "侍魂 Ⅴ / 侍魂 零 (盗版)",
-      "simpleName": "侍魂"
-    }
+    
   ],
   "星际魔鬼": [
     {
