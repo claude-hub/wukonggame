@@ -79,6 +79,9 @@ function groupBy(array, property) {
   }, {});
 }
 
+/**
+ * 根据厂商名称生成 games
+ */
 const generateGamesByCop = async (companyName) => {
   const namesArr = fs.readFileSync(path.resolve(__dirname, lstFileAbsPath), 'utf-8').split('\n');
   const games = [];
@@ -143,6 +146,43 @@ const genRomsByComp = async () => {
     }
   }
 }
+
+const transferCompJson = async () => {
+  const gamesFile = fs.readFileSync(companyGamesPath, 'utf8');
+  const allCompGames = JSON.parse(gamesFile);
+
+  for (const comp in allCompGames) {
+    const compName = comp.split(' - ')[0].trim();
+    const compGames = allCompGames[comp];
+    for (const item in compGames) {
+        const itemGames = compGames[item];
+        const gameName = item.substring(5);
+        const folderName = `${compName} - ${gameName}`;
+
+        const gameDir = path.resolve(gameDirAbsPath, folderName);
+        // 创建文件夹
+        fs.mkdirSync(gameDir, { recursive: true });
+        
+        // 放游戏
+        for (const game of itemGames) {
+          const { romName } = game;
+
+          const originalPath = path.resolve(allRomsDir, `${romName}.zip`);
+          
+          if (fs.existsSync(originalPath)) {
+            const targetPath = path.resolve(gameDir, `${romName}.zip`);
+            if (fs.existsSync(targetPath)) continue;
+            
+            fs.copyFileSync(originalPath, targetPath);
+
+          } else {
+            console.log('文件不存在: ', originalPath);
+          }
+      }
+    }
+  }
+}
+
 
 /**
  * 删除文件
@@ -253,5 +293,6 @@ module.exports = {
   parserCNGames,
   parserGamelistXml,
   generateGamesByCop,
-  genRomsByComp
+  genRomsByComp,
+  transferCompJson
 }
