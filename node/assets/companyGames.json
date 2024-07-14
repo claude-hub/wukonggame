@@ -896,5 +896,784 @@
         "simpleName": "虚拟保龄球"
       }
     ]
+  },
+  "SNK": {
+    "01 - 拳皇": [
+      {
+        "romName": "kf2k3pcb",
+        "fullName": "拳皇 2003 (日版, JAMMA PCB)",
+        "simpleName": "拳皇"
+      },
+      {
+        "romName": "kof2000",
+        "fullName": "拳皇 2000 (NGM-2570 ~ NGH-2570)",
+        "simpleName": "拳皇"
+      },
+      {
+        "romName": "kof2000n",
+        "fullName": "拳皇 2000 (程序未加密)",
+        "simpleName": "拳皇"
+      },
+      {
+        "romName": "kof2001",
+        "fullName": "拳皇 2001 (NGM-262?)",
+        "simpleName": "拳皇"
+      },
+      {
+        "romName": "kof2001h",
+        "fullName": "拳皇 2001 (NGH-2621)",
+        "simpleName": "拳皇"
+      },
+      {
+        "romName": "kof2002um",
+        "fullName": "拳皇 - 复仇之路 / 拳皇 2002 - 终极之战 (中国版)",
+        "simpleName": "拳皇"
+      },
+      {
+        "romName": "kof2002umj",
+        "fullName": "拳皇 2002 - 终极之战 (日版)",
+        "simpleName": "拳皇"
+      },
+      {
+        "romName": "kof2003",
+        "fullName": "拳皇 2003 (NGM-2710, 海外版)",
+        "simpleName": "拳皇"
+      },
+      {
+        "romName": "kof2003h",
+        "fullName": "拳皇 2003 (NGH-2710)",
+        "simpleName": "拳皇"
+      },
+      {
+        "romName": "kof94",
+        "fullName": "拳皇 '94 (NGM-055 ~ NGH-055)",
+        "simpleName": "拳皇"
+      },
+      {
+        "romName": "kof95",
+        "fullName": "拳皇 '95 (NGM-084)",
+        "simpleName": "拳皇"
+      },
+      {
+        "romName": "kof95a",
+        "fullName": "拳皇 '95 (NGM-084, 替换版)",
+        "simpleName": "拳皇"
+      },
+      {
+        "romName": "kof95h",
+        "fullName": "拳皇 '95 (NGH-084)",
+        "simpleName": "拳皇"
+      },
+      {
+        "romName": "kof96",
+        "fullName": "拳皇 '96 (NGM-214)",
+        "simpleName": "拳皇"
+      },
+      {
+        "romName": "kof96h",
+        "fullName": "拳皇 '96 (NGH-214)",
+        "simpleName": "拳皇"
+      },
+      {
+        "romName": "kof97",
+        "fullName": "拳皇 '97 (NGM-2320)",
+        "simpleName": "拳皇"
+      },
+      {
+        "romName": "kof97h",
+        "fullName": "拳皇 '97 (NGH-2320)",
+        "simpleName": "拳皇"
+      },
+      {
+        "romName": "kof97k",
+        "fullName": "拳皇 '97 (韩国版)",
+        "simpleName": "拳皇"
+      },
+      {
+        "romName": "kof98",
+        "fullName": "拳皇 '98 - 梦战斗未结束 (NGM-2420)",
+        "simpleName": "拳皇"
+      },
+      {
+        "romName": "kof98a",
+        "fullName": "拳皇 '98 - 梦战斗未结束 (NGM-2420, 替换版)",
+        "simpleName": "拳皇"
+      },
+      {
+        "romName": "kof98h",
+        "fullName": "拳皇 '98 - 梦战斗未结束 (NGH-2420)",
+        "simpleName": "拳皇"
+      },
+      {
+        "romName": "kof98k",
+        "fullName": "拳皇 '98 - 梦战斗未结束 (韩国机板, 第1套)",
+        "simpleName": "拳皇"
+      },
+      {
+        "romName": "kof98ka",
+        "fullName": "拳皇 '98 - 梦战斗未结束 (韩国机板, 第2套)",
+        "simpleName": "拳皇"
+      },
+      {
+        "romName": "kof98um",
+        "fullName": "拳皇 '98 - 终极之战 (v1.00)",
+        "simpleName": "拳皇"
+      },
+      {
+        "romName": "kof98umh",
+        "fullName": "拳皇 '98 - 终极之战 英雄 (中国版, V100, 09-08-23)",
+        "simpleName": "拳皇"
+      },
+      {
+        "romName": "kof99",
+        "fullName": "拳皇 '99 - 千年之战 (NGM-2510)",
+        "simpleName": "拳皇"
+      },
+      {
+        "romName": "kof99e",
+        "fullName": "拳皇 '99 - 千年之战 (早期版本)",
+        "simpleName": "拳皇"
+      },
+      {
+        "romName": "kof99h",
+        "fullName": "拳皇 '99 - 千年之战 (NGH-2510)",
+        "simpleName": "拳皇"
+      },
+      {
+        "romName": "kof99k",
+        "fullName": "拳皇 '99 - 千年之战 (韩国版)",
+        "simpleName": "拳皇"
+      },
+      {
+        "romName": "kof99ka",
+        "fullName": "拳皇 '99 - 千年之战 (韩国版, 程序未加密)",
+        "simpleName": "拳皇"
+      },
+      {
+        "romName": "kof99p",
+        "fullName": "拳皇 '99 - 千年之战 (工程版)",
+        "simpleName": "拳皇"
+      },
+      {
+        "romName": "kofnw",
+        "fullName": "拳皇 - 新浪",
+        "simpleName": "拳皇"
+      },
+      {
+        "romName": "kofnwj",
+        "fullName": "拳皇 - 新浪 (日版)",
+        "simpleName": "拳皇"
+      },
+      {
+        "romName": "kofskyst",
+        "fullName": "拳皇 天空舞台 (v1.00J)",
+        "simpleName": "拳皇"
+      },
+      {
+        "romName": "kofxi",
+        "fullName": "拳皇 XI",
+        "simpleName": "拳皇"
+      },
+      {
+        "romName": "kofxii",
+        "fullName": "拳皇 XII (v1.00)",
+        "simpleName": "拳皇"
+      },
+
+      {
+        "romName": "kf10thep",
+        "fullName": "拳皇 十周年纪念 - 所有队伍的战斗 Extra Plus (拳皇 2002 盗版)",
+        "simpleName": "拳皇"
+      },
+      {
+        "romName": "kf2k2mp",
+        "fullName": "拳皇 2002 - 终极挑战 Magic Plus (盗版)",
+        "simpleName": "拳皇"
+      },
+      {
+        "romName": "kf2k2mp2",
+        "fullName": "拳皇 2002 - 终极挑战 Magic Plus II (盗版)",
+        "simpleName": "拳皇"
+      },
+      {
+        "romName": "kf2k2pla",
+        "fullName": "拳皇 2002 - 终极挑战 风云再起 Plus (盗版, 第2套)",
+        "simpleName": "拳皇"
+      },
+      {
+        "romName": "kf2k2pls",
+        "fullName": "拳皇 2002 - 终极挑战 风云再起 (盗版, 第1套)",
+        "simpleName": "拳皇"
+      },
+      {
+        "romName": "kf2k3bl",
+        "fullName": "拳皇 2003 (盗版 第1套)",
+        "simpleName": "拳皇"
+      },
+      {
+        "romName": "kf2k3bla",
+        "fullName": "拳皇 2003 (盗版 第2套)",
+        "simpleName": "拳皇"
+      },
+      {
+        "romName": "kf2k3pl",
+        "fullName": "拳皇 2004 EX Hero (拳皇 2003 盗版)",
+        "simpleName": "拳皇"
+      },
+      {
+        "romName": "kf2k3upl",
+        "fullName": "拳皇 2004 EX 风云 Plus (拳皇 2003 盗版)",
+        "simpleName": "拳皇"
+      },
+      {
+        "romName": "kf2k5uni",
+        "fullName": "拳皇 十周年纪念 - 所有队伍的战斗 2005 Unique (拳皇 2002 盗版)",
+        "simpleName": "拳皇"
+      },
+      {
+        "romName": "kof10th",
+        "fullName": "拳皇 十周年纪念 - 所有队伍的战斗 (拳皇 2002 盗版)",
+        "simpleName": "拳皇"
+      },
+      {
+        "romName": "kof2002b",
+        "fullName": "拳皇 2002 - 终极挑战 (盗版)",
+        "simpleName": "拳皇"
+      },
+      {
+        "romName": "kof2k4se",
+        "fullName": "拳皇 特别版 2004 (拳皇 2002 盗版)",
+        "simpleName": "拳皇"
+      },
+      {
+        "romName": "kof97oro",
+        "fullName": "拳皇 '97 重出江湖 Plus 2003 (盗版)",
+        "simpleName": "拳皇"
+      },
+      {
+        "romName": "kof97pls",
+        "fullName": "拳皇 '97 风云再起 Plus (盗版)",
+        "simpleName": "拳皇"
+      },
+      {
+        "romName": "svcboot",
+        "fullName": "拳皇 对 街霸 - SVC 混沌 (盗版)",
+        "simpleName": "拳皇"
+      },
+      {
+        "romName": "svcplus",
+        "fullName": "拳皇 对 街霸 - SVC 混沌 Plus (盗版, 第1套)",
+        "simpleName": "拳皇"
+      },
+      {
+        "romName": "svcplusa",
+        "fullName": "拳皇 对 街霸 - SVC 混沌 Plus (盗版, 第2套)",
+        "simpleName": "拳皇"
+      },
+      {
+        "romName": "svcsplus",
+        "fullName": "拳皇 对 街霸 - SVC 混沌 Super Plus (盗版)",
+        "simpleName": "拳皇"
+      },
+      {
+        "romName": "kog",
+        "fullName": "格斗之王 (拳皇 '97 盗版)",
+        "simpleName": "格斗之王"
+      },
+      {
+        "romName": "kovlsqh",
+        "fullName": "乱世拳皇 (盗版自 三国战纪 - 风云再起  加强版, 版本. 200中国版)",
+        "simpleName": "乱世拳皇"
+      },
+      {
+        "romName": "kovlsqh2",
+        "fullName": "乱世拳皇 2 (盗版自 三国战纪 - 风云再起  加强版, 版本. 200中国版)",
+        "simpleName": "乱世拳皇"
+      },
+      {
+        "romName": "kovqhsgs",
+        "fullName": "三国战纪 - 拳皇三国 特别版 (盗版 三国战纪 - 风云再起, V303CN, Nov 21 2008 19:03:49)",
+        "simpleName": "三国战纪"
+      },
+      {
+        "romName": "ct2k3sa",
+        "fullName": "卧虎藏龙 2003 Super Plus 替换版 (拳皇 2001 盗版)",
+        "simpleName": "卧虎藏龙"
+      },
+      {
+        "romName": "ct2k3sp",
+        "fullName": "卧虎藏龙 2003 风云 Super Plus (拳皇 2001 盗版)",
+        "simpleName": "卧虎藏龙"
+      },
+      {
+        "romName": "cthd2003",
+        "fullName": "卧虎藏龙 2003 (拳皇 2001 盗版)",
+        "simpleName": "卧虎藏龙"
+      }
+    ],
+    "02 - 合金弹头": [
+      {
+        "romName": "ms5pcb",
+        "fullName": "合金弹头 5 (JAMMA PCB)",
+        "simpleName": "合金弹头"
+      },
+      {
+        "romName": "mslug2",
+        "fullName": "合金弹头 2 - 超级战车-001/II (NGM-2410 ~ NGH-2410)",
+        "simpleName": "合金弹头"
+      },
+      {
+        "romName": "mslug3",
+        "fullName": "合金弹头 3 (NGM-2560)",
+        "simpleName": "合金弹头"
+      },
+      {
+        "romName": "mslug3a",
+        "fullName": "合金弹头 3 (NGM-2560, 早期版)",
+        "simpleName": "合金弹头"
+      },
+      {
+        "romName": "mslug3h",
+        "fullName": "合金弹头 3 (NGH-2560)",
+        "simpleName": "合金弹头"
+      },
+      {
+        "romName": "mslug5",
+        "fullName": "合金弹头 5 (NGM-2680)",
+        "simpleName": "合金弹头"
+      },
+      {
+        "romName": "mslug5h",
+        "fullName": "合金弹头 5 (NGH-2680)",
+        "simpleName": "合金弹头"
+      },
+      {
+        "romName": "mslug6",
+        "fullName": "合金弹头 6",
+        "simpleName": "合金弹头"
+      },
+      {
+        "romName": "mslugx",
+        "fullName": "合金弹头 X - 超级战车-001 (NGM-2500 ~ NGH-2500)",
+        "simpleName": "合金弹头"
+      },
+
+      {
+        "romName": "ms4plus",
+        "fullName": "合金弹头 4 Plus (盗版)",
+        "simpleName": "合金弹头"
+      },
+      {
+        "romName": "ms5plus",
+        "fullName": "合金弹头 5 Plus (盗版)",
+        "simpleName": "合金弹头"
+      },
+      {
+        "romName": "mslug3b6",
+        "fullName": "合金弹头 6 (合金弹头 3 盗版)",
+        "simpleName": "合金弹头"
+      },
+      {
+        "romName": "mslug5b",
+        "fullName": "合金弹头 5 (盗版)",
+        "simpleName": "合金弹头"
+      }
+    ],
+    "03 - 侍魂": [
+      {
+        "romName": "sams64",
+        "fullName": "侍魂 64",
+        "simpleName": "侍魂"
+      },
+      {
+        "romName": "sams64_2",
+        "fullName": "侍魂 2 - 阿修罗斩魔传",
+        "simpleName": "侍魂"
+      },
+      {
+        "romName": "samsh5sp",
+        "fullName": "侍魂 V SPECIAL / 侍魂 零 特别版 (NGM-2720)",
+        "simpleName": "侍魂"
+      },
+      {
+        "romName": "samsh5sph",
+        "fullName": "侍魂 V SPECIAL / 侍魂 零 特别版 (NGH-2720, 第二版, 未审查版)",
+        "simpleName": "侍魂"
+      },
+      {
+        "romName": "samsh5spho",
+        "fullName": "侍魂 V SPECIAL / 侍魂 零 特别版 (NGH-2720, 第一版, 审查版)",
+        "simpleName": "侍魂"
+      },
+      {
+        "romName": "samsho",
+        "fullName": "侍魂 - 十二剑士 (NGM-045)",
+        "simpleName": "侍魂"
+      },
+      {
+        "romName": "samsho2",
+        "fullName": "侍魂 II / 真侍魂 - 霸王丸地狱变 (NGM-063 ~ NGH-063)",
+        "simpleName": "侍魂"
+      },
+      {
+        "romName": "samsho3",
+        "fullName": "侍魂 III / 侍魂 - 斩红郎无双剑 (NGM-087)",
+        "simpleName": "侍魂"
+      },
+      {
+        "romName": "samsho3h",
+        "fullName": "侍魂 III / 侍魂 - 斩红郎无双剑 (NGH-087)",
+        "simpleName": "侍魂"
+      },
+      {
+        "romName": "samsho4",
+        "fullName": "侍魂 IV - 天草降临 (NGM-222 ~ NGH-222)",
+        "simpleName": "侍魂"
+      },
+      {
+        "romName": "samsho5",
+        "fullName": "侍魂 Ⅴ / 侍魂 零 (NGM-2700, 第1套)",
+        "simpleName": "侍魂"
+      },
+      {
+        "romName": "samsho5a",
+        "fullName": "侍魂 Ⅴ / 侍魂 零 (NGM-2700, 第2套)",
+        "simpleName": "侍魂"
+      },
+      {
+        "romName": "samsho5h",
+        "fullName": "侍魂 Ⅴ / 侍魂 零 (NGH-2700)",
+        "simpleName": "侍魂"
+      },
+      {
+        "romName": "samshoh",
+        "fullName": "侍魂 - 十二剑士 (NGH-045)",
+        "simpleName": "侍魂"
+      },
+      {
+        "romName": "samspsen",
+        "fullName": "侍魂 - 闪 (v1.00)",
+        "simpleName": "侍魂"
+      },
+      {
+        "romName": "samsptk",
+        "fullName": "侍魂 - 天下第一剑客传",
+        "simpleName": "侍魂"
+      },
+      {
+        "romName": "samsho2k",
+        "fullName": "真侍魂 (韩国版 侍魂 II, 第1套)",
+        "simpleName": "真侍魂"
+      },
+      {
+        "romName": "samsho2ka",
+        "fullName": "真侍魂 (韩国版 侍魂 II, 第2套)",
+        "simpleName": "真侍魂"
+      },
+      {
+        "romName": "samsho4k",
+        "fullName": "霸王传说 (韩国审查版 侍魂 IV)",
+        "simpleName": "霸王传说"
+      },
+      {
+        "romName": "samsho5b",
+        "fullName": "侍魂 Ⅴ / 侍魂 零 (盗版)",
+        "simpleName": "侍魂"
+      }
+    ],
+    "04 - 饿狼传说": [
+      {
+        "romName": "fatfursp",
+        "fullName": "饿狼传说 特别版 (NGM-058 ~ NGH-058, 第1套)",
+        "simpleName": "饿狼传说"
+      },
+      {
+        "romName": "fatfurspa",
+        "fullName": "饿狼传说 特别版 (NGM-058 ~ NGH-058, 第2套)",
+        "simpleName": "饿狼传说"
+      },
+      {
+        "romName": "fatfurwa",
+        "fullName": "饿狼传说 3D - 狂热的野心 (修订版 A)",
+        "simpleName": "饿狼传说"
+      },
+      {
+        "romName": "fatfury1",
+        "fullName": "饿狼传说 - 宿命之战 (NGM-033 ~ NGH-033)",
+        "simpleName": "饿狼传说"
+      },
+      {
+        "romName": "fatfury2",
+        "fullName": "饿狼传说 2 - 新的战斗 (NGM-047 ~ NGH-047)",
+        "simpleName": "饿狼传说"
+      },
+      {
+        "romName": "fatfury3",
+        "fullName": "饿狼传说 3 - 远古征战 (NGM-069 ~ NGH-069)",
+        "simpleName": "饿狼传说"
+      },
+
+      {
+        "romName": "fatfurspb",
+        "fullName": "饿狼传说 特别版 (SNES 盗版)",
+        "simpleName": "饿狼传说"
+      },
+
+      {
+        "romName": "garou",
+        "fullName": "饿狼 - 群狼之证 / 狼之烙印 (NGM-2530)",
+        "simpleName": "饿狼"
+      },
+      {
+        "romName": "garouh",
+        "fullName": "饿狼 - 群狼之证 / 狼之烙印 (NGM-2530 ~ NGH-2530)",
+        "simpleName": "饿狼"
+      },
+      {
+        "romName": "garouha",
+        "fullName": "饿狼 - 群狼之证 / 狼之烙印 (NGH-2530)",
+        "simpleName": "饿狼"
+      },
+      {
+        "romName": "garoup",
+        "fullName": "饿狼 - 群狼之证 / 狼之烙印 (工程版)",
+        "simpleName": "饿狼"
+      }
+    ],
+    "05 - 街头快打": [
+      {
+        "romName": "streetsm",
+        "fullName": "街头快打 (美版 版本 2)",
+        "simpleName": "街头快打"
+      },
+      {
+        "romName": "streetsm1",
+        "fullName": "街头快打 (美版 版本 1)",
+        "simpleName": "街头快打"
+      },
+      {
+        "romName": "streetsmj",
+        "fullName": "街头快打 (日版 版本 1)",
+        "simpleName": "街头快打"
+      },
+      {
+        "romName": "streetsmw",
+        "fullName": "街头快打 (世界版 版本 1)",
+        "simpleName": "街头快打"
+      }
+    ],
+    "06 - 龙虎之拳": [
+      {
+        "romName": "aof",
+        "fullName": "龙虎之拳 (NGM-044 ~ NGH-044)",
+        "simpleName": "龙虎之拳"
+      },
+      {
+        "romName": "aof2",
+        "fullName": "龙虎之拳 2 (NGM-056)",
+        "simpleName": "龙虎之拳"
+      },
+      {
+        "romName": "aof2a",
+        "fullName": "龙虎之拳 2 (NGH-056)",
+        "simpleName": "龙虎之拳"
+      },
+      {
+        "romName": "aof3",
+        "fullName": "龙虎之拳 3 - 斗士之路 / 龙虎之拳 外传",
+        "simpleName": "龙虎之拳"
+      },
+      {
+        "romName": "aof3k",
+        "fullName": "龙虎之拳 3 - 斗士之路 / 龙虎之拳 外传 (韩国版)",
+        "simpleName": "龙虎之拳"
+      },
+      {
+        "romName": "fitfight",
+        "fullName": "龙虎之拳",
+        "simpleName": "龙虎之拳"
+      }
+    ],
+    "07 - 热血快打": [
+      {
+        "romName": "burningf",
+        "fullName": "热血快打 (NGM-018 ~ NGH-018)",
+        "simpleName": "热血快打"
+      },
+      {
+        "romName": "burningfh",
+        "fullName": "热血快打 (NGH-018, 美版)",
+        "simpleName": "热血快打"
+      },
+      {
+        "romName": "burningfp",
+        "fullName": "热血快打 (工程版, 旧版)",
+        "simpleName": "热血快打"
+      },
+      {
+        "romName": "burningfpa",
+        "fullName": "热血快打 (工程版, 版本 23.3, 910326)",
+        "simpleName": "热血快打"
+      },
+      {
+        "romName": "burningfpb",
+        "fullName": "热血快打 (工程版, 新版, V07)",
+        "simpleName": "热血快打"
+      }
+    ],
+    "08 - 原始岛": [
+      {
+        "romName": "gensitou",
+        "fullName": "原始岛 1930's",
+        "simpleName": "原始岛"
+      },
+      {
+        "romName": "prehisle",
+        "fullName": "原始岛 1930 (世界版)",
+        "simpleName": "原始岛"
+      },
+      {
+        "romName": "prehislek",
+        "fullName": "原始岛 1930's (韩国版)",
+        "simpleName": "原始岛"
+      },
+      {
+        "romName": "prehisleu",
+        "fullName": "原始岛 1930 (美版)",
+        "simpleName": "原始岛"
+      },
+      {
+        "romName": "prehisleb",
+        "fullName": "原始岛 1930 (世界版, 盗版)",
+        "simpleName": "原始岛"
+      }
+    ],
+    "09 - 古巴战士": [
+      {
+        "romName": "gwar",
+        "fullName": "古巴战士 (美版)",
+        "simpleName": "古巴战士"
+      },
+      {
+        "romName": "gwara",
+        "fullName": "古巴战士 (版本 1, 第1套)",
+        "simpleName": "古巴战士"
+      },
+      {
+        "romName": "gwarab",
+        "fullName": "古巴战士 (版本 1, 第2套)",
+        "simpleName": "古巴战士"
+      },
+      {
+        "romName": "gwarj",
+        "fullName": "古巴战士 (日版)",
+        "simpleName": "古巴战士"
+      },
+      {
+        "romName": "gwarb",
+        "fullName": "古巴战士 (操纵杆 修改版 盗版)",
+        "simpleName": "古巴战士"
+      }
+    ],
+    "10 - 脱狱": [
+      {
+        "romName": "pow",
+        "fullName": "脱狱 - 战俘 (美版 版本 1)",
+        "simpleName": "脱狱"
+      },
+      {
+        "romName": "powa",
+        "fullName": "脱狱 - 战俘 (美版 版本 1, mask ROM sprites)",
+        "simpleName": "脱狱"
+      },
+      {
+        "romName": "powj",
+        "fullName": "脱狱 - 战俘 (日版)",
+        "simpleName": "脱狱"
+      },
+      {
+        "romName": "powb",
+        "fullName": "脱狱 - 战俘 (盗版  美版 版本 1)",
+        "simpleName": "脱狱"
+      }
+    ],
+    "11 - 战国传承": [
+      {
+        "romName": "sengoku",
+        "fullName": "战国传承 (NGM-017 ~ NGH-017)",
+        "simpleName": "战国传承"
+      },
+      {
+        "romName": "sengoku2",
+        "fullName": "战国传承 2",
+        "simpleName": "战国传承"
+      },
+      {
+        "romName": "sengoku3",
+        "fullName": "战国传承 3 / 战国传承 2001 (第1套)",
+        "simpleName": "战国传承"
+      },
+      {
+        "romName": "sengoku3a",
+        "fullName": "战国传承 3 / 战国传承 2001 (第2套)",
+        "simpleName": "战国传承"
+      },
+      {
+        "romName": "sengokuh",
+        "fullName": "战国传承 (NGH-017, (美版)",
+        "simpleName": "战国传承"
+      }
+    ],
+    "12 - 月华剑士": [
+      {
+        "romName": "lastblad",
+        "fullName": "幕末浪漫 月华剑士 (NGM-2340)",
+        "simpleName": "幕末浪漫"
+      },
+      {
+        "romName": "lastbladh",
+        "fullName": "幕末浪漫 月华剑士 (NGH-2340)",
+        "simpleName": "幕末浪漫"
+      },
+      {
+        "romName": "lastbld2",
+        "fullName": "幕末浪漫第二幕 月华剑士 - 月中芳华,散落月下 (NGM-2430 ~ NGH-2430)",
+        "simpleName": "幕末浪漫第二幕"
+      },
+      {
+        "romName": "lastsold",
+        "fullName": "最后的战士 (韩国版 月华剑士)",
+        "simpleName": "最后的战士"
+      }
+    ],
+    "13 - 顶尖猎人": [
+      {
+        "romName": "tophuntr",
+        "fullName": "顶尖猎人 - 罗迪 & 凯茜 (NGM-046)",
+        "simpleName": "顶尖猎人"
+      },
+      {
+        "romName": "tophuntrh",
+        "fullName": "顶尖猎人 - 罗迪 & 凯茜 (NGH-046)",
+        "simpleName": "顶尖猎人"
+      }
+    ],
+    "14 - 风云默示录": [
+      {
+        "romName": "kizuna",
+        "fullName": "风云默示录 2 - 超级组队战",
+        "simpleName": "风云默示录"
+      },
+      {
+        "romName": "kizuna4p",
+        "fullName": "风云默示录 2 - 超级组队战 特别版",
+        "simpleName": "风云默示录"
+      },
+      {
+        "romName": "savagere",
+        "fullName": "风云默示录 - 格斗创世",
+        "simpleName": "风云默示录"
+      }
+    ]
   }
 }
