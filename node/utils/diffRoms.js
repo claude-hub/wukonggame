@@ -2,14 +2,14 @@
  * @Author: 314705487@qq.com
  * @Description: 
  * @Date: 2024-07-13 13:41:42
- * @LastEditTime: 2024-07-13 19:38:14
+ * @LastEditTime: 2024-07-14 10:43:43
  */
 // roms 来源：https://www.ppxclub.com/forum.php?mod=viewthread&tid=732482&highlight=0.267
 // mame_cn_utf8.lst 来源：https://www.ppxclub.com/609487-1-1
 
 const path = require('path');
 const fs = require('fs');
-const { without_cn_utf8, gameDirAbsPath, gamelistDir, allRomsDir, originGameDir } = require("../config");
+const { without_cn_utf8, gameDirAbsPath, allRomsDir } = require("../config");
 const { getAllFilesAsync, getCnNamesMap, deleteFile, parserGamelistXml } = require("./utils");
 
 /**
@@ -57,12 +57,14 @@ const diffRoms = async () => {
 /**
  * 根据 gamelist.xml & roms 生成游戏
  */
-const genGamesByXML = async (filename, gameType) => {
-  const filePath = path.resolve(gamelistDir, filename);
+const genGamesByXML = async (filePath, gameType) => {
   if (!fs.existsSync(filePath)) {
-    console.log('文件不存在: ', filename);
+    console.log('文件不存在: ', filePath);
     return;
   }
+
+  // roms 存在的文件夹和 gamelist.xml 是一个目录
+  const originGameDir = path.dirname(filePath);
 
   const games = await parserGamelistXml(filePath);
   const existsGames = [];

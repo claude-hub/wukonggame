@@ -12,13 +12,8 @@ const gameDirAbsPath = path.resolve(__dirname, '../RetroBat/roms/mame');
 
 const gamelistPath = path.resolve(__dirname, './assets/gamelist_Mame0.249_街机改.xml');
 
-
 // 4万多个游戏的路径
 const allRomsDir = 'E:\\Download\\MAME 0.267 ROMs (split)';
-
-const gamelistDir = path.resolve(__dirname, './assets/gamelist');
-// gamelist.xml 对应的 roms 目录
-const originGameDir = 'E:\\Mame0.249_RetroBat\\roms\\Tate'
 
 // 生成的 diff 文件
 const without_cn_utf8 = path.resolve(__dirname, './assets/without_cn_utf8.txt');
@@ -29,7 +24,5 @@ module.exports = {
   gameDirAbsPath,
   gamelistPath,
   without_cn_utf8,
-  gamelistDir,
-  allRomsDir,
-  originGameDir
+  allRomsDir
 }
