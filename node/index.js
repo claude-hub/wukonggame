@@ -2,14 +2,13 @@
  * @Author: 314705487@qq.com
  * @Description: 
  * @Date: 2024-06-30 19:43:42
- * @LastEditTime: 2024-07-13 14:15:43
+ * @LastEditTime: 2024-07-13 19:16:37
  */
-
-const { gameDirAbsPath, gamelistPath } = require('./config');
-const { generateGamelist, parserGamelistXml, diffRoms, theTwinsEffect } = require('./utils/index');
+const path = require('path');
+const { gameDirAbsPath, gamelistPath, gamelistDir } = require('./config');
+const { generateGamelist, parserGamelistXml, diffRoms, theTwinsEffect, genGamesByXML } = require('./utils/index');
 
 const main = async () => {
-  await generateGamelist();
   // const games = await parserGamelistXml(gamelistPath);
   // console.log(games);
 
@@ -19,6 +18,11 @@ const main = async () => {
 
   // 按照千机变分类游戏，不会生成 gamelist.xml
   // await theTwinsEffect();
+
+
+  await genGamesByXML('gamelist_竖版射击.xml', '竖屏射击类');
+
+  await generateGamelist();
 }
 
 main();

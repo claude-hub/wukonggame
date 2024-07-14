@@ -1,11 +1,20 @@
+/*
+ * @Author: 314705487@qq.com
+ * @Description: 
+ * @Date: 2024-07-13 13:41:42
+ * @LastEditTime: 2024-07-13 19:38:14
+ */
 // roms 来源：https://www.ppxclub.com/forum.php?mod=viewthread&tid=732482&highlight=0.267
 // mame_cn_utf8.lst 来源：https://www.ppxclub.com/609487-1-1
 
 const path = require('path');
 const fs = require('fs');
-const { without_cn_utf8, gameDirAbsPath } = require("../config");
-const { getAllFilesAsync, getCnNamesMap, deleteFile } = require("./utils");
+const { without_cn_utf8, gameDirAbsPath, gamelistDir, allRomsDir, originGameDir } = require("../config");
+const { getAllFilesAsync, getCnNamesMap, deleteFile, parserGamelistXml } = require("./utils");
 
+/**
+ * 比较文件夹里面的roms 和 mame_cn_utf8.lst 的差异
+ */
 const diffRoms = async () => {
   const files = await getAllFilesAsync(gameDirAbsPath);
   const namesMap = getCnNamesMap();
@@ -45,7 +54,42 @@ const diffRoms = async () => {
 
 }
 
+/**
+ * 根据 gamelist.xml & roms 生成游戏
+ */
+const genGamesByXML = async (filename, gameType) => {
+  const filePath = path.resolve(gamelistDir, filename);
+  if (!fs.existsSync(filePath)) {
+    console.log('文件不存在: ', filename);
+    return;
+  }
+
+  const games = await parserGamelistXml(filePath);
+  const existsGames = [];
+
+  for (const game of games) {
+    const gameName = path.basename(game.path[0]);
+    const allRomsGamePath = path.resolve(allRomsDir, gameName);
+    const originGamePath = path.resolve(originGameDir, gameName);
+
+    if (fs.existsSync(allRomsGamePath) && fs.existsSync(originGamePath)) {
+      const targetDir = path.join(gameDirAbsPath, gameType);
+      await fs.mkdirSync(targetDir, { recursive: true });
+      const targetPath = path.join(targetDir, gameName);
+
+      if (fs.existsSync(targetPath)) continue;
+
+      existsGames.push(gameName);
+      console.log('文件不存在则copy: ', targetPath);
+
+      fs.copyFileSync(allRomsGamePath, targetPath);
+    }
+  }
+
+  console.log(existsGames.length);
+}
 
 module.exports = {
-  diffRoms
+  diffRoms,
+  genGamesByXML
 }
