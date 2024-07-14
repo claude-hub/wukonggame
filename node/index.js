@@ -2,11 +2,11 @@
  * @Author: 314705487@qq.com
  * @Description: 
  * @Date: 2024-06-30 19:43:42
- * @LastEditTime: 2024-07-14 11:05:32
+ * @LastEditTime: 2024-07-14 12:20:16
  */
 const path = require('path');
 const { gameDirAbsPath, gamelistPath } = require('./config');
-const { generateGamelist, parserGamelistXml, diffRoms, theTwinsEffect, genGamesByXML } = require('./utils/index');
+const { generateGamelist, parserGamelistXml, diffRoms, theTwinsEffect, genGamesByXML, generateGamesByCop } = require('./utils/index');
 
 const gamelistXml = 'E:\\Mame0.249_RetroBat\\roms\\MultiGame\\gamelist.xml';
 const gameType = '合集类';
@@ -23,9 +23,11 @@ const main = async () => {
   // await theTwinsEffect();
 
 
-  await genGamesByXML(gamelistXml, gameType);
+  // await genGamesByXML(gamelistXml, gameType);
 
-  await generateGamelist();
+  // await generateGamelist();
+
+  await generateGamesByCop('IGS');
 }
 
 main();

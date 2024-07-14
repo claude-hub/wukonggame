@@ -1,0 +1,1464 @@
+{
+  "IGS": {
+    "五个小丑": [
+      {
+        "romName": "5clown",
+        "fullName": "五个小丑 (英文版, 第1套)",
+        "simpleName": "五个小丑"
+      },
+      {
+        "romName": "5clowna",
+        "fullName": "五个小丑 (英文版, 第2套)",
+        "simpleName": "五个小丑"
+      },
+      {
+        "romName": "5clownsp",
+        "fullName": "五个小丑 (西班牙版 修改版)",
+        "simpleName": "五个小丑"
+      }
+    ],
+    "星宿会战": [
+      {
+        "romName": "aliencha",
+        "fullName": "星宿会战 (世界版)",
+        "simpleName": "星宿会战"
+      },
+      {
+        "romName": "alienchac",
+        "fullName": "星宿会战 (中国版)",
+        "simpleName": "星宿会战"
+      }
+    ],
+    "亚马逊之王II": [
+      {
+        "romName": "amazoni2",
+        "fullName": "亚马逊之王II 连连乐 (V202BR)",
+        "simpleName": "亚马逊之王II"
+      }
+    ],
+    "亚马逊之王": [
+      {
+        "romName": "amazonia",
+        "fullName": "亚马逊之王 连连乐 (V104BR)",
+        "simpleName": "亚马逊之王"
+      }
+    ],
+    "亚马逊之王加强版": [
+      {
+        "romName": "amazonkp",
+        "fullName": "亚马逊之王加强版 连连乐 (V204BR)",
+        "simpleName": "亚马逊之王加强版"
+      }
+    ],
+    "步步高汽车": [
+      {
+        "romName": "bubucar",
+        "fullName": "步步高汽车 (English)",
+        "simpleName": "步步高汽车"
+      }
+    ],
+    "象棋挑战赛2": [
+      {
+        "romName": "chessc2",
+        "fullName": "象棋挑战赛2 ",
+        "simpleName": "象棋挑战赛2"
+      }
+    ],
+    "联赛冠军": [
+      {
+        "romName": "chleague",
+        "fullName": "联赛冠军 (v220I, 扑克)",
+        "simpleName": "联赛冠军"
+      },
+      {
+        "romName": "chleagul",
+        "fullName": "联赛冠军 (v220I, Lattine)",
+        "simpleName": "联赛冠军"
+      }
+    ],
+    "超级斗地主": [
+      {
+        "romName": "cjddzsp",
+        "fullName": "超级斗地主 - 特别版 (V122中国版)",
+        "simpleName": "超级斗地主"
+      },
+      {
+        "romName": "sddz",
+        "fullName": "超级斗地主 ",
+        "simpleName": "超级斗地主"
+      }
+    ],
+    "超级大亨": [
+      {
+        "romName": "cjdh2",
+        "fullName": "超级大亨 2 (V311中国版)",
+        "simpleName": "超级大亨"
+      },
+      {
+        "romName": "cjdh2a",
+        "fullName": "超级大亨 2 (V311中国版A)",
+        "simpleName": "超级大亨"
+      },
+      {
+        "romName": "cjdh2b",
+        "fullName": "超级大亨 2 (V311中国版B)",
+        "simpleName": "超级大亨"
+      },
+      {
+        "romName": "cjdh2c",
+        "fullName": "超级大亨 2 (V215中国版)",
+        "simpleName": "超级大亨"
+      }
+    ],
+    "扑克冠军": [
+      {
+        "romName": "cpoker",
+        "fullName": "扑克冠军 (v220I)",
+        "simpleName": "扑克冠军"
+      },
+      {
+        "romName": "cpoker101",
+        "fullName": "扑克冠军 (v101)",
+        "simpleName": "扑克冠军"
+      },
+      {
+        "romName": "cpoker2",
+        "fullName": "扑克冠军 2 (V100A)",
+        "simpleName": "扑克冠军"
+      },
+      {
+        "romName": "cpoker201f",
+        "fullName": "扑克冠军 (v201F)",
+        "simpleName": "扑克冠军"
+      },
+      {
+        "romName": "cpoker210ks",
+        "fullName": "扑克冠军 (v210KS)",
+        "simpleName": "扑克冠军"
+      },
+      {
+        "romName": "cpoker300us",
+        "fullName": "扑克冠军 (v300US)",
+        "simpleName": "扑克冠军"
+      },
+      {
+        "romName": "cpokert",
+        "fullName": "扑克冠军 (v200G)",
+        "simpleName": "扑克冠军"
+      },
+      {
+        "romName": "cpokerx",
+        "fullName": "扑克冠军 (v100)",
+        "simpleName": "扑克冠军"
+      }
+    ],
+    "疯狂的虫子（V103JP）": [
+      {
+        "romName": "crzybugs",
+        "fullName": "疯狂的虫子（V103JP）",
+        "simpleName": "疯狂的虫子（V103JP）"
+      }
+    ],
+    "技能冠军": [
+      {
+        "romName": "csk227it",
+        "fullName": "技能冠军 (with Ability)",
+        "simpleName": "技能冠军"
+      },
+      {
+        "romName": "csk234it",
+        "fullName": "技能冠军 (Ability, Poker & Symbols)",
+        "simpleName": "技能冠军"
+      }
+    ],
+    "大阪城": [
+      {
+        "romName": "dbc",
+        "fullName": "大阪城 (中国香港版, V027H)",
+        "simpleName": "大阪城"
+      }
+    ],
+    "怒首领蜂": [
+      {
+        "romName": "ddp2",
+        "fullName": "怒首领蜂 II - 蜂暴 (世界版, 版本 102)",
+        "simpleName": "怒首领蜂"
+      },
+      {
+        "romName": "ddp2100",
+        "fullName": "怒首领蜂 II - 蜂暴 (世界版, 版本 100)",
+        "simpleName": "怒首领蜂"
+      },
+      {
+        "romName": "ddp2100c",
+        "fullName": "怒首领蜂 - 蜂暴 (中国版, 版本 100)",
+        "simpleName": "怒首领蜂"
+      },
+      {
+        "romName": "ddp2100hk",
+        "fullName": "怒首领蜂 II - 蜂暴 (中国香港版, 版本 100)",
+        "simpleName": "怒首领蜂"
+      },
+      {
+        "romName": "ddp2100j",
+        "fullName": "怒首领蜂 II (日版, 版本 100)",
+        "simpleName": "怒首领蜂"
+      },
+      {
+        "romName": "ddp2100k",
+        "fullName": "怒首领蜂 II - 蜂暴 (韩国版, 版本 100)",
+        "simpleName": "怒首领蜂"
+      },
+      {
+        "romName": "ddp2100t",
+        "fullName": "怒首领蜂 - 蜂暴 (中国台湾版, 版本 100)",
+        "simpleName": "怒首领蜂"
+      },
+      {
+        "romName": "ddp2101",
+        "fullName": "怒首领蜂 II - 蜂暴 (世界版, 版本 101)",
+        "simpleName": "怒首领蜂"
+      },
+      {
+        "romName": "ddp2101c",
+        "fullName": "怒首领蜂 - 蜂暴 (中国版, 版本 101)",
+        "simpleName": "怒首领蜂"
+      },
+      {
+        "romName": "ddp2101hk",
+        "fullName": "怒首领蜂 II - 蜂暴 (中国香港版, 版本 101)",
+        "simpleName": "怒首领蜂"
+      },
+      {
+        "romName": "ddp2101j",
+        "fullName": "怒首领蜂 II (日版, 版本 101)",
+        "simpleName": "怒首领蜂"
+      },
+      {
+        "romName": "ddp2101k",
+        "fullName": "怒首领蜂 II - 蜂暴 (韩国版, 版本 101)",
+        "simpleName": "怒首领蜂"
+      },
+      {
+        "romName": "ddp2101t",
+        "fullName": "怒首领蜂 - 蜂暴 (中国台湾版, 版本 101)",
+        "simpleName": "怒首领蜂"
+      },
+      {
+        "romName": "ddp2c",
+        "fullName": "怒首领蜂 - 蜂暴 (中国版, 版本 102)",
+        "simpleName": "怒首领蜂"
+      },
+      {
+        "romName": "ddp2hk",
+        "fullName": "怒首领蜂 II - 蜂暴 (中国香港版, 版本 102)",
+        "simpleName": "怒首领蜂"
+      },
+      {
+        "romName": "ddp2j",
+        "fullName": "怒首领蜂 II (日版, 版本 102)",
+        "simpleName": "怒首领蜂"
+      },
+      {
+        "romName": "ddp2k",
+        "fullName": "怒首领蜂 II - 蜂暴 (韩国版, 版本 102)",
+        "simpleName": "怒首领蜂"
+      },
+      {
+        "romName": "ddp2t",
+        "fullName": "怒首领蜂 - 蜂暴 (中国台湾版, 版本 102)",
+        "simpleName": "怒首领蜂"
+      },
+      {
+        "romName": "ddpdojt",
+        "fullName": "怒首领蜂 - 大往生 魂 (V201, 中国版)",
+        "simpleName": "怒首领蜂"
+      }
+    ],
+    "斗地主": [
+      {
+        "romName": "ddz",
+        "fullName": "斗地主 ",
+        "simpleName": "斗地主"
+      }
+    ],
+    "魔域战线": [
+      {
+        "romName": "dmnfrnt",
+        "fullName": "魔域战线 (68k label V105, ROM M105XX 08/05/02) (ARM label V105, ROM 08/05/02 S105XX)",
+        "simpleName": "魔域战线"
+      },
+      {
+        "romName": "dmnfrnt102",
+        "fullName": "魔域战线 (68k label V102, ROM M102XX 06/19/02) (ARM label V102, ROM 05/24/02 S101XX)",
+        "simpleName": "魔域战线"
+      },
+      {
+        "romName": "dmnfrnt103",
+        "fullName": "魔域战线 (68k label V103, ROM M103XX 07/05/02) (ARM label V103, ROM 07/05/02 S103XX)",
+        "simpleName": "魔域战线"
+      },
+      {
+        "romName": "dmnfrntpcb",
+        "fullName": "魔域战线 v1.1 (68k 标签 V107KR, ROM M107KR 11/03/03) (ARM 标签 V106KR, ROM 10/16/03 S106KR) (JAMMA PCB)",
+        "simpleName": "魔域战线"
+      }
+    ],
+    "中国龙": [
+      {
+        "romName": "drgnwrld",
+        "fullName": "中国龙 (世界版, V040O)",
+        "simpleName": "中国龙"
+      },
+      {
+        "romName": "drgnwrldv10c",
+        "fullName": "中国龙 (中国版, V010C)",
+        "simpleName": "中国龙"
+      },
+      {
+        "romName": "drgnwrldv20j",
+        "fullName": "中国龙 (日版, V020J)",
+        "simpleName": "中国龙"
+      },
+      {
+        "romName": "drgnwrldv21",
+        "fullName": "中国龙 (世界版, V021O)",
+        "simpleName": "中国龙"
+      },
+      {
+        "romName": "drgnwrldv21j",
+        "fullName": "中国龙 (日版, V021J)",
+        "simpleName": "中国龙"
+      },
+      {
+        "romName": "drgnwrldv30",
+        "fullName": "中国龙 (世界版, V030O)",
+        "simpleName": "中国龙"
+      },
+      {
+        "romName": "drgnwrldv40k",
+        "fullName": "中国龙 (韩国版, V040K)",
+        "simpleName": "中国龙"
+      },
+      {
+        "romName": "drgw2",
+        "fullName": "中国龙 II (版本 110X, 海外版)",
+        "simpleName": "中国龙"
+      },
+      {
+        "romName": "drgw2100c",
+        "fullName": "中国龙 II (版本 100C, 中国版)",
+        "simpleName": "中国龙"
+      },
+      {
+        "romName": "drgw2100j",
+        "fullName": "中国龙 II (版本 100J, 日版)",
+        "simpleName": "中国龙"
+      },
+      {
+        "romName": "drgw2100x",
+        "fullName": "中国龙 II (版本 100X, 海外版)",
+        "simpleName": "中国龙"
+      },
+      {
+        "romName": "drgw2101c",
+        "fullName": "中国龙 II (版本 101C, 中国版)",
+        "simpleName": "中国龙"
+      },
+      {
+        "romName": "drgw3",
+        "fullName": "中国龙 3 特别版 (版本 106)",
+        "simpleName": "中国龙"
+      },
+      {
+        "romName": "drgw3100",
+        "fullName": "中国龙 3 特别版 (日版, 版本 100)",
+        "simpleName": "中国龙"
+      },
+      {
+        "romName": "drgw3103",
+        "fullName": "中国龙 3 特别版 (日版, 版本 103)",
+        "simpleName": "中国龙"
+      },
+      {
+        "romName": "drgw3105",
+        "fullName": "中国龙 3 特别版 (版本 105)",
+        "simpleName": "中国龙"
+      },
+      {
+        "romName": "dw2001",
+        "fullName": "中国龙 2001 (V100 02/21/01 16:05:16, 日版)",
+        "simpleName": "中国龙"
+      },
+      {
+        "romName": "dwex",
+        "fullName": "中国龙 3 EX (版本 100)",
+        "simpleName": "中国龙"
+      },
+      {
+        "romName": "dwex101cn",
+        "fullName": "中国龙 3 EX (版本 101CN)",
+        "simpleName": "中国龙"
+      },
+      {
+        "romName": "dwpc",
+        "fullName": "中国龙 桃色邂逅 (V110 03/19/02 11:13:16, 中国版)",
+        "simpleName": "中国龙"
+      },
+      {
+        "romName": "dwpc101j",
+        "fullName": "中国龙 桃色邂逅 (V101 09/26/01 10:23:26, 日版)",
+        "simpleName": "中国龙"
+      }
+    ],
+    "东方之珠": [
+      {
+        "romName": "drgnwrldv11h",
+        "fullName": "东方之珠 (中国香港版, V011H, 第1套)",
+        "simpleName": "东方之珠"
+      },
+      {
+        "romName": "drgnwrldv11ha",
+        "fullName": "东方之珠 (中国香港版, V011H, 第2套)",
+        "simpleName": "东方之珠"
+      },
+      {
+        "romName": "drgw2100hk",
+        "fullName": "东方之珠 II (版本 100H, 中国香港版)",
+        "simpleName": "东方之珠"
+      }
+    ],
+    "额外抽奖": [
+      {
+        "romName": "extradrw",
+        "fullName": "额外抽奖",
+        "simpleName": "额外抽奖"
+      }
+    ],
+    "EZ": [
+      {
+        "romName": "eztouch",
+        "fullName": "EZ Touch (v116 China)",
+        "simpleName": "EZ"
+      }
+    ],
+    "无畏的匹诺曹": [
+      {
+        "romName": "fearless",
+        "fullName": "无畏的匹诺曹 (V101美版)",
+        "simpleName": "无畏的匹诺曹"
+      }
+    ],
+    "水果天堂": [
+      {
+        "romName": "fruitpar",
+        "fullName": "水果天堂 (V214)",
+        "simpleName": "水果天堂"
+      }
+    ],
+    "天才捕手": [
+      {
+        "romName": "genius6",
+        "fullName": "天才捕手 6 (V110F)",
+        "simpleName": "天才捕手"
+      },
+      {
+        "romName": "genius6a",
+        "fullName": "天才捕手 6 (V133F)",
+        "simpleName": "天才捕手"
+      },
+      {
+        "romName": "genius6b",
+        "fullName": "天才捕手 6 (V132F)",
+        "simpleName": "天才捕手"
+      }
+    ],
+    "黄金星座": [
+      {
+        "romName": "goldstar",
+        "fullName": "黄金星座",
+        "simpleName": "黄金星座"
+      },
+      {
+        "romName": "goldstbl",
+        "fullName": "黄金星座 (蓝色版本)",
+        "simpleName": "黄金星座"
+      }
+    ],
+    "来去钓鱼2": [
+      {
+        "romName": "gonefsh2",
+        "fullName": "来去钓鱼2 ",
+        "simpleName": "来去钓鱼2"
+      }
+    ],
+    "盛大旅行": [
+      {
+        "romName": "grndtour",
+        "fullName": "盛大旅行 (V100U)",
+        "simpleName": "盛大旅行"
+      }
+    ],
+    "欢乐六合一": [
+      {
+        "romName": "happy6",
+        "fullName": "欢乐六合一 (Happy 6-in-1) (M68K 版本 V101, ARM 版本 V102CN)",
+        "simpleName": "欢乐六合一"
+      },
+      {
+        "romName": "happy6100cn",
+        "fullName": "欢乐六合一 (Happy 6-in-1) (M68K 版本 V100, ARM 版本 V100CN)",
+        "simpleName": "欢乐六合一"
+      },
+      {
+        "romName": "happy6100hk",
+        "fullName": "欢乐六合一 (Happy 6-in-1) (M68K 版本 V100HK, ARM 版本 V100HK)",
+        "simpleName": "欢乐六合一"
+      },
+      {
+        "romName": "happy6101",
+        "fullName": "欢乐六合一 (Happy 6-in-1) (M68K 版本 V100, ARM 版本 V101CN)",
+        "simpleName": "欢乐六合一"
+      }
+    ],
+    "快乐技能": [
+      {
+        "romName": "happyskl",
+        "fullName": "快乐技能 - 连连乐 (意大利版, V611IT)",
+        "simpleName": "快乐技能"
+      }
+    ],
+    "鬼屋": [
+      {
+        "romName": "haunthig",
+        "fullName": "鬼屋 (IGS)",
+        "simpleName": "鬼屋"
+      }
+    ],
+    "新技能冠军": [
+      {
+        "romName": "igs_ncs",
+        "fullName": "新技能冠军 (v100n)",
+        "simpleName": "新技能冠军"
+      },
+      {
+        "romName": "igs_ncs2",
+        "fullName": "新技能冠军 (v100n 2000)",
+        "simpleName": "新技能冠军"
+      }
+    ],
+    "不知名的": [
+      {
+        "romName": "igsm312",
+        "fullName": "不知名的 \"IGS 6POKER2 \"游戏（V312CN）",
+        "simpleName": "不知名的"
+      }
+    ],
+    "俄罗斯方块": [
+      {
+        "romName": "igstet341",
+        "fullName": "俄罗斯方块 (v341R)",
+        "simpleName": "俄罗斯方块"
+      },
+      {
+        "romName": "igstet342",
+        "fullName": "俄罗斯方块 (v342R)",
+        "simpleName": "俄罗斯方块"
+      }
+    ],
+    "数字方块": [
+      {
+        "romName": "iqblock",
+        "fullName": "数字方块 (V100U)",
+        "simpleName": "数字方块"
+      }
+    ],
+    "数字乐园": [
+      {
+        "romName": "iqblocka",
+        "fullName": "数字乐园 (中国版, V127M, 赌博版)",
+        "simpleName": "数字乐园"
+      },
+      {
+        "romName": "iqblockf",
+        "fullName": "数字乐园 (V113FR, 赌博版)",
+        "simpleName": "数字乐园"
+      }
+    ],
+    "快乐杰基": [
+      {
+        "romName": "jackie",
+        "fullName": "快乐杰基 (v110U)",
+        "simpleName": "快乐杰基"
+      }
+    ],
+    "铃儿响叮铛": [
+      {
+        "romName": "jingbell",
+        "fullName": "铃儿响叮铛 (美版, V157US)",
+        "simpleName": "铃儿响叮铛"
+      },
+      {
+        "romName": "jingbella",
+        "fullName": "铃儿响叮铛 (欧洲版, V155UE)",
+        "simpleName": "铃儿响叮铛"
+      },
+      {
+        "romName": "jingbellb",
+        "fullName": "铃儿响叮铛 (欧洲版, V153UE)",
+        "simpleName": "铃儿响叮铛"
+      },
+      {
+        "romName": "jingbellc",
+        "fullName": "铃儿响叮铛 (欧洲版, V141UE)",
+        "simpleName": "铃儿响叮铛"
+      },
+      {
+        "romName": "jingbelli",
+        "fullName": "铃儿响叮铛 (意大利版, V133I)",
+        "simpleName": "铃儿响叮铛"
+      }
+    ],
+    "傲剑狂刀": [
+      {
+        "romName": "killbld",
+        "fullName": "傲剑狂刀 (版本 109, 中文基板)",
+        "simpleName": "傲剑狂刀"
+      },
+      {
+        "romName": "killbld100",
+        "fullName": "傲剑狂刀 (版本 100)",
+        "simpleName": "傲剑狂刀"
+      },
+      {
+        "romName": "killbld104",
+        "fullName": "傲剑狂刀 (版本 104)",
+        "simpleName": "傲剑狂刀"
+      },
+      {
+        "romName": "killbld106",
+        "fullName": "傲剑狂刀 (版本 106)",
+        "simpleName": "傲剑狂刀"
+      },
+      {
+        "romName": "killbldp",
+        "fullName": "傲剑狂刀 加强版 (中国版, 版本 300)",
+        "simpleName": "傲剑狂刀"
+      }
+    ],
+    "快乐西游记": [
+      {
+        "romName": "klxyj",
+        "fullName": "快乐西游记 ",
+        "simpleName": "快乐西游记"
+      }
+    ],
+    "拳皇": [
+      {
+        "romName": "kof98umh",
+        "fullName": "拳皇 '98 - 终极之战 英雄 (中国版, V100, 09-08-23)",
+        "simpleName": "拳皇"
+      }
+    ],
+    "三国战纪": [
+      {
+        "romName": "kov",
+        "fullName": "三国战纪 (版本 117, 中国香港版)",
+        "simpleName": "三国战纪"
+      },
+      {
+        "romName": "kov111",
+        "fullName": "三国战纪 (版本 111, 日文基板)",
+        "simpleName": "三国战纪"
+      },
+      {
+        "romName": "kov114",
+        "fullName": "三国战纪 (版本 114, 中国香港版)",
+        "simpleName": "三国战纪"
+      },
+      {
+        "romName": "kov115",
+        "fullName": "三国战纪 (版本 115)",
+        "simpleName": "三国战纪"
+      },
+      {
+        "romName": "kov2",
+        "fullName": "三国战纪 2 (版本 107, 102, 100HK)",
+        "simpleName": "三国战纪"
+      },
+      {
+        "romName": "kov2100",
+        "fullName": "三国战纪 2 (版本 100, 100, 100HK)",
+        "simpleName": "三国战纪"
+      },
+      {
+        "romName": "kov2101",
+        "fullName": "三国战纪 2 (版本 101, 101, 100HK)",
+        "simpleName": "三国战纪"
+      },
+      {
+        "romName": "kov2102",
+        "fullName": "三国战纪 2 (版本 102, 101, 100HK)",
+        "simpleName": "三国战纪"
+      },
+      {
+        "romName": "kov21022",
+        "fullName": "三国战纪 2 (版本 102, 102, 100HK)",
+        "simpleName": "三国战纪"
+      },
+      {
+        "romName": "kov2103",
+        "fullName": "三国战纪 2 (版本 103, 101, 100HK)",
+        "simpleName": "三国战纪"
+      },
+      {
+        "romName": "kov2104",
+        "fullName": "三国战纪 2 (版本 104, 102, 100HK)",
+        "simpleName": "三国战纪"
+      },
+      {
+        "romName": "kov2106",
+        "fullName": "三国战纪 2 (版本 106, 102, 100HK)",
+        "simpleName": "三国战纪"
+      },
+      {
+        "romName": "kov2nl",
+        "fullName": "三国战纪 2 - 横扫千军 (V302, 海外版)",
+        "simpleName": "三国战纪"
+      },
+      {
+        "romName": "kov2nl_300",
+        "fullName": "三国战纪 2 - 横扫千军 (V300, 海外版)",
+        "simpleName": "三国战纪"
+      },
+      {
+        "romName": "kov2nl_300cn",
+        "fullName": "三国战纪 2 - 盖世英雄 (V300, 中国版)",
+        "simpleName": "三国战纪"
+      },
+      {
+        "romName": "kov2nl_301",
+        "fullName": "三国战纪 2 - 横扫千军 (V301, 海外版)",
+        "simpleName": "三国战纪"
+      },
+      {
+        "romName": "kov2nl_301cn",
+        "fullName": "三国战纪 2 - 盖世英雄 (V301, 中国版)",
+        "simpleName": "三国战纪"
+      },
+      {
+        "romName": "kov2nl_302cn",
+        "fullName": "三国战纪 2 - 盖世英雄 (V302, 中国版)",
+        "simpleName": "三国战纪"
+      },
+      {
+        "romName": "kov2p",
+        "fullName": "三国战纪 2 Plus - 群雄争霸 (版本 M205XX, 200, 100CN)",
+        "simpleName": "三国战纪"
+      },
+      {
+        "romName": "kov2p200",
+        "fullName": "三国战纪 2 Plus - 群雄争霸 (版本 M200XX, 200, 100CN)",
+        "simpleName": "三国战纪"
+      },
+      {
+        "romName": "kov2p202",
+        "fullName": "三国战纪 2 Plus - 群雄争霸 (版本 M202XX, 200, 100CN)",
+        "simpleName": "三国战纪"
+      },
+      {
+        "romName": "kov2p203",
+        "fullName": "三国战纪 2 Plus - 群雄争霸 (版本 M203XX, 200, 100CN)",
+        "simpleName": "三国战纪"
+      },
+      {
+        "romName": "kov2p204",
+        "fullName": "三国战纪 2 Plus - 群雄争霸 (版本 M204XX, 200, 100CN)",
+        "simpleName": "三国战纪"
+      },
+      {
+        "romName": "kov3",
+        "fullName": "三国战纪 3 (V104, 中国版, 中国香港版, 中国台湾版)",
+        "simpleName": "三国战纪"
+      },
+      {
+        "romName": "kov3_100",
+        "fullName": "三国战纪 3 (V100, 中国版, 中国香港版, 中国台湾版)",
+        "simpleName": "三国战纪"
+      },
+      {
+        "romName": "kov3_101",
+        "fullName": "三国战纪 3 (V101, 中国版, 中国香港版, 中国台湾版)",
+        "simpleName": "三国战纪"
+      },
+      {
+        "romName": "kov3_102",
+        "fullName": "三国战纪 3 (V102, 中国版, 中国香港版, 中国台湾版)",
+        "simpleName": "三国战纪"
+      },
+      {
+        "romName": "kov3hd",
+        "fullName": "三国战纪 3 高清版 (M-105中国版 13-07-04 18:54:01)",
+        "simpleName": "三国战纪"
+      },
+      {
+        "romName": "kov3hd101",
+        "fullName": "三国战纪 3 高清版 (V101)",
+        "simpleName": "三国战纪"
+      },
+      {
+        "romName": "kov3hd102",
+        "fullName": "三国战纪 3 高清版 (V102)",
+        "simpleName": "三国战纪"
+      },
+      {
+        "romName": "kov3hd103",
+        "fullName": "三国战纪 3 高清版 (V103)",
+        "simpleName": "三国战纪"
+      },
+      {
+        "romName": "kov3hd104",
+        "fullName": "三国战纪 3 高清版 (V104)",
+        "simpleName": "三国战纪"
+      },
+      {
+        "romName": "kovplus",
+        "fullName": "三国战纪 正宗 Plus (版本 119, 第1套)",
+        "simpleName": "三国战纪"
+      },
+      {
+        "romName": "kovplusa",
+        "fullName": "三国战纪 正宗 Plus (版本 119, 第2套)",
+        "simpleName": "三国战纪"
+      },
+      {
+        "romName": "kovsh",
+        "fullName": "三国战纪 - 风云再起 (版本 104, 中文版)",
+        "simpleName": "三国战纪"
+      },
+      {
+        "romName": "kovsh100",
+        "fullName": "三国战纪 - 风云再起 (版本 100, 中文版)",
+        "simpleName": "三国战纪"
+      },
+      {
+        "romName": "kovsh101",
+        "fullName": "三国战纪 - 风云再起 (版本 101, 中文版)",
+        "simpleName": "三国战纪"
+      },
+      {
+        "romName": "kovsh102",
+        "fullName": "三国战纪 - 风云再起 (版本 102, 中文版)",
+        "simpleName": "三国战纪"
+      },
+      {
+        "romName": "kovsh103",
+        "fullName": "三国战纪 - 风云再起 (版本 103, 中文版)",
+        "simpleName": "三国战纪"
+      },
+      {
+        "romName": "kovshp",
+        "fullName": "三国战纪 - 乱世枭雄 (版本 101)",
+        "simpleName": "三国战纪"
+      },
+      {
+        "romName": "kovshp100",
+        "fullName": "三国战纪 - 乱世枭雄 (版本 100)",
+        "simpleName": "三国战纪"
+      },
+      {
+        "romName": "kovytzy",
+        "fullName": "三国战纪 - 风云再起 (SANGO EX+) (版本 201 '一统中原', 中国版)",
+        "simpleName": "三国战纪"
+      }
+    ],
+    "新·三国战纪": [
+      {
+        "romName": "kov7sprt",
+        "fullName": "新·三国战纪 - 七星转生",
+        "simpleName": "新·三国战纪"
+      }
+    ],
+    "成龙踢馆": [
+      {
+        "romName": "kungfu",
+        "fullName": "成龙踢馆 (IGS, v202N)",
+        "simpleName": "成龙踢馆"
+      },
+      {
+        "romName": "kungfua",
+        "fullName": "成龙踢馆 (IGS, v100)",
+        "simpleName": "成龙踢馆"
+      }
+    ],
+    "龙虎榜": [
+      {
+        "romName": "lhb",
+        "fullName": "龙虎榜 (中国版, V035C)",
+        "simpleName": "龙虎榜"
+      },
+      {
+        "romName": "lhb2",
+        "fullName": "龙虎榜 II (中国香港版, V185H)",
+        "simpleName": "龙虎榜"
+      },
+      {
+        "romName": "lhbv33c",
+        "fullName": "龙虎榜 (中国版, V033C)",
+        "simpleName": "龙虎榜"
+      }
+    ],
+    "龙虎特别版": [
+      {
+        "romName": "lhtb",
+        "fullName": "龙虎特别版 (V101中国版)",
+        "simpleName": "龙虎特别版"
+      }
+    ],
+    "龙虎争霸": [
+      {
+        "romName": "lhzb2",
+        "fullName": "龙虎争霸 2 (中国版, 第1套)",
+        "simpleName": "龙虎争霸"
+      },
+      {
+        "romName": "lhzb2a",
+        "fullName": "龙虎争霸 2 (中国版, VS221M)",
+        "simpleName": "龙虎争霸"
+      },
+      {
+        "romName": "lhzb3",
+        "fullName": "龙虎争霸 III ",
+        "simpleName": "龙虎争霸"
+      },
+      {
+        "romName": "lhzb4",
+        "fullName": "龙虎争霸 4 ",
+        "simpleName": "龙虎争霸"
+      }
+    ],
+    "龙虎争霸三合一": [
+      {
+        "romName": "lhzb3in1",
+        "fullName": "龙虎争霸三合一 (V100中国版)",
+        "simpleName": "龙虎争霸三合一"
+      }
+    ],
+    "枪火贵族": [
+      {
+        "romName": "lordgun",
+        "fullName": "枪火贵族 (美版)",
+        "simpleName": "枪火贵族"
+      },
+      {
+        "romName": "lordgunu",
+        "fullName": "枪火贵族 (美版)",
+        "simpleName": "枪火贵族"
+      }
+    ],
+    "形意拳": [
+      {
+        "romName": "martmast",
+        "fullName": "形意拳 (版本 104, 102, 102US)",
+        "simpleName": "形意拳"
+      },
+      {
+        "romName": "martmast102c",
+        "fullName": "形意拳 (版本 102, 101, 101CN)",
+        "simpleName": "形意拳"
+      },
+      {
+        "romName": "martmast103c",
+        "fullName": "形意拳 (版本 103, 102, 101CN)",
+        "simpleName": "形意拳"
+      },
+      {
+        "romName": "martmast104c",
+        "fullName": "形意拳 (版本 104, 102, 101CN)",
+        "simpleName": "形意拳"
+      }
+    ],
+    "满贯财神": [
+      {
+        "romName": "mgcs",
+        "fullName": "满贯财神 (中国版, V103CS)",
+        "simpleName": "满贯财神"
+      }
+    ],
+    "满贯大亨": [
+      {
+        "romName": "mgdh",
+        "fullName": "满贯大亨 (中国台湾版, V125T1)",
+        "simpleName": "满贯大亨"
+      },
+      {
+        "romName": "mgdha",
+        "fullName": "满贯大亨 (中国台湾版, V123T1)",
+        "simpleName": "满贯大亨"
+      }
+    ],
+    "满贯福星": [
+      {
+        "romName": "mgfx",
+        "fullName": "满贯福星 ",
+        "simpleName": "满贯福星"
+      }
+    ],
+    "Medal": [
+      {
+        "romName": "mghammer",
+        "fullName": "Medal Get Hammer (V100JP)",
+        "simpleName": "Medal"
+      }
+    ],
+    "麻雀": [
+      {
+        "romName": "nkishusp",
+        "fullName": "麻雀 - 念力手 SP (日版, V250J)",
+        "simpleName": "麻雀"
+      },
+      {
+        "romName": "ryukobou",
+        "fullName": "麻雀 - 龙虎榜 (日版, V030J)",
+        "simpleName": "麻雀"
+      }
+    ],
+    "西游释厄传": [
+      {
+        "romName": "olds",
+        "fullName": "西游释厄传 Super (版本 101, 韩文基板)",
+        "simpleName": "西游释厄传"
+      },
+      {
+        "romName": "olds100",
+        "fullName": "西游释厄传 Super (版本 100, 第1套)",
+        "simpleName": "西游释厄传"
+      },
+      {
+        "romName": "olds100a",
+        "fullName": "西游释厄传 Super (版本 100, 第2套)",
+        "simpleName": "西游释厄传"
+      },
+      {
+        "romName": "oldsplus",
+        "fullName": "西游释厄传 2 (韩国版) - 群魔乱舞 (世界版, 中国版, 日版, 中国香港版, 中国台湾版) (版本 205) [Oriental Ex]",
+        "simpleName": "西游释厄传"
+      },
+      {
+        "romName": "oldsplus203",
+        "fullName": "西游释厄传 2 (韩国版) - 群魔乱舞 (世界版, 中国版, 日版, 中国香港版, 中国台湾版) (版本 203) [Oriental Ex]",
+        "simpleName": "西游释厄传"
+      },
+      {
+        "romName": "orleg2",
+        "fullName": "西游释厄传 2 (V104, 海外版)",
+        "simpleName": "西游释厄传"
+      },
+      {
+        "romName": "orleg2_101",
+        "fullName": "西游释厄传 2 (V101, 海外版)",
+        "simpleName": "西游释厄传"
+      },
+      {
+        "romName": "orleg2_101cn",
+        "fullName": "西游释厄传 2 (V101, 中国版)",
+        "simpleName": "西游释厄传"
+      },
+      {
+        "romName": "orleg2_101jp",
+        "fullName": "西游释厄传 2 (V101, 日版)",
+        "simpleName": "西游释厄传"
+      },
+      {
+        "romName": "orleg2_103",
+        "fullName": "西游释厄传 2 (V103, 海外版)",
+        "simpleName": "西游释厄传"
+      },
+      {
+        "romName": "orleg2_103cn",
+        "fullName": "西游释厄传 2 (V103, 中国版)",
+        "simpleName": "西游释厄传"
+      },
+      {
+        "romName": "orleg2_103jp",
+        "fullName": "西游释厄传 2 (V103, 日版)",
+        "simpleName": "西游释厄传"
+      },
+      {
+        "romName": "orleg2_104cn",
+        "fullName": "西游释厄传 2 (V104, 中国版)",
+        "simpleName": "西游释厄传"
+      },
+      {
+        "romName": "orleg2_104jp",
+        "fullName": "西游释厄传 2 (V104, 日版)",
+        "simpleName": "西游释厄传"
+      },
+      {
+        "romName": "orlegend",
+        "fullName": "西游释厄传 (版本 126)",
+        "simpleName": "西游释厄传"
+      },
+      {
+        "romName": "orlegend105k",
+        "fullName": "西游释厄传 (版本 105, 韩文基板)",
+        "simpleName": "西游释厄传"
+      },
+      {
+        "romName": "orlegend105t",
+        "fullName": "西游释厄传 (版本 105, 中国台湾基板)",
+        "simpleName": "西游释厄传"
+      },
+      {
+        "romName": "orlegend111c",
+        "fullName": "西游释厄传 (版本 111, 中文基板)",
+        "simpleName": "西游释厄传"
+      },
+      {
+        "romName": "orlegend111k",
+        "fullName": "西游释厄传 (版本 111, 韩文基板)",
+        "simpleName": "西游释厄传"
+      },
+      {
+        "romName": "orlegend111t",
+        "fullName": "西游释厄传 (版本 111, 中国台湾基板)",
+        "simpleName": "西游释厄传"
+      },
+      {
+        "romName": "orlegendc",
+        "fullName": "西游释厄传 (版本 112, 中文基板)",
+        "simpleName": "西游释厄传"
+      },
+      {
+        "romName": "orlegendca",
+        "fullName": "西游释厄传 (版本 ???, 中文基板)",
+        "simpleName": "西游释厄传"
+      },
+      {
+        "romName": "orlegende",
+        "fullName": "西游释厄传 (版本 112)",
+        "simpleName": "西游释厄传"
+      }
+    ],
+    "PGM": [
+      {
+        "romName": "pgm",
+        "fullName": "PGM (Polygame Master) System BIOS",
+        "simpleName": "PGM"
+      }
+    ],
+    "闪亮三合一": [
+      {
+        "romName": "pgm3in1",
+        "fullName": "闪亮三合一 (Flash 3-in-1) (V102 08/23/04 13:03:26)",
+        "simpleName": "闪亮三合一"
+      },
+      {
+        "romName": "pgm3in1c100",
+        "fullName": "闪亮三合一 (Flash 3-in-1) (V100 07/13/04 12:09:20)",
+        "simpleName": "闪亮三合一"
+      }
+    ],
+    "大家来找碴": [
+      {
+        "romName": "photoy2k",
+        "fullName": "大家来找碴 (版本 105)",
+        "simpleName": "大家来找碴"
+      },
+      {
+        "romName": "photoy2k102j",
+        "fullName": "大家来找碴 (版本 102, 日文基板)",
+        "simpleName": "大家来找碴"
+      },
+      {
+        "romName": "photoy2k103j",
+        "fullName": "大家来找碴 (版本 103, 日文基板)",
+        "simpleName": "大家来找碴"
+      },
+      {
+        "romName": "photoy2k104",
+        "fullName": "大家来找碴 (版本 104)",
+        "simpleName": "大家来找碴"
+      },
+      {
+        "romName": "py2k2",
+        "fullName": "大家来找碴 2 (M101XX 05/25/01 11:02:54)",
+        "simpleName": "大家来找碴"
+      },
+      {
+        "romName": "py2k2100",
+        "fullName": "大家来找碴 2 (版本 100, 日文基板)",
+        "simpleName": "大家来找碴"
+      }
+    ],
+    "对战俄罗斯方块": [
+      {
+        "romName": "pktet346",
+        "fullName": "对战俄罗斯方块 (v346I)",
+        "simpleName": "对战俄罗斯方块"
+      }
+    ],
+    "魔幻星座": [
+      {
+        "romName": "puzlstar",
+        "fullName": "魔幻星座 (版本 100MG, 09/30/99 创建)",
+        "simpleName": "魔幻星座"
+      },
+      {
+        "romName": "puzlstara",
+        "fullName": "魔幻星座 (版本 100MG, 09/20/99 创建)",
+        "simpleName": "魔幻星座"
+      }
+    ],
+    "泡泡鱼": [
+      {
+        "romName": "puzzli2",
+        "fullName": "泡泡鱼 2 (版本 100)",
+        "simpleName": "泡泡鱼"
+      },
+      {
+        "romName": "puzzli2s",
+        "fullName": "泡泡鱼 2 Super (版本 200)",
+        "simpleName": "泡泡鱼"
+      }
+    ],
+    "雀龙高手": [
+      {
+        "romName": "qlgs",
+        "fullName": "雀龙高手 ",
+        "simpleName": "雀龙高手"
+      }
+    ],
+    "超级大满贯": [
+      {
+        "romName": "sdmg2",
+        "fullName": "超级大满贯 II (中国版, V754C)",
+        "simpleName": "超级大满贯"
+      }
+    ],
+    "玛克-旺乔": [
+      {
+        "romName": "sdmg2p",
+        "fullName": "玛克-旺乔 /超级大满贯 II  - 潘家强 (中国版, V100C)",
+        "simpleName": "玛克-旺乔"
+      }
+    ],
+    "圣诞五线": [
+      {
+        "romName": "sdwx",
+        "fullName": "圣诞五线 ",
+        "simpleName": "圣诞五线"
+      }
+    ],
+    "双龙抢珠": [
+      {
+        "romName": "slqz2",
+        "fullName": "双龙抢珠 2 VS (中国版, VS203J)",
+        "simpleName": "双龙抢珠"
+      }
+    ],
+    "麻将": [
+      {
+        "romName": "slqz3",
+        "fullName": "麻将 双龙抢珠 3 (中国版, VS107C)",
+        "simpleName": "麻将"
+      }
+    ],
+    "极速": [
+      {
+        "romName": "speeddrv",
+        "fullName": "极速 ",
+        "simpleName": "极速"
+      }
+    ],
+    "超级扑克": [
+      {
+        "romName": "spk100",
+        "fullName": "超级扑克 (v100)",
+        "simpleName": "超级扑克"
+      },
+      {
+        "romName": "spk114it",
+        "fullName": "超级扑克 (v114IT)",
+        "simpleName": "超级扑克"
+      },
+      {
+        "romName": "spk115it",
+        "fullName": "超级扑克 (v115IT)",
+        "simpleName": "超级扑克"
+      },
+      {
+        "romName": "spk116it",
+        "fullName": "超级扑克 (v116IT)",
+        "simpleName": "超级扑克"
+      },
+      {
+        "romName": "spk116itmx",
+        "fullName": "超级扑克 (v116IT-MX)",
+        "simpleName": "超级扑克"
+      },
+      {
+        "romName": "spk306us",
+        "fullName": "超级扑克 (v306US)",
+        "simpleName": "超级扑克"
+      },
+      {
+        "romName": "spkrform",
+        "fullName": "超级扑克 (V100xD03) / 中国台湾",
+        "simpleName": "超级扑克"
+      }
+    ],
+    "超级扑克游戏": [
+      {
+        "romName": "spk102ua",
+        "fullName": "超级扑克游戏 (v102UA)",
+        "simpleName": "超级扑克游戏"
+      },
+      {
+        "romName": "spk200ua",
+        "fullName": "超级扑克游戏 (v200UA)",
+        "simpleName": "超级扑克游戏"
+      },
+      {
+        "romName": "spk201ua",
+        "fullName": "超级扑克游戏 (v201UA)",
+        "simpleName": "超级扑克游戏"
+      },
+      {
+        "romName": "spk203us",
+        "fullName": "超级扑克游戏 (v203美版)",
+        "simpleName": "超级扑克游戏"
+      },
+      {
+        "romName": "spk205us",
+        "fullName": "超级扑克游戏 (v205美版)",
+        "simpleName": "超级扑克游戏"
+      }
+    ],
+    "超级泰山": [
+      {
+        "romName": "starzan",
+        "fullName": "超级泰山 (意大利版, V100I)",
+        "simpleName": "超级泰山"
+      }
+    ],
+    "圣魔世纪": [
+      {
+        "romName": "svg",
+        "fullName": "圣魔世纪 (M68k label V200) (ARM label V200, ROM 10/11/05 S.V.G V201)",
+        "simpleName": "圣魔世纪"
+      },
+      {
+        "romName": "svghk",
+        "fullName": "圣魔世纪 (M68k label V101HK) (ARM label V101HK, ROM 06/20/05 S.V.G V100)",
+        "simpleName": "圣魔世纪"
+      },
+      {
+        "romName": "svgpcb",
+        "fullName": "圣魔世纪 (M68k label V100JP) (ARM label V100JP, ROM 05/12/05 S.V.G V100) (日版, JAMMA PCB)",
+        "simpleName": "圣魔世纪"
+      },
+      {
+        "romName": "svgtw",
+        "fullName": "圣魔世纪 (M68k label V101TW) (ARM label V101TW, ROM 06/20/05 S.V.G V100)",
+        "simpleName": "圣魔世纪"
+      }
+    ],
+    "泰山闯天关": [
+      {
+        "romName": "tarzan",
+        "fullName": "泰山闯天关 (中国版, V109C, 第 2 套)",
+        "simpleName": "泰山闯天关"
+      },
+      {
+        "romName": "tarzanc",
+        "fullName": "泰山闯天关 (中国版, V109C, 第1套)",
+        "simpleName": "泰山闯天关"
+      }
+    ],
+    "泰山": [
+      {
+        "romName": "tarzana",
+        "fullName": "泰山 (V107)",
+        "simpleName": "泰山"
+      }
+    ],
+    "神剑伏魔录": [
+      {
+        "romName": "theglad",
+        "fullName": "神剑伏魔录 (M68k label V101) (ARM label V107, ROM 06/06/03 SHEN JIAN V107)",
+        "simpleName": "神剑伏魔录"
+      },
+      {
+        "romName": "theglad100",
+        "fullName": "神剑伏魔录 (M68k label V100) (ARM label V100, ROM 01/16/03 SHEN JIAN)",
+        "simpleName": "神剑伏魔录"
+      },
+      {
+        "romName": "theglad101",
+        "fullName": "神剑伏魔录 (M68k label V100) (ARM label V101, ROM 03/13/03 SHEN JIAN)",
+        "simpleName": "神剑伏魔录"
+      },
+      {
+        "romName": "theglad104",
+        "fullName": "神剑伏魔录 (M68k label V100) (ARM label V104, ROM 04/02/03 SHEN JIAN V104)",
+        "simpleName": "神剑伏魔录"
+      },
+      {
+        "romName": "thegladpcb",
+        "fullName": "神剑伏魔录 (M68k label V100) (ARM label V101, ROM 03/13/03 SHEN JIAN) (日版, JAMMA PCB)",
+        "simpleName": "神剑伏魔录"
+      },
+      {
+        "romName": "thegladpcba",
+        "fullName": "神剑伏魔录 (M68k label V100) (ARM label V100, ROM 02/25/03 SHEN JIAN) (日版, JAMMA PCB)",
+        "simpleName": "神剑伏魔录"
+      }
+    ],
+    "天降神兵": [
+      {
+        "romName": "tjsb",
+        "fullName": "天降神兵 (中国版, V137C)",
+        "simpleName": "天降神兵"
+      }
+    ],
+    "虚拟保龄球": [
+      {
+        "romName": "vbowl",
+        "fullName": "虚拟保龄球 (世界版, V101XCM)",
+        "simpleName": "虚拟保龄球"
+      },
+      {
+        "romName": "vbowlhk",
+        "fullName": "虚拟保龄球 (中国香港版, V101HJS)",
+        "simpleName": "虚拟保龄球"
+      },
+      {
+        "romName": "vbowlj",
+        "fullName": "虚拟保龄球 (日版, V100JCM)",
+        "simpleName": "虚拟保龄球"
+      }
+    ],
+    "万里长城": [
+      {
+        "romName": "wlcc",
+        "fullName": "万里长城 (中国版, V638C)",
+        "simpleName": "万里长城"
+      }
+    ],
+    "幸运满贯": [
+      {
+        "romName": "xymg",
+        "fullName": "幸运满贯 (中国版, V651C)",
+        "simpleName": "幸运满贯"
+      }
+    ],
+    "中国锄大地": [
+      {
+        "romName": "zhongguo",
+        "fullName": "中国锄大地 ",
+        "simpleName": "中国锄大地"
+      }
+    ]
+  }
+}

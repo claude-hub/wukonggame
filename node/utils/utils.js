@@ -2,14 +2,14 @@ const fs = require('fs');
 const path = require('path');
 const xml2js = require('xml2js');
 const pinyin = require('pinyin');
-const { lstFileAbsPath, ignoreFloders, gameDirAbsPath } = require('../config');
+const { lstFileAbsPath, ignoreFloders, gameDirAbsPath, companyGamesPath } = require('../config');
 
 
 /**
  * 读文件，如何文件不存在则创建
  * @returns 
  */
-const readFileOrCreateIfNotExists = async (filePath, contentIfEnpty) => {
+const readFileOrCreateIfNotExists = async (filePath, contentIfEnpty = '') => {
   try {
     // 尝试访问文件
     await fs.accessSync(path.resolve(filePath));
@@ -68,6 +68,46 @@ const getCnNamesMap = () => {
   return namesMap;
 }
 
+function groupBy(array, property) {
+  return array.reduce((groups, item) => {
+    const key = item[property];
+    if (!groups[key]) {
+      groups[key] = [];
+    }
+    groups[key].push(item);
+    return groups;
+  }, {});
+}
+
+const generateGamesByCop = async (companyName) => {
+  const namesArr = fs.readFileSync(path.resolve(__dirname, lstFileAbsPath), 'utf-8').split('\n');
+  const games = [];
+
+  namesArr.forEach(name => {
+    if (name && name.includes(companyName)) {
+      const [romName, fullName] = name.split('\t');
+      games.push({
+        romName: romName,
+        fullName: fullName,
+        simpleName: fullName.split(' ')[0],
+      })
+    }
+  });
+
+  const file = await readFileOrCreateIfNotExists(companyGamesPath, '{}');
+  const existsGames = JSON.parse(file);
+
+  if(existsGames[companyName]) {
+    return;
+  }
+  const companyGames = {
+    ...existsGames,
+    [companyName]: groupBy(games, 'simpleName'),
+  }
+
+  fs.writeFileSync(companyGamesPath, JSON.stringify(companyGames, null, 2), 'utf8');
+}
+
 /**
  * 删除文件
  */
@@ -90,7 +130,6 @@ function getFirstPinyinInitial(str) {
     return fisrtPinyin[0].toUpperCase();
   }
   throw new Error(`没有拼音: ${str}`);
-  // return '';
 }
 
 
@@ -178,5 +217,6 @@ module.exports = {
   getFirstPinyinInitial,
   generateGamelist,
   parserCNGames,
-  parserGamelistXml
+  parserGamelistXml,
+  generateGamesByCop
 }
