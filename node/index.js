@@ -2,7 +2,7 @@
  * @Author: 314705487@qq.com
  * @Description: 
  * @Date: 2024-06-30 19:43:42
- * @LastEditTime: 2024-07-22 14:54:03
+ * @LastEditTime: 2024-07-22 18:21:12
  */
 const path = require('path');
 const { gameDirAbsPath, gamelistPath } = require('./config');
@@ -37,6 +37,17 @@ const main = async () => {
     'Midway', // 米道威，制作了《真人快打》（Mortal Kombat）、《NBA Jam》等热门街机游戏。
     'Jaleco', // 杰力科，制作了《双截龙》（Double Dragon）街机版本等游戏。
     'bootleg', // 盗版
+    'Atlus',
+    'Banpresto',
+    'Seibu Kaihatsu',
+    'Technos',
+    'Hudson',
+    'Saurus',
+    'Psikyo', // 彩京
+    'Treasure', // 财宝公司
+    'Irem',
+    'Data East',
+    'Toaplan',
   ];
 
   for (const company of companies) {
