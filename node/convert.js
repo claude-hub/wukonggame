@@ -2,20 +2,21 @@
  * @Author: 314705487@qq.com
  * @Description: 
  * @Date: 2024-06-30 19:43:42
- * @LastEditTime: 2024-07-13 12:29:50
+ * @LastEditTime: 2024-07-22 08:59:59
  */
 const xml2js = require('xml2js');
 const fs = require('fs');
 const path = require('path');
-const ignores = require('./ignores');
-const { readFileOrCreateIfNotExists } = require('./utils');
+const { gamelistDir } = require('./config');
 
-const baseDir = path.resolve(__dirname, "../RetroBat/roms_/mame");
-const newBaseDir = path.resolve(__dirname, "../RetroBat/roms/mame");
+const convertPath = 'E:\\wingamepro\\wingamex2\\emulators\\mesen\\roms';
+const gamelistName = 'gamelist_shanmao.xml';
+
+const ignores = [];
 
 const analysisGameList = async () => {
   try {
-    const gamelist = await fs.readFileSync(path.join(baseDir, './gamelist_old.xml'), 'utf8');
+    const gamelist = await fs.readFileSync(path.join(convertPath, 'gamelist.xml'), 'utf8');
     const json = await xml2js.parseStringPromise(gamelist);
     const { game = [] } = json.gameList || {};
 
@@ -25,7 +26,7 @@ const analysisGameList = async () => {
       const { path: gamePaths } = item;
       const [gamePath] = gamePaths;
       try {
-        const filePath = path.join(baseDir, gamePath)
+        const filePath = path.join(convertPath, gamePath)
         const stats = fs.statSync(filePath);
         if (stats.isDirectory()) return false;
 
@@ -45,7 +46,7 @@ const analysisGameList = async () => {
           absolutePath: filePath,
         }
       } catch (error) {
-        // console.error('游戏不存在: ', gamePath);
+        console.error('游戏不存在: ', gamePath);
         return false;
       }
 
@@ -63,7 +64,7 @@ const analysisGameList = async () => {
     const builder = new xml2js.Builder();
     const xml = builder.buildObject(xmlJson);
 
-    await fs.writeFileSync(path.join(baseDir, './gamelist.xml'), xml, 'utf8');
+    await fs.writeFileSync(path.join(gamelistDir, gamelistName), xml, 'utf8');
 
     return sortGames;
 
@@ -73,63 +74,4 @@ const analysisGameList = async () => {
   }
 }
 
-const gengrateGame = async (gameinfo) => {
-  try {
-    const { name, absolutePath } = gameinfo;
-    const filename = path.basename(absolutePath);
-    const newGamePath = path.join(newBaseDir, filename);
-
-    if (!fs.existsSync(newGamePath)) {
-      // await fs.copyFileSync(absolutePath, newGamePath);
-      await fs.renameSync(absolutePath, newGamePath);
-    }
-
-    const gamelist = await readFileOrCreateIfNotExists(path.join(newBaseDir, './gamelist.xml'), '');
-
-    const json = await xml2js.parseStringPromise(gamelist || '');
-    const { game = [] } = json?.gameList || {};
-
-    if (game.find(element => element.path[0] === `./${filename}`)) return;
-
-    const xmlJson = {
-      gameList: {
-        game: [...game, {
-          path: `./${filename}`,
-          name
-        }]
-      }
-    }
-
-    const builder = new xml2js.Builder();
-    const xml = builder.buildObject(xmlJson);
-    await fs.writeFileSync(path.join(newBaseDir, './gamelist.xml'), xml, 'utf8');
-
-    console.log('当前游戏个数: ', xmlJson.gameList.game.length);
-
-  } catch (error) {
-    console.log(error)
-  }
-}
-
-const getNewGames = async (count) => {
-  const games = await analysisGameList();
-
-  const countStr = await readFileOrCreateIfNotExists(path.resolve(__dirname, 'count'), '0');
-
-  const index = Number(countStr);
-
-  for (let i = 0; i < count; i++) {
-    if ((index + i) > games.length - 1) return;
-    await gengrateGame(games[index + i]);
-  }
-
-  await fs.writeFileSync(path.resolve(__dirname, 'count'), String(index + count), 'utf8');
-}
-
-const convert = async () => {
-  await getNewGames(10)
-}
-
-module.exports = {
-  convert
-}
+analysisGameList();

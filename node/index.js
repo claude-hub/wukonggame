@@ -2,7 +2,7 @@
  * @Author: 314705487@qq.com
  * @Description: 
  * @Date: 2024-06-30 19:43:42
- * @LastEditTime: 2024-07-14 22:20:15
+ * @LastEditTime: 2024-07-22 08:40:17
  */
 const path = require('path');
 const { gameDirAbsPath, gamelistPath } = require('./config');
@@ -45,9 +45,11 @@ const main = async () => {
 
   // 整理完成 json 后再生成
   // await genRomsByComp();
-  await transferCompJson();
 
-  await generateGamelist();
+
+  // await transferCompJson();
+
+  // await generateGamelist();
 }
 
 main();

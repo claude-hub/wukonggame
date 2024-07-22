@@ -13,6 +13,7 @@ const gameDirAbsPath = path.resolve(__dirname, '../RetroBat/roms/mame');
 const gamelistPath = path.resolve(__dirname, './assets/gamelist_Mame0.249_街机改.xml');
 
 const companyGamesPath = path.resolve(__dirname, './assets/companyGames.json');
+const gamelistDir = path.resolve(__dirname, './assets/gamelist');
 
 // 4万多个游戏的路径
 const allRomsDir = 'E:\\Download\\MAME 0.267 ROMs (split)';
@@ -27,5 +28,6 @@ module.exports = {
   gamelistPath,
   without_cn_utf8,
   allRomsDir,
-  companyGamesPath
+  companyGamesPath,
+  gamelistDir
 }
