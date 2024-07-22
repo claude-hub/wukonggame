@@ -2,15 +2,15 @@
  * @Author: 314705487@qq.com
  * @Description: 
  * @Date: 2024-06-30 19:43:42
- * @LastEditTime: 2024-07-22 08:59:59
+ * @LastEditTime: 2024-07-22 09:03:42
  */
 const xml2js = require('xml2js');
 const fs = require('fs');
 const path = require('path');
 const { gamelistDir } = require('./config');
 
-const convertPath = 'E:\\wingamepro\\wingamex2\\emulators\\mesen\\roms';
-const gamelistName = 'gamelist_shanmao.xml';
+const convertPath = 'E:\\win5.1\\roms\\mame';
+const gamelistName = 'gamelist_win5.1.xml';
 
 const ignores = [];
 
