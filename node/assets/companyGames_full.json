@@ -54578,5 +54578,2041 @@
         "simpleName": "Toaplan - 零式战机"
       }
     ]
+  },
+  "Tecmo": {
+    "Tecmo - 一对一": [
+      {
+        "romName": "1on1gov",
+        "fullName": "一对一 (日版)",
+        "simpleName": "Tecmo - 一对一"
+      }
+    ],
+    "Tecmo - 烽火佳人": [
+      {
+        "romName": "backfirt",
+        "fullName": "烽火佳人 (Tecmo, 盗版)",
+        "simpleName": "Tecmo - 烽火佳人"
+      }
+    ],
+    "Tecmo - TPS": [
+      {
+        "romName": "coh1002m",
+        "fullName": "TPS",
+        "simpleName": "Tecmo - TPS"
+      }
+    ],
+    "Tecmo - 团地之花札": [
+      {
+        "romName": "danchih",
+        "fullName": "团地之花札 (J 990607 V1.400)",
+        "simpleName": "Tecmo - 团地之花札"
+      }
+    ],
+    "Tecmo - 益智迪诺": [
+      {
+        "romName": "deroon",
+        "fullName": "益智迪诺 (初版, 第1套)",
+        "simpleName": "Tecmo - 益智迪诺"
+      },
+      {
+        "romName": "deroon2",
+        "fullName": "益智迪诺",
+        "simpleName": "Tecmo - 益智迪诺"
+      },
+      {
+        "romName": "deroona",
+        "fullName": "益智迪诺 (初版, 第2套)",
+        "simpleName": "Tecmo - 益智迪诺"
+      }
+    ],
+    "Tecmo - 死或生": [
+      {
+        "romName": "doa",
+        "fullName": "死或生 (Model 2B, 修订版 C)",
+        "simpleName": "Tecmo - 死或生"
+      },
+      {
+        "romName": "doa2",
+        "fullName": "死或生 2",
+        "simpleName": "Tecmo - 死或生"
+      },
+      {
+        "romName": "doa2a",
+        "fullName": "死或生 2 (修订版 A)",
+        "simpleName": "Tecmo - 死或生"
+      },
+      {
+        "romName": "doa2m",
+        "fullName": "死或生 2 千禧版",
+        "simpleName": "Tecmo - 死或生"
+      },
+      {
+        "romName": "doaa",
+        "fullName": "死或生 (Model 2A, 修订版 A)",
+        "simpleName": "Tecmo - 死或生"
+      },
+      {
+        "romName": "doaab",
+        "fullName": "死或生 (Model 2A)",
+        "simpleName": "Tecmo - 死或生"
+      },
+      {
+        "romName": "doaae",
+        "fullName": "死或生 (海外版, Model 2A, 修订版 A)",
+        "simpleName": "Tecmo - 死或生"
+      },
+      {
+        "romName": "doab",
+        "fullName": "死或生 (Model 2B, 修订版 B)",
+        "simpleName": "Tecmo - 死或生"
+      },
+      {
+        "romName": "doapp",
+        "fullName": "死或生 ++ (日版/美版/海外版)",
+        "simpleName": "Tecmo - 死或生"
+      },
+      {
+        "romName": "doappk",
+        "fullName": "死或生 ++ (韩国版)",
+        "simpleName": "Tecmo - 死或生"
+      }
+    ],
+    "Tecmo - 八号火力": [
+      {
+        "romName": "eightfrc",
+        "fullName": "八号火力",
+        "simpleName": "Tecmo - 八号火力"
+      }
+    ],
+    "Tecmo - 最终星际武力": [
+      {
+        "romName": "fstarfrc",
+        "fullName": "最终星际武力 (美版)",
+        "simpleName": "Tecmo - 最终星际武力"
+      },
+      {
+        "romName": "fstarfrcj",
+        "fullName": "最终星际武力 (日版, 第1套)",
+        "simpleName": "Tecmo - 最终星际武力"
+      },
+      {
+        "romName": "fstarfrcja",
+        "fullName": "最终星际武力 (日版, 第2套)",
+        "simpleName": "Tecmo - 最终星际武力"
+      },
+      {
+        "romName": "fstarfrcw",
+        "fullName": "最终星际武力 (世界版?)",
+        "simpleName": "Tecmo - 最终星际武力"
+      }
+    ],
+    "Tecmo - 忍者龙剑传": [
+      {
+        "romName": "gaiden",
+        "fullName": "忍者龙剑传 (美版)",
+        "simpleName": "Tecmo - 忍者龙剑传"
+      },
+      {
+        "romName": "pc_ngai2",
+        "fullName": "忍者龙剑传 II - 暗黑邪神剑 (PlayChoice-10)",
+        "simpleName": "Tecmo - 忍者龙剑传"
+      },
+      {
+        "romName": "pc_ngai3",
+        "fullName": "忍者龙剑传 III - 黄泉方舟 (PlayChoice-10)",
+        "simpleName": "Tecmo - 忍者龙剑传"
+      },
+      {
+        "romName": "pc_ngaid",
+        "fullName": "忍者龙剑传 (PlayChoice-10)",
+        "simpleName": "Tecmo - 忍者龙剑传"
+      },
+      {
+        "romName": "ryukendn",
+        "fullName": "忍者龙剑传 (日版, 第1套)",
+        "simpleName": "Tecmo - 忍者龙剑传"
+      },
+      {
+        "romName": "ryukendna",
+        "fullName": "忍者龙剑传 (日版, 第2套)",
+        "simpleName": "Tecmo - 忍者龙剑传"
+      },
+      {
+        "romName": "shadoww",
+        "fullName": "忍者龙剑传 (世界版, 第1套)",
+        "simpleName": "Tecmo - 忍者龙剑传"
+      },
+      {
+        "romName": "shadowwa",
+        "fullName": "忍者龙剑传 (世界版, 第2套)",
+        "simpleName": "Tecmo - 忍者龙剑传"
+      }
+    ],
+    "Tecmo - 昆虫世界": [
+      {
+        "romName": "gemini",
+        "fullName": "昆虫世界 (世界版)",
+        "simpleName": "Tecmo - 昆虫世界"
+      },
+      {
+        "romName": "geminij",
+        "fullName": "昆虫世界 (日版)",
+        "simpleName": "Tecmo - 昆虫世界"
+      }
+    ],
+    "Tecmo - 前代末间大爆笑": [
+      {
+        "romName": "ginkun",
+        "fullName": "前代末间大爆笑",
+        "simpleName": "Tecmo - 前代末间大爆笑"
+      }
+    ],
+    "Tecmo - 急速赛马": [
+      {
+        "romName": "glpracr",
+        "fullName": "急速赛马 (英文版 版本 10.17.K)",
+        "simpleName": "Tecmo - 急速赛马"
+      },
+      {
+        "romName": "glpracr2",
+        "fullName": "急速赛马 2 (海外版)",
+        "simpleName": "Tecmo - 急速赛马"
+      },
+      {
+        "romName": "glpracr2j",
+        "fullName": "急速赛马 2 (日版)",
+        "simpleName": "Tecmo - 急速赛马"
+      },
+      {
+        "romName": "glpracr2l",
+        "fullName": "急速赛马 2 Link HW (日版)",
+        "simpleName": "Tecmo - 急速赛马"
+      },
+      {
+        "romName": "glpracr3",
+        "fullName": "急速赛马 3 (海外版)",
+        "simpleName": "Tecmo - 急速赛马"
+      },
+      {
+        "romName": "glpracr3j",
+        "fullName": "急速赛马 3 (日版)",
+        "simpleName": "Tecmo - 急速赛马"
+      },
+      {
+        "romName": "glpracrj",
+        "fullName": "急速赛马 (日文版 版本 9.01.12)",
+        "simpleName": "Tecmo - 急速赛马"
+      }
+    ],
+    "Tecmo - 上等": [
+      {
+        "romName": "goodejan",
+        "fullName": "上等 E 雀 - 麻雀赏金王 (第1套)",
+        "simpleName": "Tecmo - 上等"
+      },
+      {
+        "romName": "goodejana",
+        "fullName": "上等 E 雀 - 麻雀赏金王 (第2套)",
+        "simpleName": "Tecmo - 上等"
+      }
+    ],
+    "Tecmo - 美女枪手": [
+      {
+        "romName": "gundealrt",
+        "fullName": "美女枪手 (日版)",
+        "simpleName": "Tecmo - 美女枪手"
+      }
+    ],
+    "Tecmo - 炮钉": [
+      {
+        "romName": "gunnail",
+        "fullName": "炮钉 (28th May. 1992)",
+        "simpleName": "Tecmo - 炮钉"
+      }
+    ],
+    "Tecmo - 斗神光辉": [
+      {
+        "romName": "karatblzj",
+        "fullName": "斗神光辉 (日版, Tecmo 授权)",
+        "simpleName": "Tecmo - 斗神光辉"
+      },
+      {
+        "romName": "karatblzt",
+        "fullName": "斗神光辉 (世界版, Tecmo 授权)",
+        "simpleName": "Tecmo - 斗神光辉"
+      }
+    ],
+    "Tecmo - 急速跳跳乐": [
+      {
+        "romName": "mfjump",
+        "fullName": "急速跳跳乐 (日版)",
+        "simpleName": "Tecmo - 急速跳跳乐"
+      }
+    ],
+    "Tecmo - Tecmo": [
+      {
+        "romName": "mp_twcup",
+        "fullName": "Tecmo 世界杯足球 (Mega Play)",
+        "simpleName": "Tecmo - Tecmo"
+      },
+      {
+        "romName": "pc_tbowl",
+        "fullName": "Tecmo 橄榄球 (PlayChoice-10)",
+        "simpleName": "Tecmo - Tecmo"
+      },
+      {
+        "romName": "tbowl",
+        "fullName": "Tecmo 橄榄球 (世界版, 第1套)",
+        "simpleName": "Tecmo - Tecmo"
+      },
+      {
+        "romName": "tbowla",
+        "fullName": "Tecmo 橄榄球 (世界版, 第2套)",
+        "simpleName": "Tecmo - Tecmo"
+      },
+      {
+        "romName": "tbowlj",
+        "fullName": "Tecmo 橄榄球 (日版)",
+        "simpleName": "Tecmo - Tecmo"
+      },
+      {
+        "romName": "tbowlp",
+        "fullName": "Tecmo 橄榄球 (世界版, 工程版?)",
+        "simpleName": "Tecmo - Tecmo"
+      },
+      {
+        "romName": "teedoff",
+        "fullName": "Tecmo 高尔夫 86 (世界版)",
+        "simpleName": "Tecmo - Tecmo"
+      },
+      {
+        "romName": "teedoffj",
+        "fullName": "Tecmo 高尔夫 86 (日版)",
+        "simpleName": "Tecmo - Tecmo"
+      },
+      {
+        "romName": "teedoffp",
+        "fullName": "Tecmo 高尔夫 86 (pinball, 修订版.3)",
+        "simpleName": "Tecmo - Tecmo"
+      },
+      {
+        "romName": "teedoffp0",
+        "fullName": "Tecmo 高尔夫 86 (pinball)",
+        "simpleName": "Tecmo - Tecmo"
+      },
+      {
+        "romName": "teedoffp1",
+        "fullName": "Tecmo 高尔夫 86 (pinball, 修订版.1)",
+        "simpleName": "Tecmo - Tecmo"
+      },
+      {
+        "romName": "tknight",
+        "fullName": "Tecmo 骑士",
+        "simpleName": "Tecmo - Tecmo"
+      },
+      {
+        "romName": "twcup90",
+        "fullName": "Tecmo 世界杯足球 '90 (世界版 第1套)",
+        "simpleName": "Tecmo - Tecmo"
+      },
+      {
+        "romName": "twcup90a",
+        "fullName": "Tecmo 世界杯足球 '90 (欧洲版 第1套)",
+        "simpleName": "Tecmo - Tecmo"
+      },
+      {
+        "romName": "twcup90b",
+        "fullName": "Tecmo 世界杯足球 '90 (欧洲版 第2套)",
+        "simpleName": "Tecmo - Tecmo"
+      },
+      {
+        "romName": "twcup90c",
+        "fullName": "Tecmo 世界杯足球 '90 (欧洲版 第3套)",
+        "simpleName": "Tecmo - Tecmo"
+      },
+      {
+        "romName": "twcup90t",
+        "fullName": "Tecmo 世界杯足球 '90 (轨迹球版 第1套)",
+        "simpleName": "Tecmo - Tecmo"
+      },
+      {
+        "romName": "twcup94",
+        "fullName": "Tecmo 世界杯足球 '94 (第1套)",
+        "simpleName": "Tecmo - Tecmo"
+      },
+      {
+        "romName": "twcup94a",
+        "fullName": "Tecmo 世界杯足球 '94 (第2套)",
+        "simpleName": "Tecmo - Tecmo"
+      },
+      {
+        "romName": "twcup94b",
+        "fullName": "Tecmo 世界杯足球 '94 (第3套)",
+        "simpleName": "Tecmo - Tecmo"
+      },
+      {
+        "romName": "twcup98",
+        "fullName": "Tecmo 世界杯足球 '98 (JUET 980410 V1.000)",
+        "simpleName": "Tecmo - Tecmo"
+      },
+      {
+        "romName": "twcupmil",
+        "fullName": "Tecmo 世界杯足球 (日版)",
+        "simpleName": "Tecmo - Tecmo"
+      },
+      {
+        "romName": "twsoc96",
+        "fullName": "Tecmo 世界杯足球 '96",
+        "simpleName": "Tecmo - Tecmo"
+      },
+      {
+        "romName": "twsoc98",
+        "fullName": "Tecmo 世界足球 '98 (JUET 980410 V1.000)",
+        "simpleName": "Tecmo - Tecmo"
+      }
+    ],
+    "Tecmo - 脑力向上委员会": [
+      {
+        "romName": "nouryoku",
+        "fullName": "脑力向上委员会",
+        "simpleName": "Tecmo - 脑力向上委员会"
+      },
+      {
+        "romName": "nouryokup",
+        "fullName": "脑力向上委员会 (工程版)",
+        "simpleName": "Tecmo - 脑力向上委员会"
+      }
+    ],
+    "Tecmo - Vs.": [
+      {
+        "romName": "nvs_mightybj",
+        "fullName": "Vs. 炸弹杰克 (日版)",
+        "simpleName": "Tecmo - Vs."
+      }
+    ],
+    "Tecmo - 阿古斯战士": [
+      {
+        "romName": "pc_rygar",
+        "fullName": "阿古斯战士 (PlayChoice-10)",
+        "simpleName": "Tecmo - 阿古斯战士"
+      }
+    ],
+    "Tecmo - 问答": [
+      {
+        "romName": "qzkklgy2",
+        "fullName": "问答 心理问答 2",
+        "simpleName": "Tecmo - 问答"
+      },
+      {
+        "romName": "qzkklogy",
+        "fullName": "问答 心理问答",
+        "simpleName": "Tecmo - 问答"
+      }
+    ],
+    "Tecmo - 雷牙": [
+      {
+        "romName": "raiga",
+        "fullName": "雷牙 - 灵云战机 (日版)",
+        "simpleName": "Tecmo - 雷牙"
+      },
+      {
+        "romName": "stratof",
+        "fullName": "雷牙 - 灵云战机 (美版)",
+        "simpleName": "Tecmo - 雷牙"
+      }
+    ],
+    "Tecmo - 阿尔卑斯古战士": [
+      {
+        "romName": "rygar",
+        "fullName": "阿尔卑斯古战士 (美版 第1套)",
+        "simpleName": "Tecmo - 阿尔卑斯古战士"
+      },
+      {
+        "romName": "rygar2",
+        "fullName": "阿尔卑斯古战士 (美版 第2套)",
+        "simpleName": "Tecmo - 阿尔卑斯古战士"
+      },
+      {
+        "romName": "rygar3",
+        "fullName": "阿尔卑斯古战士 (美版 第3套 旧版)",
+        "simpleName": "Tecmo - 阿尔卑斯古战士"
+      },
+      {
+        "romName": "rygarj",
+        "fullName": "阿尔卑斯古战士 (日版 第1套)",
+        "simpleName": "Tecmo - 阿尔卑斯古战士"
+      },
+      {
+        "romName": "rygarj2",
+        "fullName": "阿尔卑斯古战士 (日版 第2套)",
+        "simpleName": "Tecmo - 阿尔卑斯古战士"
+      }
+    ],
+    "Tecmo - 仙人掌兄弟": [
+      {
+        "romName": "sabotenb",
+        "fullName": "仙人掌兄弟 (第1套)",
+        "simpleName": "Tecmo - 仙人掌兄弟"
+      },
+      {
+        "romName": "sabotenba",
+        "fullName": "仙人掌兄弟 (第2套)",
+        "simpleName": "Tecmo - 仙人掌兄弟"
+      }
+    ],
+    "Tecmo - 中东战争": [
+      {
+        "romName": "silkworm",
+        "fullName": "中东战争 (世界版)",
+        "simpleName": "Tecmo - 中东战争"
+      },
+      {
+        "romName": "silkwormj",
+        "fullName": "中东战争 (日版)",
+        "simpleName": "Tecmo - 中东战争"
+      },
+      {
+        "romName": "silkwormp",
+        "fullName": "中东战争 (工程版)",
+        "simpleName": "Tecmo - 中东战争"
+      }
+    ],
+    "Tecmo - 所罗门之钥": [
+      {
+        "romName": "solomon",
+        "fullName": "所罗门之钥 (美版)",
+        "simpleName": "Tecmo - 所罗门之钥"
+      },
+      {
+        "romName": "solomonj",
+        "fullName": "所罗门之钥 (日版)",
+        "simpleName": "Tecmo - 所罗门之钥"
+      }
+    ],
+    "Tecmo - 超级弹珠台": [
+      {
+        "romName": "spbactn",
+        "fullName": "超级弹珠台 (美版)",
+        "simpleName": "Tecmo - 超级弹珠台"
+      },
+      {
+        "romName": "spbactnj",
+        "fullName": "超级弹珠台 (日版)",
+        "simpleName": "Tecmo - 超级弹珠台"
+      },
+      {
+        "romName": "spbactnp",
+        "fullName": "超级弹珠台 (美版, 工程版, 双屏版)",
+        "simpleName": "Tecmo - 超级弹珠台"
+      }
+    ],
+    "Tecmo - 重装战机": [
+      {
+        "romName": "stg",
+        "fullName": "重装战机 S.T.G",
+        "simpleName": "Tecmo - 重装战机"
+      }
+    ],
+    "Tecmo - 雷龙": [
+      {
+        "romName": "tdragon",
+        "fullName": "雷龙 (8th Jan. 1992, 未保护版)",
+        "simpleName": "Tecmo - 雷龙"
+      },
+      {
+        "romName": "tdragon1",
+        "fullName": "雷龙 (4th Jun. 1991, 保护版)",
+        "simpleName": "Tecmo - 雷龙"
+      }
+    ],
+    "Tecmo - 斗姬传承": [
+      {
+        "romName": "tkdensho",
+        "fullName": "斗姬传承 - 天使之眼 (版本 960614)",
+        "simpleName": "Tecmo - 斗姬传承"
+      },
+      {
+        "romName": "tkdenshoa",
+        "fullName": "斗姬传承 - 天使之眼 (版本 960427)",
+        "simpleName": "Tecmo - 斗姬传承"
+      }
+    ],
+    "Tecmo - 危机重重": [
+      {
+        "romName": "tondemo",
+        "fullName": "危机重重 (日版)",
+        "simpleName": "Tecmo - 危机重重"
+      }
+    ],
+    "Tecmo - 非常": [
+      {
+        "romName": "totmejan",
+        "fullName": "非常 E 雀",
+        "simpleName": "Tecmo - 非常"
+      }
+    ],
+    "Tecmo - 欧洲联赛": [
+      {
+        "romName": "twcup90b1",
+        "fullName": "欧洲联赛 (意大利版 修改版 Tecmo 世界杯足球 '90, 第1套)",
+        "simpleName": "Tecmo - 欧洲联赛"
+      },
+      {
+        "romName": "twcup90b3",
+        "fullName": "欧洲联赛 (意大利版 修改版 Tecmo 世界杯足球 '90, 第3套)",
+        "simpleName": "Tecmo - 欧洲联赛"
+      },
+      {
+        "romName": "twcup90ba",
+        "fullName": "欧洲联赛 (意大利版 修改版 Tecmo 世界杯足球 '90, 第2套)",
+        "simpleName": "Tecmo - 欧洲联赛"
+      }
+    ],
+    "Tecmo - 胜利射门": [
+      {
+        "romName": "vgoalsoc",
+        "fullName": "胜利射门 (欧洲版)",
+        "simpleName": "Tecmo - 胜利射门"
+      },
+      {
+        "romName": "vgoalsoca",
+        "fullName": "胜利射门 (美版/日版/韩国版)",
+        "simpleName": "Tecmo - 胜利射门"
+      }
+    ],
+    "Tecmo - 邪城风云": [
+      {
+        "romName": "wildfang",
+        "fullName": "邪城风云 / Tecmo 骑士",
+        "simpleName": "Tecmo - 邪城风云"
+      },
+      {
+        "romName": "wildfangh",
+        "fullName": "邪城风云 (year hack?)",
+        "simpleName": "Tecmo - 邪城风云"
+      },
+      {
+        "romName": "wildfangs",
+        "fullName": "邪城风云",
+        "simpleName": "Tecmo - 邪城风云"
+      }
+    ],
+    "Tecmo - 世界摔角联盟": [
+      {
+        "romName": "wwfwfest",
+        "fullName": "世界摔角联盟 - 狂热摔跤 (世界版)",
+        "simpleName": "Tecmo - 世界摔角联盟"
+      },
+      {
+        "romName": "wwfwfestj",
+        "fullName": "世界摔角联盟 - 狂热摔跤 (日版)",
+        "simpleName": "Tecmo - 世界摔角联盟"
+      },
+      {
+        "romName": "wwfwfestk",
+        "fullName": "世界摔角联盟 - 狂热摔跤 (韩国版)",
+        "simpleName": "Tecmo - 世界摔角联盟"
+      }
+    ],
+    "Tecmo - 真真急炮": [
+      {
+        "romName": "zingzip",
+        "fullName": "真真急炮",
+        "simpleName": "Tecmo - 真真急炮"
+      }
+    ]
+  },
+  "Aorn": {
+    "Aorn - 罗媚斗": [
+      {
+        "romName": "rabbit",
+        "fullName": "罗媚斗 (亚洲版 3/6)",
+        "simpleName": "Aorn - 罗媚斗"
+      },
+      {
+        "romName": "rabbita",
+        "fullName": "罗媚斗 (亚洲版 1/28?)",
+        "simpleName": "Aorn - 罗媚斗"
+      },
+      {
+        "romName": "rabbitj",
+        "fullName": "罗媚斗 (日版 3/6?)",
+        "simpleName": "Aorn - 罗媚斗"
+      },
+      {
+        "romName": "rabbitjt",
+        "fullName": "罗媚斗 (日版 1/28, 定点测试版)",
+        "simpleName": "Aorn - 罗媚斗"
+      }
+    ]
+  },
+  "Kaneko": {
+    "Kaneko - 空中堡垒": [
+      {
+        "romName": "airbustr",
+        "fullName": "空中堡垒 (世界版)",
+        "simpleName": "Kaneko - 空中堡垒"
+      },
+      {
+        "romName": "airbustrj",
+        "fullName": "空中堡垒 (日版)",
+        "simpleName": "Kaneko - 空中堡垒"
+      }
+    ],
+    "Kaneko - 爆裂战机": [
+      {
+        "romName": "bakubrkr",
+        "fullName": "爆裂战机 - 爆裂 (日版)",
+        "simpleName": "Kaneko - 爆裂战机"
+      },
+      {
+        "romName": "explbrkr",
+        "fullName": "爆裂战机 - 爆裂 (世界版)",
+        "simpleName": "Kaneko - 爆裂战机"
+      },
+      {
+        "romName": "explbrkrk",
+        "fullName": "爆裂战机 - 爆裂 (韩国版)",
+        "simpleName": "Kaneko - 爆裂战机"
+      }
+    ],
+    "Kaneko - 柏林墙": [
+      {
+        "romName": "berlwall",
+        "fullName": "柏林墙",
+        "simpleName": "Kaneko - 柏林墙"
+      },
+      {
+        "romName": "berlwallk",
+        "fullName": "柏林墙 (韩国版)",
+        "simpleName": "Kaneko - 柏林墙"
+      },
+      {
+        "romName": "berlwallt",
+        "fullName": "柏林墙 (盗版?)",
+        "simpleName": "Kaneko - 柏林墙"
+      }
+    ],
+    "Kaneko - 大江户格斗": [
+      {
+        "romName": "bloodwar",
+        "fullName": "大江户格斗 - 血忍",
+        "simpleName": "Kaneko - 大江户格斗"
+      },
+      {
+        "romName": "oedfight",
+        "fullName": "大江户格斗 - 血忍 (日版 血腥版)",
+        "simpleName": "Kaneko - 大江户格斗"
+      },
+      {
+        "romName": "oedfighta",
+        "fullName": "大江户格斗 - 血忍 (日版, 无血版)",
+        "simpleName": "Kaneko - 大江户格斗"
+      }
+    ],
+    "Kaneko - 弹跳王": [
+      {
+        "romName": "boggy84",
+        "fullName": "弹跳王 '84",
+        "simpleName": "Kaneko - 弹跳王"
+      }
+    ],
+    "Kaneko - 邦克大冒险": [
+      {
+        "romName": "bonkadv",
+        "fullName": "邦克大冒险 / 究极 PC 原人",
+        "simpleName": "Kaneko - 邦克大冒险"
+      }
+    ],
+    "Kaneko - 邦克大冒险（原型）": [
+      {
+        "romName": "bonkadva",
+        "fullName": "邦克大冒险（原型）",
+        "simpleName": "Kaneko - 邦克大冒险（原型）"
+      }
+    ],
+    "Kaneko - 嘻哈男孩": [
+      {
+        "romName": "brapboys",
+        "fullName": "嘻哈男孩 (世界版)",
+        "simpleName": "Kaneko - 嘻哈男孩"
+      },
+      {
+        "romName": "brapboysp",
+        "fullName": "嘻哈男孩 特别版 (世界版, 新版)",
+        "simpleName": "Kaneko - 嘻哈男孩"
+      },
+      {
+        "romName": "brapboysp2",
+        "fullName": "嘻哈男孩 特别版 (世界版, 旧版)",
+        "simpleName": "Kaneko - 嘻哈男孩"
+      },
+      {
+        "romName": "brapboyspj",
+        "fullName": "嘻哈男孩 特别版 (日版)",
+        "simpleName": "Kaneko - 嘻哈男孩"
+      },
+      {
+        "romName": "brapboyspu",
+        "fullName": "嘻哈男孩 特别版 (美版)",
+        "simpleName": "Kaneko - 嘻哈男孩"
+      }
+    ],
+    "Kaneko - 机甲飞龙": [
+      {
+        "romName": "cyvern",
+        "fullName": "机甲飞龙 - 龙武 (美版)",
+        "simpleName": "Kaneko - 机甲飞龙"
+      },
+      {
+        "romName": "cyvernj",
+        "fullName": "机甲飞龙 - 龙武 (日版)",
+        "simpleName": "Kaneko - 机甲飞龙"
+      }
+    ],
+    "Kaneko - DJ": [
+      {
+        "romName": "djboy",
+        "fullName": "DJ 男孩 (世界版)",
+        "simpleName": "Kaneko - DJ"
+      },
+      {
+        "romName": "djboyj",
+        "fullName": "DJ 男孩 (日版, 第1套)",
+        "simpleName": "Kaneko - DJ"
+      },
+      {
+        "romName": "djboyja",
+        "fullName": "DJ 男孩 (日版, 第2套)",
+        "simpleName": "Kaneko - DJ"
+      },
+      {
+        "romName": "djboyu",
+        "fullName": "DJ 男孩 (美版, 第1套)",
+        "simpleName": "Kaneko - DJ"
+      },
+      {
+        "romName": "djboyua",
+        "fullName": "DJ 男孩 (美版, 第2套)",
+        "simpleName": "Kaneko - DJ"
+      }
+    ],
+    "Kaneko - 托比博士探险队": [
+      {
+        "romName": "drtoppel",
+        "fullName": "托比博士探险队 (世界版)",
+        "simpleName": "Kaneko - 托比博士探险队"
+      },
+      {
+        "romName": "drtoppelj",
+        "fullName": "托比博士探险队 (日版)",
+        "simpleName": "Kaneko - 托比博士探险队"
+      },
+      {
+        "romName": "drtoppelu",
+        "fullName": "托比博士探险队 (美版)",
+        "simpleName": "Kaneko - 托比博士探险队"
+      }
+    ],
+    "Kaneko - 飞天快手佛莱迪": [
+      {
+        "romName": "fastfred",
+        "fullName": "飞天快手佛莱迪",
+        "simpleName": "Kaneko - 飞天快手佛莱迪"
+      }
+    ],
+    "Kaneko - 滚轴王牌": [
+      {
+        "romName": "fightrol",
+        "fullName": "滚轴王牌",
+        "simpleName": "Kaneko - 滚轴王牌"
+      },
+      {
+        "romName": "rollace",
+        "fullName": "滚轴王牌 (第1套)",
+        "simpleName": "Kaneko - 滚轴王牌"
+      },
+      {
+        "romName": "rollace2",
+        "fullName": "滚轴王牌 (第2套)",
+        "simpleName": "Kaneko - 滚轴王牌"
+      }
+    ],
+    "Kaneko - 幕府快打": [
+      {
+        "romName": "fjbuster",
+        "fullName": "幕府快打 - 富士山 BUSTER (日版)",
+        "simpleName": "Kaneko - 幕府快打"
+      },
+      {
+        "romName": "shogwarr",
+        "fullName": "幕府快打 (世界版)",
+        "simpleName": "Kaneko - 幕府快打"
+      },
+      {
+        "romName": "shogwarrk",
+        "fullName": "幕府快打 (韩国版?)",
+        "simpleName": "Kaneko - 幕府快打"
+      },
+      {
+        "romName": "shogwarru",
+        "fullName": "幕府快打 (美版)",
+        "simpleName": "Kaneko - 幕府快打"
+      }
+    ],
+    "Kaneko - 飞天男孩": [
+      {
+        "romName": "flyboy",
+        "fullName": "飞天男孩",
+        "simpleName": "Kaneko - 飞天男孩"
+      }
+    ],
+    "Kaneko - 天蚕变": [
+      {
+        "romName": "galpani2",
+        "fullName": "天蚕变 II (亚洲版)",
+        "simpleName": "Kaneko - 天蚕变"
+      },
+      {
+        "romName": "galpani2e",
+        "fullName": "天蚕变 II (英文版)",
+        "simpleName": "Kaneko - 天蚕变"
+      },
+      {
+        "romName": "galpani2e2",
+        "fullName": "天蚕变 II (英文版, 2 PCB 版本.)",
+        "simpleName": "Kaneko - 天蚕变"
+      },
+      {
+        "romName": "galpani2g",
+        "fullName": "天蚕变 II (德国版, 2 PCB 版本)",
+        "simpleName": "Kaneko - 天蚕变"
+      },
+      {
+        "romName": "galpani2gs",
+        "fullName": "天蚕变 II (德国版, 单块 PCB)",
+        "simpleName": "Kaneko - 天蚕变"
+      },
+      {
+        "romName": "galpani2i",
+        "fullName": "天蚕变 II (意大利版, 单块 PCB)",
+        "simpleName": "Kaneko - 天蚕变"
+      },
+      {
+        "romName": "galpani2i2",
+        "fullName": "天蚕变 II (意大利版, 2 PCB 版本)",
+        "simpleName": "Kaneko - 天蚕变"
+      },
+      {
+        "romName": "galpani2j",
+        "fullName": "天蚕变 II (日版)",
+        "simpleName": "Kaneko - 天蚕变"
+      },
+      {
+        "romName": "galpani2k",
+        "fullName": "天蚕变 II (韩国版, 单块 PCB)",
+        "simpleName": "Kaneko - 天蚕变"
+      },
+      {
+        "romName": "galpani2t",
+        "fullName": "天蚕变 II (中国台湾版, 2 PCB 版本)",
+        "simpleName": "Kaneko - 天蚕变"
+      },
+      {
+        "romName": "galpani3",
+        "fullName": "天蚕变 3 (欧洲版)",
+        "simpleName": "Kaneko - 天蚕变"
+      },
+      {
+        "romName": "galpani3hk",
+        "fullName": "天蚕变 3 (中国香港版)",
+        "simpleName": "Kaneko - 天蚕变"
+      },
+      {
+        "romName": "galpani3j",
+        "fullName": "天蚕变 3 (日版)",
+        "simpleName": "Kaneko - 天蚕变"
+      },
+      {
+        "romName": "galpani3k",
+        "fullName": "天蚕变 3 (韩国版)",
+        "simpleName": "Kaneko - 天蚕变"
+      },
+      {
+        "romName": "galpani4",
+        "fullName": "天蚕变 4 (欧洲版)",
+        "simpleName": "Kaneko - 天蚕变"
+      },
+      {
+        "romName": "galpani4j",
+        "fullName": "天蚕变 4 (日版)",
+        "simpleName": "Kaneko - 天蚕变"
+      },
+      {
+        "romName": "galpani4k",
+        "fullName": "天蚕变 4 (韩国版)",
+        "simpleName": "Kaneko - 天蚕变"
+      },
+      {
+        "romName": "galpanic",
+        "fullName": "天蚕变 (未保护版, 版本 2.0)",
+        "simpleName": "Kaneko - 天蚕变"
+      },
+      {
+        "romName": "galpanica",
+        "fullName": "天蚕变 (未保护版)",
+        "simpleName": "Kaneko - 天蚕变"
+      },
+      {
+        "romName": "galpanicb",
+        "fullName": "天蚕变 (ULA 保护版, 第1套)",
+        "simpleName": "Kaneko - 天蚕变"
+      },
+      {
+        "romName": "galpanicc",
+        "fullName": "天蚕变 (ULA 保护版, 第2套)",
+        "simpleName": "Kaneko - 天蚕变"
+      },
+      {
+        "romName": "galpanidx",
+        "fullName": "天蚕变 DX (亚洲版)",
+        "simpleName": "Kaneko - 天蚕变"
+      },
+      {
+        "romName": "galpaniex",
+        "fullName": "天蚕变 EX (韩国版)",
+        "simpleName": "Kaneko - 天蚕变"
+      },
+      {
+        "romName": "galpanis",
+        "fullName": "天蚕变 S - 额外版本 (欧洲版, 修订版 1)",
+        "simpleName": "Kaneko - 天蚕变"
+      },
+      {
+        "romName": "galpanisa",
+        "fullName": "天蚕变 S - 额外版本 (亚洲版)",
+        "simpleName": "Kaneko - 天蚕变"
+      },
+      {
+        "romName": "galpanise",
+        "fullName": "天蚕变 S - 额外版本 (欧洲版, 第2套)",
+        "simpleName": "Kaneko - 天蚕变"
+      },
+      {
+        "romName": "galpanisj",
+        "fullName": "天蚕变 S - 额外版本 (日版, 修订版 1)",
+        "simpleName": "Kaneko - 天蚕变"
+      },
+      {
+        "romName": "galpanisk",
+        "fullName": "天蚕变 S - 额外版本 (韩国版, 修订版 1)",
+        "simpleName": "Kaneko - 天蚕变"
+      },
+      {
+        "romName": "galpaniska",
+        "fullName": "天蚕变 S - 额外版本 (韩国版)",
+        "simpleName": "Kaneko - 天蚕变"
+      },
+      {
+        "romName": "galpanisu",
+        "fullName": "天蚕变 SU (韩国版, 天蚕变 4 重售版)",
+        "simpleName": "Kaneko - 天蚕变"
+      },
+      {
+        "romName": "galpans2",
+        "fullName": "天蚕变 S2 (欧洲版)",
+        "simpleName": "Kaneko - 天蚕变"
+      },
+      {
+        "romName": "galpans2a",
+        "fullName": "天蚕变 S2 (亚洲版)",
+        "simpleName": "Kaneko - 天蚕变"
+      },
+      {
+        "romName": "galpans2j",
+        "fullName": "天蚕变 S2 (日版)",
+        "simpleName": "Kaneko - 天蚕变"
+      },
+      {
+        "romName": "galpans3",
+        "fullName": "天蚕变 S3 (日版)",
+        "simpleName": "Kaneko - 天蚕变"
+      },
+      {
+        "romName": "galpansu",
+        "fullName": "天蚕变 SU (韩国版)",
+        "simpleName": "Kaneko - 天蚕变"
+      },
+      {
+        "romName": "galpansua",
+        "fullName": "天蚕变 SUA (韩国版)",
+        "simpleName": "Kaneko - 天蚕变"
+      },
+      {
+        "romName": "galsnew",
+        "fullName": "天蚕变 (海外版, EXPRO-02 PCB)",
+        "simpleName": "Kaneko - 天蚕变"
+      },
+      {
+        "romName": "galsnewj",
+        "fullName": "天蚕变 (日版, EXPRO-02 PCB)",
+        "simpleName": "Kaneko - 天蚕变"
+      },
+      {
+        "romName": "galsnewk",
+        "fullName": "天蚕变 (韩国版, EXPRO-02 PCB)",
+        "simpleName": "Kaneko - 天蚕变"
+      },
+      {
+        "romName": "galsnewt",
+        "fullName": "天蚕变 (中国台湾版, EXPRO-02 PCB)",
+        "simpleName": "Kaneko - 天蚕变"
+      },
+      {
+        "romName": "galsnewu",
+        "fullName": "天蚕变 (美版, EXPRO-02 PCB)",
+        "simpleName": "Kaneko - 天蚕变"
+      },
+      {
+        "romName": "gp2quiz",
+        "fullName": "天蚕变 II - 问答版",
+        "simpleName": "Kaneko - 天蚕变"
+      },
+      {
+        "romName": "gp2se",
+        "fullName": "天蚕变 II' - 特别版 (日版)",
+        "simpleName": "Kaneko - 天蚕变"
+      }
+    ],
+    "Kaneko - 1000": [
+      {
+        "romName": "gtmr",
+        "fullName": "1000 英里大师赛车 (中国台湾版 94/07/18)",
+        "simpleName": "Kaneko - 1000"
+      },
+      {
+        "romName": "gtmr2",
+        "fullName": "1000 英里大师赛车 2 (95/05/24)",
+        "simpleName": "Kaneko - 1000"
+      },
+      {
+        "romName": "gtmr2a",
+        "fullName": "1000 英里大师赛车 2 (95/04/04)",
+        "simpleName": "Kaneko - 1000"
+      },
+      {
+        "romName": "gtmr2u",
+        "fullName": "1000 英里大师赛车 2 美版 (95/05/18)",
+        "simpleName": "Kaneko - 1000"
+      },
+      {
+        "romName": "gtmra",
+        "fullName": "1000 英里大师赛车 (94/06/13)",
+        "simpleName": "Kaneko - 1000"
+      },
+      {
+        "romName": "gtmrb",
+        "fullName": "1000 英里大师赛车 (94/05/26)",
+        "simpleName": "Kaneko - 1000"
+      },
+      {
+        "romName": "gtmre",
+        "fullName": "1000 英里大师赛车: 演进模式l!!! (94/09/06)",
+        "simpleName": "Kaneko - 1000"
+      },
+      {
+        "romName": "gtmro",
+        "fullName": "1000 英里大师赛车 (94/05/10)",
+        "simpleName": "Kaneko - 1000"
+      },
+      {
+        "romName": "gtmrusa",
+        "fullName": "1000 英里大师赛车: U.S.A 版本! (94/09/06)",
+        "simpleName": "Kaneko - 1000"
+      }
+    ],
+    "Kaneko - 勇敢小护士": [
+      {
+        "romName": "gutsn",
+        "fullName": "勇敢小护士 - 箔菌解谜 (日版)",
+        "simpleName": "Kaneko - 勇敢小护士"
+      }
+    ],
+    "Kaneko - 狂热守球员": [
+      {
+        "romName": "hotsmash",
+        "fullName": "狂热守球员",
+        "simpleName": "Kaneko - 狂热守球员"
+      }
+    ],
+    "Kaneko - 重装战机": [
+      {
+        "romName": "hvyunit",
+        "fullName": "重装战机 (世界版)",
+        "simpleName": "Kaneko - 重装战机"
+      },
+      {
+        "romName": "hvyunitj",
+        "fullName": "重装战机 (日版, 新版)",
+        "simpleName": "Kaneko - 重装战机"
+      },
+      {
+        "romName": "hvyunitja",
+        "fullName": "重装战机 (日版, 替换版 ROM)",
+        "simpleName": "Kaneko - 重装战机"
+      },
+      {
+        "romName": "hvyunitjo",
+        "fullName": "重装战机 (日版, 旧版)",
+        "simpleName": "Kaneko - 重装战机"
+      },
+      {
+        "romName": "hvyunitu",
+        "fullName": "重装战机 -U.S.A. 版本- (美版)",
+        "simpleName": "Kaneko - 重装战机"
+      }
+    ],
+    "Kaneko - 成龙传说": [
+      {
+        "romName": "jchan",
+        "fullName": "成龙传说 - 功夫大师 (修订版 4?)",
+        "simpleName": "Kaneko - 成龙传说"
+      },
+      {
+        "romName": "jchan2",
+        "fullName": "成龙传说 - 火焰之拳",
+        "simpleName": "Kaneko - 成龙传说"
+      },
+      {
+        "romName": "jchana",
+        "fullName": "成龙传说 - 功夫大师 (修订版 3?)",
+        "simpleName": "Kaneko - 成龙传说"
+      }
+    ],
+    "Kaneko - 跳跃游乐园": [
+      {
+        "romName": "jumpcoas",
+        "fullName": "跳跃游乐园 (世界版)",
+        "simpleName": "Kaneko - 跳跃游乐园"
+      },
+      {
+        "romName": "jumpcoasa",
+        "fullName": "跳跃游乐园",
+        "simpleName": "Kaneko - 跳跃游乐园"
+      },
+      {
+        "romName": "jumpcoast",
+        "fullName": "跳跃游乐园 (Taito)",
+        "simpleName": "Kaneko - 跳跃游乐园"
+      }
+    ],
+    "Kaneko - 跳跃顽童": [
+      {
+        "romName": "jumpkun",
+        "fullName": "跳跃顽童 (工程版)",
+        "simpleName": "Kaneko - 跳跃顽童"
+      }
+    ],
+    "Kaneko - 歌舞伎": [
+      {
+        "romName": "kabukiz",
+        "fullName": "歌舞伎 Z (世界版)",
+        "simpleName": "Kaneko - 歌舞伎"
+      },
+      {
+        "romName": "kabukizj",
+        "fullName": "歌舞伎 Z (日版)",
+        "simpleName": "Kaneko - 歌舞伎"
+      }
+    ],
+    "Kaneko - 火激": [
+      {
+        "romName": "kageki",
+        "fullName": "火激 (世界版)",
+        "simpleName": "Kaneko - 火激"
+      },
+      {
+        "romName": "kagekij",
+        "fullName": "火激 (日版)",
+        "simpleName": "Kaneko - 火激"
+      },
+      {
+        "romName": "kagekiu",
+        "fullName": "火激 (美版)",
+        "simpleName": "Kaneko - 火激"
+      }
+    ],
+    "Kaneko - 新功夫少女": [
+      {
+        "romName": "ladymstr",
+        "fullName": "新功夫少女 (第1套, 新版)",
+        "simpleName": "Kaneko - 新功夫少女"
+      },
+      {
+        "romName": "ladymstr2",
+        "fullName": "新功夫少女 (第2套, 旧版)",
+        "simpleName": "Kaneko - 新功夫少女"
+      }
+    ],
+    "Kaneko - 魔法水晶": [
+      {
+        "romName": "mgcrystl",
+        "fullName": "魔法水晶 (世界版, 92/01/10)",
+        "simpleName": "Kaneko - 魔法水晶"
+      },
+      {
+        "romName": "mgcrystlj",
+        "fullName": "魔法水晶 (日版, 92/01/13)",
+        "simpleName": "Kaneko - 魔法水晶"
+      },
+      {
+        "romName": "mgcrystlo",
+        "fullName": "魔法水晶 (世界版, 91/12/10)",
+        "simpleName": "Kaneko - 魔法水晶"
+      }
+    ],
+    "Kaneko - 功夫少女": [
+      {
+        "romName": "nunchaku",
+        "fullName": "功夫少女",
+        "simpleName": "Kaneko - 功夫少女"
+      }
+    ],
+    "Kaneko - 小黄人大作战": [
+      {
+        "romName": "packbang",
+        "fullName": "小黄人大作战 (工程版)",
+        "simpleName": "Kaneko - 小黄人大作战"
+      }
+    ],
+    "Kaneko - 小黄人大作战（原型）": [
+      {
+        "romName": "packbangp",
+        "fullName": "小黄人大作战（原型）",
+        "simpleName": "Kaneko - 小黄人大作战（原型）"
+      }
+    ],
+    "Kaneko - 罪恶之街": [
+      {
+        "romName": "panicstr",
+        "fullName": "罪恶之街 (日版)",
+        "simpleName": "Kaneko - 罪恶之街"
+      }
+    ],
+    "Kaneko - 另类撞球": [
+      {
+        "romName": "pbillian",
+        "fullName": "另类撞球",
+        "simpleName": "Kaneko - 另类撞球"
+      }
+    ],
+    "Kaneko - 赤色冲击": [
+      {
+        "romName": "redclash",
+        "fullName": "赤色冲击",
+        "simpleName": "Kaneko - 赤色冲击"
+      },
+      {
+        "romName": "redclashs",
+        "fullName": "赤色冲击 (Suntronics)",
+        "simpleName": "Kaneko - 赤色冲击"
+      },
+      {
+        "romName": "redclasht",
+        "fullName": "赤色冲击 (Tehkan, 第1套)",
+        "simpleName": "Kaneko - 赤色冲击"
+      },
+      {
+        "romName": "redclashta",
+        "fullName": "赤色冲击 (Tehkan, 第2套)",
+        "simpleName": "Kaneko - 赤色冲击"
+      }
+    ],
+    "Kaneko - 战斗拳击": [
+      {
+        "romName": "ringfgt",
+        "fullName": "战斗拳击 (第1套)",
+        "simpleName": "Kaneko - 战斗拳击"
+      },
+      {
+        "romName": "ringfgt2",
+        "fullName": "战斗拳击 (第2套)",
+        "simpleName": "Kaneko - 战斗拳击"
+      }
+    ],
+    "Kaneko - VS": [
+      {
+        "romName": "sarukani",
+        "fullName": "VS 战斗打砖王 (日版)",
+        "simpleName": "Kaneko - VS"
+      },
+      {
+        "romName": "vblokbrk",
+        "fullName": "VS 战斗打砖王 (欧洲版)",
+        "simpleName": "Kaneko - VS"
+      },
+      {
+        "romName": "vblokbrka",
+        "fullName": "VS 战斗打砖王 (亚洲版)",
+        "simpleName": "Kaneko - VS"
+      },
+      {
+        "romName": "vsgongf",
+        "fullName": "VS 战斗拳击",
+        "simpleName": "Kaneko - VS"
+      }
+    ],
+    "Kaneko - 闪激": [
+      {
+        "romName": "sengekis",
+        "fullName": "闪激 (亚洲版)",
+        "simpleName": "Kaneko - 闪激"
+      },
+      {
+        "romName": "sengekisj",
+        "fullName": "闪激 (日版)",
+        "simpleName": "Kaneko - 闪激"
+      }
+    ],
+    "Kaneko - 线脑": [
+      {
+        "romName": "senknow",
+        "fullName": "线脑 (日版)",
+        "simpleName": "Kaneko - 线脑"
+      }
+    ],
+    "Kaneko - Super": [
+      {
+        "romName": "skns",
+        "fullName": "Super Kaneko Nova System BIOS",
+        "simpleName": "Kaneko - Super"
+      }
+    ],
+    "Kaneko - 超级电脑病毒防卫战": [
+      {
+        "romName": "sqix",
+        "fullName": "超级电脑病毒防卫战 (世界版/日版, V1.2)",
+        "simpleName": "Kaneko - 超级电脑病毒防卫战"
+      },
+      {
+        "romName": "sqixr0",
+        "fullName": "超级电脑病毒防卫战 (世界版/日版, V1.0)",
+        "simpleName": "Kaneko - 超级电脑病毒防卫战"
+      },
+      {
+        "romName": "sqixr1",
+        "fullName": "超级电脑病毒防卫战 (世界版/日版, V1.1)",
+        "simpleName": "Kaneko - 超级电脑病毒防卫战"
+      },
+      {
+        "romName": "sqixu",
+        "fullName": "超级电脑病毒防卫战 (美版)",
+        "simpleName": "Kaneko - 超级电脑病毒防卫战"
+      }
+    ],
+    "Kaneko - 侍日本一": [
+      {
+        "romName": "tsamurai",
+        "fullName": "侍日本一  (第1套)",
+        "simpleName": "Kaneko - 侍日本一"
+      },
+      {
+        "romName": "tsamurai2",
+        "fullName": "侍日本一  (第2套)",
+        "simpleName": "Kaneko - 侍日本一"
+      }
+    ],
+    "Kaneko - 山口君大冒险": [
+      {
+        "romName": "yamagchi",
+        "fullName": "山口君大冒险",
+        "simpleName": "Kaneko - 山口君大冒险"
+      }
+    ]
+  },
+  "Sunsoft": {
+    "Sunsoft - 魔法格斗": [
+      {
+        "romName": "astrass",
+        "fullName": "魔法格斗 (J 980514 V1.002)",
+        "simpleName": "Sunsoft - 魔法格斗"
+      }
+    ],
+    "Sunsoft - 海湾战争": [
+      {
+        "romName": "bayroute",
+        "fullName": "海湾战争 (第3套, 世界版) (FD1094 317-0116)",
+        "simpleName": "Sunsoft - 海湾战争"
+      },
+      {
+        "romName": "bayroute1",
+        "fullName": "海湾战争 (第1套, 美版) (未保护版)",
+        "simpleName": "Sunsoft - 海湾战争"
+      },
+      {
+        "romName": "bayroutej",
+        "fullName": "海湾战争 (第2套, 日版) (FD1094 317-0115)",
+        "simpleName": "Sunsoft - 海湾战争"
+      }
+    ],
+    "Sunsoft - 多拉A梦": [
+      {
+        "romName": "doraemon",
+        "fullName": "多拉A梦 蒙太奇 (工程版)",
+        "simpleName": "Sunsoft - 多拉A梦"
+      }
+    ],
+    "Sunsoft - 银河快打": [
+      {
+        "romName": "galaxyfg",
+        "fullName": "银河快打 / 星系格斗",
+        "simpleName": "Sunsoft - 银河快打"
+      }
+    ],
+    "Sunsoft - 动物天国对战气泡": [
+      {
+        "romName": "heberpop",
+        "fullName": "动物天国对战气泡 (日版)",
+        "simpleName": "Sunsoft - 动物天国对战气泡"
+      }
+    ],
+    "Sunsoft - 问答": [
+      {
+        "romName": "introdon",
+        "fullName": "问答 卡拉 OK 大猜谜 (J 960213 V1.000)",
+        "simpleName": "Sunsoft - 问答"
+      }
+    ],
+    "Sunsoft - 益智博士": [
+      {
+        "romName": "oisipuzl",
+        "fullName": "益智博士",
+        "simpleName": "Sunsoft - 益智博士"
+      }
+    ],
+    "Sunsoft - 阿达一族": [
+      {
+        "romName": "pc_ftqst",
+        "fullName": "阿达一族 - 费斯特伯父的探险 (PlayChoice-10)",
+        "simpleName": "Sunsoft - 阿达一族"
+      }
+    ],
+    "Sunsoft - 上海": [
+      {
+        "romName": "shangha2",
+        "fullName": "上海 II (日版, 第1套)",
+        "simpleName": "Sunsoft - 上海"
+      },
+      {
+        "romName": "shangha2a",
+        "fullName": "上海 II (日版, 第2套)",
+        "simpleName": "Sunsoft - 上海"
+      },
+      {
+        "romName": "shangha3",
+        "fullName": "上海 III (世界版)",
+        "simpleName": "Sunsoft - 上海"
+      },
+      {
+        "romName": "shangha3j",
+        "fullName": "上海 III (日版)",
+        "simpleName": "Sunsoft - 上海"
+      },
+      {
+        "romName": "shangha3u",
+        "fullName": "上海 III (美版)",
+        "simpleName": "Sunsoft - 上海"
+      },
+      {
+        "romName": "shangha3up",
+        "fullName": "上海 III (美版, 工程版)",
+        "simpleName": "Sunsoft - 上海"
+      },
+      {
+        "romName": "shanghai",
+        "fullName": "上海 (世界版)",
+        "simpleName": "Sunsoft - 上海"
+      },
+      {
+        "romName": "shanghaij",
+        "fullName": "上海 (日版)",
+        "simpleName": "Sunsoft - 上海"
+      },
+      {
+        "romName": "shangtou",
+        "fullName": "上海 - 三国牌斗义 (Ver 2.01J 2002/01/18 18:26:58)",
+        "simpleName": "Sunsoft - 上海"
+      },
+      {
+        "romName": "shanhigw",
+        "fullName": "上海 - 万里长城 (JUE 950623 V1.005)",
+        "simpleName": "Sunsoft - 上海"
+      },
+      {
+        "romName": "shngmtkb",
+        "fullName": "上海 - 真的武勇 (日版)",
+        "simpleName": "Sunsoft - 上海"
+      }
+    ],
+    "Sunsoft - 狂热狮子": [
+      {
+        "romName": "telpacfl",
+        "fullName": "狂热狮子 (V1.0)",
+        "simpleName": "Sunsoft - 狂热狮子"
+      }
+    ],
+    "Sunsoft - 硬汉": [
+      {
+        "romName": "tturf",
+        "fullName": "硬汉 (第2套, 日版) (8751 317-0104)",
+        "simpleName": "Sunsoft - 硬汉"
+      },
+      {
+        "romName": "tturfu",
+        "fullName": "硬汉 (第1套, 美版) (8751 317-0099)",
+        "simpleName": "Sunsoft - 硬汉"
+      }
+    ],
+    "Sunsoft - Vs.": [
+      {
+        "romName": "vsfdf",
+        "fullName": "Vs. 自由武装",
+        "simpleName": "Sunsoft - Vs."
+      }
+    ],
+    "Sunsoft - 七战士": [
+      {
+        "romName": "wakuwak7",
+        "fullName": "七战士 / 火热火热 7",
+        "simpleName": "Sunsoft - 七战士"
+      }
+    ]
+  },
+  "Alpha Denshi Co": {
+    "Alpha Denshi Co - 蓝色之旅": [
+      {
+        "romName": "bjourney",
+        "fullName": "蓝色之旅 / 拉吉少年 (ALM-001 ~ ALH-001)",
+        "simpleName": "Alpha Denshi Co - 蓝色之旅"
+      },
+      {
+        "romName": "bjourneyh",
+        "fullName": "蓝色之旅 / 拉吉少年 (ALH-001)",
+        "simpleName": "Alpha Denshi Co - 蓝色之旅"
+      }
+    ],
+    "Alpha Denshi Co - 时空战士": [
+      {
+        "romName": "btlfield",
+        "fullName": "时空战士 (日版)",
+        "simpleName": "Alpha Denshi Co - 时空战士"
+      },
+      {
+        "romName": "timesold",
+        "fullName": "时空战士 (美版 修订版 3)",
+        "simpleName": "Alpha Denshi Co - 时空战士"
+      },
+      {
+        "romName": "timesold1",
+        "fullName": "时空战士 (美版 修订版 1)",
+        "simpleName": "Alpha Denshi Co - 时空战士"
+      }
+    ],
+    "Alpha Denshi Co - 冰上曲棍球": [
+      {
+        "romName": "bullfgtr",
+        "fullName": "冰上曲棍球",
+        "simpleName": "Alpha Denshi Co - 冰上曲棍球"
+      },
+      {
+        "romName": "bullfgtrs",
+        "fullName": "冰上曲棍球 (世嘉)",
+        "simpleName": "Alpha Denshi Co - 冰上曲棍球"
+      }
+    ],
+    "Alpha Denshi Co - 冠军棒球": [
+      {
+        "romName": "champbas",
+        "fullName": "冠军棒球",
+        "simpleName": "Alpha Denshi Co - 冠军棒球"
+      },
+      {
+        "romName": "champbasj",
+        "fullName": "冠军棒球 (日版 第1套)",
+        "simpleName": "Alpha Denshi Co - 冠军棒球"
+      },
+      {
+        "romName": "champbasja",
+        "fullName": "冠军棒球 (日版 第2套)",
+        "simpleName": "Alpha Denshi Co - 冠军棒球"
+      },
+      {
+        "romName": "champbasjb",
+        "fullName": "冠军棒球 (日版 第3套)",
+        "simpleName": "Alpha Denshi Co - 冠军棒球"
+      },
+      {
+        "romName": "champbb2",
+        "fullName": "冠军棒球 Part-2 (第1套)",
+        "simpleName": "Alpha Denshi Co - 冠军棒球"
+      },
+      {
+        "romName": "champbb2j",
+        "fullName": "冠军棒球 Part-2 (日版)",
+        "simpleName": "Alpha Denshi Co - 冠军棒球"
+      }
+    ],
+    "Alpha Denshi Co - 圣十字剑": [
+      {
+        "romName": "crsword",
+        "fullName": "圣十字剑 (ALM-002 ~ ALH-002)",
+        "simpleName": "Alpha Denshi Co - 圣十字剑"
+      }
+    ],
+    "Alpha Denshi Co - 顽皮鬼": [
+      {
+        "romName": "crush",
+        "fullName": "顽皮鬼 (第1套)",
+        "simpleName": "Alpha Denshi Co - 顽皮鬼"
+      },
+      {
+        "romName": "crush2",
+        "fullName": "顽皮鬼 (第2套)",
+        "simpleName": "Alpha Denshi Co - 顽皮鬼"
+      },
+      {
+        "romName": "crush3",
+        "fullName": "顽皮鬼 (第3套)",
+        "simpleName": "Alpha Denshi Co - 顽皮鬼"
+      },
+      {
+        "romName": "crush4",
+        "fullName": "顽皮鬼 (第4套)",
+        "simpleName": "Alpha Denshi Co - 顽皮鬼"
+      },
+      {
+        "romName": "crush5",
+        "fullName": "顽皮鬼 (第5套)",
+        "simpleName": "Alpha Denshi Co - 顽皮鬼"
+      },
+      {
+        "romName": "korosuke",
+        "fullName": "顽皮鬼 (日版)",
+        "simpleName": "Alpha Denshi Co - 顽皮鬼"
+      }
+    ],
+    "Alpha Denshi Co - 多拉瓒": [
+      {
+        "romName": "dorachan",
+        "fullName": "多拉瓒 (日版)",
+        "simpleName": "Alpha Denshi Co - 多拉瓒"
+      }
+    ],
+    "Alpha Denshi Co - 未来任务": [
+      {
+        "romName": "equites",
+        "fullName": "未来任务",
+        "simpleName": "Alpha Denshi Co - 未来任务"
+      },
+      {
+        "romName": "equitess",
+        "fullName": "未来任务 (世嘉)",
+        "simpleName": "Alpha Denshi Co - 未来任务"
+      }
+    ],
+    "Alpha Denshi Co - 激情足球": [
+      {
+        "romName": "exctscc2",
+        "fullName": "激情足球 II",
+        "simpleName": "Alpha Denshi Co - 激情足球"
+      },
+      {
+        "romName": "exctsccr",
+        "fullName": "激情足球",
+        "simpleName": "Alpha Denshi Co - 激情足球"
+      },
+      {
+        "romName": "exctsccra",
+        "fullName": "激情足球 (声音替换版)",
+        "simpleName": "Alpha Denshi Co - 激情足球"
+      },
+      {
+        "romName": "exctsccrj",
+        "fullName": "激情足球 (日版)",
+        "simpleName": "Alpha Denshi Co - 激情足球"
+      },
+      {
+        "romName": "exctsccrjo",
+        "fullName": "激情足球 (日版, 旧版)",
+        "simpleName": "Alpha Denshi Co - 激情足球"
+      },
+      {
+        "romName": "exctsccru",
+        "fullName": "激情足球 (美版)",
+        "simpleName": "Alpha Denshi Co - 激情足球"
+      }
+    ],
+    "Alpha Denshi Co - 花殒石": [
+      {
+        "romName": "flowerj",
+        "fullName": "花殒石 (日版)",
+        "simpleName": "Alpha Denshi Co - 花殒石"
+      }
+    ],
+    "Alpha Denshi Co - 暴徒之战": [
+      {
+        "romName": "gangwars",
+        "fullName": "暴徒之战",
+        "simpleName": "Alpha Denshi Co - 暴徒之战"
+      },
+      {
+        "romName": "gangwarsj",
+        "fullName": "暴徒之战 (日版)",
+        "simpleName": "Alpha Denshi Co - 暴徒之战"
+      },
+      {
+        "romName": "gangwarsu",
+        "fullName": "暴徒之战 (美版)",
+        "simpleName": "Alpha Denshi Co - 暴徒之战"
+      }
+    ],
+    "Alpha Denshi Co - 星际射击": [
+      {
+        "romName": "hvoltage",
+        "fullName": "星际射击",
+        "simpleName": "Alpha Denshi Co - 星际射击"
+      }
+    ],
+    "Alpha Denshi Co - 电子麻雀": [
+      {
+        "romName": "jongpute",
+        "fullName": "电子麻雀",
+        "simpleName": "Alpha Denshi Co - 电子麻雀"
+      }
+    ],
+    "Alpha Denshi Co - 高校野球": [
+      {
+        "romName": "kouyakyu",
+        "fullName": "高校野球",
+        "simpleName": "Alpha Denshi Co - 高校野球"
+      }
+    ],
+    "Alpha Denshi Co - 柯罗斯传说": [
+      {
+        "romName": "kyros",
+        "fullName": "柯罗斯传说",
+        "simpleName": "Alpha Denshi Co - 柯罗斯传说"
+      },
+      {
+        "romName": "kyrosj",
+        "fullName": "柯罗斯传说 (日版)",
+        "simpleName": "Alpha Denshi Co - 柯罗斯传说"
+      }
+    ],
+    "Alpha Denshi Co - 幻魔大战": [
+      {
+        "romName": "maglord",
+        "fullName": "幻魔大战 (NGM-005)",
+        "simpleName": "Alpha Denshi Co - 幻魔大战"
+      },
+      {
+        "romName": "maglordh",
+        "fullName": "幻魔大战 (NGH-005)",
+        "simpleName": "Alpha Denshi Co - 幻魔大战"
+      }
+    ],
+    "Alpha Denshi Co - 泰瑞克斯": [
+      {
+        "romName": "maketrax",
+        "fullName": "泰瑞克斯 (美版 第1套)",
+        "simpleName": "Alpha Denshi Co - 泰瑞克斯"
+      },
+      {
+        "romName": "maketrxb",
+        "fullName": "泰瑞克斯 (美版 第2套)",
+        "simpleName": "Alpha Denshi Co - 泰瑞克斯"
+      }
+    ],
+    "Alpha Denshi Co - 忍者大战": [
+      {
+        "romName": "ncombat",
+        "fullName": "忍者大战 (NGM-009)",
+        "simpleName": "Alpha Denshi Co - 忍者大战"
+      },
+      {
+        "romName": "ncombath",
+        "fullName": "忍者大战 (NGH-009)",
+        "simpleName": "Alpha Denshi Co - 忍者大战"
+      }
+    ],
+    "Alpha Denshi Co - 忍者战士": [
+      {
+        "romName": "ncommand",
+        "fullName": "忍者战士",
+        "simpleName": "Alpha Denshi Co - 忍者战士"
+      }
+    ],
+    "Alpha Denshi Co - 超级冠军棒球": [
+      {
+        "romName": "sbasebal",
+        "fullName": "超级冠军棒球 (美版)",
+        "simpleName": "Alpha Denshi Co - 超级冠军棒球"
+      },
+      {
+        "romName": "sbasebalj",
+        "fullName": "超级冠军棒球 (日版)",
+        "simpleName": "Alpha Denshi Co - 超级冠军棒球"
+      }
+    ],
+    "Alpha Denshi Co - 将棋": [
+      {
+        "romName": "shougi",
+        "fullName": "将棋",
+        "simpleName": "Alpha Denshi Co - 将棋"
+      },
+      {
+        "romName": "shougi2",
+        "fullName": "将棋 Part II",
+        "simpleName": "Alpha Denshi Co - 将棋"
+      }
+    ],
+    "Alpha Denshi Co - 天空大冒险": [
+      {
+        "romName": "skyadvnt",
+        "fullName": "天空大冒险 (世界版)",
+        "simpleName": "Alpha Denshi Co - 天空大冒险"
+      },
+      {
+        "romName": "skyadvntj",
+        "fullName": "天空大冒险 (日版)",
+        "simpleName": "Alpha Denshi Co - 天空大冒险"
+      },
+      {
+        "romName": "skyadvntu",
+        "fullName": "天空大冒险 (美版)",
+        "simpleName": "Alpha Denshi Co - 天空大冒险"
+      }
+    ],
+    "Alpha Denshi Co - 空中骑士": [
+      {
+        "romName": "skysoldr",
+        "fullName": "空中骑士 (美版)",
+        "simpleName": "Alpha Denshi Co - 空中骑士"
+      }
+    ],
+    "Alpha Denshi Co - 辉煌疾风": [
+      {
+        "romName": "splndrbt",
+        "fullName": "辉煌疾风 (第1套)",
+        "simpleName": "Alpha Denshi Co - 辉煌疾风"
+      },
+      {
+        "romName": "splndrbt2",
+        "fullName": "辉煌疾风 II",
+        "simpleName": "Alpha Denshi Co - 辉煌疾风"
+      },
+      {
+        "romName": "splndrbta",
+        "fullName": "辉煌疾风 (第2套)",
+        "simpleName": "Alpha Denshi Co - 辉煌疾风"
+      },
+      {
+        "romName": "splndrbtb",
+        "fullName": "辉煌疾风 (第3套)",
+        "simpleName": "Alpha Denshi Co - 辉煌疾风"
+      }
+    ],
+    "Alpha Denshi Co - 超级霹雳战车": [
+      {
+        "romName": "sstingry",
+        "fullName": "超级霹雳战车 (日版)",
+        "simpleName": "Alpha Denshi Co - 超级霹雳战车"
+      }
+    ],
+    "Alpha Denshi Co - 塔耳波特": [
+      {
+        "romName": "talbot",
+        "fullName": "塔耳波特",
+        "simpleName": "Alpha Denshi Co - 塔耳波特"
+      }
+    ],
+    "Alpha Denshi Co - 冠军棒球2": [
+      {
+        "romName": "tbasebal",
+        "fullName": "冠军棒球2 ",
+        "simpleName": "Alpha Denshi Co - 冠军棒球2"
+      }
+    ],
+    "Alpha Denshi Co - 极速英豪": [
+      {
+        "romName": "trally",
+        "fullName": "极速英豪 (ALM-003 ~ ALH-003)",
+        "simpleName": "Alpha Denshi Co - 极速英豪"
+      }
+    ],
+    "Alpha Denshi Co - T.T": [
+      {
+        "romName": "ttmahjng",
+        "fullName": "T.T 麻雀",
+        "simpleName": "Alpha Denshi Co - T.T"
+      }
+    ],
+    "Alpha Denshi Co - 世界英雄": [
+      {
+        "romName": "wh1",
+        "fullName": "世界英雄 (ALM-005)",
+        "simpleName": "Alpha Denshi Co - 世界英雄"
+      },
+      {
+        "romName": "wh1h",
+        "fullName": "世界英雄 (ALH-005)",
+        "simpleName": "Alpha Denshi Co - 世界英雄"
+      },
+      {
+        "romName": "wh1ha",
+        "fullName": "世界英雄 (第3套)",
+        "simpleName": "Alpha Denshi Co - 世界英雄"
+      }
+    ]
+  },
+  "Noise Factory": {
+    "Noise Factory - 征战者": [
+      {
+        "romName": "gaia",
+        "fullName": "征战者",
+        "simpleName": "Noise Factory - 征战者"
+      }
+    ],
+    "Noise Factory - 新豪血寺一族": [
+      {
+        "romName": "matrim",
+        "fullName": "新豪血寺一族 - 斗婚 (NGM-2660 ~ NGH-2660)",
+        "simpleName": "Noise Factory - 新豪血寺一族"
+      }
+    ],
+    "Noise Factory - 合金弹头": [
+      {
+        "romName": "mslug4",
+        "fullName": "合金弹头 4 (NGM-2630)",
+        "simpleName": "Noise Factory - 合金弹头"
+      },
+      {
+        "romName": "mslug4h",
+        "fullName": "合金弹头 4 (NGH-2630)",
+        "simpleName": "Noise Factory - 合金弹头"
+      }
+    ],
+    "Noise Factory - 战国传承": [
+      {
+        "romName": "sengoku3",
+        "fullName": "战国传承 3 / 战国传承 2001 (第1套)",
+        "simpleName": "Noise Factory - 战国传承"
+      },
+      {
+        "romName": "sengoku3a",
+        "fullName": "战国传承 3 / 战国传承 2001 (第2套)",
+        "simpleName": "Noise Factory - 战国传承"
+      }
+    ]
   }
 }

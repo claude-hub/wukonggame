@@ -2,7 +2,7 @@
  * @Author: 314705487@qq.com
  * @Description: 
  * @Date: 2024-06-30 19:43:42
- * @LastEditTime: 2024-07-22 18:21:12
+ * @LastEditTime: 2024-07-22 22:10:32
  */
 const path = require('path');
 const { gameDirAbsPath, gamelistPath } = require('./config');
@@ -48,6 +48,12 @@ const main = async () => {
     'Irem',
     'Data East',
     'Toaplan',
+    'Tecmo',
+    'Aorn',
+    'Kaneko',
+    'Sunsoft',
+    'Alpha Denshi Co',
+    'Noise Factory',
   ];
 
   for (const company of companies) {
@@ -57,10 +63,9 @@ const main = async () => {
   // 整理完成 json 后再生成
   // await genRomsByComp();
 
+  await transferCompJson();
+  await generateGamelist();
 
-  // await transferCompJson();
-
-  // await generateGamelist();
 }
 
 main();

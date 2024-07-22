@@ -636,6 +636,48 @@
         "simpleName": "合金弹头"
       }
     ],
+    "Capcom - 三国志": [
+      {
+        "romName": "wof",
+        "fullName": "三国志 II (世界版 921031)",
+        "simpleName": "Capcom - 三国志"
+      },
+      {
+        "romName": "wofa",
+        "fullName": "三国志 II (亚洲版 921005)",
+        "simpleName": "Capcom - 三国志"
+      },
+      {
+        "romName": "wofch",
+        "fullName": "三国志 II - 赤壁之战 (CPS 替换版, 日版 921031)",
+        "simpleName": "Capcom - 三国志"
+      },
+      {
+        "romName": "wofr1",
+        "fullName": "三国志 II (世界版 921002)",
+        "simpleName": "Capcom - 三国志"
+      },
+      {
+        "romName": "wofu",
+        "fullName": "三国志 II (美版 921031)",
+        "simpleName": "Capcom - 三国志"
+      },
+      {
+        "romName": "wofabl",
+        "fullName": "三国志 II (盗版)",
+        "simpleName": "bootleg - 三国志"
+      },
+      {
+        "romName": "wofpic",
+        "fullName": "三国志 II (盗版 PIC16C57)",
+        "simpleName": "bootleg - 三国志"
+      },
+      {
+        "romName": "wofr1bl",
+        "fullName": "三国志 (盗版)",
+        "simpleName": "bootleg - 三国志"
+      }
+    ],
     "IGS - 西游释厄传": [
       {
         "romName": "olds",
@@ -2045,6 +2087,28 @@
         "simpleName": "饿狼"
       }
     ],
+    "IGS - 形意拳": [
+      {
+        "romName": "martmast",
+        "fullName": "形意拳 (版本 104, 102, 102US)",
+        "simpleName": "形意拳"
+      },
+      {
+        "romName": "martmast102c",
+        "fullName": "形意拳 (版本 102, 101, 101CN)",
+        "simpleName": "形意拳"
+      },
+      {
+        "romName": "martmast103c",
+        "fullName": "形意拳 (版本 103, 102, 101CN)",
+        "simpleName": "形意拳"
+      },
+      {
+        "romName": "martmast104c",
+        "fullName": "形意拳 (版本 104, 102, 101CN)",
+        "simpleName": "形意拳"
+      }
+    ],
     "Toaplan - 雪人兄弟": [
       {
         "romName": "snowbro2",
@@ -2300,6 +2364,28 @@
         "simpleName": "龙王战士"
       }
     ],
+    "Konami - 兵蜂": [
+      {
+        "romName": "mtwinbee",
+        "fullName": "兵蜂 3 (版本 EAA)",
+        "simpleName": "兵蜂"
+      },
+      {
+        "romName": "tbyahhoo",
+        "fullName": "兵蜂 3 (版本 JAA)",
+        "simpleName": "兵蜂"
+      },
+      {
+        "romName": "twinbee",
+        "fullName": "兵蜂 (ROM 版本)",
+        "simpleName": "兵蜂"
+      },
+      {
+        "romName": "twinbeeb",
+        "fullName": "兵蜂 (Bubble 系统)",
+        "simpleName": "兵蜂"
+      }
+    ],
     "Irem - 铁钩船长": [
       {
         "romName": "hook",
@@ -2447,6 +2533,168 @@
         "romName": "samsho5b",
         "fullName": "侍魂 Ⅴ / 侍魂 零 (盗版)",
         "simpleName": "侍魂"
+      }
+    ],
+    "Capcom - X 战警": [
+      {
+        "romName": "xmcota",
+        "fullName": "X - 战警: 磁场原子人 (欧洲版 950331)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmcotaa",
+        "fullName": "X - 战警: 磁场原子人 (亚洲版 950105)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmcotaar1",
+        "fullName": "X - 战警: 磁场原子人 (亚洲版 941219)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmcotaar2",
+        "fullName": "X - 战警: 磁场原子人 (亚洲版 941217)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmcotab",
+        "fullName": "X - 战警: 磁场原子人 (巴西版 950331)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmcotah",
+        "fullName": "X - 战警: 磁场原子人 (西班牙版 950331)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmcotahr1",
+        "fullName": "X - 战警: 磁场原子人 (西班牙版 950105)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmcotaj",
+        "fullName": "X - 战警: 磁场原子人 (日版 950105)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmcotaj1",
+        "fullName": "X - 战警: 磁场原子人 (日版 941222)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmcotaj2",
+        "fullName": "X - 战警: 磁场原子人 (日版 941219)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmcotaj3",
+        "fullName": "X - 战警: 磁场原子人 (日版 941217)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmcotajr",
+        "fullName": "X - 战警: 磁场原子人 (日版 941208 租借版)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmcotar1",
+        "fullName": "X - 战警: 磁场原子人 (欧洲版 950105)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmcotau",
+        "fullName": "X - 战警: 磁场原子人 (美版 950105)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmvsf",
+        "fullName": "X 战警 对 街头霸王 (欧洲版 961004)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmvsfa",
+        "fullName": "X 战警 对 街头霸王 (亚洲版 961023)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmvsfar1",
+        "fullName": "X 战警 对 街头霸王 (亚洲版 961004)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmvsfar2",
+        "fullName": "X 战警 对 街头霸王 (亚洲版 960919)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmvsfar3",
+        "fullName": "X 战警 对 街头霸王 (亚洲版 960910)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmvsfb",
+        "fullName": "X 战警 对 街头霸王 (巴西版 961023)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmvsfh",
+        "fullName": "X 战警 对 街头霸王 (西班牙版 961004)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmvsfj",
+        "fullName": "X 战警 对 街头霸王 (日版 961023)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmvsfjr1",
+        "fullName": "X 战警 对 街头霸王 (日版 961004)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmvsfjr2",
+        "fullName": "X 战警 对 街头霸王 (日版 960910)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmvsfjr3",
+        "fullName": "X 战警 对 街头霸王 (日版 960909)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmvsfr1",
+        "fullName": "X 战警 对 街头霸王 (欧洲版 960910)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmvsfu",
+        "fullName": "X 战警 对 街头霸王 (美版 961023)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmvsfur1",
+        "fullName": "X 战警 对 街头霸王 (美版 961004)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmvsfur2",
+        "fullName": "X 战警 对 街头霸王 (美版 960910)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmcotar1d",
+        "fullName": "X - 战警: 磁场原子人 (欧洲版 950105 凤凰版) (盗版)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmenabl",
+        "fullName": "X 战警 (4 人游戏 版本 AEA, 盗版)",
+        "simpleName": "X"
+      },
+      {
+        "romName": "xmvsfu1d",
+        "fullName": "X 战警 对 街头霸王 (美版 961004 凤凰版) (盗版)",
+        "simpleName": "X"
       }
     ],
     "Capcom - 乔乔的奇妙冒险": [
@@ -2983,6 +3231,84 @@
         "romName": "sengokuh",
         "fullName": "战国传承 (NGH-017, (美版)",
         "simpleName": "战国传承"
+      }
+    ],
+    "Noise Factory - 征战者": [
+      {
+        "romName": "gaia",
+        "fullName": "征战者",
+        "simpleName": "Noise Factory - 征战者"
+      }
+    ],
+    "Psikyo - 战国之刃": [
+      {
+        "romName": "tengai",
+        "fullName": "战国之刃 (世界版)",
+        "simpleName": "Psikyo - 战国之刃"
+      },
+      {
+        "romName": "tengaij",
+        "fullName": "战国之刃 - 战国 Ace Episode II (日版) / 战国之刃 (世界版)",
+        "simpleName": "Psikyo - 战国之刃"
+      }
+    ],
+    "Sega - 战场之狼": [
+      {
+        "romName": "commsega",
+        "fullName": "战场之狼 (世嘉)",
+        "simpleName": "Sega - 战场之狼"
+      },
+      {
+        "romName": "commandob",
+        "fullName": "战场之狼 (盗版 第1套)",
+        "simpleName": "bootleg - 战场之狼"
+      },
+      {
+        "romName": "commandob2",
+        "fullName": "战场之狼 (盗版 第2套)",
+        "simpleName": "bootleg - 战场之狼"
+      },
+      {
+        "romName": "commandob3",
+        "fullName": "战场之狼 (盗版 第3套)",
+        "simpleName": "bootleg - 战场之狼"
+      },
+      {
+        "romName": "sinvasnb",
+        "fullName": "战场之狼 (盗版)",
+        "simpleName": "bootleg - 战场之狼"
+      },
+      {
+        "romName": "commandou",
+        "fullName": "战场之狼 (美版 第1套)",
+        "simpleName": "Data East - 战场之狼"
+      },
+      {
+        "romName": "commandou2",
+        "fullName": "战场之狼 (美版 第2套)",
+        "simpleName": "Data East - 战场之狼"
+      }
+    ],
+    "Tecmo - 最终星际武力": [
+      {
+        "romName": "fstarfrc",
+        "fullName": "最终星际武力 (美版)",
+        "simpleName": "Tecmo - 最终星际武力"
+      },
+      {
+        "romName": "fstarfrcj",
+        "fullName": "最终星际武力 (日版, 第1套)",
+        "simpleName": "Tecmo - 最终星际武力"
+      },
+      {
+        "romName": "fstarfrcja",
+        "fullName": "最终星际武力 (日版, 第2套)",
+        "simpleName": "Tecmo - 最终星际武力"
+      },
+      {
+        "romName": "fstarfrcw",
+        "fullName": "最终星际武力 (世界版?)",
+        "simpleName": "Tecmo - 最终星际武力"
       }
     ],
     "Capcom - 圆桌骑士": [
@@ -4047,7 +4373,7 @@
         "simpleName": "bootleg - 电神魔傀"
       }
     ],
-    "SNK - 月华剑士": [
+    "SNK - 幕末浪漫月华剑士": [
       {
         "romName": "lastblad",
         "fullName": "幕末浪漫 月华剑士 (NGM-2340)",
@@ -4726,6 +5052,613 @@
         "fullName": "炸弹人（6.6 版，J.T.盗版）",
         "simpleName": "bootleg - 炸弹人（6.6"
       }
+    ],
+    "SNK - 霸王忍法帖": [
+      {
+        "romName": "ninjamas",
+        "fullName": "霸王忍法帖",
+        "simpleName": "SNK - 霸王忍法帖"
+      }
+    ],
+    "Technos - 超人学园钢帝王": [
+      {
+        "romName": "gowcaizr",
+        "fullName": "超人学园钢帝王",
+        "simpleName": "Technos - 超人学园钢帝王"
+      }
+    ],
+    "Data East - 斗士的历史": [
+      {
+        "romName": "karnovr",
+        "fullName": "斗士的历史 - 卡洛夫的复仇",
+        "simpleName": "Data East - 斗士的历史"
+      }
+    ],
+    "SNK - 风云默示录": [
+      {
+        "romName": "kizuna",
+        "fullName": "风云默示录 2 - 超级组队战",
+        "simpleName": "风云默示录"
+      },
+      {
+        "romName": "kizuna4p",
+        "fullName": "风云默示录 2 - 超级组队战 特别版",
+        "simpleName": "风云默示录"
+      },
+      {
+        "romName": "savagere",
+        "fullName": "风云默示录 - 格斗创世",
+        "simpleName": "风云默示录"
+      }
+    ],
+    "Konami - 魂斗罗": [
+      {
+        "romName": "contra",
+        "fullName": "魂斗罗 (美版 / 亚洲版, 第1套)",
+        "simpleName": "魂斗罗"
+      },
+      {
+        "romName": "contra1",
+        "fullName": "魂斗罗 (美版 / 亚洲版, 第2套)",
+        "simpleName": "魂斗罗"
+      },
+      {
+        "romName": "contrae",
+        "fullName": "魂斗罗 (美版 / 亚洲版, 第3套)",
+        "simpleName": "魂斗罗"
+      },
+      {
+        "romName": "contraj",
+        "fullName": "魂斗罗 (日版, 第1套)",
+        "simpleName": "魂斗罗"
+      },
+      {
+        "romName": "contraj1",
+        "fullName": "魂斗罗 (日版, 第2套)",
+        "simpleName": "魂斗罗"
+      },
+      {
+        "romName": "gryzor",
+        "fullName": "魂斗罗 (第1套)",
+        "simpleName": "魂斗罗"
+      },
+      {
+        "romName": "gryzor1",
+        "fullName": "魂斗罗 (第2套)",
+        "simpleName": "魂斗罗"
+      },
+      {
+        "romName": "kcontra",
+        "fullName": "魂斗罗 (掌机)",
+        "simpleName": "魂斗罗"
+      },
+      {
+        "romName": "nss_con3",
+        "fullName": "魂斗罗 3 - 异形战争 (Nintendo Super System)",
+        "simpleName": "魂斗罗"
+      },
+      {
+        "romName": "pc_cntra",
+        "fullName": "魂斗罗 (PlayChoice-10)",
+        "simpleName": "魂斗罗"
+      }
+    ],
+    "Tecmo - 昆虫世界": [
+      {
+        "romName": "gemini",
+        "fullName": "昆虫世界 (世界版)",
+        "simpleName": "Tecmo - 昆虫世界"
+      },
+      {
+        "romName": "geminij",
+        "fullName": "昆虫世界 (日版)",
+        "simpleName": "Tecmo - 昆虫世界"
+      },
+      {
+        "romName": "geminib",
+        "fullName": "昆虫世界 (盗版)",
+        "simpleName": "bootleg - 昆虫世界"
+      }
+    ],
+    "Capcom - 雷鸟之翼": [
+      {
+        "romName": "gigawing",
+        "fullName": "雷鸟之翼 (美版 990222)",
+        "simpleName": "Capcom - 雷鸟之翼"
+      },
+      {
+        "romName": "gigawinga",
+        "fullName": "雷鸟之翼 (亚洲版 990222)",
+        "simpleName": "Capcom - 雷鸟之翼"
+      },
+      {
+        "romName": "gigawingb",
+        "fullName": "雷鸟之翼 (巴西版 990222)",
+        "simpleName": "Capcom - 雷鸟之翼"
+      },
+      {
+        "romName": "gigawingh",
+        "fullName": "雷鸟之翼 (西班牙版 990222)",
+        "simpleName": "Capcom - 雷鸟之翼"
+      },
+      {
+        "romName": "gigawingj",
+        "fullName": "雷鸟之翼 (日版 990223)",
+        "simpleName": "Capcom - 雷鸟之翼"
+      },
+      {
+        "romName": "gwing2",
+        "fullName": "雷鸟之翼 2",
+        "simpleName": "Capcom - 雷鸟之翼"
+      },
+      {
+        "romName": "gigawingd",
+        "fullName": "雷鸟之翼 (美版 990222 凤凰版) (盗版)",
+        "simpleName": "bootleg - 雷鸟之翼"
+      },
+      {
+        "romName": "gigawingjd",
+        "fullName": "雷鸟之翼 (日版 990223 凤凰版) (盗版)",
+        "simpleName": "bootleg - 雷鸟之翼"
+      }
+    ],
+    "Seibu Kaihatsu - 零组特攻队": [
+      {
+        "romName": "zeroteam",
+        "fullName": "零组特攻队 USA (美版)",
+        "simpleName": "Seibu Kaihatsu - 零组特攻队"
+      },
+      {
+        "romName": "zeroteama",
+        "fullName": "零组特攻队 (日版?, 早期版?set 1)",
+        "simpleName": "Seibu Kaihatsu - 零组特攻队"
+      },
+      {
+        "romName": "zeroteamb",
+        "fullName": "零组特攻队 (日版?, 免电池)",
+        "simpleName": "Seibu Kaihatsu - 零组特攻队"
+      },
+      {
+        "romName": "zeroteamc",
+        "fullName": "零组特攻队 (中国台湾版)",
+        "simpleName": "Seibu Kaihatsu - 零组特攻队"
+      },
+      {
+        "romName": "zeroteamd",
+        "fullName": "零组特攻队 (韩国版)",
+        "simpleName": "Seibu Kaihatsu - 零组特攻队"
+      },
+      {
+        "romName": "zeroteame",
+        "fullName": "零组特攻队 (日版?, 早期版?, set 2)",
+        "simpleName": "Seibu Kaihatsu - 零组特攻队"
+      },
+      {
+        "romName": "zeroteams",
+        "fullName": "零组特攻队 精选",
+        "simpleName": "Seibu Kaihatsu - 零组特攻队"
+      },
+      {
+        "romName": "zeroteamsr",
+        "fullName": "零组特攻队 自毁修复工具 ",
+        "simpleName": "Seibu Kaihatsu - 零组特攻队"
+      },
+      {
+        "romName": "zerotm2k",
+        "fullName": "零组特攻队 2000",
+        "simpleName": "Seibu Kaihatsu - 零组特攻队"
+      }
+    ],
+    "Aorn - 罗媚斗": [
+      {
+        "romName": "rabbit",
+        "fullName": "罗媚斗 (亚洲版 3/6)",
+        "simpleName": "Aorn - 罗媚斗"
+      },
+      {
+        "romName": "rabbita",
+        "fullName": "罗媚斗 (亚洲版 1/28?)",
+        "simpleName": "Aorn - 罗媚斗"
+      },
+      {
+        "romName": "rabbitj",
+        "fullName": "罗媚斗 (日版 3/6?)",
+        "simpleName": "Aorn - 罗媚斗"
+      },
+      {
+        "romName": "rabbitjt",
+        "fullName": "罗媚斗 (日版 1/28, 定点测试版)",
+        "simpleName": "Aorn - 罗媚斗"
+      }
+    ],
+    "Banpresto - 美少女战士": [
+      {
+        "romName": "sailormn",
+        "fullName": "美少女战士 - 水手月亮 (版本 95/03/22B, 欧洲版)",
+        "simpleName": "Banpresto - 美少女战士"
+      },
+      {
+        "romName": "sailormnh",
+        "fullName": "美少女战士 - 水手月亮 (版本 95/03/22B, 中国香港版)",
+        "simpleName": "Banpresto - 美少女战士"
+      },
+      {
+        "romName": "sailormnj",
+        "fullName": "美少女战士 - 水手月亮 (版本 95/03/22B, 日版)",
+        "simpleName": "Banpresto - 美少女战士"
+      },
+      {
+        "romName": "sailormnk",
+        "fullName": "美少女战士 - 水手月亮 (版本 95/03/22B, 韩国版)",
+        "simpleName": "Banpresto - 美少女战士"
+      },
+      {
+        "romName": "sailormnn",
+        "fullName": "美少女战士 - 水手月亮 (版本 95/03/22, 欧洲版)",
+        "simpleName": "Banpresto - 美少女战士"
+      },
+      {
+        "romName": "sailormnnh",
+        "fullName": "美少女战士 - 水手月亮 (版本 95/03/22, 中国香港版)",
+        "simpleName": "Banpresto - 美少女战士"
+      },
+      {
+        "romName": "sailormnnj",
+        "fullName": "美少女战士 - 水手月亮 (版本 95/03/22, 日版)",
+        "simpleName": "Banpresto - 美少女战士"
+      },
+      {
+        "romName": "sailormnnk",
+        "fullName": "美少女战士 - 水手月亮 (版本 95/03/22, 韩国版)",
+        "simpleName": "Banpresto - 美少女战士"
+      },
+      {
+        "romName": "sailormnnt",
+        "fullName": "美少女战士 - 水手月亮 (版本 95/03/22, 中国台湾版)",
+        "simpleName": "Banpresto - 美少女战士"
+      },
+      {
+        "romName": "sailormnnu",
+        "fullName": "美少女战士 - 水手月亮 (版本 95/03/22, 美版)",
+        "simpleName": "Banpresto - 美少女战士"
+      },
+      {
+        "romName": "sailormno",
+        "fullName": "美少女战士 - 水手月亮 (版本 95/03/21, 欧洲版)",
+        "simpleName": "Banpresto - 美少女战士"
+      },
+      {
+        "romName": "sailormnoh",
+        "fullName": "美少女战士 - 水手月亮 (版本 95/03/21, 中国香港版)",
+        "simpleName": "Banpresto - 美少女战士"
+      },
+      {
+        "romName": "sailormnoj",
+        "fullName": "美少女战士 - 水手月亮 (版本 95/03/21, 日版)",
+        "simpleName": "Banpresto - 美少女战士"
+      },
+      {
+        "romName": "sailormnok",
+        "fullName": "美少女战士 - 水手月亮 (版本 95/03/21, 韩国版)",
+        "simpleName": "Banpresto - 美少女战士"
+      },
+      {
+        "romName": "sailormnot",
+        "fullName": "美少女战士 - 水手月亮 (版本 95/03/21, 中国台湾版)",
+        "simpleName": "Banpresto - 美少女战士"
+      },
+      {
+        "romName": "sailormnou",
+        "fullName": "美少女战士 - 水手月亮 (版本 95/03/21, 美版)",
+        "simpleName": "Banpresto - 美少女战士"
+      },
+      {
+        "romName": "sailormnt",
+        "fullName": "美少女战士 - 水手月亮 (版本 95/03/22B, 中国台湾版)",
+        "simpleName": "Banpresto - 美少女战士"
+      },
+      {
+        "romName": "sailormnu",
+        "fullName": "美少女战士 - 水手月亮 (版本 95/03/22B, 美版)",
+        "simpleName": "Banpresto - 美少女战士"
+      }
+    ],
+    "Kaneko - 幕府快打": [
+      {
+        "romName": "fjbuster",
+        "fullName": "幕府快打 - 富士山 BUSTER (日版)",
+        "simpleName": "Kaneko - 幕府快打"
+      },
+      {
+        "romName": "shogwarr",
+        "fullName": "幕府快打 (世界版)",
+        "simpleName": "Kaneko - 幕府快打"
+      },
+      {
+        "romName": "shogwarrk",
+        "fullName": "幕府快打 (韩国版?)",
+        "simpleName": "Kaneko - 幕府快打"
+      },
+      {
+        "romName": "shogwarru",
+        "fullName": "幕府快打 (美版)",
+        "simpleName": "Kaneko - 幕府快打"
+      }
+    ],
+    "Sunsoft - 七战士": [
+      {
+        "romName": "wakuwak7",
+        "fullName": "七战士 / 火热火热 7",
+        "simpleName": "Sunsoft - 七战士"
+      }
+    ],
+    "Taito - 前线任务": [
+      {
+        "romName": "frontlin",
+        "fullName": "前线任务 (AA1, 4 PCB 版本)",
+        "simpleName": "Taito - 前线任务"
+      },
+      {
+        "romName": "frontlina",
+        "fullName": "前线任务 (FL, 5 PCB 版本)",
+        "simpleName": "Taito - 前线任务"
+      }
+    ],
+    "bootleg - 三国英雄传": [
+      {
+        "romName": "sgyxz",
+        "fullName": "三国英雄传 ('sgyxz' 盗版)",
+        "simpleName": "bootleg - 三国英雄传"
+      }
+    ],
+    "Saurus - 神凰拳": [
+      {
+        "romName": "ragnagrd",
+        "fullName": "神凰拳",
+        "simpleName": "Saurus - 神凰拳"
+      }
+    ],
+    "Tecmo - 死或生": [
+      {
+        "romName": "doa",
+        "fullName": "死或生 (Model 2B, 修订版 C)",
+        "simpleName": "Tecmo - 死或生"
+      },
+      {
+        "romName": "doa2",
+        "fullName": "死或生 2",
+        "simpleName": "Tecmo - 死或生"
+      },
+      {
+        "romName": "doa2a",
+        "fullName": "死或生 2 (修订版 A)",
+        "simpleName": "Tecmo - 死或生"
+      },
+      {
+        "romName": "doa2m",
+        "fullName": "死或生 2 千禧版",
+        "simpleName": "Tecmo - 死或生"
+      },
+      {
+        "romName": "doaa",
+        "fullName": "死或生 (Model 2A, 修订版 A)",
+        "simpleName": "Tecmo - 死或生"
+      },
+      {
+        "romName": "doaab",
+        "fullName": "死或生 (Model 2A)",
+        "simpleName": "Tecmo - 死或生"
+      },
+      {
+        "romName": "doaae",
+        "fullName": "死或生 (海外版, Model 2A, 修订版 A)",
+        "simpleName": "Tecmo - 死或生"
+      },
+      {
+        "romName": "doab",
+        "fullName": "死或生 (Model 2B, 修订版 B)",
+        "simpleName": "Tecmo - 死或生"
+      },
+      {
+        "romName": "doapp",
+        "fullName": "死或生 ++ (日版/美版/海外版)",
+        "simpleName": "Tecmo - 死或生"
+      },
+      {
+        "romName": "doappk",
+        "fullName": "死或生 ++ (韩国版)",
+        "simpleName": "Tecmo - 死或生"
+      }
+    ],
+    "Psikyo - 武装飞鸟": [
+      {
+        "romName": "gunbird",
+        "fullName": "武装飞鸟 (世界版)",
+        "simpleName": "Psikyo - 武装飞鸟"
+      },
+      {
+        "romName": "gunbird2",
+        "fullName": "武装飞鸟 2 (第1套)",
+        "simpleName": "Psikyo - 武装飞鸟"
+      },
+      {
+        "romName": "gunbird2a",
+        "fullName": "武装飞鸟 2 (第2套)",
+        "simpleName": "Psikyo - 武装飞鸟"
+      },
+      {
+        "romName": "gunbirdj",
+        "fullName": "武装飞鸟 (日版)",
+        "simpleName": "Psikyo - 武装飞鸟"
+      },
+      {
+        "romName": "gunbirdk",
+        "fullName": "武装飞鸟 (韩国版)",
+        "simpleName": "Psikyo - 武装飞鸟"
+      }
+    ],
+    "Taito - 仙境物语": [
+      {
+        "romName": "flstory",
+        "fullName": "仙境物语",
+        "simpleName": "Taito - 仙境物语"
+      },
+      {
+        "romName": "flstoryo",
+        "fullName": "仙境物语 (早期版)",
+        "simpleName": "Taito - 仙境物语"
+      }
+    ],
+    "Capcom - 威洛之旅": [
+      {
+        "romName": "willow",
+        "fullName": "威洛之旅 (世界版)",
+        "simpleName": "Capcom - 威洛之旅"
+      },
+      {
+        "romName": "willowj",
+        "fullName": "威洛之旅 (日版)",
+        "simpleName": "Capcom - 威洛之旅"
+      },
+      {
+        "romName": "willowu",
+        "fullName": "威洛之旅 (美版)",
+        "simpleName": "Capcom - 威洛之旅"
+      },
+      {
+        "romName": "willowuo",
+        "fullName": "威洛之旅 (美版 旧版)",
+        "simpleName": "Capcom - 威洛之旅"
+      }
+    ],
+    "SNK - 世界英雄": [
+      {
+        "romName": "wh2j",
+        "fullName": "世界英雄 2 喷射版 (ADM-007 ~ ADH-007)",
+        "simpleName": "SNK - 世界英雄"
+      },
+      {
+        "romName": "whp",
+        "fullName": "世界英雄 完美版",
+        "simpleName": "SNK - 世界英雄"
+      },
+      {
+        "romName": "wh1",
+        "fullName": "世界英雄 (ALM-005)",
+        "simpleName": "Alpha Denshi Co - 世界英雄"
+      },
+      {
+        "romName": "wh1h",
+        "fullName": "世界英雄 (ALH-005)",
+        "simpleName": "Alpha Denshi Co - 世界英雄"
+      },
+      {
+        "romName": "wh1ha",
+        "fullName": "世界英雄 (第3套)",
+        "simpleName": "Alpha Denshi Co - 世界英雄"
+      }
+    ],
+    "Sega - 战斧": [
+      {
+        "romName": "ga2",
+        "fullName": "战斧 - 迪斯亚达的复仇 (世界版, 修订版 B)",
+        "simpleName": "战斧"
+      },
+      {
+        "romName": "ga2j",
+        "fullName": "战斧 - 迪斯亚达的复仇 (日版)",
+        "simpleName": "战斧"
+      },
+      {
+        "romName": "ga2u",
+        "fullName": "战斧 - 迪斯亚达的复仇 (美版, 修订版 A)",
+        "simpleName": "战斧"
+      },
+      {
+        "romName": "goldnaxe",
+        "fullName": "战斧 (第6套, 美版) (8751 317-123A)",
+        "simpleName": "战斧"
+      },
+      {
+        "romName": "goldnaxe1",
+        "fullName": "战斧 (第1套, 世界版) (FD1094 317-0110)",
+        "simpleName": "战斧"
+      },
+      {
+        "romName": "goldnaxe2",
+        "fullName": "战斧 (第2套, 美版) (8751 317-0112)",
+        "simpleName": "战斧"
+      },
+      {
+        "romName": "goldnaxe3",
+        "fullName": "战斧 (第3套, 世界版) (FD1094 317-0120)",
+        "simpleName": "战斧"
+      },
+      {
+        "romName": "goldnaxej",
+        "fullName": "战斧 (第4套, 日版) (FD1094 317-0121)",
+        "simpleName": "战斧"
+      },
+      {
+        "romName": "goldnaxeu",
+        "fullName": "战斧 (第5套, 美版) (FD1094 317-0122)",
+        "simpleName": "战斧"
+      },
+      {
+        "romName": "mp_gaxe2",
+        "fullName": "战斧 II (Mega Play) (修订版 B)",
+        "simpleName": "战斧"
+      },
+      {
+        "romName": "mp_gaxe2a",
+        "fullName": "战斧 II (Mega Play)",
+        "simpleName": "战斧"
+      },
+      {
+        "romName": "mt_gaxe",
+        "fullName": "战斧 (Mega-Tech)",
+        "simpleName": "战斧"
+      },
+      {
+        "romName": "mt_gaxe2",
+        "fullName": "战斧 II (Mega-Tech)",
+        "simpleName": "战斧"
+      },
+      {
+        "romName": "goldnaxe1d",
+        "fullName": "战斧 (第1套, 世界版) (盗版 FD1094 317-0110 set)",
+        "simpleName": "战斧"
+      },
+      {
+        "romName": "goldnaxe3d",
+        "fullName": "战斧 (第3套, 世界版) (盗版 FD1094 317-0120 set)",
+        "simpleName": "战斧"
+      },
+      {
+        "romName": "goldnaxeb1",
+        "fullName": "战斧 (加密版 盗版)",
+        "simpleName": "战斧"
+      },
+      {
+        "romName": "goldnaxeb2",
+        "fullName": "战斧 (盗版)",
+        "simpleName": "战斧"
+      },
+      {
+        "romName": "goldnaxejd",
+        "fullName": "战斧 (第4套, 日版) (盗版 FD1094 317-0121 set)",
+        "simpleName": "战斧"
+      },
+      {
+        "romName": "goldnaxeud",
+        "fullName": "战斧 (第5套, 美版) (盗版 FD1094 317-0122 set)",
+        "simpleName": "战斧"
+      },
+      {
+        "romName": "gaxeduel",
+        "fullName": "战斧格斗篇 (JUETL 950117 V1.000)",
+        "simpleName": "战斧格斗篇"
+      }
     ]
   },
   "others": {
@@ -4893,28 +5826,6 @@
         "romName": "lhzb3in1",
         "fullName": "龙虎争霸三合一 (V100中国版)",
         "simpleName": "龙虎争霸三合一"
-      }
-    ],
-    "IGS - 形意拳": [
-      {
-        "romName": "martmast",
-        "fullName": "形意拳 (版本 104, 102, 102US)",
-        "simpleName": "形意拳"
-      },
-      {
-        "romName": "martmast102c",
-        "fullName": "形意拳 (版本 102, 101, 101CN)",
-        "simpleName": "形意拳"
-      },
-      {
-        "romName": "martmast103c",
-        "fullName": "形意拳 (版本 103, 102, 101CN)",
-        "simpleName": "形意拳"
-      },
-      {
-        "romName": "martmast104c",
-        "fullName": "形意拳 (版本 104, 102, 101CN)",
-        "simpleName": "形意拳"
       }
     ],
     "IGS - 魔域战线": [
@@ -5312,23 +6223,6 @@
         "simpleName": "顶尖猎人"
       }
     ],
-    "SNK - 风云默示录": [
-      {
-        "romName": "kizuna",
-        "fullName": "风云默示录 2 - 超级组队战",
-        "simpleName": "风云默示录"
-      },
-      {
-        "romName": "kizuna4p",
-        "fullName": "风云默示录 2 - 超级组队战 特别版",
-        "simpleName": "风云默示录"
-      },
-      {
-        "romName": "savagere",
-        "fullName": "风云默示录 - 格斗创世",
-        "simpleName": "风云默示录"
-      }
-    ],
     "Capcom - 荒野大镖客": [
       {
         "romName": "gunsmoke",
@@ -5433,43 +6327,6 @@
         "romName": "tigeroadb",
         "fullName": "虎之道 (美版 盗版)",
         "simpleName": "虎之道"
-      }
-    ],
-    "Capcom - 惩罚者": [
-      {
-        "romName": "punisher",
-        "fullName": "惩罚者 (世界版 930422)",
-        "simpleName": "惩罚者"
-      },
-      {
-        "romName": "punisherh",
-        "fullName": "惩罚者 (西班牙版 930422)",
-        "simpleName": "惩罚者"
-      },
-      {
-        "romName": "punisherj",
-        "fullName": "惩罚者 (日版 930422)",
-        "simpleName": "惩罚者"
-      },
-      {
-        "romName": "punisheru",
-        "fullName": "惩罚者 (美版 930422)",
-        "simpleName": "惩罚者"
-      },
-      {
-        "romName": "punipic",
-        "fullName": "惩罚者 (盗版 PIC16C57, 第1套)",
-        "simpleName": "惩罚者"
-      },
-      {
-        "romName": "punipic2",
-        "fullName": "惩罚者 (盗版 PIC16C57, 第2套)",
-        "simpleName": "惩罚者"
-      },
-      {
-        "romName": "punipic3",
-        "fullName": "惩罚者 (盗版 PIC16C57, 第3套)",
-        "simpleName": "惩罚者"
       }
     ],
     "Capcom - 机甲战士": [
@@ -5579,168 +6436,6 @@
         "romName": "3wondersh",
         "fullName": "奇迹三合一 (修改版)",
         "simpleName": "奇迹三合一"
-      }
-    ],
-    "Capcom - X 战警": [
-      {
-        "romName": "xmcota",
-        "fullName": "X - 战警: 磁场原子人 (欧洲版 950331)",
-        "simpleName": "X"
-      },
-      {
-        "romName": "xmcotaa",
-        "fullName": "X - 战警: 磁场原子人 (亚洲版 950105)",
-        "simpleName": "X"
-      },
-      {
-        "romName": "xmcotaar1",
-        "fullName": "X - 战警: 磁场原子人 (亚洲版 941219)",
-        "simpleName": "X"
-      },
-      {
-        "romName": "xmcotaar2",
-        "fullName": "X - 战警: 磁场原子人 (亚洲版 941217)",
-        "simpleName": "X"
-      },
-      {
-        "romName": "xmcotab",
-        "fullName": "X - 战警: 磁场原子人 (巴西版 950331)",
-        "simpleName": "X"
-      },
-      {
-        "romName": "xmcotah",
-        "fullName": "X - 战警: 磁场原子人 (西班牙版 950331)",
-        "simpleName": "X"
-      },
-      {
-        "romName": "xmcotahr1",
-        "fullName": "X - 战警: 磁场原子人 (西班牙版 950105)",
-        "simpleName": "X"
-      },
-      {
-        "romName": "xmcotaj",
-        "fullName": "X - 战警: 磁场原子人 (日版 950105)",
-        "simpleName": "X"
-      },
-      {
-        "romName": "xmcotaj1",
-        "fullName": "X - 战警: 磁场原子人 (日版 941222)",
-        "simpleName": "X"
-      },
-      {
-        "romName": "xmcotaj2",
-        "fullName": "X - 战警: 磁场原子人 (日版 941219)",
-        "simpleName": "X"
-      },
-      {
-        "romName": "xmcotaj3",
-        "fullName": "X - 战警: 磁场原子人 (日版 941217)",
-        "simpleName": "X"
-      },
-      {
-        "romName": "xmcotajr",
-        "fullName": "X - 战警: 磁场原子人 (日版 941208 租借版)",
-        "simpleName": "X"
-      },
-      {
-        "romName": "xmcotar1",
-        "fullName": "X - 战警: 磁场原子人 (欧洲版 950105)",
-        "simpleName": "X"
-      },
-      {
-        "romName": "xmcotau",
-        "fullName": "X - 战警: 磁场原子人 (美版 950105)",
-        "simpleName": "X"
-      },
-      {
-        "romName": "xmvsf",
-        "fullName": "X 战警 对 街头霸王 (欧洲版 961004)",
-        "simpleName": "X"
-      },
-      {
-        "romName": "xmvsfa",
-        "fullName": "X 战警 对 街头霸王 (亚洲版 961023)",
-        "simpleName": "X"
-      },
-      {
-        "romName": "xmvsfar1",
-        "fullName": "X 战警 对 街头霸王 (亚洲版 961004)",
-        "simpleName": "X"
-      },
-      {
-        "romName": "xmvsfar2",
-        "fullName": "X 战警 对 街头霸王 (亚洲版 960919)",
-        "simpleName": "X"
-      },
-      {
-        "romName": "xmvsfar3",
-        "fullName": "X 战警 对 街头霸王 (亚洲版 960910)",
-        "simpleName": "X"
-      },
-      {
-        "romName": "xmvsfb",
-        "fullName": "X 战警 对 街头霸王 (巴西版 961023)",
-        "simpleName": "X"
-      },
-      {
-        "romName": "xmvsfh",
-        "fullName": "X 战警 对 街头霸王 (西班牙版 961004)",
-        "simpleName": "X"
-      },
-      {
-        "romName": "xmvsfj",
-        "fullName": "X 战警 对 街头霸王 (日版 961023)",
-        "simpleName": "X"
-      },
-      {
-        "romName": "xmvsfjr1",
-        "fullName": "X 战警 对 街头霸王 (日版 961004)",
-        "simpleName": "X"
-      },
-      {
-        "romName": "xmvsfjr2",
-        "fullName": "X 战警 对 街头霸王 (日版 960910)",
-        "simpleName": "X"
-      },
-      {
-        "romName": "xmvsfjr3",
-        "fullName": "X 战警 对 街头霸王 (日版 960909)",
-        "simpleName": "X"
-      },
-      {
-        "romName": "xmvsfr1",
-        "fullName": "X 战警 对 街头霸王 (欧洲版 960910)",
-        "simpleName": "X"
-      },
-      {
-        "romName": "xmvsfu",
-        "fullName": "X 战警 对 街头霸王 (美版 961023)",
-        "simpleName": "X"
-      },
-      {
-        "romName": "xmvsfur1",
-        "fullName": "X 战警 对 街头霸王 (美版 961004)",
-        "simpleName": "X"
-      },
-      {
-        "romName": "xmvsfur2",
-        "fullName": "X 战警 对 街头霸王 (美版 960910)",
-        "simpleName": "X"
-      },
-      {
-        "romName": "xmcotar1d",
-        "fullName": "X - 战警: 磁场原子人 (欧洲版 950105 凤凰版) (盗版)",
-        "simpleName": "X"
-      },
-      {
-        "romName": "xmenabl",
-        "fullName": "X 战警 (4 人游戏 版本 AEA, 盗版)",
-        "simpleName": "X"
-      },
-      {
-        "romName": "xmvsfu1d",
-        "fullName": "X 战警 对 街头霸王 (美版 961004 凤凰版) (盗版)",
-        "simpleName": "X"
       }
     ],
     "Capcom - 超级口袋战士": [
@@ -5978,48 +6673,6 @@
         "simpleName": "洛克人"
       }
     ],
-    "Capcom - 三国志": [
-      {
-        "romName": "wof",
-        "fullName": "三国志 II (世界版 921031)",
-        "simpleName": "Capcom - 三国志"
-      },
-      {
-        "romName": "wofa",
-        "fullName": "三国志 II (亚洲版 921005)",
-        "simpleName": "Capcom - 三国志"
-      },
-      {
-        "romName": "wofch",
-        "fullName": "三国志 II - 赤壁之战 (CPS 替换版, 日版 921031)",
-        "simpleName": "Capcom - 三国志"
-      },
-      {
-        "romName": "wofr1",
-        "fullName": "三国志 II (世界版 921002)",
-        "simpleName": "Capcom - 三国志"
-      },
-      {
-        "romName": "wofu",
-        "fullName": "三国志 II (美版 921031)",
-        "simpleName": "Capcom - 三国志"
-      },
-      {
-        "romName": "wofabl",
-        "fullName": "三国志 II (盗版)",
-        "simpleName": "bootleg - 三国志"
-      },
-      {
-        "romName": "wofpic",
-        "fullName": "三国志 II (盗版 PIC16C57)",
-        "simpleName": "bootleg - 三国志"
-      },
-      {
-        "romName": "wofr1bl",
-        "fullName": "三国志 (盗版)",
-        "simpleName": "bootleg - 三国志"
-      }
-    ],
     "Sega - 麦克杰克森月球漫步": [
       {
         "romName": "mt_mwalk",
@@ -6060,108 +6713,6 @@
         "romName": "mwalkud",
         "fullName": "外星战将 - 麦克杰克森月球漫步 (美版) (盗版 FD1094/8751 317-0158 set)",
         "simpleName": "外星战将"
-      }
-    ],
-    "Sega - 战斧": [
-      {
-        "romName": "ga2",
-        "fullName": "战斧 - 迪斯亚达的复仇 (世界版, 修订版 B)",
-        "simpleName": "战斧"
-      },
-      {
-        "romName": "ga2j",
-        "fullName": "战斧 - 迪斯亚达的复仇 (日版)",
-        "simpleName": "战斧"
-      },
-      {
-        "romName": "ga2u",
-        "fullName": "战斧 - 迪斯亚达的复仇 (美版, 修订版 A)",
-        "simpleName": "战斧"
-      },
-      {
-        "romName": "goldnaxe",
-        "fullName": "战斧 (第6套, 美版) (8751 317-123A)",
-        "simpleName": "战斧"
-      },
-      {
-        "romName": "goldnaxe1",
-        "fullName": "战斧 (第1套, 世界版) (FD1094 317-0110)",
-        "simpleName": "战斧"
-      },
-      {
-        "romName": "goldnaxe2",
-        "fullName": "战斧 (第2套, 美版) (8751 317-0112)",
-        "simpleName": "战斧"
-      },
-      {
-        "romName": "goldnaxe3",
-        "fullName": "战斧 (第3套, 世界版) (FD1094 317-0120)",
-        "simpleName": "战斧"
-      },
-      {
-        "romName": "goldnaxej",
-        "fullName": "战斧 (第4套, 日版) (FD1094 317-0121)",
-        "simpleName": "战斧"
-      },
-      {
-        "romName": "goldnaxeu",
-        "fullName": "战斧 (第5套, 美版) (FD1094 317-0122)",
-        "simpleName": "战斧"
-      },
-      {
-        "romName": "mp_gaxe2",
-        "fullName": "战斧 II (Mega Play) (修订版 B)",
-        "simpleName": "战斧"
-      },
-      {
-        "romName": "mp_gaxe2a",
-        "fullName": "战斧 II (Mega Play)",
-        "simpleName": "战斧"
-      },
-      {
-        "romName": "mt_gaxe",
-        "fullName": "战斧 (Mega-Tech)",
-        "simpleName": "战斧"
-      },
-      {
-        "romName": "mt_gaxe2",
-        "fullName": "战斧 II (Mega-Tech)",
-        "simpleName": "战斧"
-      },
-      {
-        "romName": "goldnaxe1d",
-        "fullName": "战斧 (第1套, 世界版) (盗版 FD1094 317-0110 set)",
-        "simpleName": "战斧"
-      },
-      {
-        "romName": "goldnaxe3d",
-        "fullName": "战斧 (第3套, 世界版) (盗版 FD1094 317-0120 set)",
-        "simpleName": "战斧"
-      },
-      {
-        "romName": "goldnaxeb1",
-        "fullName": "战斧 (加密版 盗版)",
-        "simpleName": "战斧"
-      },
-      {
-        "romName": "goldnaxeb2",
-        "fullName": "战斧 (盗版)",
-        "simpleName": "战斧"
-      },
-      {
-        "romName": "goldnaxejd",
-        "fullName": "战斧 (第4套, 日版) (盗版 FD1094 317-0121 set)",
-        "simpleName": "战斧"
-      },
-      {
-        "romName": "goldnaxeud",
-        "fullName": "战斧 (第5套, 美版) (盗版 FD1094 317-0122 set)",
-        "simpleName": "战斧"
-      },
-      {
-        "romName": "gaxeduel",
-        "fullName": "战斧格斗篇 (JUETL 950117 V1.000)",
-        "simpleName": "战斧格斗篇"
       }
     ],
     "Sega - 霹雳特警": [
@@ -9626,58 +10177,6 @@
         "simpleName": "马戏团"
       }
     ],
-    "Konami - 魂斗罗": [
-      {
-        "romName": "contra",
-        "fullName": "魂斗罗 (美版 / 亚洲版, 第1套)",
-        "simpleName": "魂斗罗"
-      },
-      {
-        "romName": "contra1",
-        "fullName": "魂斗罗 (美版 / 亚洲版, 第2套)",
-        "simpleName": "魂斗罗"
-      },
-      {
-        "romName": "contrae",
-        "fullName": "魂斗罗 (美版 / 亚洲版, 第3套)",
-        "simpleName": "魂斗罗"
-      },
-      {
-        "romName": "contraj",
-        "fullName": "魂斗罗 (日版, 第1套)",
-        "simpleName": "魂斗罗"
-      },
-      {
-        "romName": "contraj1",
-        "fullName": "魂斗罗 (日版, 第2套)",
-        "simpleName": "魂斗罗"
-      },
-      {
-        "romName": "gryzor",
-        "fullName": "魂斗罗 (第1套)",
-        "simpleName": "魂斗罗"
-      },
-      {
-        "romName": "gryzor1",
-        "fullName": "魂斗罗 (第2套)",
-        "simpleName": "魂斗罗"
-      },
-      {
-        "romName": "kcontra",
-        "fullName": "魂斗罗 (掌机)",
-        "simpleName": "魂斗罗"
-      },
-      {
-        "romName": "nss_con3",
-        "fullName": "魂斗罗 3 - 异形战争 (Nintendo Super System)",
-        "simpleName": "魂斗罗"
-      },
-      {
-        "romName": "pc_cntra",
-        "fullName": "魂斗罗 (PlayChoice-10)",
-        "simpleName": "魂斗罗"
-      }
-    ],
     "Konami - 罪恶战士": [
       {
         "romName": "crimfght",
@@ -10851,28 +11350,6 @@
         "romName": "metamrphu",
         "fullName": "变形战士 (版本 UAA)",
         "simpleName": "变形战士"
-      }
-    ],
-    "Konami - 兵蜂": [
-      {
-        "romName": "mtwinbee",
-        "fullName": "兵蜂 3 (版本 EAA)",
-        "simpleName": "兵蜂"
-      },
-      {
-        "romName": "tbyahhoo",
-        "fullName": "兵蜂 3 (版本 JAA)",
-        "simpleName": "兵蜂"
-      },
-      {
-        "romName": "twinbee",
-        "fullName": "兵蜂 (ROM 版本)",
-        "simpleName": "兵蜂"
-      },
-      {
-        "romName": "twinbeeb",
-        "fullName": "兵蜂 (Bubble 系统)",
-        "simpleName": "兵蜂"
       }
     ],
     "Konami - 大灌篮": [

@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const xml2js = require('xml2js');
 const pinyin = require('pinyin');
-const { lstFileAbsPath, ignoreFloders, gameDirAbsPath, companyGamesPath, allRomsDir, companyFullGamesPath } = require('../config');
+const { lstFileAbsPath, ignoreFloders, gameDirAbsPath, companyGamesPath, allRomsDir, companyFullGamesPath, isGenGamesOnce } = require('../config');
 
 
 /**
@@ -146,6 +146,10 @@ const genRomsByComp = async () => {
   }
 }
 
+
+/**
+ * copy 单个游戏的 roms
+ */
 const copyRoms = (gameDir, games) => {
   // 创建文件夹
   fs.mkdirSync(gameDir, { recursive: true });
@@ -168,35 +172,47 @@ const copyRoms = (gameDir, games) => {
 }
 
 /**
+ * 根据厂商类型，copy 游戏列表
+ * @returns 如果执行了copy，则返回true，否则false
+ */
+const genGamesByType = (gameType, curTypeGames) => {
+
+  const allGameKeys = Object.keys(curTypeGames);
+  for (let index = 0; index < allGameKeys.length; index++) {
+    const folderName = allGameKeys[index];
+    const itemGames = curTypeGames[folderName];
+    
+    let gameDir = path.resolve(gameDirAbsPath, folderName);
+
+    if (gameType === 'classics') {
+      const orderId = (index + 1) < 10 ? '0' + (index + 1) : index;
+      gameDir = path.resolve(gameDirAbsPath, `${orderId} - ${folderName}`);
+    }
+
+    if (!fs.existsSync(gameDir)) {
+      copyRoms(gameDir, itemGames);
+
+      // 配置化，是否只 copy 一个游戏
+      if (isGenGamesOnce) return true;
+    }
+  }
+  return false;
+}
+
+/**
  * 根据厂商生成 roms。格式：厂商 - 游戏名
  */
 const transferCompJson = () => {
   const gamesFile = fs.readFileSync(companyGamesPath, 'utf8');
   const allCompGames = JSON.parse(gamesFile);
 
-  Object.keys(allCompGames).forEach(gameType => {
-    const compGames = allCompGames[gameType];
-    switch (gameType) {
-      case 'classics':
-        Object.keys(compGames).forEach((folderName, index) => {
-          const itemGames = compGames[folderName];
-          const orderId = (index + 1) < 10 ? '0' + (index + 1) : index;
-          const gameDir = path.resolve(gameDirAbsPath, `${orderId} - ${folderName}`);
-          copyRoms(gameDir, itemGames);
-        });
-        break;
-      case 'others':
-        for (const folderName in compGames) {
-          const itemGames = compGames[folderName];
+  const allCompKeys = Object.keys(allCompGames);
+  for (let i = 0; i < allCompKeys.length; i++) {
+    const gameType = allCompKeys[i];
 
-          const gameDir = path.resolve(gameDirAbsPath, folderName);
-          copyRoms(gameDir, itemGames);
-        }
-        break;
-      default:
-        break;
-    }
-  })
+    // 如果 copy 了一次后，则跳出循环
+    if (genGamesByType(gameType, allCompGames[gameType])) break;
+  }
 }
 
 
@@ -247,7 +263,8 @@ const parserCNGames = async (gameAbsDirPath) => {
 
       games.push({
         path: [gamePath],
-        name: [`${getFirstPinyinInitial(newName)}_${newName}`]
+        name: [newName]
+        // name: [`${getFirstPinyinInitial(newName)}_${newName}`]
       })
     } else {
       console.log('没有中文名称: ', fileName);
