@@ -2,7 +2,7 @@
  * @Author: 314705487@qq.com
  * @Description: 
  * @Date: 2024-07-13 13:16:12
- * @LastEditTime: 2024-07-14 12:19:19
+ * @LastEditTime: 2024-07-22 14:47:19
  */
 const path = require('path');
 
@@ -13,6 +13,8 @@ const gameDirAbsPath = path.resolve(__dirname, '../RetroBat/roms/mame');
 const gamelistPath = path.resolve(__dirname, './assets/gamelist_Mame0.249_街机改.xml');
 
 const companyGamesPath = path.resolve(__dirname, './assets/companyGames.json');
+const companyFullGamesPath = path.resolve(__dirname, './assets/companyGames_full.json');
+
 const gamelistDir = path.resolve(__dirname, './assets/gamelist');
 
 // 4万多个游戏的路径
@@ -29,5 +31,6 @@ module.exports = {
   without_cn_utf8,
   allRomsDir,
   companyGamesPath,
-  gamelistDir
+  gamelistDir,
+  companyFullGamesPath
 }

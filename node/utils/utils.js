@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const xml2js = require('xml2js');
 const pinyin = require('pinyin');
-const { lstFileAbsPath, ignoreFloders, gameDirAbsPath, companyGamesPath, allRomsDir } = require('../config');
+const { lstFileAbsPath, ignoreFloders, gameDirAbsPath, companyGamesPath, allRomsDir, companyFullGamesPath } = require('../config');
 
 
 /**
@@ -92,12 +92,12 @@ const generateGamesByCop = async (companyName) => {
       games.push({
         romName: romName,
         fullName: fullName,
-        simpleName: fullName.split(' ')[0],
+        simpleName: `${companyName} - ${fullName.split(' ')[0]}`,
       })
     }
   });
 
-  const file = await readFileOrCreateIfNotExists(companyGamesPath, '{}');
+  const file = await readFileOrCreateIfNotExists(companyFullGamesPath, '{}');
   const existsGames = JSON.parse(file);
 
   // 如果对应的公司游戏不存在，则创建
@@ -106,8 +106,8 @@ const generateGamesByCop = async (companyName) => {
       ...existsGames,
       [companyName]: groupBy(games, 'simpleName'),
     }
-  
-    fs.writeFileSync(companyGamesPath, JSON.stringify(companyGames, null, 2), 'utf8');  
+
+    fs.writeFileSync(companyFullGamesPath, JSON.stringify(companyGames, null, 2), 'utf8');
   }
 
   // copy rom 到对应文件夹
@@ -115,14 +115,13 @@ const generateGamesByCop = async (companyName) => {
 }
 
 /**
- * 根据 公司名称生成 roms
+ * (已废弃) 根据 公司名称生成 roms。 格式： 厂商文件夹 / 游戏名
  */
 const genRomsByComp = async () => {
   const gamesFile = fs.readFileSync(companyGamesPath, 'utf8');
   const allCompGames = JSON.parse(gamesFile);
 
   for (const comp in allCompGames) {
-    // if (allCompGames.hasOwnProperty(comp)) {
     const compDir = path.resolve(gameDirAbsPath, comp);
     fs.mkdirSync(compDir, { recursive: true });
 
@@ -133,11 +132,11 @@ const genRomsByComp = async () => {
       for (const game of games) {
         const { romName } = game;
         const originalPath = path.resolve(allRomsDir, `${romName}.zip`);
-        
+
         if (fs.existsSync(originalPath)) {
           const targetPath = path.resolve(gameDir, `${romName}.zip`);
           if (fs.existsSync(targetPath)) continue;
-          
+
           fs.copyFileSync(originalPath, targetPath);
         } else {
           console.log('文件不存在: ', originalPath);
@@ -147,40 +146,57 @@ const genRomsByComp = async () => {
   }
 }
 
-const transferCompJson = async () => {
+const copyRoms = (gameDir, games) => {
+  // 创建文件夹
+  fs.mkdirSync(gameDir, { recursive: true });
+
+  // 放游戏
+  for (const game of games) {
+    const { romName } = game;
+    const originalPath = path.resolve(allRomsDir, `${romName}.zip`);
+
+    if (fs.existsSync(originalPath)) {
+      const targetPath = path.resolve(gameDir, `${romName}.zip`);
+      if (fs.existsSync(targetPath)) continue;
+
+      fs.copyFileSync(originalPath, targetPath);
+
+    } else {
+      console.log('文件不存在: ', originalPath);
+    }
+  }
+}
+
+/**
+ * 根据厂商生成 roms。格式：厂商 - 游戏名
+ */
+const transferCompJson = () => {
   const gamesFile = fs.readFileSync(companyGamesPath, 'utf8');
   const allCompGames = JSON.parse(gamesFile);
 
-  for (const comp in allCompGames) {
-    const compName = comp.split(' - ')[0].trim();
-    const compGames = allCompGames[comp];
-    for (const item in compGames) {
-        const itemGames = compGames[item];
-        const gameName = item.substring(5);
-        const folderName = `${compName} - ${gameName}`;
+  Object.keys(allCompGames).forEach(gameType => {
+    const compGames = allCompGames[gameType];
+    switch (gameType) {
+      case 'classics':
+        Object.keys(compGames).forEach((folderName, index) => {
+          const itemGames = compGames[folderName];
+          const orderId = (index + 1) < 10 ? '0' + (index + 1) : index;
+          const gameDir = path.resolve(gameDirAbsPath, `${orderId} - ${folderName}`);
+          copyRoms(gameDir, itemGames);
+        });
+        break;
+      case 'others':
+        for (const folderName in compGames) {
+          const itemGames = compGames[folderName];
 
-        const gameDir = path.resolve(gameDirAbsPath, folderName);
-        // 创建文件夹
-        fs.mkdirSync(gameDir, { recursive: true });
-        
-        // 放游戏
-        for (const game of itemGames) {
-          const { romName } = game;
-
-          const originalPath = path.resolve(allRomsDir, `${romName}.zip`);
-          
-          if (fs.existsSync(originalPath)) {
-            const targetPath = path.resolve(gameDir, `${romName}.zip`);
-            if (fs.existsSync(targetPath)) continue;
-            
-            fs.copyFileSync(originalPath, targetPath);
-
-          } else {
-            console.log('文件不存在: ', originalPath);
-          }
-      }
+          const gameDir = path.resolve(gameDirAbsPath, folderName);
+          copyRoms(gameDir, itemGames);
+        }
+        break;
+      default:
+        break;
     }
-  }
+  })
 }
 
 
