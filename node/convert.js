@@ -1,9 +1,3 @@
-/*
- * @Author: 314705487@qq.com
- * @Description: 
- * @Date: 2024-06-30 19:43:42
- * @LastEditTime: 2024-07-22 09:03:42
- */
 const xml2js = require('xml2js');
 const fs = require('fs');
 const path = require('path');

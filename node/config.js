@@ -1,9 +1,3 @@
-/*
- * @Author: 314705487@qq.com
- * @Description: 
- * @Date: 2024-07-13 13:16:12
- * @LastEditTime: 2024-07-23 16:02:11
- */
 const path = require('path');
 
 const lstFileAbsPath = path.resolve(__dirname, './assets/mame_cn_utf8_bom.lst');

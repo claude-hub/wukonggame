@@ -1,9 +1,3 @@
-/*
- * @Author: 314705487@qq.com
- * @Description: 
- * @Date: 2024-07-13 13:41:42
- * @LastEditTime: 2024-07-14 10:43:43
- */
 // roms 来源：https://www.ppxclub.com/forum.php?mod=viewthread&tid=732482&highlight=0.267
 // mame_cn_utf8.lst 来源：https://www.ppxclub.com/609487-1-1
 

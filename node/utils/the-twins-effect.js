@@ -1,9 +1,3 @@
-/*
- * @Author: 314705487@qq.com
- * @Description: 按千机变整理游戏文件夹
- * @Date: 2024-07-10 20:33:31
- * @LastEditTime: 2024-07-13 14:09:03
- */
 const xml2js = require('xml2js');
 const path = require('path');
 const fs = require('fs');

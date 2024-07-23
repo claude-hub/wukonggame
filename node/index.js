@@ -1,9 +1,3 @@
-/*
- * @Author: 314705487@qq.com
- * @Description: 
- * @Date: 2024-06-30 19:43:42
- * @LastEditTime: 2024-07-22 22:10:32
- */
 const path = require('path');
 const { gameDirAbsPath, gamelistPath } = require('./config');
 const { generateGamelist, parserGamelistXml, diffRoms, theTwinsEffect, genGamesByXML, generateGamesByCop, genRomsByComp, transferCompJson } = require('./utils/index');
