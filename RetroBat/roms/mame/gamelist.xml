@@ -1,0 +1,854 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="149846">
+		<path>./01 - IGS - 三国战纪/kov.zip</path>
+		<name>三国战纪 (版本 117, 中国香港版)</name>
+		<desc>Weapon-based side scrolling beat'em up, like Golden Axe or Dungeons &amp; Dragons: Shadow over Mystara. The game is loosely based on the Chinese historical novel Romance of the Three Kingdoms (action starts in 16th year of Han Dynasty) and main enemy is Sun Quan, who kidnapped infant Adou. Player can choose one from 5 characters ( Five Tiger Generals of Shu, each has various weapon) - Zhao, Zhang Huang, Guan and Ma. The rest is simple - he goes right, kills enemies and bosses. Enemies have various weapons - swords and shields, spears, bows. The player can find various treasures for points.</desc>
+		<image>./images/kov-image.png</image>
+		<video>./videos/kov-video.mp4</video>
+		<marquee>./images/kov-marquee.png</marquee>
+		<thumbnail>./images/kov-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>IGS</developer>
+		<publisher>IGS</publisher>
+		<genre>Fighting / 2.5D</genre>
+		<family>Knights of Valour</family>
+		<arcadesystemname>igs</arcadesystemname>
+		<players>1-4</players>
+		<md5>918be70209f50b5a9ba97e3a93200614</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20240723T212225" />
+	</game>
+	<game id="149846">
+		<path>./01 - IGS - 三国战纪/kov111.zip</path>
+		<name>三国战纪 (版本 111, 日文基板)</name>
+		<desc>Weapon-based side scrolling beat'em up, like Golden Axe or Dungeons &amp; Dragons: Shadow over Mystara. The game is loosely based on the Chinese historical novel Romance of the Three Kingdoms (action starts in 16th year of Han Dynasty) and main enemy is Sun Quan, who kidnapped infant Adou. Player can choose one from 5 characters ( Five Tiger Generals of Shu, each has various weapon) - Zhao, Zhang Huang, Guan and Ma. The rest is simple - he goes right, kills enemies and bosses. Enemies have various weapons - swords and shields, spears, bows. The player can find various treasures for points.</desc>
+		<image>./images/kov111-image.png</image>
+		<video>./videos/kov111-video.mp4</video>
+		<marquee>./images/kov111-marquee.png</marquee>
+		<thumbnail>./images/kov111-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>IGS</developer>
+		<publisher>IGS</publisher>
+		<genre>Fighting / 2.5D</genre>
+		<family>Knights of Valour</family>
+		<arcadesystemname>igs</arcadesystemname>
+		<players>1-4</players>
+		<md5>a4e33eeeeb4edaa169fe93d9cde42781</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20240723T212233" />
+	</game>
+	<game id="149846">
+		<path>./01 - IGS - 三国战纪/kov114.zip</path>
+		<name>三国战纪 (版本 114, 中国香港版)</name>
+		<desc>Weapon-based side scrolling beat'em up, like Golden Axe or Dungeons &amp; Dragons: Shadow over Mystara. The game is loosely based on the Chinese historical novel Romance of the Three Kingdoms (action starts in 16th year of Han Dynasty) and main enemy is Sun Quan, who kidnapped infant Adou. Player can choose one from 5 characters ( Five Tiger Generals of Shu, each has various weapon) - Zhao, Zhang Huang, Guan and Ma. The rest is simple - he goes right, kills enemies and bosses. Enemies have various weapons - swords and shields, spears, bows. The player can find various treasures for points.</desc>
+		<image>./images/kov114-image.png</image>
+		<video>./videos/kov114-video.mp4</video>
+		<marquee>./images/kov114-marquee.png</marquee>
+		<thumbnail>./images/kov114-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>IGS</developer>
+		<publisher>IGS</publisher>
+		<genre>Fighting / 2.5D</genre>
+		<family>Knights of Valour</family>
+		<arcadesystemname>igs</arcadesystemname>
+		<players>1-4</players>
+		<md5>c0bc29e528674bc76d7a24cac9c89b25</md5>
+		<lang>cn</lang>
+		<region>cn</region>
+		<scrap name="ScreenScraper" date="20240723T212241" />
+	</game>
+	<game id="149846">
+		<path>./01 - IGS - 三国战纪/kov115.zip</path>
+		<name>三国战纪 (版本 115)</name>
+		<desc>Weapon-based side scrolling beat'em up, like Golden Axe or Dungeons &amp; Dragons: Shadow over Mystara. The game is loosely based on the Chinese historical novel Romance of the Three Kingdoms (action starts in 16th year of Han Dynasty) and main enemy is Sun Quan, who kidnapped infant Adou. Player can choose one from 5 characters ( Five Tiger Generals of Shu, each has various weapon) - Zhao, Zhang Huang, Guan and Ma. The rest is simple - he goes right, kills enemies and bosses. Enemies have various weapons - swords and shields, spears, bows. The player can find various treasures for points.</desc>
+		<image>./images/kov115-image.png</image>
+		<video>./videos/kov115-video.mp4</video>
+		<marquee>./images/kov115-marquee.png</marquee>
+		<thumbnail>./images/kov115-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>IGS</developer>
+		<publisher>IGS</publisher>
+		<genre>Fighting / 2.5D</genre>
+		<family>Knights of Valour</family>
+		<arcadesystemname>igs</arcadesystemname>
+		<players>1-4</players>
+		<playcount>1</playcount>
+		<lastplayed>20240723T211830</lastplayed>
+		<md5>df0cf1a9d5e6bc62e6e970045873be4b</md5>
+		<gametime>35</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20240723T212248" />
+	</game>
+	<game id="149850">
+		<path>./01 - IGS - 三国战纪/kov2.zip</path>
+		<name>三国战纪 2 (版本 107, 102, 100HK)</name>
+		<desc>A very good side-scrolling fighting game set in medieval China.</desc>
+		<image>./images/kov2-image.png</image>
+		<video>./videos/kov2-video.mp4</video>
+		<marquee>./images/kov2-marquee.png</marquee>
+		<thumbnail>./images/kov2-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>IGS</developer>
+		<publisher>IGS</publisher>
+		<genre>Fighting / 2.5D</genre>
+		<family>Knights of Valour</family>
+		<arcadesystemname>igs</arcadesystemname>
+		<players>1-4</players>
+		<md5>34c4278619476ee9e90474cef00c1d69</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20240723T212256" />
+	</game>
+	<game id="149850">
+		<path>./01 - IGS - 三国战纪/kov2100.zip</path>
+		<name>三国战纪 2 (版本 100, 100, 100HK)</name>
+		<desc>A very good side-scrolling fighting game set in medieval China.</desc>
+		<image>./images/kov2100-image.png</image>
+		<video>./videos/kov2100-video.mp4</video>
+		<marquee>./images/kov2100-marquee.png</marquee>
+		<thumbnail>./images/kov2100-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>IGS</developer>
+		<publisher>IGS</publisher>
+		<genre>Fighting / 2.5D</genre>
+		<family>Knights of Valour</family>
+		<arcadesystemname>igs</arcadesystemname>
+		<players>1-4</players>
+		<md5>6bc2fbdd719adc4da5d0a95e8016a768</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20240723T212312" />
+	</game>
+	<game id="149850">
+		<path>./01 - IGS - 三国战纪/kov2101.zip</path>
+		<name>三国战纪 2 (版本 101, 101, 100HK)</name>
+		<desc>A very good side-scrolling fighting game set in medieval China.</desc>
+		<image>./images/kov2101-image.png</image>
+		<video>./videos/kov2101-video.mp4</video>
+		<marquee>./images/kov2101-marquee.png</marquee>
+		<thumbnail>./images/kov2101-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>IGS</developer>
+		<publisher>IGS</publisher>
+		<genre>Fighting / 2.5D</genre>
+		<family>Knights of Valour</family>
+		<arcadesystemname>igs</arcadesystemname>
+		<players>1-4</players>
+		<md5>0945f9ea3751995bc07ae9731d2dfae7</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20240723T212325" />
+	</game>
+	<game id="149850">
+		<path>./01 - IGS - 三国战纪/kov2102.zip</path>
+		<name>三国战纪 2 (版本 102, 101, 100HK)</name>
+		<desc>A very good side-scrolling fighting game set in medieval China.</desc>
+		<image>./images/kov2102-image.png</image>
+		<video>./videos/kov2102-video.mp4</video>
+		<marquee>./images/kov2102-marquee.png</marquee>
+		<thumbnail>./images/kov2102-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>IGS</developer>
+		<publisher>IGS</publisher>
+		<genre>Fighting / 2.5D</genre>
+		<family>Knights of Valour</family>
+		<arcadesystemname>igs</arcadesystemname>
+		<players>1-4</players>
+		<md5>e9d01ebb313c4c17cdf762e22656ba09</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20240723T212334" />
+	</game>
+	<game>
+		<path>./01 - IGS - 三国战纪/kov21022.zip</path>
+		<name>三国战纪 2 (版本 102, 102, 100HK)</name>
+		<md5>48dc873aeaf730fc350277b3d218e68d</md5>
+		<scrap name="ScreenScraper" date="20240723T212336" />
+	</game>
+	<game id="149850">
+		<path>./01 - IGS - 三国战纪/kov2103.zip</path>
+		<name>三国战纪 2 (版本 103, 101, 100HK)</name>
+		<desc>A very good side-scrolling fighting game set in medieval China.</desc>
+		<image>./images/kov2103-image.png</image>
+		<video>./videos/kov2103-video.mp4</video>
+		<marquee>./images/kov2103-marquee.png</marquee>
+		<thumbnail>./images/kov2103-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>IGS</developer>
+		<publisher>IGS</publisher>
+		<genre>Fighting / 2.5D</genre>
+		<family>Knights of Valour</family>
+		<arcadesystemname>igs</arcadesystemname>
+		<players>1-4</players>
+		<md5>34bc01bd0e6049c29c98fb7307573540</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20240723T212343" />
+	</game>
+	<game id="149850">
+		<path>./01 - IGS - 三国战纪/kov2104.zip</path>
+		<name>三国战纪 2 (版本 104, 102, 100HK)</name>
+		<desc>A very good side-scrolling fighting game set in medieval China.</desc>
+		<image>./images/kov2104-image.png</image>
+		<video>./videos/kov2104-video.mp4</video>
+		<marquee>./images/kov2104-marquee.png</marquee>
+		<thumbnail>./images/kov2104-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>IGS</developer>
+		<publisher>IGS</publisher>
+		<genre>Fighting / 2.5D</genre>
+		<family>Knights of Valour</family>
+		<arcadesystemname>igs</arcadesystemname>
+		<players>1-4</players>
+		<md5>8b3d5b20e69b7f468ebb6a037a018fc3</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20240723T212351" />
+	</game>
+	<game id="149850">
+		<path>./01 - IGS - 三国战纪/kov2106.zip</path>
+		<name>三国战纪 2 (版本 106, 102, 100HK)</name>
+		<desc>A very good side-scrolling fighting game set in medieval China.</desc>
+		<image>./images/kov2106-image.png</image>
+		<video>./videos/kov2106-video.mp4</video>
+		<marquee>./images/kov2106-marquee.png</marquee>
+		<thumbnail>./images/kov2106-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>IGS</developer>
+		<publisher>IGS</publisher>
+		<genre>Fighting / 2.5D</genre>
+		<family>Knights of Valour</family>
+		<arcadesystemname>igs</arcadesystemname>
+		<players>1-4</players>
+		<md5>0ae7390d1519be246d0e805b2e825dfb</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20240723T212359" />
+	</game>
+	<game id="42062">
+		<path>./01 - IGS - 三国战纪/kov2nl.zip</path>
+		<name>三国战纪 2 - 横扫千军 (V302, 海外版)</name>
+		<desc>Knights of Valour 2 - New Legend (c) 2008 IGS Co., Ltd.  - TRIVIA -  Released in August 2008.  - SERIES -  1. Knights of Valour (1999) 2. Knights of Valour Superheroes (1999) 3. Knights of Valour 2 (2000) 4. Knights of Valour 2 - Nine Dragons (2001) 5. Kn</desc>
+		<image>./images/kov2nl-image.png</image>
+		<video>./videos/kov2nl-video.mp4</video>
+		<marquee>./images/kov2nl-marquee.png</marquee>
+		<thumbnail>./images/kov2nl-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>20080101T000000</releasedate>
+		<developer>IGS</developer>
+		<publisher>IGS</publisher>
+		<genre>Fighting / 2.5D</genre>
+		<family>Knights of Valour</family>
+		<arcadesystemname>igs</arcadesystemname>
+		<players>1-4</players>
+		<md5>4e037fb4d2aeb7cb1a03350375225dd2</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20240723T212409" />
+	</game>
+	<game id="42062">
+		<path>./01 - IGS - 三国战纪/kov2nl_300.zip</path>
+		<name>三国战纪 2 - 横扫千军 (V300, 海外版)</name>
+		<desc>Knights of Valour 2 - New Legend (c) 2008 IGS Co., Ltd.  - TRIVIA -  Released in August 2008.  - SERIES -  1. Knights of Valour (1999) 2. Knights of Valour Superheroes (1999) 3. Knights of Valour 2 (2000) 4. Knights of Valour 2 - Nine Dragons (2001) 5. Kn</desc>
+		<image>./images/kov2nl_300-image.png</image>
+		<video>./videos/kov2nl_300-video.mp4</video>
+		<marquee>./images/kov2nl_300-marquee.png</marquee>
+		<thumbnail>./images/kov2nl_300-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>20080101T000000</releasedate>
+		<developer>IGS</developer>
+		<publisher>IGS</publisher>
+		<genre>Fighting / 2.5D</genre>
+		<family>Knights of Valour</family>
+		<arcadesystemname>igs</arcadesystemname>
+		<players>1-4</players>
+		<md5>0d4d7ea68d6c3e51a616156c325501e8</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20240723T212419" />
+	</game>
+	<game id="42062">
+		<path>./01 - IGS - 三国战纪/kov2nl_300cn.zip</path>
+		<name>三国战纪 2 - 盖世英雄 (V300, 中国版)</name>
+		<desc>Knights of Valour 2 - New Legend (c) 2008 IGS Co., Ltd.  - TRIVIA -  Released in August 2008.  - SERIES -  1. Knights of Valour (1999) 2. Knights of Valour Superheroes (1999) 3. Knights of Valour 2 (2000) 4. Knights of Valour 2 - Nine Dragons (2001) 5. Kn</desc>
+		<image>./images/kov2nl_300cn-image.png</image>
+		<video>./videos/kov2nl_300cn-video.mp4</video>
+		<marquee>./images/kov2nl_300cn-marquee.png</marquee>
+		<thumbnail>./images/kov2nl_300cn-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>20080101T000000</releasedate>
+		<developer>IGS</developer>
+		<publisher>IGS</publisher>
+		<genre>Fighting / 2.5D</genre>
+		<family>Knights of Valour</family>
+		<arcadesystemname>igs</arcadesystemname>
+		<players>1-4</players>
+		<md5>05f0bb93899e0f31009c86e12dab1fca</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20240723T212428" />
+	</game>
+	<game id="42062">
+		<path>./01 - IGS - 三国战纪/kov2nl_301.zip</path>
+		<name>三国战纪 2 - 横扫千军 (V301, 海外版)</name>
+		<desc>Knights of Valour 2 - New Legend (c) 2008 IGS Co., Ltd.  - TRIVIA -  Released in August 2008.  - SERIES -  1. Knights of Valour (1999) 2. Knights of Valour Superheroes (1999) 3. Knights of Valour 2 (2000) 4. Knights of Valour 2 - Nine Dragons (2001) 5. Kn</desc>
+		<image>./images/kov2nl_301-image.png</image>
+		<video>./videos/kov2nl_301-video.mp4</video>
+		<marquee>./images/kov2nl_301-marquee.png</marquee>
+		<thumbnail>./images/kov2nl_301-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>20080101T000000</releasedate>
+		<developer>IGS</developer>
+		<publisher>IGS</publisher>
+		<genre>Fighting / 2.5D</genre>
+		<family>Knights of Valour</family>
+		<arcadesystemname>igs</arcadesystemname>
+		<players>1-4</players>
+		<md5>54521185c21ee17c3a3b5b8a5b29cf2d</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20240723T212436" />
+	</game>
+	<game id="42062">
+		<path>./01 - IGS - 三国战纪/kov2nl_301cn.zip</path>
+		<name>三国战纪 2 - 盖世英雄 (V301, 中国版)</name>
+		<desc>Knights of Valour 2 - New Legend (c) 2008 IGS Co., Ltd.  - TRIVIA -  Released in August 2008.  - SERIES -  1. Knights of Valour (1999) 2. Knights of Valour Superheroes (1999) 3. Knights of Valour 2 (2000) 4. Knights of Valour 2 - Nine Dragons (2001) 5. Kn</desc>
+		<image>./images/kov2nl_301cn-image.png</image>
+		<video>./videos/kov2nl_301cn-video.mp4</video>
+		<marquee>./images/kov2nl_301cn-marquee.png</marquee>
+		<thumbnail>./images/kov2nl_301cn-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>20080101T000000</releasedate>
+		<developer>IGS</developer>
+		<publisher>IGS</publisher>
+		<genre>Fighting / 2.5D</genre>
+		<family>Knights of Valour</family>
+		<arcadesystemname>igs</arcadesystemname>
+		<players>1-4</players>
+		<md5>2f6c9cab602f3607f9e1a53521ca713e</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20240723T212443" />
+	</game>
+	<game id="42062">
+		<path>./01 - IGS - 三国战纪/kov2nl_302cn.zip</path>
+		<name>三国战纪 2 - 盖世英雄 (V302, 中国版)</name>
+		<desc>Knights of Valour 2 - New Legend (c) 2008 IGS Co., Ltd.  - TRIVIA -  Released in August 2008.  - SERIES -  1. Knights of Valour (1999) 2. Knights of Valour Superheroes (1999) 3. Knights of Valour 2 (2000) 4. Knights of Valour 2 - Nine Dragons (2001) 5. Kn</desc>
+		<image>./images/kov2nl_302cn-image.png</image>
+		<video>./videos/kov2nl_302cn-video.mp4</video>
+		<marquee>./images/kov2nl_302cn-marquee.png</marquee>
+		<thumbnail>./images/kov2nl_302cn-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>20080101T000000</releasedate>
+		<developer>IGS</developer>
+		<publisher>IGS</publisher>
+		<genre>Fighting / 2.5D</genre>
+		<family>Knights of Valour</family>
+		<arcadesystemname>igs</arcadesystemname>
+		<players>1-4</players>
+		<md5>a0faec0da9a9875744c0890cbb818395</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20240723T212452" />
+	</game>
+	<game id="149844">
+		<path>./01 - IGS - 三国战纪/kov2p.zip</path>
+		<name>三国战纪 2 Plus - 群雄争霸 (版本 M205XX, 200, 100CN)</name>
+		<desc>A very good side-scrolling fighting game set in medieval China.</desc>
+		<image>./images/kov2p-image.png</image>
+		<video>./videos/kov2p-video.mp4</video>
+		<marquee>./images/kov2p-marquee.png</marquee>
+		<thumbnail>./images/kov2p-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>20010101T000000</releasedate>
+		<developer>IGS</developer>
+		<publisher>IGS</publisher>
+		<genre>Fighting / 2.5D</genre>
+		<family>Knights of Valour</family>
+		<arcadesystemname>igs</arcadesystemname>
+		<players>1-4</players>
+		<md5>5ce8923723798aba92f2fd06a494f47f</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20240723T212503" />
+	</game>
+	<game id="149844">
+		<path>./01 - IGS - 三国战纪/kov2p200.zip</path>
+		<name>三国战纪 2 Plus - 群雄争霸 (版本 M200XX, 200, 100CN)</name>
+		<desc>A very good side-scrolling fighting game set in medieval China.</desc>
+		<image>./images/kov2p200-image.png</image>
+		<video>./videos/kov2p200-video.mp4</video>
+		<marquee>./images/kov2p200-marquee.png</marquee>
+		<thumbnail>./images/kov2p200-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>20010101T000000</releasedate>
+		<developer>IGS</developer>
+		<publisher>IGS</publisher>
+		<genre>Fighting / 2.5D</genre>
+		<family>Knights of Valour</family>
+		<arcadesystemname>igs</arcadesystemname>
+		<players>1-4</players>
+		<md5>98a18e33769a9191b7969e3add0732f9</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20240723T212511" />
+	</game>
+	<game id="149844">
+		<path>./01 - IGS - 三国战纪/kov2p202.zip</path>
+		<name>三国战纪 2 Plus - 群雄争霸 (版本 M202XX, 200, 100CN)</name>
+		<desc>A very good side-scrolling fighting game set in medieval China.</desc>
+		<image>./images/kov2p202-image.png</image>
+		<video>./videos/kov2p202-video.mp4</video>
+		<marquee>./images/kov2p202-marquee.png</marquee>
+		<thumbnail>./images/kov2p202-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>20010101T000000</releasedate>
+		<developer>IGS</developer>
+		<publisher>IGS</publisher>
+		<genre>Fighting / 2.5D</genre>
+		<family>Knights of Valour</family>
+		<arcadesystemname>igs</arcadesystemname>
+		<players>1-4</players>
+		<md5>974573a07c810856cff4f941e8644e46</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20240723T212519" />
+	</game>
+	<game id="149844">
+		<path>./01 - IGS - 三国战纪/kov2p203.zip</path>
+		<name>三国战纪 2 Plus - 群雄争霸 (版本 M203XX, 200, 100CN)</name>
+		<desc>A very good side-scrolling fighting game set in medieval China.</desc>
+		<image>./images/kov2p203-image.png</image>
+		<video>./videos/kov2p203-video.mp4</video>
+		<marquee>./images/kov2p203-marquee.png</marquee>
+		<thumbnail>./images/kov2p203-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>20010101T000000</releasedate>
+		<developer>IGS</developer>
+		<publisher>IGS</publisher>
+		<genre>Fighting / 2.5D</genre>
+		<family>Knights of Valour</family>
+		<arcadesystemname>igs</arcadesystemname>
+		<players>1-4</players>
+		<md5>c202fe892b9347ed4e0d26dfcc687d8e</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20240723T212526" />
+	</game>
+	<game id="149844">
+		<path>./01 - IGS - 三国战纪/kov2p204.zip</path>
+		<name>三国战纪 2 Plus - 群雄争霸 (版本 M204XX, 200, 100CN)</name>
+		<desc>A very good side-scrolling fighting game set in medieval China.</desc>
+		<image>./images/kov2p204-image.png</image>
+		<video>./videos/kov2p204-video.mp4</video>
+		<marquee>./images/kov2p204-marquee.png</marquee>
+		<thumbnail>./images/kov2p204-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>20010101T000000</releasedate>
+		<developer>IGS</developer>
+		<publisher>IGS</publisher>
+		<genre>Fighting / 2.5D</genre>
+		<family>Knights of Valour</family>
+		<arcadesystemname>igs</arcadesystemname>
+		<players>1-4</players>
+		<md5>bcb3ec1f5f43708317626d687bf22b94</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20240723T212533" />
+	</game>
+	<game id="62100">
+		<path>./01 - IGS - 三国战纪/kov3.zip</path>
+		<name>三国战纪 3 (V104, 中国版, 中国香港版, 中国台湾版)</name>
+		<image>./images/kov3-image.png</image>
+		<video>./videos/kov3-video.mp4</video>
+		<marquee>./images/kov3-marquee.png</marquee>
+		<thumbnail>./images/kov3-thumb.png</thumbnail>
+		<releasedate>20110101T000000</releasedate>
+		<developer>IGS</developer>
+		<publisher>IGS</publisher>
+		<genre>Fighting / 2.5D</genre>
+		<arcadesystemname>igs</arcadesystemname>
+		<players>1-2</players>
+		<md5>26fc45ffcf43c585fcdd63fa132c1a74</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20240723T212600" />
+	</game>
+	<game id="62100">
+		<path>./01 - IGS - 三国战纪/kov3_100.zip</path>
+		<name>三国战纪 3 (V100, 中国版, 中国香港版, 中国台湾版)</name>
+		<image>./images/kov3_100-image.png</image>
+		<video>./videos/kov3_100-video.mp4</video>
+		<marquee>./images/kov3_100-marquee.png</marquee>
+		<thumbnail>./images/kov3_100-thumb.png</thumbnail>
+		<releasedate>20110101T000000</releasedate>
+		<developer>IGS</developer>
+		<publisher>IGS</publisher>
+		<genre>Fighting / 2.5D</genre>
+		<arcadesystemname>igs</arcadesystemname>
+		<players>1-2</players>
+		<md5>b583f004ba6b2a635f8fbd4f09099992</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20240723T212612" />
+	</game>
+	<game id="62100">
+		<path>./01 - IGS - 三国战纪/kov3_101.zip</path>
+		<name>三国战纪 3 (V101, 中国版, 中国香港版, 中国台湾版)</name>
+		<image>./images/kov3_101-image.png</image>
+		<video>./videos/kov3_101-video.mp4</video>
+		<marquee>./images/kov3_101-marquee.png</marquee>
+		<thumbnail>./images/kov3_101-thumb.png</thumbnail>
+		<releasedate>20110101T000000</releasedate>
+		<developer>IGS</developer>
+		<publisher>IGS</publisher>
+		<genre>Fighting / 2.5D</genre>
+		<arcadesystemname>igs</arcadesystemname>
+		<players>1-2</players>
+		<md5>4a228201dc62c946fa2cef548d49f8d3</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20240723T212621" />
+	</game>
+	<game id="62100">
+		<path>./01 - IGS - 三国战纪/kov3_102.zip</path>
+		<name>三国战纪 3 (V102, 中国版, 中国香港版, 中国台湾版)</name>
+		<image>./images/kov3_102-image.png</image>
+		<video>./videos/kov3_102-video.mp4</video>
+		<marquee>./images/kov3_102-marquee.png</marquee>
+		<thumbnail>./images/kov3_102-thumb.png</thumbnail>
+		<releasedate>20110101T000000</releasedate>
+		<developer>IGS</developer>
+		<publisher>IGS</publisher>
+		<genre>Fighting / 2.5D</genre>
+		<arcadesystemname>igs</arcadesystemname>
+		<players>1-2</players>
+		<md5>d3758179993172bf2b575b0d414fdd36</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20240723T212631" />
+	</game>
+	<game id="149449">
+		<path>./01 - IGS - 三国战纪/kovplus.zip</path>
+		<name>三国战纪 正宗 Plus (版本 119, 第1套)</name>
+		<desc>A very good beat-'em-up with lots of special moves and great artwork.</desc>
+		<image>./images/kovplus-image.png</image>
+		<video>./videos/kovplus-video.mp4</video>
+		<marquee>./images/kovplus-marquee.png</marquee>
+		<thumbnail>./images/kovplus-thumb.png</thumbnail>
+		<releasedate>19990101T000000</releasedate>
+		<developer>IGS</developer>
+		<publisher>IGS</publisher>
+		<genre>Fighting / 2.5D</genre>
+		<family>Knights of Valour</family>
+		<arcadesystemname>igs</arcadesystemname>
+		<players>1-4</players>
+		<md5>92d2d57785eecdaf1342c02ecff3afc9</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20240723T212638" />
+	</game>
+	<game id="149449">
+		<path>./01 - IGS - 三国战纪/kovplusa.zip</path>
+		<name>三国战纪 正宗 Plus (版本 119, 第2套)</name>
+		<desc>A very good beat-'em-up with lots of special moves and great artwork.</desc>
+		<image>./images/kovplusa-image.png</image>
+		<video>./videos/kovplusa-video.mp4</video>
+		<marquee>./images/kovplusa-marquee.png</marquee>
+		<thumbnail>./images/kovplusa-thumb.png</thumbnail>
+		<releasedate>19990101T000000</releasedate>
+		<developer>IGS</developer>
+		<publisher>IGS</publisher>
+		<genre>Fighting / 2.5D</genre>
+		<family>Knights of Valour</family>
+		<arcadesystemname>igs</arcadesystemname>
+		<players>1-4</players>
+		<md5>8f6e8a3fcd01ff480e50c60cff2728f2</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20240723T212646" />
+	</game>
+	<game id="149448">
+		<path>./01 - IGS - 三国战纪/kovqhsgs.zip</path>
+		<name>三国战纪 - 拳皇三国 特别版 (盗版 三国战纪 - 风云再起, V303CN, Nov 21 2008 19:03:49)</name>
+		<desc>A very good side-scrolling fighting game set in medieval China.</desc>
+		<image>./images/kovqhsgs-image.png</image>
+		<video>./videos/kovqhsgs-video.mp4</video>
+		<marquee>./images/kovqhsgs-marquee.png</marquee>
+		<thumbnail>./images/kovqhsgs-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>IGS</developer>
+		<publisher>IGS</publisher>
+		<genre>Fighting / 2.5D</genre>
+		<family>Knights of Valour</family>
+		<arcadesystemname>igs</arcadesystemname>
+		<players>1-4</players>
+		<md5>e9d955b43392ce2d9de295acee2aa54e</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20240723T212654" />
+	</game>
+	<game id="149449">
+		<path>./01 - IGS - 三国战纪/kovsgqyz.zip</path>
+		<name>三国群英传 - 正宗 Plus (盗版 三国战纪 正宗 Plus, 第1套)</name>
+		<desc>A very good beat-'em-up with lots of special moves and great artwork.</desc>
+		<image>./images/kovsgqyz-image.png</image>
+		<video>./videos/kovsgqyz-video.mp4</video>
+		<marquee>./images/kovsgqyz-marquee.png</marquee>
+		<thumbnail>./images/kovsgqyz-thumb.png</thumbnail>
+		<releasedate>19990101T000000</releasedate>
+		<developer>IGS</developer>
+		<publisher>IGS</publisher>
+		<genre>Fighting / 2.5D</genre>
+		<family>Knights of Valour</family>
+		<arcadesystemname>igs</arcadesystemname>
+		<players>1-4</players>
+		<md5>f2077f76830fcf3acb3fa091e4dbaa80</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20240723T212701" />
+	</game>
+	<game id="149449">
+		<path>./01 - IGS - 三国战纪/kovsgqyza.zip</path>
+		<name>三国群英传 - 正宗 Plus (盗版 三国战纪 正宗 Plus, 第2套)</name>
+		<desc>A very good beat-'em-up with lots of special moves and great artwork.</desc>
+		<image>./images/kovsgqyza-image.png</image>
+		<video>./videos/kovsgqyza-video.mp4</video>
+		<marquee>./images/kovsgqyza-marquee.png</marquee>
+		<thumbnail>./images/kovsgqyza-thumb.png</thumbnail>
+		<releasedate>19990101T000000</releasedate>
+		<developer>IGS</developer>
+		<publisher>IGS</publisher>
+		<genre>Fighting / 2.5D</genre>
+		<family>Knights of Valour</family>
+		<arcadesystemname>igs</arcadesystemname>
+		<players>1-4</players>
+		<md5>fa398e70e260d05fd22ad661a051e9c1</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20240723T212712" />
+	</game>
+	<game id="149449">
+		<path>./01 - IGS - 三国战纪/kovsgqyzb.zip</path>
+		<name>三国群英传 - 正宗 Plus (盗版 三国战纪 正宗 Plus, 第3套)</name>
+		<desc>A very good beat-'em-up with lots of special moves and great artwork.</desc>
+		<image>./images/kovsgqyzb-image.png</image>
+		<video>./videos/kovsgqyzb-video.mp4</video>
+		<marquee>./images/kovsgqyzb-marquee.png</marquee>
+		<thumbnail>./images/kovsgqyzb-thumb.png</thumbnail>
+		<releasedate>19990101T000000</releasedate>
+		<developer>IGS</developer>
+		<publisher>IGS</publisher>
+		<genre>Fighting / 2.5D</genre>
+		<family>Knights of Valour</family>
+		<arcadesystemname>igs</arcadesystemname>
+		<players>1-4</players>
+		<md5>341c8e6b07f611dbec16d33cf7c7654f</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20240723T212722" />
+	</game>
+	<game id="149448">
+		<path>./01 - IGS - 三国战纪/kovsh.zip</path>
+		<name>三国战纪 - 风云再起 (版本 104, 中文版)</name>
+		<desc>A very good side-scrolling fighting game set in medieval China.</desc>
+		<image>./images/kovsh-image.png</image>
+		<video>./videos/kovsh-video.mp4</video>
+		<marquee>./images/kovsh-marquee.png</marquee>
+		<thumbnail>./images/kovsh-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>IGS</developer>
+		<publisher>IGS</publisher>
+		<genre>Fighting / 2.5D</genre>
+		<family>Knights of Valour</family>
+		<arcadesystemname>igs</arcadesystemname>
+		<players>1-4</players>
+		<md5>54dc7ebfe6594b5d075d2028af07e5a3</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20240723T212732" />
+	</game>
+	<game id="149448">
+		<path>./01 - IGS - 三国战纪/kovsh100.zip</path>
+		<name>三国战纪 - 风云再起 (版本 100, 中文版)</name>
+		<desc>A very good side-scrolling fighting game set in medieval China.</desc>
+		<image>./images/kovsh100-image.png</image>
+		<video>./videos/kovsh100-video.mp4</video>
+		<marquee>./images/kovsh100-marquee.png</marquee>
+		<thumbnail>./images/kovsh100-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>IGS</developer>
+		<publisher>IGS</publisher>
+		<genre>Fighting / 2.5D</genre>
+		<family>Knights of Valour</family>
+		<arcadesystemname>igs</arcadesystemname>
+		<players>1-4</players>
+		<md5>fd02eb29e462bca609e0d5ab74c78096</md5>
+		<lang>cn</lang>
+		<region>cn</region>
+		<scrap name="ScreenScraper" date="20240723T212741" />
+	</game>
+	<game id="149448">
+		<path>./01 - IGS - 三国战纪/kovsh101.zip</path>
+		<name>三国战纪 - 风云再起 (版本 101, 中文版)</name>
+		<desc>A very good side-scrolling fighting game set in medieval China.</desc>
+		<image>./images/kovsh101-image.png</image>
+		<video>./videos/kovsh101-video.mp4</video>
+		<marquee>./images/kovsh101-marquee.png</marquee>
+		<thumbnail>./images/kovsh101-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>IGS</developer>
+		<publisher>IGS</publisher>
+		<genre>Fighting / 2.5D</genre>
+		<family>Knights of Valour</family>
+		<arcadesystemname>igs</arcadesystemname>
+		<players>1-4</players>
+		<md5>02c399fbb3285cd3a9155ce810b546ee</md5>
+		<lang>cn</lang>
+		<region>cn</region>
+		<scrap name="ScreenScraper" date="20240723T212748" />
+	</game>
+	<game id="149448">
+		<path>./01 - IGS - 三国战纪/kovsh102.zip</path>
+		<name>三国战纪 - 风云再起 (版本 102, 中文版)</name>
+		<desc>A very good side-scrolling fighting game set in medieval China.</desc>
+		<image>./images/kovsh102-image.png</image>
+		<video>./videos/kovsh102-video.mp4</video>
+		<marquee>./images/kovsh102-marquee.png</marquee>
+		<thumbnail>./images/kovsh102-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>IGS</developer>
+		<publisher>IGS</publisher>
+		<genre>Fighting / 2.5D</genre>
+		<family>Knights of Valour</family>
+		<arcadesystemname>igs</arcadesystemname>
+		<players>1-4</players>
+		<md5>d6adf1abd3f58a61e70f304e8e728b03</md5>
+		<lang>cn</lang>
+		<region>cn</region>
+		<scrap name="ScreenScraper" date="20240723T212757" />
+	</game>
+	<game id="149448">
+		<path>./01 - IGS - 三国战纪/kovsh103.zip</path>
+		<name>三国战纪 - 风云再起 (版本 103, 中文版)</name>
+		<desc>A very good side-scrolling fighting game set in medieval China.</desc>
+		<image>./images/kovsh103-image.png</image>
+		<video>./videos/kovsh103-video.mp4</video>
+		<marquee>./images/kovsh103-marquee.png</marquee>
+		<thumbnail>./images/kovsh103-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>IGS</developer>
+		<publisher>IGS</publisher>
+		<genre>Fighting / 2.5D</genre>
+		<family>Knights of Valour</family>
+		<arcadesystemname>igs</arcadesystemname>
+		<players>1-4</players>
+		<md5>9c66d14a678f56474365f98ef836c212</md5>
+		<lang>cn</lang>
+		<region>cn</region>
+		<scrap name="ScreenScraper" date="20240723T212805" />
+	</game>
+	<game id="149447">
+		<path>./01 - IGS - 三国战纪/kovshp.zip</path>
+		<name>三国战纪 - 乱世枭雄 (版本 101)</name>
+		<desc>Knights of Valour Superheroes Plus (c) 2004 IGS [International Game System].  - TRIVIA -  Released in December 2004.  - SERIES -  1. Knights of Valour (1999) 2. Knights of Valour Superheroes (1999) 3. Knights of Valour 2 (2000) 4. Knights of Valour 2 - Ni</desc>
+		<image>./images/kovshp-image.png</image>
+		<video>./videos/kovshp-video.mp4</video>
+		<marquee>./images/kovshp-marquee.png</marquee>
+		<thumbnail>./images/kovshp-thumb.png</thumbnail>
+		<releasedate>20040101T000000</releasedate>
+		<developer>IGS</developer>
+		<publisher>IGS</publisher>
+		<genre>Fighting / 2.5D</genre>
+		<family>Knights of Valour</family>
+		<arcadesystemname>igs</arcadesystemname>
+		<players>1-4</players>
+		<md5>a16099d0280d778b1a1379df5e874043</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20240723T212815" />
+	</game>
+	<game id="149447">
+		<path>./01 - IGS - 三国战纪/kovshp100.zip</path>
+		<name>三国战纪 - 乱世枭雄 (版本 100)</name>
+		<desc>Knights of Valour Superheroes Plus (c) 2004 IGS [International Game System].  - TRIVIA -  Released in December 2004.  - SERIES -  1. Knights of Valour (1999) 2. Knights of Valour Superheroes (1999) 3. Knights of Valour 2 (2000) 4. Knights of Valour 2 - Ni</desc>
+		<image>./images/kovshp100-image.png</image>
+		<video>./videos/kovshp100-video.mp4</video>
+		<marquee>./images/kovshp100-marquee.png</marquee>
+		<thumbnail>./images/kovshp100-thumb.png</thumbnail>
+		<releasedate>20040101T000000</releasedate>
+		<developer>IGS</developer>
+		<publisher>IGS</publisher>
+		<genre>Fighting / 2.5D</genre>
+		<family>Knights of Valour</family>
+		<arcadesystemname>igs</arcadesystemname>
+		<players>1-4</players>
+		<md5>105dac3d53d88041360373f215417f5b</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20240723T212835" />
+	</game>
+	<game id="149447">
+		<path>./01 - IGS - 三国战纪/kovshxas.zip</path>
+		<name>傲世三国 (盗版 三国战纪 - 风云再起, V202CN, Oct 6 2008 09:59:26)</name>
+		<desc>Knights of Valour Superheroes Plus (c) 2004 IGS [International Game System].  - TRIVIA -  Released in December 2004.  - SERIES -  1. Knights of Valour (1999) 2. Knights of Valour Superheroes (1999) 3. Knights of Valour 2 (2000) 4. Knights of Valour 2 - Ni</desc>
+		<image>./images/kovshxas-image.png</image>
+		<video>./videos/kovshxas-video.mp4</video>
+		<marquee>./images/kovshxas-marquee.png</marquee>
+		<thumbnail>./images/kovshxas-thumb.png</thumbnail>
+		<releasedate>20040101T000000</releasedate>
+		<developer>IGS</developer>
+		<publisher>IGS</publisher>
+		<genre>Fighting / 2.5D</genre>
+		<family>Knights of Valour</family>
+		<arcadesystemname>igs</arcadesystemname>
+		<players>1-4</players>
+		<playcount>1</playcount>
+		<lastplayed>20240723T211751</lastplayed>
+		<md5>05aa9fcc75d31c7521a8399c53567da4</md5>
+		<gametime>88</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20240723T212847" />
+	</game>
+	<game id="149851">
+		<path>./01 - IGS - 三国战纪/kovytzy.zip</path>
+		<name>三国战纪 - 风云再起 (SANGO EX+) (版本 201 '一统中原', 中国版)</name>
+		<desc>Knights of Valour is a 2D (2.5D gameplay) arcade weapon-based side scrolling beat'em up, like Golden Axe or Dungeons &amp; Dragons: Shadow over Mystara. The game is loosely based on the Chinese historical novel Romance of the Three Kingdoms (action starts in 16th year of Han Dynasty) and main enemy is Sun Quan, who kidnapped infant Adou. Player can choose one from 5 characters ( Five Tiger Generals of Shu, each has various weapon) - Zhao, Zhang Huang, Guan and Ma. The rest is simple - he goes right, kills enemies and bosses. Enemies have various weapons - swords and shields, spears, bows. The player can find various treasures for points.</desc>
+		<image>./images/kovytzy-image.png</image>
+		<video>./videos/kovytzy-video.mp4</video>
+		<marquee>./images/kovytzy-marquee.png</marquee>
+		<thumbnail>./images/kovytzy-thumb.png</thumbnail>
+		<releasedate>20040301T000000</releasedate>
+		<developer>IGS</developer>
+		<publisher>IGS</publisher>
+		<genre>Fighting / 2.5D</genre>
+		<arcadesystemname>igs</arcadesystemname>
+		<players>1-4</players>
+		<md5>0764256448c6ba045c87b61862a460cf</md5>
+		<lang>cn</lang>
+		<region>cn</region>
+		<scrap name="ScreenScraper" date="20240723T212901" />
+	</game>
+</gameList>
