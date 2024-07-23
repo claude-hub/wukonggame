@@ -215,6 +215,41 @@ const transferCompJson = () => {
   }
 }
 
+/**
+ * 打平 json 中的游戏列表
+ */
+const flattenJsonGames = () => {
+  const gamesFile = fs.readFileSync(companyGamesPath, 'utf8');
+  const allCompGames = JSON.parse(gamesFile);
+  let flattenGames = [];
+
+  Object.keys(allCompGames).forEach((gameType) => {
+    const curTypeGames = allCompGames[gameType];
+
+    Object.keys(curTypeGames).forEach((folderName, index) => {
+      const itemGames = curTypeGames[folderName];
+
+            
+      let gameDir = path.resolve(gameDirAbsPath, folderName);
+
+      if (gameType === 'classics') {
+        const orderId = (index + 1) < 10 ? '0' + (index + 1) : index;
+        gameDir = path.resolve(gameDirAbsPath, `${orderId} - ${folderName}`);
+      }
+
+      flattenGames = flattenGames.concat(itemGames.map(game => {
+        const { romName } = game;
+        const romPath = path.resolve(gameDir, `${romName}.zip`);
+        return {
+          ...game,
+          romPath
+        }
+      }));
+    })
+  })
+
+  return flattenGames;
+}
 
 /**
  * 删除文件
@@ -327,5 +362,6 @@ module.exports = {
   parserGamelistXml,
   generateGamesByCop,
   genRomsByComp,
-  transferCompJson
+  transferCompJson,
+  flattenJsonGames
 }

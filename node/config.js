@@ -2,7 +2,7 @@
  * @Author: 314705487@qq.com
  * @Description: 
  * @Date: 2024-07-13 13:16:12
- * @LastEditTime: 2024-07-22 22:52:06
+ * @LastEditTime: 2024-07-23 16:02:11
  */
 const path = require('path');
 
@@ -22,6 +22,9 @@ const allRomsDir = 'E:\\Download\\mame\\roms';
 
 // 生成的 diff 文件
 const without_cn_utf8 = path.resolve(__dirname, './assets/without_cn_utf8.txt');
+
+// json文件中的游戏列表，和最终 roms 文件夹里面的 diff。（这些游戏都是不可玩的）
+const absentRomsPath = path.resolve(__dirname, './assets/absentRoms.txt');
 
 // 一个一个的游戏生成。fasle 则全部生成
 const isGenGamesOnce = true;
@@ -852,5 +855,6 @@ module.exports = {
   companyGamesPath,
   gamelistDir,
   companyFullGamesPath,
-  isGenGamesOnce
+  isGenGamesOnce,
+  absentRomsPath
 }
