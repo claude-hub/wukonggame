@@ -174,7 +174,22 @@
   <game>
     <path>./01 - IGS - 三国战纪/kov21022.zip</path>
     <name>三国战纪 2 (版本 102, 102, 100HK)</name>
+    <desc>一款非常不错的侧滚格斗游戏，背景设定在中世纪的中国。</desc>
+    <image>./images/kov2102-image.png</image>
+    <video>./videos/kov2102-video.mp4</video>
+    <marquee>./images/kov2102-marquee.png</marquee>
+    <thumbnail>./images/kov2102-thumb.png</thumbnail>
+    <rating>0.7</rating>
+    <releasedate>20000101T000000</releasedate>
+    <developer>IGS</developer>
+    <publisher>IGS</publisher>
+    <genre>Fighting / 2.5D</genre>
+    <family>Knights of Valour</family>
+    <arcadesystemname>igs</arcadesystemname>
+    <players>1-4</players>
     <md5>48dc873aeaf730fc350277b3d218e68d</md5>
+    <lang>en</lang>
+    <region>us</region>
     <scrap name="ScreenScraper" date="20240723T212336"/>
   </game>
   <game id="149850">
