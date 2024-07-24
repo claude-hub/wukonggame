@@ -60,7 +60,7 @@ const genGamesByXML = async (filePath, gameType) => {
   // roms 存在的文件夹和 gamelist.xml 是一个目录
   const originGameDir = path.dirname(filePath);
 
-  const games = await parserGamelistXml(filePath);
+  const { games } = await parserGamelistXml(filePath);
   const existsGames = [];
 
   for (const game of games) {

@@ -1,7 +1,7 @@
 const path = require('path');
 
 const lstFileAbsPath = path.resolve(__dirname, './assets/mame_cn_utf8_bom.lst');
-const ignoreFloders = ['notMatch'];
+const ignoreFloders = ['notMatch', 'videos', 'images'];
 const gameDirAbsPath = path.resolve(__dirname, '../RetroBat/roms/mame');
 
 const gamelistPath = path.resolve(__dirname, './assets/gamelist_Mame0.249_街机改.xml');

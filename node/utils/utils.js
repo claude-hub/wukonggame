@@ -3,6 +3,7 @@ const path = require('path');
 const xml2js = require('xml2js');
 const pinyin = require('pinyin');
 const { lstFileAbsPath, ignoreFloders, gameDirAbsPath, companyGamesPath, allRomsDir, companyFullGamesPath, isGenGamesOnce } = require('../config');
+const { translate } = require('./ots-node');
 
 
 /**
@@ -275,6 +276,12 @@ function getFirstPinyinInitial(str) {
   throw new Error(`没有拼音: ${str}`);
 }
 
+const containsChinese = (str) => {
+  // 正则表达式匹配中文字符
+  const chineseCharRegex = /[\u4e00-\u9fa5]/;
+  return chineseCharRegex.test(str);
+}
+
 
 /**
  * 按中文过滤游戏，如果游戏没有中文，则放到 notMatch 文件夹内
@@ -285,30 +292,52 @@ const parserCNGames = async (gameAbsDirPath) => {
   const files = await getAllFilesAsync(gameAbsDirPath);
   const games = [];
 
-  files.forEach(async (file) => {
+  const xmlPath = path.join(gameDirAbsPath, './gamelist.xml');
+  const { gamesMap } = await parserGamelistXml(xmlPath);
+
+  for (const file of files) {
     const filePathName = path.basename(file);
     const { name: fileName } = path.parse(filePathName);
 
     if (namesMap.has(fileName)) {
-      const newName = namesMap.get(fileName);
-      const originalPath = path.relative(gameAbsDirPath, file);
 
-      // 处理 window 的区别。windows 的路径是反斜杠，而 linux 是斜杠。
-      const gamePath = `./${originalPath.replace(/\\/g, '/').replace(/^\.\//, '')}`;
+      // xml存在图片视频等信息，说明已经拉取过元数据。不需要再生成了
+      if (gamesMap.has(fileName)) {
+        const xmlGameInfo = gamesMap.get(fileName);
 
-      games.push({
-        path: [gamePath],
-        name: [newName]
-        // name: [`${getFirstPinyinInitial(newName)}_${newName}`]
-      })
+        const desc = xmlGameInfo.desc?.[0] || '';
+
+        // 如果没有中文翻译，则翻译中文
+        if (desc && !containsChinese(desc)) {
+          const zHDesc = await translate(desc);
+          xmlGameInfo.desc = [zHDesc]
+        }
+
+        games.push(xmlGameInfo);
+
+      } else {
+
+        // rom 没有对应的信息，生成数据
+        const newName = namesMap.get(fileName);
+        const originalPath = path.relative(gameAbsDirPath, file);
+
+        // 处理 window 的区别。windows 的路径是反斜杠，而 linux 是斜杠。
+        const gamePath = `./${originalPath.replace(/\\/g, '/').replace(/^\.\//, '')}`;
+
+        games.push({
+          path: [gamePath],
+          name: [newName]
+          // name: [`${getFirstPinyinInitial(newName)}_${newName}`]
+        })
+      }
     } else {
-      console.log('没有中文名称: ', fileName);
+      console.log('rom 没有 lst 中文名称, 放入 notMatch 文件夹: ', fileName);
       const targetDir = path.join(path.dirname(file), 'notMatch');
-      await fs.mkdirSync(targetDir, { recursive: true });
+      fs.mkdirSync(targetDir, { recursive: true });
       const targetPath = path.join(targetDir, filePathName);
-      await fs.renameSync(file, targetPath);
+      fs.renameSync(file, targetPath);
     }
-  });
+  }
 
   console.log('文件个数：', files.length);
   return games;
@@ -325,7 +354,7 @@ const generateGamelist = async () => {
       game: games
     }
   }
-
+  
   const builder = new xml2js.Builder();
   const xml = builder.buildObject(xmlJson);
   await fs.writeFileSync(path.join(gameDirAbsPath, './gamelist.xml'), xml, 'utf8');
@@ -340,7 +369,7 @@ const generateGamelist = async () => {
 const parserGamelistXml = async (gamelistPath) => {
   if (!fs.existsSync(gamelistPath)) {
     console.log('路径不存在: ', gamelistPath);
-    return;
+    return [];
   }
 
   const gamelist = await readFileOrCreateIfNotExists(gamelistPath, '');
@@ -348,7 +377,13 @@ const parserGamelistXml = async (gamelistPath) => {
   const json = await xml2js.parseStringPromise(gamelist || '');
   const { game = [] } = json?.gameList || {};
 
-  return game;
+  const gamesMap = game.reduce((acc, cur) => {
+    const { name } = path.parse(cur.path[0]);
+    acc.set(name, cur);
+    return acc;
+  }, new Map());
+
+  return { games: game, gamesMap };
 }
 
 module.exports = {
