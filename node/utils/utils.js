@@ -283,6 +283,65 @@ const containsChinese = (str) => {
 }
 
 
+const moveFile = (filePath, targetDir, type = 'images') => {
+  const currentPath = path.resolve(gameDirAbsPath, filePath);
+  if (filePath && !filePath.includes(targetDir) && fs.existsSync(currentPath)) {
+    const targetPath = path.resolve(gameDirAbsPath, targetDir, filePath);
+
+    const imagesDir = path.resolve(gameDirAbsPath, targetDir, type);
+
+    fs.mkdirSync(imagesDir, { recursive: true });
+    fs.renameSync(currentPath, targetPath);
+
+    const resolvePath = path.join(targetDir, filePath);
+
+    // 处理 window 的区别。windows 的路径是反斜杠，而 linux 是斜杠。
+    const newPath = `./${resolvePath.replace(/\\/g, '/')}`;
+
+    return newPath;
+  }
+  return filePath;
+}
+
+const parserGameInfo = async (xmlGameInfo) => {
+  const desc = xmlGameInfo.desc?.[0] || '';
+  const gamePath = xmlGameInfo.path?.[0] || '';
+  const floder = path.dirname(gamePath);
+
+  const imagePath = xmlGameInfo.image?.[0] || '';
+  const marqueePath = xmlGameInfo.marquee?.[0] || '';
+  const thumbnailPath = xmlGameInfo.thumbnail?.[0] || '';
+  const videoPath = xmlGameInfo.video?.[0] || '';
+
+
+  // 如果没有中文翻译，则翻译中文
+  if (desc && !containsChinese(desc)) {
+    const zHDesc = await translate(desc);
+    xmlGameInfo.desc = [zHDesc];
+  }
+
+  // 移动图片
+  if (imagePath) {
+    xmlGameInfo.image = [moveFile(imagePath, floder, 'images')];
+  }
+
+  if (marqueePath) {
+    xmlGameInfo.marquee = [moveFile(marqueePath, floder, 'images')];
+  }
+
+  if (thumbnailPath) {
+    xmlGameInfo.thumbnail = [moveFile(thumbnailPath, floder, 'images')];
+  }
+
+  if (videoPath) {
+    xmlGameInfo.video = [moveFile(videoPath, floder, 'videos')];
+  }
+  
+
+
+  return xmlGameInfo;
+}
+
 /**
  * 按中文过滤游戏，如果游戏没有中文，则放到 notMatch 文件夹内
  * gameAbsDirPath: 绝对路径
@@ -304,16 +363,8 @@ const parserCNGames = async (gameAbsDirPath) => {
       // xml存在图片视频等信息，说明已经拉取过元数据。不需要再生成了
       if (gamesMap.has(fileName)) {
         const xmlGameInfo = gamesMap.get(fileName);
-
-        const desc = xmlGameInfo.desc?.[0] || '';
-
-        // 如果没有中文翻译，则翻译中文
-        if (desc && !containsChinese(desc)) {
-          const zHDesc = await translate(desc);
-          xmlGameInfo.desc = [zHDesc]
-        }
-
-        games.push(xmlGameInfo);
+        // 放入解析后的 gameinfo，包含: 翻译、移动图片视频路径
+        games.push(await parserGameInfo(xmlGameInfo));
 
       } else {
 

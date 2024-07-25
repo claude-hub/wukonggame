@@ -866,228 +866,1092 @@
     <region>cn</region>
     <scrap name="ScreenScraper" date="20240723T212901"/>
   </game>
-  <game>
+  <game id="37591">
     <path>./02 - SNK - 拳皇/ct2k3sa.zip</path>
     <name>卧虎藏龙 2003 Super Plus 替换版 (拳皇 2001 盗版)</name>
+    <desc>在拳皇系列的第八部中，十支不同的队伍再次在几个国家一决雌雄，以决定哪支队伍将成为今年的拳皇。然而，NESTS组织再次阻碍了参与者；他们部署了自己的四名战士团队，由NESTS内部的两名高层领导：一名自称是最初的Zero的人和NESTS的首席执行官Igniz。在这个系列中，角色名册已经再次更新。</desc>
+    <video>./02 - SNK - 拳皇/videos/ct2k3sa-video.mp4</video>
+    <marquee>./02 - SNK - 拳皇/images/ct2k3sa-marquee.png</marquee>
+    <thumbnail>./02 - SNK - 拳皇/images/ct2k3sa-thumb.png</thumbnail>
+    <rating>0.65</rating>
+    <releasedate>20020101T000000</releasedate>
+    <developer>SNK</developer>
+    <publisher>SNK</publisher>
+    <genre>Fighting / Versus</genre>
+    <family>The King of Fighters</family>
+    <arcadesystemname>neogeo</arcadesystemname>
+    <players>1-2</players>
+    <md5>e66222a3d2a8e2f0f9972db985a66bda</md5>
+    <lang>en</lang>
+    <region>us</region>
+    <scrap name="ScreenScraper" date="20240725T091149"/>
   </game>
-  <game>
+  <game id="37591">
     <path>./02 - SNK - 拳皇/ct2k3sp.zip</path>
     <name>卧虎藏龙 2003 风云 Super Plus (拳皇 2001 盗版)</name>
+    <desc>在拳皇系列的第八部中，十支不同的队伍再次在几个国家一决雌雄，以决定哪支队伍将成为今年的拳皇。然而，NESTS组织再次阻碍了参与者；他们部署了自己的四名战士团队，由NESTS内部的两名高层领导：一名自称是最初的Zero的人和NESTS的首席执行官Igniz。在这个系列中，角色名册已经再次更新。</desc>
+    <image>./02 - SNK - 拳皇/images/ct2k3sp-image.png</image>
+    <video>./02 - SNK - 拳皇/videos/ct2k3sp-video.mp4</video>
+    <marquee>./02 - SNK - 拳皇/images/ct2k3sp-marquee.png</marquee>
+    <thumbnail>./02 - SNK - 拳皇/images/ct2k3sp-thumb.png</thumbnail>
+    <rating>0.65</rating>
+    <releasedate>20020101T000000</releasedate>
+    <developer>SNK</developer>
+    <publisher>SNK</publisher>
+    <genre>Fighting / Versus</genre>
+    <family>The King of Fighters</family>
+    <arcadesystemname>neogeo</arcadesystemname>
+    <players>1-2</players>
+    <md5>0fe0d67aca28ef6452576811f36e2f3d</md5>
+    <lang>en</lang>
+    <region>us</region>
+    <scrap name="ScreenScraper" date="20240725T091156"/>
   </game>
-  <game>
+  <game id="37591">
     <path>./02 - SNK - 拳皇/cthd2003.zip</path>
     <name>卧虎藏龙 2003 (拳皇 2001 盗版)</name>
+    <desc>在拳皇系列的第八部中，十支不同的队伍再次在几个国家一决雌雄，以决定哪支队伍将成为今年的拳皇。然而，NESTS组织再次阻碍了参与者；他们部署了自己的四名战士团队，由NESTS内部的两名高层领导：一名自称是最初的Zero的人和NESTS的首席执行官Igniz。在这个系列中，角色名册已经再次更新。</desc>
+    <image>./02 - SNK - 拳皇/images/cthd2003-image.png</image>
+    <video>./02 - SNK - 拳皇/videos/cthd2003-video.mp4</video>
+    <marquee>./02 - SNK - 拳皇/images/cthd2003-marquee.png</marquee>
+    <thumbnail>./02 - SNK - 拳皇/images/cthd2003-thumb.png</thumbnail>
+    <rating>0.65</rating>
+    <releasedate>20020101T000000</releasedate>
+    <developer>SNK</developer>
+    <publisher>SNK</publisher>
+    <genre>Fighting / Versus</genre>
+    <family>The King of Fighters</family>
+    <arcadesystemname>neogeo</arcadesystemname>
+    <players>1-2</players>
+    <md5>72c53738315b1fb095dd2af4add42a76</md5>
+    <lang>en</lang>
+    <region>us</region>
+    <scrap name="ScreenScraper" date="20240725T091203"/>
   </game>
-  <game>
+  <game id="13857">
     <path>./02 - SNK - 拳皇/kf10thep.zip</path>
     <name>拳皇 十周年纪念 - 所有队伍的战斗 Extra Plus (拳皇 2002 盗版)</name>
+    <desc>拳皇系列中第二个无剧情的“梦幻比赛”，这款游戏有39个正常角色和5个隐藏角色，其中一些角色自KOF98以来就没有出现过。《拳皇2002》还有五个X-Box、PS2和/或Dreamcast系统独有的角色：Shingo Yabuki、King、Geese Howard、“血暴”八神庵和Leopold Goenitz。Shingo和King可在所有非近地天体地理系统上使用，而Geese和其余仅可在PS2和X-Box平台上使用。&#xD;&#xD;
+&#xD;&#xD;
+游戏系统也发生了变化。在最近三个KOF版本中发现的前锋系统和四角色团队已经被完全移除。取而代之的是老派的三人团队和97年拳皇和98年拳皇的“先进系统”。</desc>
+    <image>./02 - SNK - 拳皇/images/kf10thep-image.png</image>
+    <video>./02 - SNK - 拳皇/videos/kf10thep-video.mp4</video>
+    <marquee>./02 - SNK - 拳皇/images/kf10thep-marquee.png</marquee>
+    <thumbnail>./02 - SNK - 拳皇/images/kf10thep-thumb.png</thumbnail>
+    <rating>0.8</rating>
+    <releasedate>20020101T000000</releasedate>
+    <developer>SNK</developer>
+    <publisher>SNK</publisher>
+    <genre>Fighting / Versus</genre>
+    <family>The King of Fighters</family>
+    <arcadesystemname>neogeo</arcadesystemname>
+    <players>1-2</players>
+    <md5>418aa42f671e27a4fe1efdde4d1e1ae9</md5>
+    <lang>en</lang>
+    <region>us</region>
+    <scrap name="ScreenScraper" date="20240725T091210"/>
   </game>
-  <game>
-    <path>./02 - SNK - 拳皇/kf2k2mp.zip</path>
-    <name>拳皇 2002 - 终极挑战 Magic Plus (盗版)</name>
-  </game>
-  <game>
-    <path>./02 - SNK - 拳皇/kf2k2mp2.zip</path>
-    <name>拳皇 2002 - 终极挑战 Magic Plus II (盗版)</name>
-  </game>
-  <game>
-    <path>./02 - SNK - 拳皇/kf2k2pla.zip</path>
-    <name>拳皇 2002 - 终极挑战 风云再起 Plus (盗版, 第2套)</name>
-  </game>
-  <game>
-    <path>./02 - SNK - 拳皇/kf2k2pls.zip</path>
-    <name>拳皇 2002 - 终极挑战 风云再起 (盗版, 第1套)</name>
-  </game>
-  <game>
+  <game id="13878">
     <path>./02 - SNK - 拳皇/kf2k3bl.zip</path>
     <name>拳皇 2003 (盗版 第1套)</name>
+    <desc>像拳皇2002一样，这款游戏恢复了从94年KOF到98年KOF使用的旧的3对3格式。这款游戏的一个新功能是新的可互换团队系统，老派KOF球迷可能很难适应。你仍然可以在比赛前选择三个角色并决定你的角色顺序，但是现在你可以选择在比赛中换成另一个角色。在比赛中，你可以随时改变，但是当你的两个队友被干掉，只剩下一个角色时，你就不能改变了。</desc>
+    <image>./02 - SNK - 拳皇/images/kf2k3bl-image.png</image>
+    <video>./02 - SNK - 拳皇/videos/kf2k3bl-video.mp4</video>
+    <marquee>./02 - SNK - 拳皇/images/kf2k3bl-marquee.png</marquee>
+    <thumbnail>./02 - SNK - 拳皇/images/kf2k3bl-thumb.png</thumbnail>
+    <rating>0.7</rating>
+    <releasedate>20040101T000000</releasedate>
+    <developer>SNK</developer>
+    <publisher>SNK</publisher>
+    <genre>Fighting / Versus</genre>
+    <family>The King of Fighters</family>
+    <arcadesystemname>neogeo</arcadesystemname>
+    <players>1-2</players>
+    <md5>a27a130ed5c2788294f887fad03a3798</md5>
+    <lang>en</lang>
+    <region>us</region>
+    <scrap name="ScreenScraper" date="20240725T091217"/>
   </game>
-  <game>
+  <game id="13878">
     <path>./02 - SNK - 拳皇/kf2k3bla.zip</path>
     <name>拳皇 2003 (盗版 第2套)</name>
+    <desc>像拳皇2002一样，这款游戏恢复了从94年KOF到98年KOF使用的旧的3对3格式。这款游戏的一个新功能是新的可互换团队系统，老派KOF球迷可能很难适应。你仍然可以在比赛前选择三个角色并决定你的角色顺序，但是现在你可以选择在比赛中换成另一个角色。在比赛中，你可以随时改变，但是当你的两个队友被干掉，只剩下一个角色时，你就不能改变了。</desc>
+    <image>./02 - SNK - 拳皇/images/kf2k3bla-image.png</image>
+    <video>./02 - SNK - 拳皇/videos/kf2k3bla-video.mp4</video>
+    <marquee>./02 - SNK - 拳皇/images/kf2k3bla-marquee.png</marquee>
+    <thumbnail>./02 - SNK - 拳皇/images/kf2k3bla-thumb.png</thumbnail>
+    <rating>0.7</rating>
+    <releasedate>20040101T000000</releasedate>
+    <developer>SNK</developer>
+    <publisher>SNK</publisher>
+    <genre>Fighting / Versus</genre>
+    <family>The King of Fighters</family>
+    <arcadesystemname>neogeo</arcadesystemname>
+    <players>1-2</players>
+    <md5>46053dcf7d0e0bb479b66bb3d946518e</md5>
+    <lang>en</lang>
+    <region>us</region>
+    <scrap name="ScreenScraper" date="20240725T091225"/>
   </game>
-  <game>
+  <game id="13878">
     <path>./02 - SNK - 拳皇/kf2k3pcb.zip</path>
     <name>拳皇 2003 (日版, JAMMA PCB)</name>
+    <desc>像拳皇2002一样，这款游戏恢复了从94年KOF到98年KOF使用的旧的3对3格式。这款游戏的一个新功能是新的可互换团队系统，老派KOF球迷可能很难适应。你仍然可以在比赛前选择三个角色并决定你的角色顺序，但是现在你可以选择在比赛中换成另一个角色。在比赛中，你可以随时改变，但是当你的两个队友被干掉，只剩下一个角色时，你就不能改变了。</desc>
+    <image>./02 - SNK - 拳皇/images/kf2k3pcb-image.png</image>
+    <video>./02 - SNK - 拳皇/videos/kf2k3pcb-video.mp4</video>
+    <marquee>./02 - SNK - 拳皇/images/kf2k3pcb-marquee.png</marquee>
+    <thumbnail>./02 - SNK - 拳皇/images/kf2k3pcb-thumb.png</thumbnail>
+    <rating>0.7</rating>
+    <releasedate>20040101T000000</releasedate>
+    <developer>SNK</developer>
+    <publisher>SNK</publisher>
+    <genre>Fighting / Versus</genre>
+    <family>The King of Fighters</family>
+    <arcadesystemname>neogeo</arcadesystemname>
+    <players>1-2</players>
+    <md5>e911c18df78cf568fa2edea3ea8a481a</md5>
+    <lang>jp</lang>
+    <region>jp</region>
+    <scrap name="ScreenScraper" date="20240725T091233"/>
   </game>
-  <game>
+  <game id="13878">
     <path>./02 - SNK - 拳皇/kf2k3pl.zip</path>
     <name>拳皇 2004 EX Hero (拳皇 2003 盗版)</name>
+    <desc>像拳皇2002一样，这款游戏恢复了从94年KOF到98年KOF使用的旧的3对3格式。这款游戏的一个新功能是新的可互换团队系统，老派KOF球迷可能很难适应。你仍然可以在比赛前选择三个角色并决定你的角色顺序，但是现在你可以选择在比赛中换成另一个角色。在比赛中，你可以随时改变，但是当你的两个队友被干掉，只剩下一个角色时，你就不能改变了。</desc>
+    <image>./02 - SNK - 拳皇/images/kf2k3pl-image.png</image>
+    <video>./02 - SNK - 拳皇/videos/kf2k3pl-video.mp4</video>
+    <marquee>./02 - SNK - 拳皇/images/kf2k3pl-marquee.png</marquee>
+    <thumbnail>./02 - SNK - 拳皇/images/kf2k3pl-thumb.png</thumbnail>
+    <rating>0.7</rating>
+    <releasedate>20040101T000000</releasedate>
+    <developer>SNK</developer>
+    <publisher>SNK</publisher>
+    <genre>Fighting / Versus</genre>
+    <family>The King of Fighters</family>
+    <arcadesystemname>neogeo</arcadesystemname>
+    <players>1-2</players>
+    <md5>45bcb397dcb56b3f8c80b870ce74c784</md5>
+    <lang>en</lang>
+    <region>us</region>
+    <scrap name="ScreenScraper" date="20240725T091240"/>
   </game>
-  <game>
+  <game id="13878">
     <path>./02 - SNK - 拳皇/kf2k3upl.zip</path>
     <name>拳皇 2004 EX 风云 Plus (拳皇 2003 盗版)</name>
+    <desc>像拳皇2002一样，这款游戏恢复了从94年KOF到98年KOF使用的旧的3对3格式。这款游戏的一个新功能是新的可互换团队系统，老派KOF球迷可能很难适应。你仍然可以在比赛前选择三个角色并决定你的角色顺序，但是现在你可以选择在比赛中换成另一个角色。在比赛中，你可以随时改变，但是当你的两个队友被干掉，只剩下一个角色时，你就不能改变了。</desc>
+    <image>./02 - SNK - 拳皇/images/kf2k3upl-image.png</image>
+    <video>./02 - SNK - 拳皇/videos/kf2k3upl-video.mp4</video>
+    <marquee>./02 - SNK - 拳皇/images/kf2k3upl-marquee.png</marquee>
+    <thumbnail>./02 - SNK - 拳皇/images/kf2k3upl-thumb.png</thumbnail>
+    <rating>0.7</rating>
+    <releasedate>20040101T000000</releasedate>
+    <developer>SNK</developer>
+    <publisher>SNK</publisher>
+    <genre>Fighting / Versus</genre>
+    <family>The King of Fighters</family>
+    <arcadesystemname>neogeo</arcadesystemname>
+    <players>1-2</players>
+    <md5>c4a9213717d5ad4be3017cd5a7638b71</md5>
+    <lang>en</lang>
+    <region>us</region>
+    <scrap name="ScreenScraper" date="20240725T091250"/>
   </game>
-  <game>
+  <game id="108987">
     <path>./02 - SNK - 拳皇/kf2k5uni.zip</path>
     <name>拳皇 十周年纪念 - 所有队伍的战斗 2005 Unique (拳皇 2002 盗版)</name>
+    <desc>2002版拳皇盗版</desc>
+    <image>./02 - SNK - 拳皇/images/kf2k5uni-image.png</image>
+    <video>./02 - SNK - 拳皇/videos/kf2k5uni-video.mp4</video>
+    <marquee>./02 - SNK - 拳皇/images/kf2k5uni-marquee.png</marquee>
+    <thumbnail>./02 - SNK - 拳皇/images/kf2k5uni-thumb.png</thumbnail>
+    <publisher>SNK</publisher>
+    <genre>Fighting / Versus</genre>
+    <family>The King of Fighters</family>
+    <arcadesystemname>neogeo</arcadesystemname>
+    <players>1-2</players>
+    <md5>151dac45566a381ca2f28eb1bbdc7f46</md5>
+    <lang>en</lang>
+    <region>us</region>
+    <scrap name="ScreenScraper" date="20240725T091258"/>
   </game>
-  <game>
+  <game id="13857">
     <path>./02 - SNK - 拳皇/kof10th.zip</path>
     <name>拳皇 十周年纪念 - 所有队伍的战斗 (拳皇 2002 盗版)</name>
+    <desc>拳皇系列中第二个无剧情的“梦幻比赛”，这款游戏有39个正常角色和5个隐藏角色，其中一些角色自KOF98以来就没有出现过。《拳皇2002》还有五个X-Box、PS2和/或Dreamcast系统独有的角色：Shingo Yabuki、King、Geese Howard、“血暴”八神庵和Leopold Goenitz。Shingo和King可在所有非近地天体地理系统上使用，而Geese和其余仅可在PS2和X-Box平台上使用。&#xD;&#xD;
+&#xD;&#xD;
+游戏系统也发生了变化。在最近三个KOF版本中发现的前锋系统和四角色团队已经被完全移除。取而代之的是老派的三人团队和97年拳皇和98年拳皇的“先进系统”。</desc>
+    <image>./02 - SNK - 拳皇/images/kof10th-image.png</image>
+    <video>./02 - SNK - 拳皇/videos/kof10th-video.mp4</video>
+    <marquee>./02 - SNK - 拳皇/images/kof10th-marquee.png</marquee>
+    <thumbnail>./02 - SNK - 拳皇/images/kof10th-thumb.png</thumbnail>
+    <rating>0.8</rating>
+    <releasedate>20020101T000000</releasedate>
+    <developer>SNK</developer>
+    <publisher>SNK</publisher>
+    <genre>Fighting / Versus</genre>
+    <family>The King of Fighters</family>
+    <arcadesystemname>neogeo</arcadesystemname>
+    <players>1-2</players>
+    <md5>b603d626410ec8b9c162f5c17cca753e</md5>
+    <lang>en</lang>
+    <region>us</region>
+    <scrap name="ScreenScraper" date="20240725T091305"/>
   </game>
-  <game>
+  <game id="13879">
     <path>./02 - SNK - 拳皇/kof2000.zip</path>
     <name>拳皇 2000 (NGM-2570 ~ NGH-2570)</name>
+    <desc>《拳皇2000》是SNK以原始状态发布的最后一款拳皇游戏，它扩展了《拳皇99》中的故事和游戏性。今年的锦标赛由Ikari勇士队赞助，试图发现更多关于NESTS组织的信息，并破坏潜在的NESTS特工K'和Maxima的计划。然而，并不是所有的事情都像通常那样直截了当，甚至Ikari勇士队自己也面临着在锦标赛结束时被内部背叛的风险。</desc>
+    <image>./02 - SNK - 拳皇/images/kof2000-image.png</image>
+    <video>./02 - SNK - 拳皇/videos/kof2000-video.mp4</video>
+    <marquee>./02 - SNK - 拳皇/images/kof2000-marquee.png</marquee>
+    <thumbnail>./02 - SNK - 拳皇/images/kof2000-thumb.png</thumbnail>
+    <rating>0.8</rating>
+    <releasedate>20000101T000000</releasedate>
+    <developer>SNK</developer>
+    <publisher>SNK</publisher>
+    <genre>Fighting / Versus</genre>
+    <family>The King of Fighters</family>
+    <arcadesystemname>neogeo</arcadesystemname>
+    <players>1-2</players>
+    <md5>a70f603c87e725bc8ff299deeebf5a56</md5>
+    <lang>en</lang>
+    <region>us</region>
+    <scrap name="ScreenScraper" date="20240725T091313"/>
   </game>
-  <game>
+  <game id="13879">
     <path>./02 - SNK - 拳皇/kof2000n.zip</path>
     <name>拳皇 2000 (程序未加密)</name>
+    <desc>《拳皇2000》是SNK以原始状态发布的最后一款拳皇游戏，它扩展了《拳皇99》中的故事和游戏性。今年的锦标赛由Ikari勇士队赞助，试图发现更多关于NESTS组织的信息，并破坏潜在的NESTS特工K'和Maxima的计划。然而，并不是所有的事情都像通常那样直截了当，甚至Ikari勇士队自己也面临着在锦标赛结束时被内部背叛的风险。</desc>
+    <image>./02 - SNK - 拳皇/images/kof2000n-image.png</image>
+    <video>./02 - SNK - 拳皇/videos/kof2000n-video.mp4</video>
+    <marquee>./02 - SNK - 拳皇/images/kof2000n-marquee.png</marquee>
+    <thumbnail>./02 - SNK - 拳皇/images/kof2000n-thumb.png</thumbnail>
+    <rating>0.8</rating>
+    <releasedate>20000101T000000</releasedate>
+    <developer>SNK</developer>
+    <publisher>SNK</publisher>
+    <genre>Fighting / Versus</genre>
+    <family>The King of Fighters</family>
+    <arcadesystemname>neogeo</arcadesystemname>
+    <players>1-2</players>
+    <md5>fec7d78710c8a522427f13902616adaa</md5>
+    <lang>en</lang>
+    <region>us</region>
+    <scrap name="ScreenScraper" date="20240725T091324"/>
   </game>
-  <game>
+  <game id="37591">
     <path>./02 - SNK - 拳皇/kof2001.zip</path>
     <name>拳皇 2001 (NGM-262?)</name>
+    <desc>在拳皇系列的第八部中，十支不同的队伍再次在几个国家一决雌雄，以决定哪支队伍将成为今年的拳皇。然而，NESTS组织再次阻碍了参与者；他们部署了自己的四名战士团队，由NESTS内部的两名高层领导：一名自称是最初的Zero的人和NESTS的首席执行官Igniz。在这个系列中，角色名册已经再次更新。</desc>
+    <image>./02 - SNK - 拳皇/images/kof2001-image.png</image>
+    <video>./02 - SNK - 拳皇/videos/kof2001-video.mp4</video>
+    <marquee>./02 - SNK - 拳皇/images/kof2001-marquee.png</marquee>
+    <thumbnail>./02 - SNK - 拳皇/images/kof2001-thumb.png</thumbnail>
+    <rating>0.65</rating>
+    <releasedate>20020101T000000</releasedate>
+    <developer>SNK</developer>
+    <publisher>SNK</publisher>
+    <genre>Fighting / Versus</genre>
+    <family>The King of Fighters</family>
+    <arcadesystemname>neogeo</arcadesystemname>
+    <players>1-2</players>
+    <md5>e741a11313806ce2e91c12a6ac1a5d71</md5>
+    <lang>en</lang>
+    <region>us</region>
+    <scrap name="ScreenScraper" date="20240725T091332"/>
   </game>
-  <game>
+  <game id="37591">
     <path>./02 - SNK - 拳皇/kof2001h.zip</path>
     <name>拳皇 2001 (NGH-2621)</name>
+    <desc>在拳皇系列的第八部中，十支不同的队伍再次在几个国家一决雌雄，以决定哪支队伍将成为今年的拳皇。然而，NESTS组织再次阻碍了参与者；他们部署了自己的四名战士团队，由NESTS内部的两名高层领导：一名自称是最初的Zero的人和NESTS的首席执行官Igniz。在这个系列中，角色名册已经再次更新。</desc>
+    <image>./02 - SNK - 拳皇/images/kof2001h-image.png</image>
+    <video>./02 - SNK - 拳皇/videos/kof2001h-video.mp4</video>
+    <marquee>./02 - SNK - 拳皇/images/kof2001h-marquee.png</marquee>
+    <thumbnail>./02 - SNK - 拳皇/images/kof2001h-thumb.png</thumbnail>
+    <rating>0.65</rating>
+    <releasedate>20020101T000000</releasedate>
+    <developer>SNK</developer>
+    <publisher>SNK</publisher>
+    <genre>Fighting / Versus</genre>
+    <family>The King of Fighters</family>
+    <arcadesystemname>neogeo</arcadesystemname>
+    <players>1-2</players>
+    <md5>afb604a8eaa831c49316660047f82f83</md5>
+    <lang>en</lang>
+    <region>us</region>
+    <scrap name="ScreenScraper" date="20240725T091339"/>
   </game>
-  <game>
-    <path>./02 - SNK - 拳皇/kof2002b.zip</path>
-    <name>拳皇 2002 - 终极挑战 (盗版)</name>
-  </game>
-  <game>
-    <path>./02 - SNK - 拳皇/kof2002um.zip</path>
-    <name>拳皇 - 复仇之路 / 拳皇 2002 - 终极之战 (中国版)</name>
-  </game>
-  <game>
-    <path>./02 - SNK - 拳皇/kof2002umj.zip</path>
-    <name>拳皇 2002 - 终极之战 (日版)</name>
-  </game>
-  <game>
+  <game id="13878">
     <path>./02 - SNK - 拳皇/kof2003.zip</path>
     <name>拳皇 2003 (NGM-2710, 海外版)</name>
+    <desc>像拳皇2002一样，这款游戏恢复了从94年KOF到98年KOF使用的旧的3对3格式。这款游戏的一个新功能是新的可互换团队系统，老派KOF球迷可能很难适应。你仍然可以在比赛前选择三个角色并决定你的角色顺序，但是现在你可以选择在比赛中换成另一个角色。在比赛中，你可以随时改变，但是当你的两个队友被干掉，只剩下一个角色时，你就不能改变了。</desc>
+    <image>./02 - SNK - 拳皇/images/kof2003-image.png</image>
+    <video>./02 - SNK - 拳皇/videos/kof2003-video.mp4</video>
+    <marquee>./02 - SNK - 拳皇/images/kof2003-marquee.png</marquee>
+    <thumbnail>./02 - SNK - 拳皇/images/kof2003-thumb.png</thumbnail>
+    <rating>0.7</rating>
+    <releasedate>20040101T000000</releasedate>
+    <developer>SNK</developer>
+    <publisher>SNK</publisher>
+    <genre>Fighting / Versus</genre>
+    <family>The King of Fighters</family>
+    <arcadesystemname>neogeo</arcadesystemname>
+    <players>1-2</players>
+    <md5>74bb96a7a017de8208ddc7de6960c815</md5>
+    <lang>en</lang>
+    <region>us</region>
+    <scrap name="ScreenScraper" date="20240725T091345"/>
   </game>
-  <game>
+  <game id="13878">
     <path>./02 - SNK - 拳皇/kof2003h.zip</path>
     <name>拳皇 2003 (NGH-2710)</name>
+    <desc>像拳皇2002一样，这款游戏恢复了从94年KOF到98年KOF使用的旧的3对3格式。这款游戏的一个新功能是新的可互换团队系统，老派KOF球迷可能很难适应。你仍然可以在比赛前选择三个角色并决定你的角色顺序，但是现在你可以选择在比赛中换成另一个角色。在比赛中，你可以随时改变，但是当你的两个队友被干掉，只剩下一个角色时，你就不能改变了。</desc>
+    <image>./02 - SNK - 拳皇/images/kof2003h-image.png</image>
+    <video>./02 - SNK - 拳皇/videos/kof2003h-video.mp4</video>
+    <marquee>./02 - SNK - 拳皇/images/kof2003h-marquee.png</marquee>
+    <thumbnail>./02 - SNK - 拳皇/images/kof2003h-thumb.png</thumbnail>
+    <rating>0.7</rating>
+    <releasedate>20040101T000000</releasedate>
+    <developer>SNK</developer>
+    <publisher>SNK</publisher>
+    <genre>Fighting / Versus</genre>
+    <family>The King of Fighters</family>
+    <arcadesystemname>neogeo</arcadesystemname>
+    <players>1-2</players>
+    <md5>bd58ecb40261094098c137453afb2595</md5>
+    <lang>en</lang>
+    <region>us</region>
+    <scrap name="ScreenScraper" date="20240725T091354"/>
   </game>
-  <game>
+  <game id="13857">
     <path>./02 - SNK - 拳皇/kof2k4se.zip</path>
     <name>拳皇 特别版 2004 (拳皇 2002 盗版)</name>
+    <desc>拳皇系列中第二个无剧情的“梦幻比赛”，这款游戏有39个正常角色和5个隐藏角色，其中一些角色自KOF98以来就没有出现过。《拳皇2002》还有五个X-Box、PS2和/或Dreamcast系统独有的角色：Shingo Yabuki、King、Geese Howard、“血暴”八神庵和Leopold Goenitz。Shingo和King可在所有非近地天体地理系统上使用，而Geese和其余仅可在PS2和X-Box平台上使用。&#xD;&#xD;
+&#xD;&#xD;
+游戏系统也发生了变化。在最近三个KOF版本中发现的前锋系统和四角色团队已经被完全移除。取而代之的是老派的三人团队和97年拳皇和98年拳皇的“先进系统”。</desc>
+    <image>./02 - SNK - 拳皇/images/kof2k4se-image.png</image>
+    <video>./02 - SNK - 拳皇/videos/kof2k4se-video.mp4</video>
+    <marquee>./02 - SNK - 拳皇/images/kof2k4se-marquee.png</marquee>
+    <thumbnail>./02 - SNK - 拳皇/images/kof2k4se-thumb.png</thumbnail>
+    <rating>0.8</rating>
+    <releasedate>20020101T000000</releasedate>
+    <developer>SNK</developer>
+    <publisher>SNK</publisher>
+    <genre>Fighting / Versus</genre>
+    <family>The King of Fighters</family>
+    <arcadesystemname>neogeo</arcadesystemname>
+    <players>1-2</players>
+    <md5>d085e17574b5176bc800c88207d9f985</md5>
+    <lang>en</lang>
+    <region>us</region>
+    <scrap name="ScreenScraper" date="20240725T091400"/>
   </game>
-  <game>
+  <game id="13894">
     <path>./02 - SNK - 拳皇/kof94.zip</path>
     <name>拳皇 '94 (NGM-055 ~ NGH-055)</name>
+    <desc>《拳皇94》值得注意的是，它是已知的第一款让一队拳手在单人战斗中相互对抗的格斗游戏之一。每个队由每个玩家三名战士组成，获胜者是能够首先淘汰另一队的玩家。每个活跃的角色都可以充电“战斗艺术”风格，以获得“绝望招式”或“DMs”（操作非常像街头霸王超级连击的招式）。与电脑对战，玩家必须击败游戏中的所有8支队伍，才能到达最终的boss Rugal Bernstein。</desc>
+    <image>./02 - SNK - 拳皇/images/kof94-image.png</image>
+    <video>./02 - SNK - 拳皇/videos/kof94-video.mp4</video>
+    <marquee>./02 - SNK - 拳皇/images/kof94-marquee.png</marquee>
+    <thumbnail>./02 - SNK - 拳皇/images/kof94-thumb.png</thumbnail>
+    <rating>0.75</rating>
+    <releasedate>19941001T000000</releasedate>
+    <developer>SNK</developer>
+    <publisher>SNK</publisher>
+    <genre>Fighting / Versus</genre>
+    <family>The King of Fighters</family>
+    <arcadesystemname>neogeo</arcadesystemname>
+    <players>1-2</players>
+    <md5>b9e0a02df53322a2e6d915850d96dcb4</md5>
+    <lang>en</lang>
+    <region>us</region>
+    <scrap name="ScreenScraper" date="20240725T091406"/>
   </game>
-  <game>
+  <game id="37592">
     <path>./02 - SNK - 拳皇/kof95.zip</path>
     <name>拳皇 '95 (NGM-084)</name>
+    <desc>1995年夏天。世界上最强悍的战士再次组队参加最高比赛。一群战斗明星聚集在历史上最大的大火中！伴随着可怕的新挑战...从战斗的风暴中走出来的是拳皇95！用独创的团队编辑模式体验格斗游戏的新时代！&#xD;&#xD;
+&#xD;&#xD;
+从24个字符中选择！从丰富的选择中挑选，创造历史上最令人敬畏的纯拳击队。通过选择你最喜欢的战士，创建你自己的原创3人团队！</desc>
+    <image>./02 - SNK - 拳皇/images/kof95-image.png</image>
+    <video>./02 - SNK - 拳皇/videos/kof95-video.mp4</video>
+    <marquee>./02 - SNK - 拳皇/images/kof95-marquee.png</marquee>
+    <thumbnail>./02 - SNK - 拳皇/images/kof95-thumb.png</thumbnail>
+    <rating>0.75</rating>
+    <releasedate>19950101T000000</releasedate>
+    <developer>SNK</developer>
+    <publisher>SNK</publisher>
+    <genre>Fighting / Versus</genre>
+    <family>The King of Fighters</family>
+    <arcadesystemname>neogeo</arcadesystemname>
+    <players>1-2</players>
+    <md5>c2cdf06349e770135b890441bcc33322</md5>
+    <lang>en</lang>
+    <region>us</region>
+    <scrap name="ScreenScraper" date="20240725T091413"/>
   </game>
-  <game>
+  <game id="37592">
     <path>./02 - SNK - 拳皇/kof95a.zip</path>
     <name>拳皇 '95 (NGM-084, 替换版)</name>
+    <desc>1995年夏天。世界上最强悍的战士再次组队参加最高比赛。一群战斗明星聚集在历史上最大的大火中！伴随着可怕的新挑战...从战斗的风暴中走出来的是拳皇95！用独创的团队编辑模式体验格斗游戏的新时代！&#xD;&#xD;
+&#xD;&#xD;
+从24个字符中选择！从丰富的选择中挑选，创造历史上最令人敬畏的纯拳击队。通过选择你最喜欢的战士，创建你自己的原创3人团队！</desc>
+    <image>./02 - SNK - 拳皇/images/kof95a-image.png</image>
+    <video>./02 - SNK - 拳皇/videos/kof95a-video.mp4</video>
+    <marquee>./02 - SNK - 拳皇/images/kof95a-marquee.png</marquee>
+    <thumbnail>./02 - SNK - 拳皇/images/kof95a-thumb.png</thumbnail>
+    <rating>0.75</rating>
+    <releasedate>19950101T000000</releasedate>
+    <developer>SNK</developer>
+    <publisher>SNK</publisher>
+    <genre>Fighting / Versus</genre>
+    <family>The King of Fighters</family>
+    <arcadesystemname>neogeo</arcadesystemname>
+    <players>1-2</players>
+    <md5>9bb27851590099097a172f2f9510d64e</md5>
+    <lang>en</lang>
+    <region>us</region>
+    <scrap name="ScreenScraper" date="20240725T091420"/>
   </game>
-  <game>
+  <game id="37592">
     <path>./02 - SNK - 拳皇/kof95h.zip</path>
     <name>拳皇 '95 (NGH-084)</name>
+    <desc>1995年夏天。世界上最强悍的战士再次组队参加最高比赛。一群战斗明星聚集在历史上最大的大火中！伴随着可怕的新挑战...从战斗的风暴中走出来的是拳皇95！用独创的团队编辑模式体验格斗游戏的新时代！&#xD;&#xD;
+&#xD;&#xD;
+从24个字符中选择！从丰富的选择中挑选，创造历史上最令人敬畏的纯拳击队。通过选择你最喜欢的战士，创建你自己的原创3人团队！</desc>
+    <image>./02 - SNK - 拳皇/images/kof95h-image.png</image>
+    <video>./02 - SNK - 拳皇/videos/kof95h-video.mp4</video>
+    <marquee>./02 - SNK - 拳皇/images/kof95h-marquee.png</marquee>
+    <thumbnail>./02 - SNK - 拳皇/images/kof95h-thumb.png</thumbnail>
+    <rating>0.75</rating>
+    <releasedate>19950101T000000</releasedate>
+    <developer>SNK</developer>
+    <publisher>SNK</publisher>
+    <genre>Fighting / Versus</genre>
+    <family>The King of Fighters</family>
+    <arcadesystemname>neogeo</arcadesystemname>
+    <players>1-2</players>
+    <md5>30776bca68e8918ba7bc1068025856bf</md5>
+    <lang>en</lang>
+    <region>us</region>
+    <scrap name="ScreenScraper" date="20240725T091427"/>
   </game>
-  <game>
+  <game id="37593">
     <path>./02 - SNK - 拳皇/kof96.zip</path>
     <name>拳皇 '96 (NGM-214)</name>
+    <desc>SNK的旗舰系列又回来了一年。今年KOF版本的许多变化都是以改进的图形、音效、音乐和完全重做的角色精灵的形式出现的。该系统的游戏性已经改变，增加了“Rush”多击连击和几乎每个角色的新动作。随着蛇少女传奇进入高速发展，该系列的故事情节在这一版本中受到了高度关注。前一年延续的其他功能包括可以在默认的“团队战斗”模式或传统的“单人战士”游戏风格之间进行选择，以及“对战”和“生存”游戏模式。</desc>
+    <image>./02 - SNK - 拳皇/images/kof96-image.png</image>
+    <video>./02 - SNK - 拳皇/videos/kof96-video.mp4</video>
+    <marquee>./02 - SNK - 拳皇/images/kof96-marquee.png</marquee>
+    <thumbnail>./02 - SNK - 拳皇/images/kof96-thumb.png</thumbnail>
+    <rating>0.8</rating>
+    <releasedate>19960101T000000</releasedate>
+    <developer>SNK</developer>
+    <publisher>SNK</publisher>
+    <genre>Fighting / Versus</genre>
+    <family>The King of Fighters</family>
+    <arcadesystemname>neogeo</arcadesystemname>
+    <players>1-2</players>
+    <md5>a5e81a1c1d51d6fd9b40d317885a8413</md5>
+    <lang>en</lang>
+    <region>us</region>
+    <scrap name="ScreenScraper" date="20240725T091434"/>
   </game>
-  <game>
+  <game id="37593">
     <path>./02 - SNK - 拳皇/kof96h.zip</path>
     <name>拳皇 '96 (NGH-214)</name>
+    <desc>SNK的旗舰系列又回来了一年。今年KOF版本的许多变化都是以改进的图形、音效、音乐和完全重做的角色精灵的形式出现的。该系统的游戏性已经改变，增加了“Rush”多击连击和几乎每个角色的新动作。随着蛇少女传奇进入高速发展，该系列的故事情节在这一版本中受到了高度关注。前一年延续的其他功能包括可以在默认的“团队战斗”模式或传统的“单人战士”游戏风格之间进行选择，以及“对战”和“生存”游戏模式。</desc>
+    <image>./02 - SNK - 拳皇/images/kof96h-image.png</image>
+    <video>./02 - SNK - 拳皇/videos/kof96h-video.mp4</video>
+    <marquee>./02 - SNK - 拳皇/images/kof96h-marquee.png</marquee>
+    <thumbnail>./02 - SNK - 拳皇/images/kof96h-thumb.png</thumbnail>
+    <rating>0.8</rating>
+    <releasedate>19960101T000000</releasedate>
+    <developer>SNK</developer>
+    <publisher>SNK</publisher>
+    <genre>Fighting / Versus</genre>
+    <family>The King of Fighters</family>
+    <arcadesystemname>neogeo</arcadesystemname>
+    <players>1-2</players>
+    <md5>a72ea6528400612bf01ae43361e48045</md5>
+    <lang>en</lang>
+    <region>us</region>
+    <scrap name="ScreenScraper" date="20240725T091440"/>
   </game>
-  <game>
+  <game id="37594">
     <path>./02 - SNK - 拳皇/kof97.zip</path>
     <name>拳皇 '97 (NGM-2320)</name>
+    <desc>又是一年，又是一个KOF。今年的新增功能包括略微改进的图形和声音、新的动作和新的游戏模式。游戏更加受情节驱动，因为你有中层老板，他们可以根据你选择的团队而改变。此外，还有几个特殊的结尾，只有在选择了某些“编辑团队”组合时才会显示。新角色包括新面孔团队，致命狂怒亡命之徒团队（以“蓝色”玛丽·瑞安和山崎龙二的KOF处女作以及比利·凯恩的回归为特色），以及京的学生矢吹信吾。总共，拳皇97运动29个独立的角色。</desc>
+    <image>./02 - SNK - 拳皇/images/kof97-image.png</image>
+    <video>./02 - SNK - 拳皇/videos/kof97-video.mp4</video>
+    <marquee>./02 - SNK - 拳皇/images/kof97-marquee.png</marquee>
+    <thumbnail>./02 - SNK - 拳皇/images/kof97-thumb.png</thumbnail>
+    <rating>0.85</rating>
+    <releasedate>19970101T000000</releasedate>
+    <developer>SNK</developer>
+    <publisher>SNK</publisher>
+    <genre>Fighting / Versus</genre>
+    <family>The King of Fighters</family>
+    <arcadesystemname>neogeo</arcadesystemname>
+    <players>1-2</players>
+    <md5>05825a8230e5c3d2d6f38dd6caf3da62</md5>
+    <lang>en</lang>
+    <region>us</region>
+    <scrap name="ScreenScraper" date="20240725T091447"/>
   </game>
-  <game>
+  <game id="37594">
     <path>./02 - SNK - 拳皇/kof97h.zip</path>
     <name>拳皇 '97 (NGH-2320)</name>
+    <desc>又是一年，又是一个KOF。今年的新增功能包括略微改进的图形和声音、新的动作和新的游戏模式。游戏更加受情节驱动，因为你有中层老板，他们可以根据你选择的团队而改变。此外，还有几个特殊的结尾，只有在选择了某些“编辑团队”组合时才会显示。新角色包括新面孔团队，致命狂怒亡命之徒团队（以“蓝色”玛丽·瑞安和山崎龙二的KOF处女作以及比利·凯恩的回归为特色），以及京的学生矢吹信吾。总共，拳皇97运动29个独立的角色。</desc>
+    <image>./02 - SNK - 拳皇/images/kof97h-image.png</image>
+    <video>./02 - SNK - 拳皇/videos/kof97h-video.mp4</video>
+    <marquee>./02 - SNK - 拳皇/images/kof97h-marquee.png</marquee>
+    <thumbnail>./02 - SNK - 拳皇/images/kof97h-thumb.png</thumbnail>
+    <rating>0.85</rating>
+    <releasedate>19970101T000000</releasedate>
+    <developer>SNK</developer>
+    <publisher>SNK</publisher>
+    <genre>Fighting / Versus</genre>
+    <family>The King of Fighters</family>
+    <arcadesystemname>neogeo</arcadesystemname>
+    <players>1-2</players>
+    <md5>37220504be77340d1f6ee7c048e1d4d6</md5>
+    <lang>en</lang>
+    <region>us</region>
+    <scrap name="ScreenScraper" date="20240725T091455"/>
   </game>
-  <game>
+  <game id="37594">
     <path>./02 - SNK - 拳皇/kof97k.zip</path>
     <name>拳皇 '97 (韩国版)</name>
+    <desc>又是一年，又是一个KOF。今年的新增功能包括略微改进的图形和声音、新的动作和新的游戏模式。游戏更加受情节驱动，因为你有中层老板，他们可以根据你选择的团队而改变。此外，还有几个特殊的结尾，只有在选择了某些“编辑团队”组合时才会显示。新角色包括新面孔团队，致命狂怒亡命之徒团队（以“蓝色”玛丽·瑞安和山崎龙二的KOF处女作以及比利·凯恩的回归为特色），以及京的学生矢吹信吾。总共，拳皇97运动29个独立的角色。</desc>
+    <image>./02 - SNK - 拳皇/images/kof97k-image.png</image>
+    <video>./02 - SNK - 拳皇/videos/kof97k-video.mp4</video>
+    <marquee>./02 - SNK - 拳皇/images/kof97k-marquee.png</marquee>
+    <thumbnail>./02 - SNK - 拳皇/images/kof97k-thumb.png</thumbnail>
+    <rating>0.85</rating>
+    <releasedate>19970101T000000</releasedate>
+    <developer>SNK</developer>
+    <publisher>SNK</publisher>
+    <genre>Fighting / Versus</genre>
+    <family>The King of Fighters</family>
+    <arcadesystemname>neogeo</arcadesystemname>
+    <players>1-2</players>
+    <md5>31a8dd92f32b67977aba656d2f132c7c</md5>
+    <lang>en</lang>
+    <region>us</region>
+    <scrap name="ScreenScraper" date="20240725T091503"/>
   </game>
-  <game>
+  <game id="37594">
     <path>./02 - SNK - 拳皇/kof97oro.zip</path>
     <name>拳皇 '97 重出江湖 Plus 2003 (盗版)</name>
+    <desc>又是一年，又是一个KOF。今年的新增功能包括略微改进的图形和声音、新的动作和新的游戏模式。游戏更加受情节驱动，因为你有中层老板，他们可以根据你选择的团队而改变。此外，还有几个特殊的结尾，只有在选择了某些“编辑团队”组合时才会显示。新角色包括新面孔团队，致命狂怒亡命之徒团队（以“蓝色”玛丽·瑞安和山崎龙二的KOF处女作以及比利·凯恩的回归为特色），以及京的学生矢吹信吾。总共，拳皇97运动29个独立的角色。</desc>
+    <image>./02 - SNK - 拳皇/images/kof97oro-image.png</image>
+    <video>./02 - SNK - 拳皇/videos/kof97oro-video.mp4</video>
+    <marquee>./02 - SNK - 拳皇/images/kof97oro-marquee.png</marquee>
+    <thumbnail>./02 - SNK - 拳皇/images/kof97oro-thumb.png</thumbnail>
+    <rating>0.85</rating>
+    <releasedate>19970101T000000</releasedate>
+    <developer>SNK</developer>
+    <publisher>SNK</publisher>
+    <genre>Fighting / Versus</genre>
+    <family>The King of Fighters</family>
+    <arcadesystemname>neogeo</arcadesystemname>
+    <players>1-2</players>
+    <md5>1300cbeae386e48c9319f210ae46d800</md5>
+    <lang>en</lang>
+    <region>us</region>
+    <scrap name="ScreenScraper" date="20240725T091510"/>
   </game>
-  <game>
+  <game id="37594">
     <path>./02 - SNK - 拳皇/kof97pls.zip</path>
     <name>拳皇 '97 风云再起 Plus (盗版)</name>
+    <desc>又是一年，又是一个KOF。今年的新增功能包括略微改进的图形和声音、新的动作和新的游戏模式。游戏更加受情节驱动，因为你有中层老板，他们可以根据你选择的团队而改变。此外，还有几个特殊的结尾，只有在选择了某些“编辑团队”组合时才会显示。新角色包括新面孔团队，致命狂怒亡命之徒团队（以“蓝色”玛丽·瑞安和山崎龙二的KOF处女作以及比利·凯恩的回归为特色），以及京的学生矢吹信吾。总共，拳皇97运动29个独立的角色。</desc>
+    <image>./02 - SNK - 拳皇/images/kof97pls-image.png</image>
+    <video>./02 - SNK - 拳皇/videos/kof97pls-video.mp4</video>
+    <marquee>./02 - SNK - 拳皇/images/kof97pls-marquee.png</marquee>
+    <thumbnail>./02 - SNK - 拳皇/images/kof97pls-thumb.png</thumbnail>
+    <rating>0.85</rating>
+    <releasedate>19970101T000000</releasedate>
+    <developer>SNK</developer>
+    <publisher>SNK</publisher>
+    <genre>Fighting / Versus</genre>
+    <family>The King of Fighters</family>
+    <arcadesystemname>neogeo</arcadesystemname>
+    <players>1-2</players>
+    <md5>f57f65f486bfc0deee75bc6959683e30</md5>
+    <lang>en</lang>
+    <region>us</region>
+    <scrap name="ScreenScraper" date="20240725T091516"/>
   </game>
-  <game>
+  <game id="37595">
     <path>./02 - SNK - 拳皇/kof98.zip</path>
     <name>拳皇 '98 - 梦战斗未结束 (NGM-2420)</name>
+    <desc>对于所有拳皇粉丝，SNK提供了终极KOF分期付款！总共有38个你最喜欢的战士，来自94年到97年版本中出现的所有角色。怀旧的美国运动队，卢加尔，以及海德恩，琢磨，草薙赛树等期待已久的角色回来了！终极重聚即将在拳皇98开始！&#xD;&#xD;
+&#xD;&#xD;
+优势体系让竞争白热化&#xD;&#xD;
+在战斗中，如果你的一名队员输了，你将通过KOF’98革命性的游戏系统获得系统优势。在高级模式下，每个玩家最多可以获得三件能量物品。第二个玩家最多可以得到四个，第三个玩家最多可以得到五个。在额外模式下，功率计的长度随着第二个和第三个玩家的加入而逐渐减小，以更容易增加功率。&#xD;&#xD;
+&#xD;&#xD;
+令人兴奋、肾上腺素刺激的轮盘赌团队编辑模式&#xD;&#xD;
+使用轮盘随机选择团队成员。你可以用轮盘选择一到三个成员！当一个队赢了，轮盘再次旋转。谁会加入你的团队取决于命运！</desc>
+    <image>./02 - SNK - 拳皇/images/kof98-image.png</image>
+    <video>./02 - SNK - 拳皇/videos/kof98-video.mp4</video>
+    <marquee>./02 - SNK - 拳皇/images/kof98-marquee.png</marquee>
+    <thumbnail>./02 - SNK - 拳皇/images/kof98-thumb.png</thumbnail>
+    <rating>0.9</rating>
+    <releasedate>19980101T000000</releasedate>
+    <developer>SNK</developer>
+    <publisher>SNK</publisher>
+    <genre>Fighting / Versus</genre>
+    <family>The King of Fighters</family>
+    <arcadesystemname>neogeo</arcadesystemname>
+    <players>1-2</players>
+    <md5>60344e3c402ff52ef37e2917f7c30619</md5>
+    <lang>en</lang>
+    <region>us</region>
+    <scrap name="ScreenScraper" date="20240725T091521"/>
   </game>
-  <game>
+  <game id="37595">
     <path>./02 - SNK - 拳皇/kof98a.zip</path>
     <name>拳皇 '98 - 梦战斗未结束 (NGM-2420, 替换版)</name>
+    <desc>对于所有拳皇粉丝，SNK提供了终极KOF分期付款！总共有38个你最喜欢的战士，来自94年到97年版本中出现的所有角色。怀旧的美国运动队，卢加尔，以及海德恩，琢磨，草薙赛树等期待已久的角色回来了！终极重聚即将在拳皇98开始！&#xD;&#xD;
+&#xD;&#xD;
+优势体系让竞争白热化&#xD;&#xD;
+在战斗中，如果你的一名队员输了，你将通过KOF’98革命性的游戏系统获得系统优势。在高级模式下，每个玩家最多可以获得三件能量物品。第二个玩家最多可以得到四个，第三个玩家最多可以得到五个。在额外模式下，功率计的长度随着第二个和第三个玩家的加入而逐渐减小，以更容易增加功率。&#xD;&#xD;
+&#xD;&#xD;
+令人兴奋、肾上腺素刺激的轮盘赌团队编辑模式&#xD;&#xD;
+使用轮盘随机选择团队成员。你可以用轮盘选择一到三个成员！当一个队赢了，轮盘再次旋转。谁会加入你的团队取决于命运！</desc>
+    <image>./02 - SNK - 拳皇/images/kof98a-image.png</image>
+    <video>./02 - SNK - 拳皇/videos/kof98a-video.mp4</video>
+    <marquee>./02 - SNK - 拳皇/images/kof98a-marquee.png</marquee>
+    <thumbnail>./02 - SNK - 拳皇/images/kof98a-thumb.png</thumbnail>
+    <rating>0.9</rating>
+    <releasedate>19980101T000000</releasedate>
+    <developer>SNK</developer>
+    <publisher>SNK</publisher>
+    <genre>Fighting / Versus</genre>
+    <family>The King of Fighters</family>
+    <arcadesystemname>neogeo</arcadesystemname>
+    <players>1-2</players>
+    <md5>5070cf1476106ff9b2636a65f306ef5f</md5>
+    <lang>en</lang>
+    <region>us</region>
+    <scrap name="ScreenScraper" date="20240725T091529"/>
   </game>
-  <game>
+  <game id="37595">
     <path>./02 - SNK - 拳皇/kof98h.zip</path>
     <name>拳皇 '98 - 梦战斗未结束 (NGH-2420)</name>
+    <desc>对于所有拳皇粉丝，SNK提供了终极KOF分期付款！总共有38个你最喜欢的战士，来自94年到97年版本中出现的所有角色。怀旧的美国运动队，卢加尔，以及海德恩，琢磨，草薙赛树等期待已久的角色回来了！终极重聚即将在拳皇98开始！&#xD;&#xD;
+&#xD;&#xD;
+优势体系让竞争白热化&#xD;&#xD;
+在战斗中，如果你的一名队员输了，你将通过KOF’98革命性的游戏系统获得系统优势。在高级模式下，每个玩家最多可以获得三件能量物品。第二个玩家最多可以得到四个，第三个玩家最多可以得到五个。在额外模式下，功率计的长度随着第二个和第三个玩家的加入而逐渐减小，以更容易增加功率。&#xD;&#xD;
+&#xD;&#xD;
+令人兴奋、肾上腺素刺激的轮盘赌团队编辑模式&#xD;&#xD;
+使用轮盘随机选择团队成员。你可以用轮盘选择一到三个成员！当一个队赢了，轮盘再次旋转。谁会加入你的团队取决于命运！</desc>
+    <image>./02 - SNK - 拳皇/images/kof98h-image.png</image>
+    <video>./02 - SNK - 拳皇/videos/kof98h-video.mp4</video>
+    <marquee>./02 - SNK - 拳皇/images/kof98h-marquee.png</marquee>
+    <thumbnail>./02 - SNK - 拳皇/images/kof98h-thumb.png</thumbnail>
+    <rating>0.9</rating>
+    <releasedate>19980101T000000</releasedate>
+    <developer>SNK</developer>
+    <publisher>SNK</publisher>
+    <genre>Fighting / Versus</genre>
+    <family>The King of Fighters</family>
+    <arcadesystemname>neogeo</arcadesystemname>
+    <players>1-2</players>
+    <md5>15185a1974e2275df77325a48d53508a</md5>
+    <lang>en</lang>
+    <region>us</region>
+    <scrap name="ScreenScraper" date="20240725T091535"/>
   </game>
-  <game>
+  <game id="37595">
     <path>./02 - SNK - 拳皇/kof98k.zip</path>
     <name>拳皇 '98 - 梦战斗未结束 (韩国机板, 第1套)</name>
+    <desc>对于所有拳皇粉丝，SNK提供了终极KOF分期付款！总共有38个你最喜欢的战士，来自94年到97年版本中出现的所有角色。怀旧的美国运动队，卢加尔，以及海德恩，琢磨，草薙赛树等期待已久的角色回来了！终极重聚即将在拳皇98开始！&#xD;&#xD;
+&#xD;&#xD;
+优势体系让竞争白热化&#xD;&#xD;
+在战斗中，如果你的一名队员输了，你将通过KOF’98革命性的游戏系统获得系统优势。在高级模式下，每个玩家最多可以获得三件能量物品。第二个玩家最多可以得到四个，第三个玩家最多可以得到五个。在额外模式下，功率计的长度随着第二个和第三个玩家的加入而逐渐减小，以更容易增加功率。&#xD;&#xD;
+&#xD;&#xD;
+令人兴奋、肾上腺素刺激的轮盘赌团队编辑模式&#xD;&#xD;
+使用轮盘随机选择团队成员。你可以用轮盘选择一到三个成员！当一个队赢了，轮盘再次旋转。谁会加入你的团队取决于命运！</desc>
+    <image>./02 - SNK - 拳皇/images/kof98k-image.png</image>
+    <video>./02 - SNK - 拳皇/videos/kof98k-video.mp4</video>
+    <marquee>./02 - SNK - 拳皇/images/kof98k-marquee.png</marquee>
+    <thumbnail>./02 - SNK - 拳皇/images/kof98k-thumb.png</thumbnail>
+    <rating>0.9</rating>
+    <releasedate>19980101T000000</releasedate>
+    <developer>SNK</developer>
+    <publisher>SNK</publisher>
+    <genre>Fighting / Versus</genre>
+    <family>The King of Fighters</family>
+    <arcadesystemname>neogeo</arcadesystemname>
+    <players>1-2</players>
+    <md5>ebf9b9d4791102dd12ed6576c85c8457</md5>
+    <lang>en</lang>
+    <region>us</region>
+    <scrap name="ScreenScraper" date="20240725T091542"/>
   </game>
-  <game>
+  <game id="37595">
     <path>./02 - SNK - 拳皇/kof98ka.zip</path>
     <name>拳皇 '98 - 梦战斗未结束 (韩国机板, 第2套)</name>
+    <desc>对于所有拳皇粉丝，SNK提供了终极KOF分期付款！总共有38个你最喜欢的战士，来自94年到97年版本中出现的所有角色。怀旧的美国运动队，卢加尔，以及海德恩，琢磨，草薙赛树等期待已久的角色回来了！终极重聚即将在拳皇98开始！&#xD;&#xD;
+&#xD;&#xD;
+优势体系让竞争白热化&#xD;&#xD;
+在战斗中，如果你的一名队员输了，你将通过KOF’98革命性的游戏系统获得系统优势。在高级模式下，每个玩家最多可以获得三件能量物品。第二个玩家最多可以得到四个，第三个玩家最多可以得到五个。在额外模式下，功率计的长度随着第二个和第三个玩家的加入而逐渐减小，以更容易增加功率。&#xD;&#xD;
+&#xD;&#xD;
+令人兴奋、肾上腺素刺激的轮盘赌团队编辑模式&#xD;&#xD;
+使用轮盘随机选择团队成员。你可以用轮盘选择一到三个成员！当一个队赢了，轮盘再次旋转。谁会加入你的团队取决于命运！</desc>
+    <image>./02 - SNK - 拳皇/images/kof98ka-image.png</image>
+    <video>./02 - SNK - 拳皇/videos/kof98ka-video.mp4</video>
+    <marquee>./02 - SNK - 拳皇/images/kof98ka-marquee.png</marquee>
+    <thumbnail>./02 - SNK - 拳皇/images/kof98ka-thumb.png</thumbnail>
+    <rating>0.9</rating>
+    <releasedate>19980101T000000</releasedate>
+    <developer>SNK</developer>
+    <publisher>SNK</publisher>
+    <genre>Fighting / Versus</genre>
+    <family>The King of Fighters</family>
+    <arcadesystemname>neogeo</arcadesystemname>
+    <players>1-2</players>
+    <md5>17c4494c3f1d494a522a5825328c7238</md5>
+    <lang>en</lang>
+    <region>us</region>
+    <scrap name="ScreenScraper" date="20240725T091548"/>
   </game>
-  <game>
+  <game id="367680">
     <path>./02 - SNK - 拳皇/kof98umh.zip</path>
     <name>拳皇 '98 - 终极之战 英雄 (中国版, V100, 09-08-23)</name>
+    <desc>《拳皇98》的翻拍版。翻拍重组了各种错误，故障，平衡了角色，增加了新的背景和音乐，同时增加了KOFs 95到97中缺失的角色：英治，小霞，鹅，大先生，克劳泽，戈尼茨，暴动八神庵，暴动利昂娜和蛇少女。游戏还增加了一个终极模式，允许将高级和额外模式的各种选项混合到一种风格中。</desc>
+    <image>./02 - SNK - 拳皇/images/kof98umh-image.png</image>
+    <video>./02 - SNK - 拳皇/videos/kof98umh-video.mp4</video>
+    <marquee>./02 - SNK - 拳皇/images/kof98umh-marquee.png</marquee>
+    <thumbnail>./02 - SNK - 拳皇/images/kof98umh-thumb.png</thumbnail>
+    <rating>0.9</rating>
+    <releasedate>20090101T000000</releasedate>
+    <developer>SNK Playmore</developer>
+    <publisher>IGS</publisher>
+    <genre>Fighting / Versus</genre>
+    <family>The King of Fighters</family>
+    <players>1-2</players>
+    <lang>en</lang>
+    <region>us</region>
+    <scrap name="ScreenScraper" date="20240725T091554"/>
   </game>
-  <game>
+  <game id="37596">
     <path>./02 - SNK - 拳皇/kof99.zip</path>
     <name>拳皇 '99 - 千年之战 (NGM-2510)</name>
+    <desc>一个新的英雄和令人惊讶的情节转折提供了白热化的兴奋！这是KOF的季节！传奇的新篇章开始了！KOF 99的故事围绕着新英雄K（K Prime），以及一个彻底改革的游戏系统，让4人团队相互竞争，肯定会提高兴奋程度。新的战斗从这里开始！&#xD;&#xD;
+&#xD;&#xD;
+随着K’，六个新角色和两个Kyo Kusanagi克隆体作为编辑模式角色出现。这意味着玩家可以从总共30个角色中选择他们最喜欢的！&#xD;&#xD;
+&#xD;&#xD;
+四人组一人进行可怕的战斗&#xD;&#xD;
+3对3已经过时了。从现在开始，四对四，巴斯特。每队由三名选手组成，还有前锋（擅长标签队攻击，为战斗策略带来新的可能性）。同时按下B和C按钮，可以在战斗中随时召唤前锋（单场比赛最多五次），但不要发疯！在正确的时间使用前锋是胜利的关键！&#xD;&#xD;
+&#xD;&#xD;
+增加功率表能量&#xD;&#xD;
+将功率计能量增加到某一点以上可以让玩家储存多达三个独立的功率计。当仪表储备足够时，使用它们来激活超级特殊招式和令人敬畏的专长，如守卫取消紧急闪避和守卫取消吹走攻击。&#xD;&#xD;
+&#xD;&#xD;
+选择上电模式&#xD;&#xD;
+一次最多使用三个功率表进入定时加电模式！通过输入特殊按钮命令有两种加电模式可供选择：计数器模式（按A+B+C随时使用超级特殊招式；也可以链接普通特殊招式进行超级取消攻击）或护甲模式（按B+C+D大幅增加你的防御力；在此模式下不能使用超级特殊招式）。</desc>
+    <image>./02 - SNK - 拳皇/images/kof99-image.png</image>
+    <video>./02 - SNK - 拳皇/videos/kof99-video.mp4</video>
+    <marquee>./02 - SNK - 拳皇/images/kof99-marquee.png</marquee>
+    <thumbnail>./02 - SNK - 拳皇/images/kof99-thumb.png</thumbnail>
+    <rating>0.9</rating>
+    <releasedate>19990101T000000</releasedate>
+    <developer>SNK</developer>
+    <publisher>SNK</publisher>
+    <genre>Fighting / Versus</genre>
+    <family>The King of Fighters</family>
+    <arcadesystemname>neogeo</arcadesystemname>
+    <players>1-2</players>
+    <md5>1ca0c402bb83882f988f048f5e5a2206</md5>
+    <lang>en</lang>
+    <region>us</region>
+    <scrap name="ScreenScraper" date="20240725T091600"/>
   </game>
-  <game>
+  <game id="37596">
     <path>./02 - SNK - 拳皇/kof99e.zip</path>
     <name>拳皇 '99 - 千年之战 (早期版本)</name>
+    <desc>一个新的英雄和令人惊讶的情节转折提供了白热化的兴奋！这是KOF的季节！传奇的新篇章开始了！KOF 99的故事围绕着新英雄K（K Prime），以及一个彻底改革的游戏系统，让4人团队相互竞争，肯定会提高兴奋程度。新的战斗从这里开始！&#xD;&#xD;
+&#xD;&#xD;
+随着K’，六个新角色和两个Kyo Kusanagi克隆体作为编辑模式角色出现。这意味着玩家可以从总共30个角色中选择他们最喜欢的！&#xD;&#xD;
+&#xD;&#xD;
+四人组一人进行可怕的战斗&#xD;&#xD;
+3对3已经过时了。从现在开始，四对四，巴斯特。每队由三名选手组成，还有前锋（擅长标签队攻击，为战斗策略带来新的可能性）。同时按下B和C按钮，可以在战斗中随时召唤前锋（单场比赛最多五次），但不要发疯！在正确的时间使用前锋是胜利的关键！&#xD;&#xD;
+&#xD;&#xD;
+增加功率表能量&#xD;&#xD;
+将功率计能量增加到某一点以上可以让玩家储存多达三个独立的功率计。当仪表储备足够时，使用它们来激活超级特殊招式和令人敬畏的专长，如守卫取消紧急闪避和守卫取消吹走攻击。&#xD;&#xD;
+&#xD;&#xD;
+选择上电模式&#xD;&#xD;
+一次最多使用三个功率表进入定时加电模式！通过输入特殊按钮命令有两种加电模式可供选择：计数器模式（按A+B+C随时使用超级特殊招式；也可以链接普通特殊招式进行超级取消攻击）或护甲模式（按B+C+D大幅增加你的防御力；在此模式下不能使用超级特殊招式）。</desc>
+    <image>./02 - SNK - 拳皇/images/kof99e-image.png</image>
+    <video>./02 - SNK - 拳皇/videos/kof99e-video.mp4</video>
+    <marquee>./02 - SNK - 拳皇/images/kof99e-marquee.png</marquee>
+    <thumbnail>./02 - SNK - 拳皇/images/kof99e-thumb.png</thumbnail>
+    <rating>0.9</rating>
+    <releasedate>19990101T000000</releasedate>
+    <developer>SNK</developer>
+    <publisher>SNK</publisher>
+    <genre>Fighting / Versus</genre>
+    <family>The King of Fighters</family>
+    <arcadesystemname>neogeo</arcadesystemname>
+    <players>1-2</players>
+    <md5>c305cf3dd5a269e5f6f9e07ef1834e87</md5>
+    <lang>en</lang>
+    <region>us</region>
+    <scrap name="ScreenScraper" date="20240725T091607"/>
   </game>
-  <game>
+  <game id="37596">
     <path>./02 - SNK - 拳皇/kof99h.zip</path>
     <name>拳皇 '99 - 千年之战 (NGH-2510)</name>
+    <desc>一个新的英雄和令人惊讶的情节转折提供了白热化的兴奋！这是KOF的季节！传奇的新篇章开始了！KOF 99的故事围绕着新英雄K（K Prime），以及一个彻底改革的游戏系统，让4人团队相互竞争，肯定会提高兴奋程度。新的战斗从这里开始！&#xD;&#xD;
+&#xD;&#xD;
+随着K’，六个新角色和两个Kyo Kusanagi克隆体作为编辑模式角色出现。这意味着玩家可以从总共30个角色中选择他们最喜欢的！&#xD;&#xD;
+&#xD;&#xD;
+四人组一人进行可怕的战斗&#xD;&#xD;
+3对3已经过时了。从现在开始，四对四，巴斯特。每队由三名选手组成，还有前锋（擅长标签队攻击，为战斗策略带来新的可能性）。同时按下B和C按钮，可以在战斗中随时召唤前锋（单场比赛最多五次），但不要发疯！在正确的时间使用前锋是胜利的关键！&#xD;&#xD;
+&#xD;&#xD;
+增加功率表能量&#xD;&#xD;
+将功率计能量增加到某一点以上可以让玩家储存多达三个独立的功率计。当仪表储备足够时，使用它们来激活超级特殊招式和令人敬畏的专长，如守卫取消紧急闪避和守卫取消吹走攻击。&#xD;&#xD;
+&#xD;&#xD;
+选择上电模式&#xD;&#xD;
+一次最多使用三个功率表进入定时加电模式！通过输入特殊按钮命令有两种加电模式可供选择：计数器模式（按A+B+C随时使用超级特殊招式；也可以链接普通特殊招式进行超级取消攻击）或护甲模式（按B+C+D大幅增加你的防御力；在此模式下不能使用超级特殊招式）。</desc>
+    <image>./02 - SNK - 拳皇/images/kof99h-image.png</image>
+    <video>./02 - SNK - 拳皇/videos/kof99h-video.mp4</video>
+    <marquee>./02 - SNK - 拳皇/images/kof99h-marquee.png</marquee>
+    <thumbnail>./02 - SNK - 拳皇/images/kof99h-thumb.png</thumbnail>
+    <rating>0.9</rating>
+    <releasedate>19990101T000000</releasedate>
+    <developer>SNK</developer>
+    <publisher>SNK</publisher>
+    <genre>Fighting / Versus</genre>
+    <family>The King of Fighters</family>
+    <arcadesystemname>neogeo</arcadesystemname>
+    <players>1-2</players>
+    <md5>560e219f30909722fb9ce4f45ea48af9</md5>
+    <lang>en</lang>
+    <region>us</region>
+    <scrap name="ScreenScraper" date="20240725T091613"/>
   </game>
-  <game>
+  <game id="37596">
     <path>./02 - SNK - 拳皇/kof99k.zip</path>
     <name>拳皇 '99 - 千年之战 (韩国版)</name>
+    <desc>一个新的英雄和令人惊讶的情节转折提供了白热化的兴奋！这是KOF的季节！传奇的新篇章开始了！KOF 99的故事围绕着新英雄K（K Prime），以及一个彻底改革的游戏系统，让4人团队相互竞争，肯定会提高兴奋程度。新的战斗从这里开始！&#xD;&#xD;
+&#xD;&#xD;
+随着K’，六个新角色和两个Kyo Kusanagi克隆体作为编辑模式角色出现。这意味着玩家可以从总共30个角色中选择他们最喜欢的！&#xD;&#xD;
+&#xD;&#xD;
+四人组一人进行可怕的战斗&#xD;&#xD;
+3对3已经过时了。从现在开始，四对四，巴斯特。每队由三名选手组成，还有前锋（擅长标签队攻击，为战斗策略带来新的可能性）。同时按下B和C按钮，可以在战斗中随时召唤前锋（单场比赛最多五次），但不要发疯！在正确的时间使用前锋是胜利的关键！&#xD;&#xD;
+&#xD;&#xD;
+增加功率表能量&#xD;&#xD;
+将功率计能量增加到某一点以上可以让玩家储存多达三个独立的功率计。当仪表储备足够时，使用它们来激活超级特殊招式和令人敬畏的专长，如守卫取消紧急闪避和守卫取消吹走攻击。&#xD;&#xD;
+&#xD;&#xD;
+选择上电模式&#xD;&#xD;
+一次最多使用三个功率表进入定时加电模式！通过输入特殊按钮命令有两种加电模式可供选择：计数器模式（按A+B+C随时使用超级特殊招式；也可以链接普通特殊招式进行超级取消攻击）或护甲模式（按B+C+D大幅增加你的防御力；在此模式下不能使用超级特殊招式）。</desc>
+    <image>./02 - SNK - 拳皇/images/kof99k-image.png</image>
+    <video>./02 - SNK - 拳皇/videos/kof99k-video.mp4</video>
+    <marquee>./02 - SNK - 拳皇/images/kof99k-marquee.png</marquee>
+    <thumbnail>./02 - SNK - 拳皇/images/kof99k-thumb.png</thumbnail>
+    <rating>0.9</rating>
+    <releasedate>19990101T000000</releasedate>
+    <developer>SNK</developer>
+    <publisher>SNK</publisher>
+    <genre>Fighting / Versus</genre>
+    <family>The King of Fighters</family>
+    <arcadesystemname>neogeo</arcadesystemname>
+    <players>1-2</players>
+    <md5>674542573e2f5553b284af2d73114a0f</md5>
+    <lang>en</lang>
+    <region>us</region>
+    <scrap name="ScreenScraper" date="20240725T091619"/>
   </game>
-  <game>
+  <game id="37596">
     <path>./02 - SNK - 拳皇/kof99ka.zip</path>
     <name>拳皇 '99 - 千年之战 (韩国版, 程序未加密)</name>
+    <desc>一个新的英雄和令人惊讶的情节转折提供了白热化的兴奋！这是KOF的季节！传奇的新篇章开始了！KOF 99的故事围绕着新英雄K（K Prime），以及一个彻底改革的游戏系统，让4人团队相互竞争，肯定会提高兴奋程度。新的战斗从这里开始！&#xD;&#xD;
+&#xD;&#xD;
+随着K’，六个新角色和两个Kyo Kusanagi克隆体作为编辑模式角色出现。这意味着玩家可以从总共30个角色中选择他们最喜欢的！&#xD;&#xD;
+&#xD;&#xD;
+四人组一人进行可怕的战斗&#xD;&#xD;
+3对3已经过时了。从现在开始，四对四，巴斯特。每队由三名选手组成，还有前锋（擅长标签队攻击，为战斗策略带来新的可能性）。同时按下B和C按钮，可以在战斗中随时召唤前锋（单场比赛最多五次），但不要发疯！在正确的时间使用前锋是胜利的关键！&#xD;&#xD;
+&#xD;&#xD;
+增加功率表能量&#xD;&#xD;
+将功率计能量增加到某一点以上可以让玩家储存多达三个独立的功率计。当仪表储备足够时，使用它们来激活超级特殊招式和令人敬畏的专长，如守卫取消紧急闪避和守卫取消吹走攻击。&#xD;&#xD;
+&#xD;&#xD;
+选择上电模式&#xD;&#xD;
+一次最多使用三个功率表进入定时加电模式！通过输入特殊按钮命令有两种加电模式可供选择：计数器模式（按A+B+C随时使用超级特殊招式；也可以链接普通特殊招式进行超级取消攻击）或护甲模式（按B+C+D大幅增加你的防御力；在此模式下不能使用超级特殊招式）。</desc>
+    <image>./02 - SNK - 拳皇/images/kof99ka-image.png</image>
+    <video>./02 - SNK - 拳皇/videos/kof99ka-video.mp4</video>
+    <marquee>./02 - SNK - 拳皇/images/kof99ka-marquee.png</marquee>
+    <thumbnail>./02 - SNK - 拳皇/images/kof99ka-thumb.png</thumbnail>
+    <rating>0.9</rating>
+    <releasedate>19990101T000000</releasedate>
+    <developer>SNK</developer>
+    <publisher>SNK</publisher>
+    <genre>Fighting / Versus</genre>
+    <family>The King of Fighters</family>
+    <arcadesystemname>neogeo</arcadesystemname>
+    <players>1-2</players>
+    <md5>f7b3716b766a7670f85035d33eb7f6e4</md5>
+    <lang>en</lang>
+    <region>us</region>
+    <scrap name="ScreenScraper" date="20240725T091625"/>
   </game>
-  <game>
+  <game id="37596">
     <path>./02 - SNK - 拳皇/kof99p.zip</path>
     <name>拳皇 '99 - 千年之战 (工程版)</name>
+    <desc>一个新的英雄和令人惊讶的情节转折提供了白热化的兴奋！这是KOF的季节！传奇的新篇章开始了！KOF 99的故事围绕着新英雄K（K Prime），以及一个彻底改革的游戏系统，让4人团队相互竞争，肯定会提高兴奋程度。新的战斗从这里开始！&#xD;&#xD;
+&#xD;&#xD;
+随着K’，六个新角色和两个Kyo Kusanagi克隆体作为编辑模式角色出现。这意味着玩家可以从总共30个角色中选择他们最喜欢的！&#xD;&#xD;
+&#xD;&#xD;
+四人组一人进行可怕的战斗&#xD;&#xD;
+3对3已经过时了。从现在开始，四对四，巴斯特。每队由三名选手组成，还有前锋（擅长标签队攻击，为战斗策略带来新的可能性）。同时按下B和C按钮，可以在战斗中随时召唤前锋（单场比赛最多五次），但不要发疯！在正确的时间使用前锋是胜利的关键！&#xD;&#xD;
+&#xD;&#xD;
+增加功率表能量&#xD;&#xD;
+将功率计能量增加到某一点以上可以让玩家储存多达三个独立的功率计。当仪表储备足够时，使用它们来激活超级特殊招式和令人敬畏的专长，如守卫取消紧急闪避和守卫取消吹走攻击。&#xD;&#xD;
+&#xD;&#xD;
+选择上电模式&#xD;&#xD;
+一次最多使用三个功率表进入定时加电模式！通过输入特殊按钮命令有两种加电模式可供选择：计数器模式（按A+B+C随时使用超级特殊招式；也可以链接普通特殊招式进行超级取消攻击）或护甲模式（按B+C+D大幅增加你的防御力；在此模式下不能使用超级特殊招式）。</desc>
+    <image>./02 - SNK - 拳皇/images/kof99p-image.png</image>
+    <video>./02 - SNK - 拳皇/videos/kof99p-video.mp4</video>
+    <marquee>./02 - SNK - 拳皇/images/kof99p-marquee.png</marquee>
+    <thumbnail>./02 - SNK - 拳皇/images/kof99p-thumb.png</thumbnail>
+    <rating>0.9</rating>
+    <releasedate>19990101T000000</releasedate>
+    <developer>SNK</developer>
+    <publisher>SNK</publisher>
+    <genre>Fighting / Versus</genre>
+    <family>The King of Fighters</family>
+    <arcadesystemname>neogeo</arcadesystemname>
+    <players>1-2</players>
+    <md5>76548478f2d74c2756cfd8a20e301ca2</md5>
+    <lang>en</lang>
+    <region>us</region>
+    <scrap name="ScreenScraper" date="20240725T091632"/>
   </game>
-  <game>
-    <path>./02 - SNK - 拳皇/kofnw.zip</path>
-    <name>拳皇 - 新浪</name>
-  </game>
-  <game>
-    <path>./02 - SNK - 拳皇/kofnwj.zip</path>
-    <name>拳皇 - 新浪 (日版)</name>
-  </game>
-  <game>
+  <game id="37438">
     <path>./02 - SNK - 拳皇/kofxi.zip</path>
     <name>拳皇 XI</name>
+    <desc>继2003年拳皇之后KOF系列的第十一场比赛。世嘉表示：“10多年来，拳皇系列一直是全世界游戏玩家的选择。第11战队延续了这一传统。KOF11适合一到两个玩家，连续买入。从33个战士中选择，包括4个新角色。增加了第五个控制按钮，如果在正确的时间击中，可以给你的对手毁灭性的一击来提高你的技能。一个新的技能计量器执行各种标记移动和新的攻击。玩家还可以通过选择三名战斗人员来定制构建一个三人战斗队。</desc>
+    <image>./02 - SNK - 拳皇/images/kofxi-image.png</image>
+    <video>./02 - SNK - 拳皇/videos/kofxi-video.mp4</video>
+    <marquee>./02 - SNK - 拳皇/images/kofxi-marquee.png</marquee>
+    <thumbnail>./02 - SNK - 拳皇/images/kofxi-thumb.png</thumbnail>
+    <rating>0.85</rating>
+    <releasedate>20050101T000000</releasedate>
+    <developer>SNK Playmore</developer>
+    <publisher>SEGA</publisher>
+    <genre>Fighting / Versus</genre>
+    <family>The King of Fighters</family>
+    <arcadesystemname>atomiswave</arcadesystemname>
+    <players>1-2</players>
+    <lang>en</lang>
+    <region>us</region>
+    <scrap name="ScreenScraper" date="20240725T091638"/>
   </game>
-  <game>
+  <game id="37594">
     <path>./02 - SNK - 拳皇/kog.zip</path>
     <name>格斗之王 (拳皇 '97 盗版)</name>
+    <desc>又是一年，又是一个KOF。今年的新增功能包括略微改进的图形和声音、新的动作和新的游戏模式。游戏更加受情节驱动，因为你有中层老板，他们可以根据你选择的团队而改变。此外，还有几个特殊的结尾，只有在选择了某些“编辑团队”组合时才会显示。新角色包括新面孔团队，致命狂怒亡命之徒团队（以“蓝色”玛丽·瑞安和山崎龙二的KOF处女作以及比利·凯恩的回归为特色），以及京的学生矢吹信吾。总共，拳皇97运动29个独立的角色。</desc>
+    <image>./02 - SNK - 拳皇/images/kog-image.png</image>
+    <video>./02 - SNK - 拳皇/videos/kog-video.mp4</video>
+    <marquee>./02 - SNK - 拳皇/images/kog-marquee.png</marquee>
+    <thumbnail>./02 - SNK - 拳皇/images/kog-thumb.png</thumbnail>
+    <rating>0.85</rating>
+    <releasedate>19970101T000000</releasedate>
+    <developer>SNK</developer>
+    <publisher>SNK</publisher>
+    <genre>Fighting / Versus</genre>
+    <family>The King of Fighters</family>
+    <arcadesystemname>neogeo</arcadesystemname>
+    <players>1-2</players>
+    <md5>e76331f2701d2c9b9d67f1258b364421</md5>
+    <lang>en</lang>
+    <region>us</region>
+    <scrap name="ScreenScraper" date="20240725T091648"/>
   </game>
-  <game>
+  <game id="13853">
     <path>./02 - SNK - 拳皇/svcboot.zip</path>
     <name>拳皇 对 街霸 - SVC 混沌 (盗版)</name>
+    <desc>SVC混沌：近地天体地理上的SNK大战卡普空是一款格斗游戏，以两个著名系列《街头霸王》和《拳皇》的勇士为特色。该游戏提供了一个街机模式，在那里你可以跟随他的英雄的故事，以及对抗、挑战和生存模式。</desc>
+    <image>./02 - SNK - 拳皇/images/svcboot-image.png</image>
+    <video>./02 - SNK - 拳皇/videos/svcboot-video.mp4</video>
+    <marquee>./02 - SNK - 拳皇/images/svcboot-marquee.png</marquee>
+    <thumbnail>./02 - SNK - 拳皇/images/svcboot-thumb.png</thumbnail>
+    <rating>0.9</rating>
+    <releasedate>20030701T000000</releasedate>
+    <developer>SNK Playmore</developer>
+    <publisher>SNK Playmore</publisher>
+    <genre>Fighting / Versus</genre>
+    <family>SNK Vs. Capcom</family>
+    <arcadesystemname>neogeo</arcadesystemname>
+    <players>1-2</players>
+    <md5>8a2fad33455927a1d855da8bb7b61e3d</md5>
+    <lang>en</lang>
+    <region>us</region>
+    <scrap name="ScreenScraper" date="20240725T091655"/>
   </game>
-  <game>
+  <game id="13853">
     <path>./02 - SNK - 拳皇/svcplus.zip</path>
     <name>拳皇 对 街霸 - SVC 混沌 Plus (盗版, 第1套)</name>
+    <desc>SVC混沌：近地天体地理上的SNK大战卡普空是一款格斗游戏，以两个著名系列《街头霸王》和《拳皇》的勇士为特色。该游戏提供了一个街机模式，在那里你可以跟随他的英雄的故事，以及对抗、挑战和生存模式。</desc>
+    <image>./02 - SNK - 拳皇/images/svcplus-image.png</image>
+    <video>./02 - SNK - 拳皇/videos/svcplus-video.mp4</video>
+    <marquee>./02 - SNK - 拳皇/images/svcplus-marquee.png</marquee>
+    <thumbnail>./02 - SNK - 拳皇/images/svcplus-thumb.png</thumbnail>
+    <rating>0.9</rating>
+    <releasedate>20030701T000000</releasedate>
+    <developer>SNK Playmore</developer>
+    <publisher>SNK Playmore</publisher>
+    <genre>Fighting / Versus</genre>
+    <family>SNK Vs. Capcom</family>
+    <arcadesystemname>neogeo</arcadesystemname>
+    <players>1-2</players>
+    <md5>c929309ce5a9ac9e2231f6a6002d5213</md5>
+    <lang>en</lang>
+    <region>us</region>
+    <scrap name="ScreenScraper" date="20240725T091702"/>
   </game>
-  <game>
+  <game id="13853">
     <path>./02 - SNK - 拳皇/svcplusa.zip</path>
     <name>拳皇 对 街霸 - SVC 混沌 Plus (盗版, 第2套)</name>
+    <desc>SVC混沌：近地天体地理上的SNK大战卡普空是一款格斗游戏，以两个著名系列《街头霸王》和《拳皇》的勇士为特色。该游戏提供了一个街机模式，在那里你可以跟随他的英雄的故事，以及对抗、挑战和生存模式。</desc>
+    <image>./02 - SNK - 拳皇/images/svcplusa-image.png</image>
+    <video>./02 - SNK - 拳皇/videos/svcplusa-video.mp4</video>
+    <marquee>./02 - SNK - 拳皇/images/svcplusa-marquee.png</marquee>
+    <thumbnail>./02 - SNK - 拳皇/images/svcplusa-thumb.png</thumbnail>
+    <rating>0.9</rating>
+    <releasedate>20030701T000000</releasedate>
+    <developer>SNK Playmore</developer>
+    <publisher>SNK Playmore</publisher>
+    <genre>Fighting / Versus</genre>
+    <family>SNK Vs. Capcom</family>
+    <arcadesystemname>neogeo</arcadesystemname>
+    <players>1-2</players>
+    <md5>fef804465c857fac77fdcea3fef576ca</md5>
+    <lang>en</lang>
+    <region>us</region>
+    <scrap name="ScreenScraper" date="20240725T091707"/>
   </game>
-  <game>
+  <game id="13853">
     <path>./02 - SNK - 拳皇/svcsplus.zip</path>
     <name>拳皇 对 街霸 - SVC 混沌 Super Plus (盗版)</name>
+    <desc>SVC混沌：近地天体地理上的SNK大战卡普空是一款格斗游戏，以两个著名系列《街头霸王》和《拳皇》的勇士为特色。该游戏提供了一个街机模式，在那里你可以跟随他的英雄的故事，以及对抗、挑战和生存模式。</desc>
+    <image>./02 - SNK - 拳皇/images/svcsplus-image.png</image>
+    <video>./02 - SNK - 拳皇/videos/svcsplus-video.mp4</video>
+    <marquee>./02 - SNK - 拳皇/images/svcsplus-marquee.png</marquee>
+    <thumbnail>./02 - SNK - 拳皇/images/svcsplus-thumb.png</thumbnail>
+    <rating>0.9</rating>
+    <releasedate>20030701T000000</releasedate>
+    <developer>SNK Playmore</developer>
+    <publisher>SNK Playmore</publisher>
+    <genre>Fighting / Versus</genre>
+    <family>SNK Vs. Capcom</family>
+    <arcadesystemname>neogeo</arcadesystemname>
+    <players>1-2</players>
+    <md5>38eacde1adc1cd2ae1c95ed14da6ba8c</md5>
+    <lang>en</lang>
+    <region>us</region>
+    <scrap name="ScreenScraper" date="20240725T091715"/>
   </game>
 </gameList>
