@@ -408,7 +408,13 @@ const generateGamelist = async () => {
   
   const builder = new xml2js.Builder();
   const xml = builder.buildObject(xmlJson);
-  await fs.writeFileSync(path.join(gameDirAbsPath, './gamelist.xml'), xml, 'utf8');
+
+  const gamelistPath = path.join(gameDirAbsPath, './gamelist.xml');
+  fs.writeFileSync(gamelistPath, xml, 'utf8');
+
+  // 生成的 xml /> 前面没有空格。加上
+  const xmlFileData = fs.readFileSync(gamelistPath, 'utf-8');
+  fs.writeFileSync(gamelistPath, xmlFileData.replace(/\/>/g, ' />'), 'utf8');
 }
 
 
